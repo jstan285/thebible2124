@@ -400,3 +400,23 @@ main ul li::marker {
 .site-title:focus {
   text-decoration: underline; /* optional: subtle hover cue */
 }
+
+/* Mobile: show tiles in 2 columns, let each fill its track */
+@media (max-width: 768px) {
+  .tile-container {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: .75rem; /* a touch more breathing room */
+  }
+  .tile {
+    width: 100%;           /* let grid track control width */
+    height: 170px;         /* optional: slightly shorter on mobile */
+    padding: 0 .75rem .6rem .6rem;
+  }
+}
+
+/* Ultra-narrow phones: fall back to 1 column */
+@media (max-width: 380px) {
+  .tile-container {
+    grid-template-columns: 1fr;
+  }
+}

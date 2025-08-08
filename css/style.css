@@ -420,16 +420,38 @@ main ul li::marker {
     grid-template-columns: 1fr;
   }
 }
+/* Mobile: 2 columns, consistent tile size, safe text wrapping */
 @media (max-width: 768px) {
   .tile-container {
-    grid-template-columns: repeat(2, 1fr); /* exactly 2 per row */
-    justify-items: center;                 /* center tiles horizontally */
+    grid-template-columns: repeat(2, minmax(160px, 1fr));
+    gap: .75rem;
+    justify-items: center; /* center tiles in their tracks */
   }
 
+  /* keep a consistent visual size via aspect-ratio instead of fixed width/height */
   .tile {
-    width: 90%;  /* let tiles scale within column */
-    height: auto; /* optional: adjust if you want dynamic height */
+    width: 100%;
+    max-width: 220px;            /* prevents shrinking too small */
+    aspect-ratio: 138 / 180;     /* same proportions as before */
+    height: auto;
+    padding: 0 .6rem .7rem .6rem;
+
+    display: flex;
+    align-items: flex-end;       /* text sits near bottom of icon */
+    justify-content: center;
+    text-align: center;
+
+    font-size: .95rem;           /* slightly smaller on mobile */
+    line-height: 1.2;
+    overflow-wrap: anywhere;     /* wrap long words */
+    hyphens: auto;               /* allow hyphenation */
     background-size: contain;
-    text-align: center; /* center text under icon if desired */
+    background-position: center;
   }
 }
+
+/* Ultra-narrow phones: single column */
+@media (max-width: 380px) {
+  .tile-container { grid-template-columns: 1fr; }
+}
+

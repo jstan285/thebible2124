@@ -1,4 +1,44 @@
-<header>
-  <div class="logo"><a href="/">{{ site.title }}</a></div>
-  {% include "nav.njk" %}
+<header class="site-header">
+  <a class="site-title" href="/">The Bible 2124</a>
+
+  <!-- Mobile menu button (hidden on desktop via CSS) -->
+  <button class="nav-toggle" aria-controls="site-nav" aria-expanded="false">
+    <span class="sr-only">Menu</span>
+    <svg width="28" height="28" viewBox="0 0 24 24" aria-hidden="true">
+      <path d="M3 6h18M3 12h18M3 18h18"
+            stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round"/>
+    </svg>
+  </button>
+
+  <!-- Your existing nav lives here -->
+  <nav id="site-nav" class="site-nav" data-collapsible>
+    {% include "nav.njk" %}
+  </nav>
 </header>
+
+<script>
+  // tiny, dependency-free toggle
+  (function () {
+    const btn = document.querySelector('.nav-toggle');
+    const nav = document.getElementById('site-nav');
+    if (!btn || !nav) return;
+
+    function closeMenu() {
+      btn.setAttribute('aria-expanded', 'false');
+      nav.classList.remove('is-open');
+    }
+    function toggleMenu() {
+      const open = btn.getAttribute('aria-expanded') === 'true';
+      btn.setAttribute('aria-expanded', String(!open));
+      nav.classList.toggle('is-open', !open);
+    }
+
+    btn.addEventListener('click', toggleMenu);
+    nav.addEventListener('click', (e) => {
+      if (e.target.closest('a')) closeMenu();
+    });
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') closeMenu();
+    });
+  })();
+</script>

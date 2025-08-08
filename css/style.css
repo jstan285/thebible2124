@@ -421,6 +421,7 @@ main ul li::marker {
   }
 }
 /* Mobile: 2 columns, consistent tile size, safe text wrapping */
+/* Mobile: 2 columns, consistent tile size, safe text wrapping */
 @media (max-width: 768px) {
   .tile-container {
     grid-template-columns: repeat(2, minmax(160px, 1fr));
@@ -437,8 +438,9 @@ main ul li::marker {
     padding: 0 .6rem .7rem .6rem;
 
     display: flex;
-    align-items: flex-end;       /* text sits near bottom of icon */
-    justify-content: center;
+    flex-direction: column;      /* stack icon and text */
+    align-items: center;         /* center horizontally */
+    justify-content: center;     /* center vertically */
     text-align: center;
 
     font-size: .95rem;           /* slightly smaller on mobile */
@@ -448,10 +450,15 @@ main ul li::marker {
     background-size: contain;
     background-position: center;
   }
+
+  /* specifically nudge the text up inside the tile */
+  .tile span {
+    transform: translateY(-10%); /* lift text upward */
+    max-width: 90%;              /* keep it from hitting edges */
+  }
 }
 
 /* Ultra-narrow phones: single column */
 @media (max-width: 380px) {
   .tile-container { grid-template-columns: 1fr; }
 }
-

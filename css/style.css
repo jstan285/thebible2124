@@ -387,3 +387,16 @@ main ul li::marker {
   .site-nav a:hover,
   .site-nav a:focus { background: #1a1a1a; }
 }
+
+/* Style the site title link to look like styled text */
+.site-title {
+  font-weight: bold;          /* restore bold */
+  font-size: 1.5rem;          /* match your original size */
+  text-decoration: none;      /* remove underline */
+  color: inherit;             /* use header text color */
+}
+
+.site-title:hover,
+.site-title:focus {
+  text-decoration: underline; /* optional: subtle hover cue */
+}

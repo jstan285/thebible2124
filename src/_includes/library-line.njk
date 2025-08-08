@@ -1,0 +1,12 @@
+---
+layout: layout.njk
+---
+
+<h1>{{ line.displayTitle }}</h1>
+
+<div class="line-content">
+  {{ line.htmlFormatted | safe }}
+</div>
+
+
+<a href="/library/{{ line.book }}/{{ line.chapter }}/" class="back-button">← Back to Chapter {{ line.chapter }}</a>

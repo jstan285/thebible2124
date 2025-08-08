@@ -1,0 +1,26 @@
+---
+pagination:
+  data: collections.chapters
+  size: 1
+  alias: chapterData
+permalink: "/library/{{ chapterData.book }}/{{ chapterData.chapter }}/index.html"
+layout: layout.njk
+---
+
+<h1>{{ chapterData.book | capitalize }} - Chapter {{ chapterData.chapter }}</h1>
+
+<div class="tile-container">
+  {% for line in collections.lines %}
+    {% if line.book == chapterData.book and line.chapter == chapterData.chapter %}
+      <a class="tile" href="/library/{{ line.book }}/{{ line.chapter }}/{{ line.filename | replace('.txt', '') }}/">
+  {% if line.filename.endsWith("-translation.txt") %}
+    {{ line.book | capitalize }} {{ line.chapter | replace("^0", "") }} – Translation
+  {% else %}
+    {{ line.book | capitalize }} {{ line.chapter | replace("^0", "") }} – Line {{ line.filename.slice(5, 10) }}
+  {% endif %}
+</a>
+    {% endif %}
+  {% endfor %}
+</div>
+
+<a href="/library/{{ chapterData.book }}/" class="back-button">← Back to {{ chapterData.book | capitalize }}</a>

@@ -1,0 +1,22 @@
+---
+pagination:
+  data: collections.books
+  size: 1
+  alias: book
+permalink: "/library/{{ book }}/index.html"
+layout: layout.njk
+---
+
+<h1>{{ book | capitalize }}</h1>
+
+<div class="tile-container">
+  {% for chapter in collections.chapters %}
+    {% if chapter.book == book %}
+      <a class="tile" href="/library/{{ book }}/{{ chapter.chapter }}/">
+        Chapter {{ chapter.chapter }}
+      </a>
+    {% endif %}
+  {% endfor %}
+</div>
+
+<a href="/library/" class="back-button">← Back to Library</a>

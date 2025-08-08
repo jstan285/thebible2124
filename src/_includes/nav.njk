@@ -1,0 +1,10 @@
+<nav>
+  <ul>
+    <li><a href="/" {% if page.url == "/" %}class="active"{% endif %}>Home</a></li>
+    <li><a href="/manifesto/" {% if page.url == "/manifesto/" %}class="active"{% endif %}>Manifesto</a></li>
+    <li><a href="/library/" {% if page.url.indexOf('/library/') === 0 %}class="active"{% endif %}>Library</a></li>
+    <li><a href="/about/" {% if page.url == "/about/" %}class="active"{% endif %}>About Us</a></li>
+    <li><a href="/support/" {% if page.url == "/support/" %}class="active"{% endif %}>Support</a></li>
+    <li><a href="/contact/" {% if page.url == "/contact/" %}class="active"{% endif %}>Contact</a></li>
+  </ul>
+</nav>

@@ -1,0 +1,340 @@
+body {
+  margin: 0;
+  font-family: Georgia, serif;
+  background: #111;
+  color: #f1f1f1;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  text-align: center;
+}
+header {
+  display: flex;
+  align-items: center;
+  padding: 1rem;
+}
+.logo a {
+  color: #f1f1f1;
+  font-size: 1.5rem;
+  text-decoration: none;
+}
+nav {
+  margin-left: auto;
+}
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap: 1rem;
+}
+nav a {
+  color: #aaa;
+  text-decoration: none;
+  transition: color 0.3s ease, text-shadow 0.3s ease;
+}
+nav a:hover,
+nav a.active {
+  color: #ffffff;
+  text-shadow: 0 0 6px rgba(255,255,255,0.7),
+               0 0 12px rgba(255,255,255,0.5);
+}
+main {
+  max-width: 75ch;
+  margin: 0 auto;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+}
+.home-hero h1 {
+  font-size: 4rem;
+  margin: 0.5rem 0;
+}
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+}
+footer p {
+  margin: 0;
+}
+
+main ul {
+  list-style-position: outside;
+  padding-left: 1rem;
+  margin: 1rem auto;
+  text-align: left;
+}
+
+main ul li {
+  margin-bottom: 0.5rem;
+  line-height: 1.6;
+}
+
+main ul li::marker {
+  color: #f1f1f1;
+  font-size: 1.2em;
+}
+
+
+/* Button group styling on Support page */
+.btn-group {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 1rem 0;
+}
+
+.btn, .btn button {
+  display: inline-block;
+  padding: 0.75rem 1.5rem;
+  background: #0070ba;
+  color: #fff;
+  text-decoration: none;
+  border: none;
+  border-radius: 0.5rem;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background 0.3s ease;
+  text-align: center;
+}
+
+.btn:hover, .btn button:hover {
+  background: #005f99;
+}
+
+.btn-venmo {
+  background: #3d95ce;
+}
+
+.btn-venmo:hover {
+  background: #3079ad;
+}
+
+/* === OVERLAY FADE-IN / FADE-OUT === */
+.overlay-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: #000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+  animation: overlayFadeOut 2s ease-in 3s forwards;
+}
+
+.overlay-text p {
+  color: white;
+  font-size: 2rem;
+  text-align: center;
+  opacity: 0;
+  animation: textFadeIn 1.5s ease 0.5s forwards, 
+             textFadeOut 1s ease 2s forwards;
+}
+
+/* === FLOATING TITLE TRANSITION === */
+.title-transition {
+  position: fixed;
+  width: 100%;
+  height: 100vh;
+  top: 0;
+  left: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 900;
+  pointer-events: none;  
+  animation: moveTitleUp 2s ease 5s forwards, floatingTitleFadeOut 1.2s ease 7s forwards; /* Fades out at 7s (2s after move up) */;
+}
+
+#floating-title {
+  font-size: 3rem;
+  color: white;
+  margin: 0;
+  opacity: 0;
+  animation: titleFadeIn 1s ease 3.5s forwards;
+}
+
+/* === MAIN HOMEPAGE CONTENT FADE-IN === */
+.page-hidden {
+  opacity: 0;
+  animation: pageFadeIn 1s ease 7s forwards;
+}
+
+.home-hero {
+    text-align: center;
+}
+
+/* === KEYFRAMES === */
+@keyframes textFadeIn {
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes textFadeOut {
+  to {
+    opacity: 0;
+  }
+}
+
+@keyframes overlayFadeOut {
+  to {
+    opacity: 0;
+    visibility: hidden;
+    pointer-events: none;
+  }
+}
+
+@keyframes titleFadeIn {
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes moveTitleUp {
+  0% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY(-20vh); /* Adjust this value to fine-tune final resting height */
+  }
+}
+
+@keyframes floatingTitleFadeOut {
+  to {
+    opacity: 0;
+    visibility: hidden;
+    pointer-events: none;
+  }
+}
+
+@keyframes pageFadeIn {
+  to {
+    opacity: 1;
+  }
+}
+
+
+.tile-container {
+  width: 100%;
+  max-width: 1000px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: .5rem;
+  padding: 1rem 0;
+  }
+
+.tile {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  text-align: right;
+
+  width: 138px;         /* controls width of each tile */
+  height: 180px;        /* controls height of each tile */
+  padding: 0 1rem 0.75rem 0.7rem;     /* extra right padding for text */
+  
+  background-image: url("/img/book-final.svg");
+  background-repeat: no-repeat;
+  background-size: contain;     /* key change: no stretching */
+  background-position: center;
+  
+  color: #fff;
+  font-weight: bold;
+  font-size: 1.1rem;
+  border: none;
+  border-radius: 4px;
+  text-decoration: none;
+  box-sizing: border-box;
+}
+
+
+
+
+.tile:hover {
+  text-shadow: 0 0 5px rgba(255,255,255,0.4);
+}
+
+.back-button {
+  display: inline-block;
+  margin-bottom: 1rem;
+  color: #aaa;
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.3s ease;
+}
+
+.back-button:hover {
+  color: #fff;
+  text-shadow: 0 0 4px rgba(255,255,255,0.4);
+}
+
+.manifesto-button {
+  display: inline-block;
+  margin-top: 1rem;
+  color: #aaa;
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.3s ease;
+}
+
+.manifesto-button:hover {
+  color: #fff;
+  text-shadow: 0 0 4px rgba(255,255,255,0.4);
+}
+
+.line-content h2,
+.line-content h4 {
+  margin-top: 1.5rem;
+  color: #f9f9f9;
+}
+
+.line-content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0;
+  font-size: 0.95rem;
+}
+
+.line-content td, .line-content th {
+  border: 1px solid #555;
+  padding: 0.5rem;
+  text-align: left;
+  vertical-align: top;
+}
+
+.line-content ul {
+  margin: 1rem 0;
+  padding-left: 1.5rem;
+}
+
+.line-content p {
+  margin-bottom: 1rem;
+  line-height: 1.6;
+}
+
+.line-content p {
+  margin: 1rem 0;
+  line-height: 1.6;
+  text-align: left;
+}
+
+.btn-subtle {
+  background: #444;
+  color: #ccc;
+  border: 1px solid #444;
+}
+
+.btn-subtle:hover {
+  background: #333;
+  color: #fff;
+}

@@ -1,0 +1,29 @@
+---
+title: Library
+layout: layout.njk
+---
+
+<h1>Library</h1>
+
+<p>Welcome to the Library — the living heart of The Bible 2124.</p>
+
+<p>This is where the translation unfolds, one line at a time.</p>
+<p>Each chapter you see here is a doorway into something ancient made new — translated with care, traced with transparency, and offered openly for reflection, resonance, and return.</p>
+
+<p>The work you’ll find here is in motion. Translations appear gradually as they’re completed — shaped not by speed, but by reverence.</p>
+<p>Every word is sourced, documented, and built to be studied as deeply as it is read.</p>
+
+<p>You’re invited to explore freely.</p>
+<p>Wander.</p>
+<p>Wonder.</p>
+<p>Begin where you’re drawn.</p>
+<p>There is no right order — only your own unfolding path.</p>
+
+<p>Wherever you begin, may the words meet you in just the way you need — and draw you gently deeper into the mystery and love beneath them.</p>
+
+<h2>Available Books</h2>
+<div class="tile-container">
+  {% for book in collections.books %}
+    <a class="tile" href="/library/{{ book }}/">{{ book | capitalize }}</a>
+  {% endfor %}
+</div>

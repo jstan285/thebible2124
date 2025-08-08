@@ -420,3 +420,16 @@ main ul li::marker {
     grid-template-columns: 1fr;
   }
 }
+@media (max-width: 768px) {
+  .tile-container {
+    grid-template-columns: repeat(2, 1fr); /* exactly 2 per row */
+    justify-items: center;                 /* center tiles horizontally */
+  }
+
+  .tile {
+    width: 90%;  /* let tiles scale within column */
+    height: auto; /* optional: adjust if you want dynamic height */
+    background-size: contain;
+    text-align: center; /* center text under icon if desired */
+  }
+}

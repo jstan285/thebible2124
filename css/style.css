@@ -41,7 +41,6 @@ nav a.active {
 }
 main {
   width: 100%;
-  max-width: 1000px;
   margin: 0 auto;
   flex: 1;
   display: flex;

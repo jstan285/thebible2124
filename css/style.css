@@ -40,6 +40,7 @@ nav a.active {
                0 0 12px rgba(255,255,255,0.5);
 }
 main {
+  width: 100%;
   max-width: 1000px;
   margin: 0 auto;
   flex: 1;
@@ -47,7 +48,7 @@ main {
   flex-direction: column;
   justify-content: center;
   align-items: stretch;
-  padding: 2rem;
+  padding: 1rem;
 }
 .home-hero h1 {
   font-size: 4rem;

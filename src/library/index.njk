@@ -22,9 +22,9 @@ layout: layout.njk
 <p>Wherever you begin, may the words meet you in just the way you need — and draw you gently deeper into the mystery and love beneath them.</p>
 
 <h2>Coming soon...</h2>
-<h2>Available Books</h2>
+{#<h2>Available Books</h2>
 <div class="tile-container">
   {% for book in collections.books %}
     <a class="tile" href="/library/{{ book }}/">{{ book | capitalize }}</a>
   {% endfor %}
-</div>
+</div>#}

@@ -329,6 +329,7 @@ main ul li::marker {
 }
 
 .btn-subtle {
+  display: inline-block;
   background: #444;
   color: #ccc;
   border: 1px solid #444;

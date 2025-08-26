@@ -47,13 +47,13 @@ const formatLineText = (text) => {
     const raw = lines[i];
 
 // === File type ===  → centered heading
-let m;
-if ((m = raw.match(/^\s*===\s*(.+?)\s*===\s*$/))) {
+const mt = raw.match(/^\s*===\s*(.+?)\s*===\s*$/);
+if (mt) {
   closeAll();
-  out.push(`<h2 class="filetype-title">${esc(m[1])}</h2>`);
+  out.push(`<h2 class="filetype-title">${esc(mt[1])}</h2>`);
   continue;
 }
-   
+  
     // ignore blank lines (but keep pendingBullet state)
     if (isBlank(raw)) { continue; }
 

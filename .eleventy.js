@@ -130,6 +130,8 @@ const formatLineText = (text) => {
   return out.join("\n");
 };
 
+
+
 const formatTranslationText = (text) => {
   return text
     .split("\n")
@@ -150,6 +152,14 @@ const getDisplayTitle = (book, chapter, filename) => {
 module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("css");
   eleventyConfig.addPassthroughCopy("src/img");
+
+// Extracts "00001" from "Line_00001_Source.txt" (works with or without .basename)
+eleventyConfig.addFilter("lineId", (line) => {
+  const base = (line && (line.basename || line.filename)) || "";
+  const m = String(base).match(/^Line_(\d{5})/);
+  return m ? m[1] : "";
+});
+
 
   // Custom collection for books
   eleventyConfig.addCollection("books", () => {

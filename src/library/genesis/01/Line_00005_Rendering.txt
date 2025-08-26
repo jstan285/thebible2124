@@ -1,0 +1,48 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00005
+[BOOK]: Genesis
+[CHAPTER]: 1
+[VERSE]: 5
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And God called the light Day, and the darkness he called Night. And it was evening, and it was morning — one day.
+
+[RENDERING NOTES]
+
+“Called” reflects both וַיִּקְרָא (vayiqra) and קָרָא (qara), from the same root, meaning to name or proclaim.
+The objects “light” and “darkness” are each given new identities (“Day” and “Night”) through divine naming.
+“And it was evening, and it was morning” uses the repeated וַיְהִי (vayhi), preserving the narrative rhythm.
+“One day” translates יוֹם אֶחָד (yom echad), preserving the original ordering where “one” may signify both quantity and unity.
+
+[INSERTION / HELPER WORD TRACKING]
+
+Definite articles “the” added before “light” and “darkness” for clarity, consistent with original Hebrew.
+“He” inserted for clarity between second naming verb and subject.
+Em dash added in “— one day” to capture narrative pause without interpretive smoothing.
+
+[CONTEXTUAL PLACEMENT]
+
+This line completes the first creation cycle — moving from utterance and observation to naming and temporal structuring.
+It establishes a divine framework for time and order, transitioning from the undefined into measured intervals.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+The naming formula (“called X Y”) recurs throughout Genesis 1.
+The evening-morning pairing introduces a rhythm that structures the six days of creation.
+“Yom echad” sets the foundation for all subsequent days, not merely numerically but conceptually.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

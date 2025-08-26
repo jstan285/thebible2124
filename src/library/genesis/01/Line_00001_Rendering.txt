@@ -1,0 +1,40 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00001
+[BOOK]: Genesis
+[CHAPTER]: 1
+[VERSE]: 1
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File. 
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+> In a beginning, God created the heavens and the earth.
+
+[RENDERING NOTES]
+> “In a beginning” reflects the absence of the Hebrew definite article in בְּרֵאשִׁית (bereshit).
+> “God” renders אֱלֹהִים (elohim), understood grammatically as singular due to verb agreement.
+> “Created” reflects בָּרָא (bara), a verb used exclusively for divine creative acts.
+> The phrase “the heavens and the earth” reflects the compound object structure marked by dual use of אֵת (et) and definite articles.
+
+[INSERTION / HELPER WORD TRACKING]
+> Definite articles “the” inserted before “heavens” and “earth” as they are present in the Hebrew (הַשָּׁמַיִם, הָאָרֶץ).
+> No pronouns, verbs, or contextual smoothing added.
+
+[CONTEXTUAL PLACEMENT]
+> This line introduces the biblical narrative and establishes the foundational theme of divine creative activity.
+> Positioned outside of time-specific reference points — opens a sequence rather than anchors it in linear history.
+
+[STRUCTURAL ALIGNMENT NOTES]
+> The root בָּרָא (bara) reappears in 1:21 and 1:27, forming a structural triad marking key acts of creation.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing. 
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

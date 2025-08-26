@@ -1,0 +1,272 @@
+=== LINE SOURCE FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00005
+[BOOK]: Genesis
+[CHAPTER]: 1
+[VERSE]: 5
+[FILE TYPE]: Line Source
+
+[INTRO]
+This file shows what the earliest Hebrew/Greek manuscripts say, word by word, before any interpretation.
+
+[PREFACE]
+This file presents the earliest traceable form of this line, drawn primarily from manuscript sources like the Leningrad Codex.
+Where other manuscript witnesses differ or offer meaningful variation (such as the Dead Sea Scrolls or the Samaritan Pentateuch), we remain watchful and will note those cases transparently when identified.
+Every word is shown with its full lexical range — without smoothing, interpretation, or insertion.
+This is not a translation or conclusion. It is a transparent starting point, open to personal encounter and divine resonance.
+We do not treat any human source as final — only as visible reference points for deeper unfolding.
+While we strive for care and clarity, any oversight or omission is unintentional, and all work remains open to refinement as understanding grows.
+
+[1. ORIGINAL LINE TEXT]
+Language: Hebrew
+Manuscript Source: Leningrad Codex
+Line Reference: Genesis 1:5
+
+וַיִּקְרָא אֱלֹהִים לָאוֹר יוֹם וְלַחֹשֶׁךְ קָרָא לָיְלָה וַיְהִי עֶרֶב וַיְהִי בֹקֶר יוֹם אֶחָד
+
+[2. DIRECT TRANSLITERATION]
+
+vayiqra Elohim la’or yom ve-lachoshekh qara laylah vayhi erev vayhi boqer yom echad
+
+[3. WORD-BY-WORD LEXICAL BREAKDOWN]
+
+[WORD 1]
+Original: וַיִּקְרָא
+Transliteration: vayiqra
+Lexical Root: קרא (qara)
+Part of Speech: Verb
+Grammatical Info: Qal, imperfect, 3rd person masculine singular, vav-consecutive
+Lexical Range:
+
+to call
+
+to name
+
+to proclaim
+
+to invite
+
+[WORD 2]
+Original: אֱלֹהִים
+Transliteration: Elohim
+Lexical Root: אלה (eloah)
+Part of Speech: Noun
+Grammatical Info: Plural form, used with singular verb
+Lexical Range:
+
+God
+
+gods
+
+divine beings
+
+rulers, judges
+Notable Observations:
+
+Plural in form with singular agreement, consistent with earlier lines.
+
+[WORD 3]
+Original: לָאוֹר
+Transliteration: la’or
+Lexical Root: אוֹר (or)
+Part of Speech: Noun
+Grammatical Info: Masculine singular with prefixed preposition ל (to/for)
+Lexical Range:
+
+light
+
+illumination
+
+brightness
+
+[WORD 4]
+Original: יוֹם
+Transliteration: yom
+Lexical Root: יום (yom)
+Part of Speech: Noun
+Grammatical Info: Masculine singular
+Lexical Range:
+
+day
+
+time period
+
+daylight
+
+era
+
+season
+
+[WORD 5]
+Original: וְלַחֹשֶׁךְ
+Transliteration: ve-lachoshekh
+Lexical Root: חֹשֶׁךְ (choshekh)
+Part of Speech: Noun
+Grammatical Info: Masculine singular with prefixed conjunction ו (and) and preposition ל (to/for)
+Lexical Range:
+
+darkness
+
+obscurity
+
+absence of light
+
+[WORD 6]
+Original: קָרָא
+Transliteration: qara
+Lexical Root: קרא (qara)
+Part of Speech: Verb
+Grammatical Info: Qal, perfect, 3rd person masculine singular
+Lexical Range:
+
+to call
+
+to proclaim
+
+to summon
+
+to name
+Notable Observations:
+
+Same root and meaning as earlier “vayiqra” with different verb form
+
+[WORD 7]
+Original: לָיְלָה
+Transliteration: laylah
+Lexical Root: לילה (laylah)
+Part of Speech: Noun
+Grammatical Info: Masculine singular with prefixed preposition ל (to/for)
+Lexical Range:
+
+night
+
+nighttime
+
+period of darkness
+
+[WORD 8]
+Original: וַיְהִי
+Transliteration: vayhi
+Lexical Root: היה (hayah)
+Part of Speech: Verb
+Grammatical Info: Qal, imperfect, 3rd person masculine singular, vav-consecutive
+Lexical Range:
+
+to be
+
+to come to pass
+
+to exist
+
+to happen
+
+[WORD 9]
+Original: עֶרֶב
+Transliteration: erev
+Lexical Root: ערב (erev)
+Part of Speech: Noun
+Grammatical Info: Masculine singular
+Lexical Range:
+
+evening
+
+dusk
+
+sunset
+
+twilight period
+
+[WORD 10]
+Original: וַיְהִי
+Transliteration: vayhi
+Lexical Root: היה (hayah)
+Part of Speech: Verb
+Grammatical Info: Qal, imperfect, 3rd person masculine singular, vav-consecutive
+Lexical Range:
+
+to be
+
+to come to pass
+
+to exist
+
+to happen
+Notable Observations:
+
+Repeats earlier structure, establishing a narrative rhythm
+
+[WORD 11]
+Original: בֹקֶר
+Transliteration: boqer
+Lexical Root: בקר (boqer)
+Part of Speech: Noun
+Grammatical Info: Masculine singular
+Lexical Range:
+
+morning
+
+dawn
+
+daybreak
+
+early light
+
+[WORD 12]
+Original: יוֹם
+Transliteration: yom
+Lexical Root: יום (yom)
+Part of Speech: Noun
+Grammatical Info: Masculine singular
+Lexical Range:
+
+day
+
+time
+
+daylight
+
+occasion
+
+era
+
+[WORD 13]
+Original: אֶחָד
+Transliteration: echad
+Lexical Root: אחד (echad)
+Part of Speech: Adjective / Numeral
+Grammatical Info: Masculine singular
+Lexical Range:
+
+one
+
+first
+
+single
+
+unified
+
+[4. STRUCTURAL NOTES]
+
+The structure contains two naming acts (“vayiqra... qara”), assigning terms to light and darkness.
+Two temporal markers follow: “and it was evening, and it was morning,” forming a complete cycle.
+Repetition of “vayhi” suggests narrative transition and rhythmic cadence.
+The final phrase "yom echad" marks the first of the creative intervals, introducing temporal structuring.
+
+[5. VARIANT MANUSCRIPT NOTES]
+
+No significant textual variants known for this verse in major witnesses.
+Consistent across Leningrad Codex, Aleppo Codex (where extant), and aligned with Masoretic tradition.
+
+[6. STRUCTURAL CONNECTION TO OTHER LINES]
+
+The use of "vayhi" connects directly to 1:3 and repeats in 1:8, 1:13, etc.
+"Yom echad" sets a structural template for “second day” and onward, marking ordered creation stages.
+
+[7. CAUTIONARY REMINDER]
+The content above does not represent a translation.
+No conclusions, smoothing, or interpretive decisions have been made.
+This file serves only to display the original structure and lexical range as transparently as possible.

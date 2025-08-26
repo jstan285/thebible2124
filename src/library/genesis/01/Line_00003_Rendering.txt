@@ -1,0 +1,40 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00003
+[BOOK]: Genesis
+[CHAPTER]: 1
+[VERSE]: 3
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File. 
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+> And God said, “Let there be light,” and there was light.
+
+[RENDERING NOTES]
+> “Said” reflects the root אמר (amar), using standard narrative imperfect to retain declarative tone.
+> The phrasing “Let there be light” mirrors the jussive form יְהִי (yehi), reflecting intentional causation.
+> “And there was light” comes directly from the fulfillment phrase וַיְהִי־אוֹר (vayhi-or), maintaining temporal immediacy.
+
+[INSERTION / HELPER WORD TRACKING]
+> Quotation marks used around divine speech for clarity — not present in original Hebrew.
+> “There” in “let there be” and “there was” is interpretive for fluidity in English but closely tied to the structure of “yehi” and “vayhi”.
+
+[CONTEXTUAL PLACEMENT]
+> This is the first moment in Genesis where divine speech explicitly causes physical manifestation.
+> It connects directly to the line before it — divine Spirit hovering — as an unfolding of potential into form.
+
+[STRUCTURAL ALIGNMENT NOTES]
+> Establishes the divine pattern of “speak → manifest” repeated throughout Genesis 1.
+> Precedes the separation of light and darkness (v.4), serving as a boundaryless creative moment.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing. 
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

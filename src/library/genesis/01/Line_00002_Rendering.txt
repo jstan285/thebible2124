@@ -1,0 +1,42 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00002
+[BOOK]: Genesis
+[CHAPTER]: 1
+[VERSE]: 2
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File. 
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+> And the earth was formless and empty, and darkness was over the face of the deep, and the spirit of God was hovering over the face of the waters.
+
+[RENDERING NOTES]
+> “Formless and empty” reflects the pairing of תֹהוּ וָבֹהוּ (tohu va-vohu), used together in Hebrew to signify total desolation or lack of structure.
+> “Darkness was over the face of the deep” directly follows the word order and grammar of the original clause, with “face of the deep” translating עַל־פְּנֵי תְהוֹם (al-penei tehom).
+> “Spirit of God was hovering” translates רוּחַ אֱלֹהִים מְרַחֶפֶת, using the participle “hovering” to preserve tense and form.
+> The second appearance of עַל־פְּנֵי (“over the face of”) is echoed exactly for structural fidelity.
+
+[INSERTION / HELPER WORD TRACKING]
+> Inserted “and” at clause openings for continuity and faithfulness to the vav prefix on verbs/nouns.
+> No pronouns or interpretive verbs added.
+> Definite articles preserved from the original Hebrew where present.
+
+[CONTEXTUAL PLACEMENT]
+> This line introduces the primal conditions before ordered creation — setting the stage for divine action.
+> It portrays a state of latent potential, marked by chaos, darkness, and hovering presence.
+
+[STRUCTURAL ALIGNMENT NOTES]
+> Mirrors and anticipates line 1:3 where the divine command introduces light into this darkness.
+> The dual use of “over the face of” provides symmetry — a visual stillness before the unfolding begins.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing. 
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

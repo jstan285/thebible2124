@@ -1,0 +1,48 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00004
+[BOOK]: Genesis
+[CHAPTER]: 1
+[VERSE]: 4
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And God saw the light, that it was good. And God separated between the light and between the darkness.
+
+[RENDERING NOTES]
+
+“Saw” translates וַיַּרְא (vayyar), using the standard narrative verb form, indicating divine perception or recognition.
+“The light” (הָאוֹר) includes the definite article; the object is marked with אֶת־ (et).
+“That it was good” translates כִּי־טוֹב (ki-tov), where כִּי introduces a clause of evaluation.
+“Separated” renders וַיַּבְדֵּל (vayavdel), a causative verb indicating division or distinction.
+The double phrase “between the light and between the darkness” follows the Hebrew structure “bein...uvein...”.
+
+[INSERTION / HELPER WORD TRACKING]
+
+Inserted definite articles (“the”) for ha’or and hachoshekh.
+Added “that it was” in “that it was good” for grammatical clarity in English.
+“And” inserted at start of second clause to mirror Hebrew vav-consecutive.
+
+[CONTEXTUAL PLACEMENT]
+
+This line follows the divine utterance of light and shows the first divine evaluation (“good”).
+It also marks the beginning of separation in the created order — a transition from unified emergence to structured distinction.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+The verb וַיַּבְדֵּל (vayavdel) reappears in Genesis 1:6 and 1:14, signaling a repeating pattern of divine separation.
+This line continues the “word → light → judgment → separation” progression of the opening creation sequence.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

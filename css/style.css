@@ -463,3 +463,10 @@ main ul li::marker {
 @media (max-width: 380px) {
   .tile-container { grid-template-columns: 1fr; }
 }
+/* Center the === File type === heading on line pages */
+.line-content .filetype-title {
+  text-align: center;
+  margin: 0 0 1rem;
+  font-weight: 700;
+  letter-spacing: .02em;
+}

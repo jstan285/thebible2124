@@ -10,15 +10,12 @@ layout: layout.njk
 <h1>{{ chapterData.book | capitalize }} - Chapter {{ chapterData.chapter }}</h1>
 
 <div class="tile-container">
-  {% for line in collections.lines %}
-    {% if line.book == chapterData.book and line.chapter == chapterData.chapter %}
-      <a class="tile" href="/library/{{ line.book }}/{{ line.chapter }}/{{ line.filename | replace('.txt', '') }}/">
-  {% if line.filename.endsWith("-translation.txt") %}
-    {{ line.book | capitalize }} {{ line.chapter | replace("^0", "") }} – Translation
-  {% else %}
-    {{ line.book | capitalize }} {{ line.chapter | replace("^0", "") }} – Line {{ line.filename.slice(5, 10) }}
-  {% endif %}
-</a>
+  {% for g in collections.lineGroups %}
+    {% if g.book == chapterData.book and g.chapter == chapterData.chapter %}
+      <a class="tile" href="/library/{{ g.book }}/{{ g.chapter }}/Line_{{ g.id }}/">
+        <div class="tile-book"></div>
+        <div class="tile-label">Line_{{ g.id }}</div>
+      </a>
     {% endif %}
   {% endfor %}
 </div>

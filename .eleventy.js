@@ -109,6 +109,56 @@ module.exports = function(eleventyConfig) {
     return chapters;
   });
 
+// Group Line_XXXXX_*type*.txt files by ID (no folders required)
+const fs = require("fs");
+const path = require("path");
+
+eleventyConfig.addCollection("lineGroups", () => {
+  const base = path.join(__dirname, "src", "library");
+  const groups = [];
+
+  fs.readdirSync(base).forEach(book => {
+    const bookPath = path.join(base, book);
+    if (!fs.statSync(bookPath).isDirectory()) return;
+
+    fs.readdirSync(bookPath).forEach(chapter => {
+      const chapterPath = path.join(bookPath, chapter);
+      if (!fs.statSync(chapterPath).isDirectory()) return;
+
+      // bucket files in this chapter by Line ID
+      const map = new Map();
+
+      fs.readdirSync(chapterPath).forEach(file => {
+        // Match Line_00001_Source.txt, Line_00001_Rendering.txt, etc.
+        const m = file.match(/^Line_(\d{5})_(Source|Rendering|Reflections|Lens)\.txt$/i);
+        if (!m) return;
+        const id = m[1];
+        const type = m[2].toLowerCase(); // source|rendering|reflections|lens
+
+        const key = `${book}/${chapter}/${id}`;
+        if (!map.has(key)) {
+          map.set(key, { book, chapter, id, files: {} });
+        }
+        map.get(key).files[type] = {
+          file,
+          basename: file.replace(/\.txt$/i, ""),
+        };
+      });
+
+      for (const g of map.values()) groups.push(g);
+    });
+  });
+
+  // predictable order
+  groups.sort((a, b) => Number(a.id) - Number(b.id));
+  return groups;
+});
+
+// Optional tiny helper to build the same URLs your .txt pages already use
+eleventyConfig.addFilter("txtUrl", (book, chapter, basename) =>
+  `/library/${book}/${chapter}/${basename}/`
+);
+  
   // Lines per chapter
   eleventyConfig.addCollection("lines", () => {
     const base = path.join(__dirname, "src", "library");

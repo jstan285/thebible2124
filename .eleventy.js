@@ -2,65 +2,133 @@ const fs = require("fs");
 const path = require("path");
 
 const formatLineText = (text) => {
-  const lines = text.split("\n");
-  let output = [];
-  let inTable = false;
-  let tableHeader = null;
-  let tableRows = [];
+  const esc = s => String(s)
+    .replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;")
+    .replace(/"/g,"&quot;").replace(/'/g,"&#39;");
 
-  const flushTable = () => {
-    if (tableHeader && tableRows.length > 0) {
-      const thead = `<thead><tr>${tableHeader.map(h => `<th>${h.trim()}</th>`).join("")}</tr></thead>`;
-      const tbody = tableRows.map(row => {
-        const cells = row.map(c => `<td>${c.trim()}</td>`).join("");
-        return `<tr>${cells}</tr>`;
-      }).join("\n");
-      output.push(`<table>${thead}<tbody>${tbody}</tbody></table>`);
-    }
-    inTable = false;
-    tableHeader = null;
-    tableRows = [];
+  const lines = String(text).replace(/\r\n/g, "\n").split("\n");
+
+  let out = [];
+  let inTags = false;          // inside [FILE TAGS]
+  let inUL = false;            // inside a bullet list
+  let pendingBullet = false;   // a visual separator marks the next line as a bullet
+
+  const open = tag => out.push(`<${tag}>`);
+  const close = tag => out.push(`</${tag}>`);
+  const isBlank = s => !s || /^\s*$/.test(s);
+
+  // separators that *mark* a bullet (but have no text themselves)
+  const isSep = s => {
+    const t = String(s).trim();
+    // ASCII + unicode angle quotes, dashes, bullets, dots, misc. divider glyphs
+    return t.length > 0 &&
+      /^[<>\u2039\u203A\u00AB\u00BB\u3008\u3009.\-–—*•~^'`"=+/\\\[\]{}()|:\s]+$/.test(t) &&
+      !/^>\s+/.test(t); // keep true "> text" (handled below as bullet)
   };
 
-  for (let line of lines) {
-    const trimmed = line.trim();
+  const isHeadingBrackets = s => /^\s*\[[^\]]+\]\s*$/.test(s);
+  const isTagPair = s => /^\s*\[([^\]]+)\]\s*:\s*(.+)\s*$/.exec(s);
 
-    if (trimmed === "") {
-      if (inTable) flushTable();
+  const isDashBullet = s => /^\s*(?:[-*]|•)\s+(.+)$/.exec(s);
+  const isQuoteBullet = s => /^\s*>\s+(.+)$/.exec(s);        // > text  -> bullet
+  const isLettered    = s => /^\s*[a-z]\.\s+(.+)$/i.exec(s); // a. text -> bullet
+
+  const peek = (i, n=1) => (i + n < lines.length ? lines[i + n] : "");
+  const nextIsBulletish = (i) => {
+    const n = peek(i).trim();
+    return !!(isDashBullet(n) || isQuoteBullet(n) || isLettered(n) || isSep(n));
+  };
+
+  const closeUL   = () => { if (inUL)   { close("ul");  inUL = false; } };
+  const closeTags = () => { if (inTags) { close("div"); inTags = false; } }; // <-- close <div>, not <dl>
+  const closeAll  = () => { closeUL(); closeTags(); pendingBullet = false; };
+
+  for (let i = 0; i < lines.length; i++) {
+    const raw = lines[i];
+
+    // ignore blank lines (but keep pendingBullet state)
+    if (isBlank(raw)) { continue; }
+
+    // [SECTION] → H2  (changed from H1)
+    if (isHeadingBrackets(raw)) {
+      const label = esc(raw.replace(/^\s*\[|\]\s*$/g, ""));
+      closeAll();
+      if (label.toUpperCase() === "FILE TAGS") {
+        out.push(`<h2>${label}</h2>`);                // <-- H2
+        open('div class="file-tags"');                // <-- plain wrapper (no grid)
+        inTags = true;
+      } else {
+        out.push(`<h2>${label}</h2>`);                // <-- H2
+      }
       continue;
     }
 
-    // Detect pipe-style or tab-separated table headers
-    const isPipeHeader = trimmed.startsWith("|") && trimmed.includes("|");
-    const isTabbedHeader = !trimmed.startsWith("|") && trimmed.includes("\t");
-
-    if (isPipeHeader || isTabbedHeader) {
-      const delimiter = isPipeHeader ? "|" : "\t";
-      const parts = trimmed.split(delimiter).filter(Boolean);
-
-      if (!inTable) {
-        inTable = true;
-        tableHeader = parts;
-      } else {
-        tableRows.push(parts);
+    // Inside [FILE TAGS]: show "[KEY]: value" as plain paragraphs; ignore everything else
+    if (inTags) {
+      const m = isTagPair(raw);
+      if (m) {
+        out.push(`<p>[${esc(m[1].trim())}]: ${esc(m[2].trim())}</p>`); // <-- paragraph, not dt/dd
+        continue;
       }
-    } else {
-      if (inTable) flushTable(); // table ended
-
-      // Outside of tables: heading if starts with letter, else paragraph
-      if (/^[A-Za-z]/.test(trimmed)) {
-        output.push(`<h2>${trimmed}</h2>`);
-      } else {
-        output.push(`<p>${trimmed}</p>`);
-      }
+      // if another [SECTION] appears, close tags and reprocess as a section
+      if (isHeadingBrackets(raw)) { closeTags(); i--; continue; }
+      // ignore separators or any stray content while in tags
+      if (isSep(raw)) { continue; }
+      continue;
     }
+
+    // "Title:" followed by bullets → H3  (changed from H2)
+    if (/:$/.test(raw.trim()) && nextIsBulletish(i)) {
+      closeUL();
+      out.push(`<h3>${esc(raw.trim().replace(/:$/, ""))}</h3>`); // <-- H3
+      pendingBullet = false;
+      continue;
+    }
+
+    // Turn a lone separator into a "start bullets now" marker
+    if (isSep(raw)) { pendingBullet = true; continue; }
+
+    // Bullets: -, *, •
+    let m;
+    if ((m = isDashBullet(raw))) {
+      if (!inUL) { open("ul"); inUL = true; }
+      out.push(`<li>${esc(m[1])}</li>`);
+      pendingBullet = false;
+      continue;
+    }
+
+    // Bullets: > text (no blockquotes)
+    if ((m = isQuoteBullet(raw))) {
+      if (!inUL) { open("ul"); inUL = true; }
+      out.push(`<li>${esc(m[1])}</li>`);
+      pendingBullet = false;
+      continue;
+    }
+
+    // Bullets: a. text
+    if ((m = isLettered(raw))) {
+      if (!inUL) { open("ul"); inUL = true; }
+      out.push(`<li>${esc(m[1])}</li>`);
+      pendingBullet = false;
+      continue;
+    }
+
+    // If a separator marked the start of a bullet, treat this line as the bullet text
+    if (pendingBullet) {
+      if (!inUL) { open("ul"); inUL = true; }
+      out.push(`<li>${esc(raw)}</li>`);
+      pendingBullet = false;
+      continue;
+    }
+
+    // otherwise, plain paragraph
+    closeUL();
+    out.push(`<p>${esc(raw)}</p>`);
   }
 
-  if (inTable) flushTable(); // catch trailing tables
-
-  return output.join("\n");
+  closeAll();
+  return out.join("\n");
 };
-
 
 const formatTranslationText = (text) => {
   return text

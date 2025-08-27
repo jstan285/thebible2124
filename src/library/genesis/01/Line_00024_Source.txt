@@ -1,0 +1,238 @@
+=== LINE SOURCE FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00024
+[BOOK]: Genesis
+[CHAPTER]: 1
+[VERSE]: 24
+[FILE TYPE]: Line Source
+
+[INTRO]
+This file shows what the earliest Hebrew/Greek manuscripts say, word by word, before any interpretation.
+
+[PREFACE]
+This file presents the earliest traceable form of this line, drawn primarily from manuscript sources like the Leningrad Codex.
+Where other manuscript witnesses differ or offer meaningful variation (such as the Dead Sea Scrolls or the Samaritan Pentateuch), we remain watchful and will note those cases transparently when identified.
+Every word is shown with its full lexical range — without smoothing, interpretation, or insertion.
+This is not a translation or conclusion. It is a transparent starting point, open to personal encounter and divine resonance.
+We do not treat any human source as final — only as visible reference points for deeper unfolding.
+While we strive for care and clarity, any oversight or omission is unintentional, and all work remains open to refinement as understanding grows.
+
+[1. ORIGINAL LINE TEXT]
+Language: Hebrew
+Manuscript Source: Leningrad Codex
+Line Reference: Genesis 1:24
+
+וַיֹּאמֶר אֱלֹהִים תּוֹצֵא הָאָרֶץ נֶפֶשׁ חַיָּה לְמִינָהּ בְּהֵמָה וָרֶמֶשׂ וְחַיְתוֹ־אֶרֶץ לְמִינָהּ וַיְהִי־כֵן
+
+[2. DIRECT TRANSLITERATION]
+
+vayomer Elohim totze ha-aretz nefesh chayyah le-minah behemah va-remes ve-chayto-erets le-minah vayhi-ken
+
+[3. WORD-BY-WORD LEXICAL BREAKDOWN]
+
+[WORD 1]
+Original: וַיֹּאמֶר
+Transliteration: vayomer
+Root: אמר (amar)
+Part of Speech: Verb
+Grammar: Qal imperfect, 3rd masculine singular, vav-consecutive
+Lexical Range:
+
+to say
+
+to speak
+
+to command
+
+to declare
+
+[WORD 2]
+Original: אֱלֹהִים
+Transliteration: Elohim
+Root: אֱלֹהִים (Elohim)
+Part of Speech: Noun
+Grammar: Plural in form, singular in function here
+Lexical Range:
+
+God
+
+gods
+
+divine beings
+
+rulers, judges
+
+[WORD 3]
+Original: תּוֹצֵא
+Transliteration: totze
+Root: יצא (yatsa)
+Part of Speech: Verb
+Grammar: Hiphil imperfect, 3rd feminine singular (subject: “ha-aretz”)
+Lexical Range:
+
+to bring forth
+
+to cause to go out
+
+to produce
+
+to yield
+
+[WORD 4]
+Original: הָאָרֶץ
+Transliteration: ha-aretz
+Root: ארץ (erets)
+Part of Speech: Noun
+Grammar: Feminine singular with definite article
+Lexical Range:
+
+earth
+
+land
+
+ground
+
+territory
+
+[WORD 5]
+Original: נֶפֶשׁ
+Transliteration: nefesh
+Root: נֶפֶשׁ (nefesh)
+Part of Speech: Noun
+Grammar: Feminine singular
+Lexical Range:
+
+soul
+
+living being
+
+life force
+
+person, creature, self
+
+appetite, desire
+
+[WORD 6]
+Original: חַיָּה
+Transliteration: chayyah
+Root: חיה (chayah)
+Part of Speech: Adjective used substantively
+Grammar: Feminine singular
+Lexical Range:
+
+living
+
+alive
+
+animate creature
+
+[WORD 7]
+Original: לְמִינָהּ
+Transliteration: le-minah
+Root: מִין (min)
+Part of Speech: Noun construct with suffix
+Grammar: Masculine singular construct + 3rd feminine singular suffix
+Lexical Range:
+
+according to its kind
+
+species, category
+
+[WORD 8]
+Original: בְּהֵמָה
+Transliteration: behemah
+Root: בְּהֵמָה (behemah)
+Part of Speech: Noun
+Grammar: Feminine singular collective
+Lexical Range:
+
+cattle
+
+domesticated animals
+
+beasts of burden
+
+[WORD 9]
+Original: וָרֶמֶשׂ
+Transliteration: va-remes
+Root: רֶמֶשׂ (remes)
+Part of Speech: Noun with conjunction
+Grammar: Masculine singular collective
+Lexical Range:
+
+creeping things
+
+small moving creatures
+
+reptiles, insects, crawlers
+
+[WORD 10]
+Original: וְחַיְתוֹ־אֶרֶץ
+Transliteration: ve-chayto-erets
+Root: חיה (chayah) + ארץ (erets)
+Part of Speech: Construct phrase
+Grammar: Feminine singular in construct with suffix + noun
+Lexical Range:
+
+wild animal of the earth
+
+beast of the land
+
+[WORD 11]
+Original: לְמִינָהּ
+Transliteration: le-minah
+Root: מִין (min)
+Part of Speech: Noun construct with suffix
+Grammar: Masculine singular construct + 3rd feminine singular suffix
+Lexical Range:
+
+according to its kind
+
+[WORD 12]
+Original: וַיְהִי־כֵן
+Transliteration: vayhi-ken
+Root: היה (hayah) + כֵּן (ken)
+Part of Speech: Verb + Adverb
+Grammar: Qal imperfect, 3rd masculine singular with vav-consecutive + adverb
+Lexical Range:
+
+and it was so
+
+and thus it came to be
+
+and it happened accordingly
+
+[4. STRUCTURAL NOTES]
+
+Divine command directed to “ha-aretz” (the earth) as the subject causing production.
+
+Three categories of land creatures: “behemah” (domestic animals), “remes” (creeping things), “chayto-erets” (wild beasts).
+
+Each defined “le-minah” (according to kind), reinforcing order and differentiation.
+
+Closes with formulaic fulfillment marker “vayhi-ken.”
+
+[5. VARIANT MANUSCRIPT NOTES]
+
+MT and DSS consistent.
+
+Septuagint: “καὶ εἶπεν ὁ θεός· ἐξαγαγέτω ἡ γῆ ψυχὴν ζῶσαν κατὰ γένος, τετράποδα καὶ ἑρπετὰ καὶ θηρία τῆς γῆς κατὰ γένος· καὶ ἐγένετο οὕτως” (“let the earth bring forth living soul according to kind: quadrupeds, creeping things, and beasts of the earth according to kind; and it was so”).
+
+Samaritan Pentateuch matches MT.
+
+[6. STRUCTURAL CONNECTION TO OTHER LINES]
+
+Parallels Genesis 1:20–21 (sea and sky creatures).
+
+Prepares for Genesis 1:25 (fulfillment of this command).
+
+Foreshadows Genesis 1:26, where humanity is created and distinguished from animals.
+
+[7. CAUTIONARY REMINDER]
+The content above does not represent a translation.
+No conclusions, smoothing, or interpretive decisions have been made.
+This file serves only to display the original structure and lexical range as transparently as possible.

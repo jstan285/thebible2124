@@ -1,0 +1,52 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00016
+[BOOK]: Genesis
+[CHAPTER]: 1
+[VERSE]: 16
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And God made the two great lights — the greater light for rule over the day, and the lesser light for rule over the night — and the stars.
+
+[RENDERING NOTES]
+
+“And God made” = וַיַּעַשׂ אֱלֹהִים (vayya‘as Elohim), standard creative action phrase.
+“The two great lights” = שְׁנֵי הַמְּאֹרֹת הַגְּדֹלִים (shnei ha-me’orot ha-gedolim), dual with adjective, pluralized.
+“Greater light” = הַמָּאוֹר הַגָּדוֹל (ha-ma’or ha-gadol) — functional magnitude, not necessarily physical size.
+“For rule over the day” = לְמֶמְשֶׁלֶת הַיּוֹם (le-memshelet ha-yom), using לְ + memshalah to signal purpose/dominion.
+“Lesser light” = הַמָּאוֹר הַקָּטֹן (ha-ma’or ha-qaton) — relational pairing to greater.
+“For rule over the night” = לְמֶמְשֶׁלֶת הַלַּיְלָה (le-memshelet ha-laylah), mirroring day phrase.
+“And the stars” = וְאֵת הַכּוֹכָבִים (ve-et ha-kokhavim), appended third clause — not given separate role here.
+
+[INSERTION / HELPER WORD TRACKING]
+
+“The” added consistently to reflect definite articles.
+Em dashes used to mirror Hebrew structure and allow pacing.
+“For rule over” reflects prepositional lamed and memshalah noun without smoothing.
+No interpretive expansions added.
+
+[CONTEXTUAL PLACEMENT]
+
+Realizes and specifies the “lights” mentioned in vv.14–15.
+Details divine allocation of cosmic governance — day/night management.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Mirrors previous creation rhythm: declaration → placement → function.
+Continues symmetry between paired elements (light/dark, day/night, great/lesser).
+Introduction of stars as additive coda — reinforcing completeness.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

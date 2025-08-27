@@ -1,0 +1,51 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00009
+[BOOK]: Genesis
+[CHAPTER]: 1
+[VERSE]: 9
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And God said, “Let the waters be gathered from beneath the heavens to one place, and let the dry land be seen.” And it was so.
+
+[RENDERING NOTES]
+
+“Said” translates וַיֹּאמֶר (vayomer), a common divine speech introduction.
+“Let the waters be gathered” reflects יִקָּווּ (yiqqavu), Niphal imperfect form indicating passive action with intent.
+“From beneath the heavens” translates מִתַּחַת הַשָּׁמַיִם (mitachat ha-shamayim), preserving spatial origin.
+“To one place” translates אֶל־מָקוֹם אֶחָד (el-makom echad), denoting unity of destination.
+“Let the dry land be seen” reflects וְתֵרָאֶה הַיַּבָּשָׁה (ve-tera’eh ha-yabashah), maintaining imperative nuance.
+“And it was so” (וַיְהִי־כֵן) affirms divine fulfillment.
+
+[INSERTION / HELPER WORD TRACKING]
+
+Quotation marks added for clarity of divine speech.
+“The” before “waters,” “heavens,” and “dry land” reflects Hebrew definite articles.
+“Let” added to reflect jussive command forms.
+No major helper phrases outside those structurally mirrored.
+
+[CONTEXTUAL PLACEMENT]
+
+Follows structural divisions of water and space (vv.6–8), now commanding terrestrial emergence.
+Precedes the naming of “land” and “seas” in verse 10 — this line sets the stage for further classification.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Continues divine speech → command → fulfillment pattern.
+Dual command structure (gathering + appearance) echoes separation and organization motifs.
+“Vayhi-ken” clause anchors fulfillment and parallels earlier divine actions (vv. 7, 8).
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

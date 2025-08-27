@@ -1,0 +1,51 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00030
+[BOOK]: Genesis
+[CHAPTER]: 1
+[VERSE]: 30
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And to every beast of the earth, and to every bird of the skies, and to everything that creeps upon the earth — that has in it a living soul — I have given every green plant for food. And it was so.
+
+[RENDERING NOTES]
+
+Follows parallel structure: three categories of animals named.
+“That has in it a living soul” applies as a qualifying clause.
+Object of gift is “every green plant,” aligned with verse 29.
+Ends with standard fulfillment phrase “and it was so” (vayhi-ken).
+Reflects divine provision extending beyond humanity to all sentient creation.
+
+[INSERTION / HELPER WORD TRACKING]
+
+Quotation implied from context of v.29 speech; quotation marks not inserted here for continuity.
+“That has in it” rendered from asher-bo; “soul” from nefesh chayyah.
+Prepositions (“to,” “upon,” “for”) reflect structural use of לְ and עַל.
+
+[CONTEXTUAL PLACEMENT]
+
+Completes the creation provision sequence that began with humans in v.29.
+Affirms divine concern for non-human life.
+Serves as ethical precedent for later ecological and dietary patterns.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Mirrors language from v.22 (blessing of creatures).
+Reinforces “nefesh chayyah” designation as applying to both humans and animals.
+Prepares for v.31, where all creation is declared “very good.”
+Introduces a shared basis for life-sustaining food across species.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

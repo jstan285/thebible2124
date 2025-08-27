@@ -1,0 +1,238 @@
+=== LINE SOURCE FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00018
+[BOOK]: Genesis
+[CHAPTER]: 1
+[VERSE]: 18
+[FILE TYPE]: Line Source
+
+[INTRO]
+This file shows what the earliest Hebrew/Greek manuscripts say, word by word, before any interpretation.
+
+[PREFACE]
+This file presents the earliest traceable form of this line, drawn primarily from manuscript sources like the Leningrad Codex.
+Where other manuscript witnesses differ or offer meaningful variation (such as the Dead Sea Scrolls or the Samaritan Pentateuch), we remain watchful and will note those cases transparently when identified.
+Every word is shown with its full lexical range — without smoothing, interpretation, or insertion.
+This is not a translation or conclusion. It is a transparent starting point, open to personal encounter and divine resonance.
+We do not treat any human source as final — only as visible reference points for deeper unfolding.
+While we strive for care and clarity, any oversight or omission is unintentional, and all work remains open to refinement as understanding grows.
+
+[1. ORIGINAL LINE TEXT]
+Language: Hebrew
+Manuscript Source: Leningrad Codex
+Line Reference: Genesis 1:18
+
+וְלִמְשֹׁל בַּיּוֹם וּבַלַּיְלָה וּלְהַבְדִּיל בֵּין הָאוֹר וּבֵין הַחֹשֶׁךְ וַיַּרְא אֱלֹהִים כִּי־טוֹב
+
+[2. DIRECT TRANSLITERATION]
+
+ve-limshol ba-yom u-va-laylah u-le-havdil bein ha-or u-vein ha-choshekh vayyar Elohim ki-tov
+
+[3. WORD-BY-WORD LEXICAL BREAKDOWN]
+
+[WORD 1]
+Original: וְלִמְשֹׁל
+Transliteration: ve-limshol
+Root: משל (mashal)
+Part of Speech: Verb (Infinitive Construct, Qal) with prefixed וְ + לְ
+Lexical Range:
+
+to rule
+
+to govern
+
+to have dominion
+
+to exercise authority
+
+[WORD 2]
+Original: בַּיּוֹם
+Transliteration: ba-yom
+Root: יוֹם (yom)
+Part of Speech: Noun
+Grammar: Masculine singular with prefixed בְּ + definite article
+Lexical Range:
+
+in the day
+
+during daytime
+
+in the time/period
+
+[WORD 3]
+Original: וּבַלַּיְלָה
+Transliteration: u-va-laylah
+Root: לַיְלָה (laylah)
+Part of Speech: Noun
+Grammar: Masculine singular with prefixed וְ + בְּ + article
+Lexical Range:
+
+and in the night
+
+nighttime period
+
+darkness hours
+
+[WORD 4]
+Original: וּלְהַבְדִּיל
+Transliteration: u-le-havdil
+Root: בדל (badal)
+Part of Speech: Verb (Infinitive Construct, Hiphil) with prefixed וְ + לְ
+Lexical Range:
+
+and to divide
+
+and to separate
+
+and to distinguish
+
+and to set apart
+
+[WORD 5]
+Original: בֵּין
+Transliteration: bein
+Root: בֵּין (bein)
+Part of Speech: Preposition
+Lexical Range:
+
+between
+
+among
+
+interval
+
+division
+
+[WORD 6]
+Original: הָאוֹר
+Transliteration: ha-or
+Root: אוֹר (or)
+Part of Speech: Noun
+Grammar: Masculine singular with definite article
+Lexical Range:
+
+light
+
+illumination
+
+brightness
+
+radiance
+
+[WORD 7]
+Original: וּבֵין
+Transliteration: u-vein
+Root: ו + בֵּין (ve + bein)
+Part of Speech: Conjunction + Preposition
+Lexical Range:
+
+and between
+
+[WORD 8]
+Original: הַחֹשֶׁךְ
+Transliteration: ha-choshekh
+Root: חֹשֶׁךְ (choshekh)
+Part of Speech: Noun
+Grammar: Masculine singular with definite article
+Lexical Range:
+
+darkness
+
+obscurity
+
+absence of light
+
+hiddenness
+
+[WORD 9]
+Original: וַיַּרְא
+Transliteration: vayyar
+Root: ראה (ra’ah)
+Part of Speech: Verb
+Grammar: Qal imperfect, 3rd masculine singular, vav-consecutive
+Lexical Range:
+
+to see
+
+to perceive
+
+to look upon
+
+to consider
+
+to observe
+
+[WORD 10]
+Original: אֱלֹהִים
+Transliteration: Elohim
+Root: אֱלֹהִים (Elohim)
+Part of Speech: Noun
+Grammar: Plural in form, singular in grammar here
+Lexical Range:
+
+God
+
+gods
+
+divine beings
+
+rulers, judges
+
+[WORD 11]
+Original: כִּי־טוֹב
+Transliteration: ki-tov
+Root: כִּי (ki) + טוֹב (tov)
+Part of Speech: Conjunction + Adjective
+Lexical Range:
+
+that it was good
+
+because good
+
+indeed good
+Lexical Range of טוֹב (tov):
+
+good
+
+pleasant
+
+desirable
+
+beneficial
+
+morally right
+
+valuable
+
+[4. STRUCTURAL NOTES]
+
+Two infinitive constructs (“ve-limshol,” “u-le-havdil”) express purposes of the luminaries.
+
+The structure continues the sequence of divine placement (v.17) with governing and separating functions.
+
+The verse concludes with the evaluative refrain “ki-tov.”
+
+[5. VARIANT MANUSCRIPT NOTES]
+
+MT and DSS consistent.
+
+LXX: “καὶ ἄρχειν τῆς ἡμέρας καὶ τῆς νυκτός καὶ διαχωρίζειν ἀνὰ μέσον τοῦ φωτὸς καὶ ἀνὰ μέσον τοῦ σκότους· καὶ εἶδεν ὁ θεὸς ὅτι καλόν” (“to rule the day and the night, and to separate between the light and the darkness; and God saw that it was good”).
+
+Samaritan Pentateuch matches MT.
+
+[6. STRUCTURAL CONNECTION TO OTHER LINES]
+
+Completes the functional explanation of luminaries begun in v.14.
+
+Parallels v.4 (God separating light from darkness).
+
+The phrase “God saw that it was good” recurs (vv.4, 10, 12, 21, 25, 31), marking divine evaluation.
+
+[7. CAUTIONARY REMINDER]
+The content above does not represent a translation.
+No conclusions, smoothing, or interpretive decisions have been made.
+This file serves only to display the original structure and lexical range as transparently as possible.

@@ -1,0 +1,56 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00014
+[BOOK]: Genesis
+[CHAPTER]: 1
+[VERSE]: 14
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And God said, “Let there be lights in the expanse of the heavens to separate between the day and between the night. And let them be for signs, and for appointed times, and for days, and for years.”
+
+[RENDERING NOTES]
+
+“Said” from וַיֹּאמֶר (vayomer), regular divine speech pattern.
+“Let there be” = יְהִי (yehi), jussive — not a description, but a command for emergence.
+“Lights” = מְאֹרֹת (me’orot), plural of “light-giver” — not light itself, but sources of light.
+“In the expanse of the heavens” combines בִּרְקִיעַ הַשָּׁמַיִם (birqia ha-shamayim), retaining dual-level spatial imagery.
+“To separate between” from לְהַבְדִּיל בֵּין (le-havdil bein) — marks distinction as primary function.
+“Day” and “night” retain definite articles, grounding cosmic division.
+“And let them be” = וְהָיוּ (vehayu), continued jussive structure.
+“For signs” = לְאֹתֹת (le-otot), plural of “ot” — signals or indicators.
+“For appointed times” = לְמוֹעֲדִים (le-mo‘adim) — seasons, festivals, or sacred moments.
+“For days” and “for years” (וּלְיָמִים, וְשָׁנִים) emphasize calendrical function.
+
+[INSERTION / HELPER WORD TRACKING]
+
+“Let there be” used to express jussive yehi.
+“In the” inserted before “expanse” and “heavens” for clarity.
+“To” and “for” added to trace infinitives and purpose phrases.
+Commas added to delineate list structure in time functions.
+Quotation marks added to indicate divine speech.
+
+[CONTEXTUAL PLACEMENT]
+
+Initiates fourth day of creation — transition from life-bearing Earth to cosmic architecture.
+Establishes light-bearers not for illumination alone, but as time-keepers and separators.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Builds on Genesis 1:4 separation of light from darkness.
+Sets up verses 15–18 which detail luminary functions.
+Follows Genesis 1’s repeated rhythm: command → structure → purpose.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

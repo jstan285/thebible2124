@@ -1,0 +1,222 @@
+=== LINE SOURCE FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00006
+[BOOK]: Genesis
+[CHAPTER]: 1
+[VERSE]: 6
+[FILE TYPE]: Line Source
+
+[INTRO]
+This file shows what the earliest Hebrew/Greek manuscripts say, word by word, before any interpretation.
+
+[PREFACE]
+This file presents the earliest traceable form of this line, drawn primarily from manuscript sources like the Leningrad Codex.
+Where other manuscript witnesses differ or offer meaningful variation (such as the Dead Sea Scrolls or the Samaritan Pentateuch), we remain watchful and will note those cases transparently when identified.
+Every word is shown with its full lexical range — without smoothing, interpretation, or insertion.
+This is not a translation or conclusion. It is a transparent starting point, open to personal encounter and divine resonance.
+We do not treat any human source as final — only as visible reference points for deeper unfolding.
+While we strive for care and clarity, any oversight or omission is unintentional, and all work remains open to refinement as understanding grows.
+
+[1. ORIGINAL LINE TEXT]
+Language: Hebrew
+Manuscript Source: Leningrad Codex
+Line Reference: Genesis 1:6
+
+וַיֹּאמֶר אֱלֹהִים יְהִי רָקִיעַ בְּתוֹךְ הַמָּיִם וִיהִי מַבְדִּיל בֵּין מַיִם לָמָיִם
+
+[2. DIRECT TRANSLITERATION]
+
+vayomer Elohim yehi raqia betokh ha-mayim vihi mavdil bein mayim la-mayim
+
+[3. WORD-BY-WORD LEXICAL BREAKDOWN]
+
+[WORD 1]
+Original: וַיֹּאמֶר
+Transliteration: vayomer
+Root: אמר (amar)
+Part of Speech: Verb
+Grammar: Qal, imperfect, 3rd person masculine singular, vav-consecutive
+Lexical Range:
+
+to say
+
+to speak
+
+to command
+
+to declare
+
+[WORD 2]
+Original: אֱלֹהִים
+Transliteration: Elohim
+Root: אֱלֹהִים (Elohim)
+Part of Speech: Noun
+Grammar: Plural in form, used with singular verbs
+Lexical Range:
+
+God
+
+gods
+
+divine beings
+
+rulers, judges
+Notable Observations: Plural in form yet paired with singular verb usage here.
+
+[WORD 3]
+Original: יְהִי
+Transliteration: yehi
+Root: היה (hayah)
+Part of Speech: Verb
+Grammar: Qal, jussive, 3rd person masculine singular
+Lexical Range:
+
+let it be
+
+let it come into existence
+
+let it happen
+
+[WORD 4]
+Original: רָקִיעַ
+Transliteration: raqia
+Root: רקע (raq’a)
+Part of Speech: Noun
+Grammar: Masculine singular
+Lexical Range:
+
+extended surface
+
+expanse
+
+firmament
+
+something beaten out (as in metal)
+
+sky-dome
+
+[WORD 5]
+Original: בְּתוֹךְ
+Transliteration: betokh
+Root: תוך (tokh)
+Part of Speech: Preposition
+Grammar: Construct form with prefixed preposition בְּ
+Lexical Range:
+
+in the midst of
+
+within
+
+inside
+
+[WORD 6]
+Original: הַמָּיִם
+Transliteration: ha-mayim
+Root: מַיִם (mayim)
+Part of Speech: Noun
+Grammar: Plural with definite article
+Lexical Range:
+
+waters
+
+liquid masses
+
+[WORD 7]
+Original: וִיהִי
+Transliteration: vihi
+Root: היה (hayah)
+Part of Speech: Verb
+Grammar: Qal, jussive, 3rd person masculine singular, with prefixed conjunction ו
+Lexical Range:
+
+and let it be
+
+and may it exist
+
+and let it happen
+
+[WORD 8]
+Original: מַבְדִּיל
+Transliteration: mavdil
+Root: בדל (badal)
+Part of Speech: Verb (participle, Hiphil, masculine singular)
+Lexical Range:
+
+dividing
+
+separating
+
+making distinct
+
+setting apart
+
+[WORD 9]
+Original: בֵּין
+Transliteration: bein
+Root: בֵּין (bein)
+Part of Speech: Preposition
+Lexical Range:
+
+between
+
+among
+
+interval, division
+
+[WORD 10]
+Original: מַיִם
+Transliteration: mayim
+Root: מַיִם (mayim)
+Part of Speech: Noun
+Grammar: Plural
+Lexical Range:
+
+waters
+
+liquid masses
+
+[WORD 11]
+Original: לָמָיִם
+Transliteration: la-mayim
+Root: מַיִם (mayim)
+Part of Speech: Noun
+Grammar: Plural with prefixed preposition לְ (“to/for/between”)
+Lexical Range:
+
+waters
+
+liquid masses
+Notable Observations: Construction indicates separation “between waters to waters.”
+
+[4. STRUCTURAL NOTES]
+
+The verse follows the recurring Genesis 1 structure: divine speech introduced by “vayomer Elohim” → jussive command → fulfillment statement.
+
+“Yehi raqia” presents a command form for creation of a new element.
+
+The participial “mavdil” indicates an ongoing or defining function of separation.
+
+The phrase “bein… la-” is a common Hebrew structure for distinguishing divisions.
+
+[5. VARIANT MANUSCRIPT NOTES]
+
+No significant differences noted between Masoretic Text (Leningrad Codex) and major Dead Sea Scroll fragments in this verse.
+
+Septuagint (LXX) renders “raqia” as στερέωμα (stereōma, “firmament/solid structure”), influencing later interpretations.
+
+[6. STRUCTURAL CONNECTION TO OTHER LINES]
+
+This is the second instance of “vayomer Elohim” (following Genesis 1:3), part of the recurring divine speech acts.
+
+The theme of separation (badal) echoes Genesis 1:4 (light/darkness) and recurs in Genesis 1:14 (day/night, seasons).
+
+The concept of “raqia” appears again in Genesis 1:7–8 and in Psalm 19:1, Ezekiel 1:22–26.
+
+[7. CAUTIONARY REMINDER]
+The content above does not represent a translation.
+No conclusions, smoothing, or interpretive decisions have been made.
+This file serves only to display the original structure and lexical range as transparently as possible.

@@ -1,0 +1,52 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00010
+[BOOK]: Genesis
+[CHAPTER]: 1
+[VERSE]: 10
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And God called the dry land “Earth,” and the gathering of the waters He called “Seas.” And God saw that it was good.
+
+[RENDERING NOTES]
+
+“Called” reflects both וַיִּקְרָא (vayiqra) and קָרָא (qara) — keeping consistent naming structure.
+“The dry land” translates לַיַּבָּשָׁה (la-yabashah), retaining the definite article.
+“Earth” for אֶרֶץ (erets) preserves the conceptual use across Genesis.
+“Gathering of the waters” reflects וּלְמִקְוֵה הַמַּיִם (ulemikveh ha-mayim), maintaining collective nuance.
+“Seas” renders יַמִּים (yamim), plural form of “sea.”
+“God saw that it was good” follows the evaluative phrase וַיַּרְא אֱלֹהִים כִּי־טוֹב (vayyar Elohim ki-tov).
+
+[INSERTION / HELPER WORD TRACKING]
+
+Quotation marks added for clarity of named elements.
+“The” added before “dry land” and “gathering” to match Hebrew definiteness.
+“He” added before second “called” for subject clarity.
+“That it was” inserted in evaluation phrase for flow.
+
+[CONTEXTUAL PLACEMENT]
+
+Follows from the emergence of land and water in verse 9.
+Provides formal names to these domains, reinforcing identity and structure.
+First evaluation since verse 8 — confirms divine approval.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Two-part naming structure: land and sea.
+Ends with standard “God saw… good” refrain.
+Mirrors earlier verse 5 (naming day/night) and verse 8 (naming heavens).
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

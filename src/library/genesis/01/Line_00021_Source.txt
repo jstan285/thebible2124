@@ -1,0 +1,325 @@
+=== LINE SOURCE FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00021
+[BOOK]: Genesis
+[CHAPTER]: 1
+[VERSE]: 21
+[FILE TYPE]: Line Source
+
+[INTRO]
+This file shows what the earliest Hebrew/Greek manuscripts say, word by word, before any interpretation.
+
+[PREFACE]
+This file presents the earliest traceable form of this line, drawn primarily from manuscript sources like the Leningrad Codex.
+Where other manuscript witnesses differ or offer meaningful variation (such as the Dead Sea Scrolls or the Samaritan Pentateuch), we remain watchful and will note those cases transparently when identified.
+Every word is shown with its full lexical range — without smoothing, interpretation, or insertion.
+This is not a translation or conclusion. It is a transparent starting point, open to personal encounter and divine resonance.
+We do not treat any human source as final — only as visible reference points for deeper unfolding.
+While we strive for care and clarity, any oversight or omission is unintentional, and all work remains open to refinement as understanding grows.
+
+[1. ORIGINAL LINE TEXT]
+Language: Hebrew
+Manuscript Source: Leningrad Codex
+Line Reference: Genesis 1:21
+
+וַיִּבְרָא אֱלֹהִים אֶת־הַתַּנִּינִם הַגְּדֹלִים וְאֵת כָּל־נֶפֶשׁ הַחַיָּה הָרֹמֶשֶׂת אֲשֶׁר שָׁרְצוּ הַמַּיִם לְמִינֵהֶם וְאֵת כָּל־עוֹף כָּנָף לְמִינֵהוּ וַיַּרְא אֱלֹהִים כִּי־טוֹב
+
+[2. DIRECT TRANSLITERATION]
+
+vayivra Elohim et-ha-tanninim ha-gedolim ve-et kol-nefesh ha-chayyah ha-romeshes asher shar’tzu ha-mayim le-minehem ve-et kol-‘of kanaph le-minehu vayyar Elohim ki-tov
+
+[3. WORD-BY-WORD LEXICAL BREAKDOWN]
+
+[WORD 1]
+Original: וַיִּבְרָא
+Transliteration: vayivra
+Root: ברא (bara’)
+Part of Speech: Verb
+Grammar: Qal imperfect, 3rd masculine singular, vav-consecutive
+Lexical Range:
+
+to create
+
+to shape
+
+to form
+
+to bring into existence (used exclusively of divine activity in Hebrew Bible)
+
+[WORD 2]
+Original: אֱלֹהִים
+Transliteration: Elohim
+Root: אֱלֹהִים (Elohim)
+Part of Speech: Noun
+Grammar: Plural in form, singular in grammar here
+Lexical Range:
+
+God
+
+gods
+
+divine beings
+
+rulers, judges
+
+[WORD 3]
+Original: אֶת־
+Transliteration: et
+Part of Speech: Particle
+Grammar: Direct object marker
+Lexical Range:
+
+marks the definite direct object (no translation equivalent)
+
+[WORD 4]
+Original: הַתַּנִּינִם
+Transliteration: ha-tanninim
+Root: תַּנִּין (tannin)
+Part of Speech: Noun
+Grammar: Masculine plural with definite article
+Lexical Range:
+
+great sea creatures
+
+sea monsters
+
+serpents
+
+dragons
+
+large aquatic beings
+
+[WORD 5]
+Original: הַגְּדֹלִים
+Transliteration: ha-gedolim
+Root: גָּדוֹל (gadol)
+Part of Speech: Adjective
+Grammar: Masculine plural with definite article
+Lexical Range:
+
+great
+
+large
+
+mighty
+
+important
+
+[WORD 6]
+Original: וְאֵת
+Transliteration: ve-et
+Part of Speech: Particle with conjunction
+Grammar: Direct object marker + prefixed וְ
+Lexical Range:
+
+and [object marker]
+
+[WORD 7]
+Original: כָּל־נֶפֶשׁ
+Transliteration: kol-nefesh
+Root: נֶפֶשׁ (nefesh)
+Part of Speech: Noun in construct with כָּל (“all”)
+Grammar: Feminine singular in construct
+Lexical Range:
+
+every living being
+
+soul, life force
+
+person, self, creature
+
+[WORD 8]
+Original: הַחַיָּה
+Transliteration: ha-chayyah
+Root: חיה (chayah)
+Part of Speech: Adjective functioning as Noun
+Grammar: Feminine singular with article
+Lexical Range:
+
+living
+
+alive
+
+animate creature
+
+[WORD 9]
+Original: הָרֹמֶשֶׂת
+Transliteration: ha-romeshes
+Root: רָמַשׂ (ramas)
+Part of Speech: Verb (Participle, Qal, feminine singular) used substantively
+Lexical Range:
+
+creeping
+
+moving lightly
+
+crawling
+
+swarming
+
+[WORD 10]
+Original: אֲשֶׁר
+Transliteration: asher
+Part of Speech: Relative pronoun
+Lexical Range:
+
+which
+
+that
+
+who
+
+[WORD 11]
+Original: שָׁרְצוּ
+Transliteration: shar’tzu
+Root: שָׁרַץ (sharatz)
+Part of Speech: Verb
+Grammar: Qal perfect, 3rd plural
+Lexical Range:
+
+they swarmed
+
+they teemed
+
+they abounded
+
+[WORD 12]
+Original: הַמַּיִם
+Transliteration: ha-mayim
+Root: מַיִם (mayim)
+Part of Speech: Noun
+Grammar: Plural with definite article
+Lexical Range:
+
+waters
+
+seas, rivers
+
+liquid masses
+
+[WORD 13]
+Original: לְמִינֵהֶם
+Transliteration: le-minehem
+Root: מִין (min)
+Part of Speech: Noun construct with suffix
+Grammar: Masculine plural construct + 3rd masculine plural suffix
+Lexical Range:
+
+according to their kinds
+
+species, classifications
+
+[WORD 14]
+Original: וְאֵת כָּל־עוֹף כָּנָף
+Transliteration: ve-et kol-‘of kanaph
+Root: עוֹף (‘of) + כָּנָף (kanaph)
+Part of Speech: Noun construct phrase
+Grammar: Collective singular in construct with “wing”
+Lexical Range:
+
+every winged bird
+
+every flying creature of wing
+
+[WORD 15]
+Original: לְמִינֵהוּ
+Transliteration: le-minehu
+Root: מִין (min)
+Part of Speech: Noun construct with suffix
+Grammar: Masculine singular construct + 3rd masculine singular suffix
+Lexical Range:
+
+according to its kind
+
+[WORD 16]
+Original: וַיַּרְא
+Transliteration: vayyar
+Root: רָאָה (ra’ah)
+Part of Speech: Verb
+Grammar: Qal imperfect, 3rd masculine singular, vav-consecutive
+Lexical Range:
+
+to see
+
+to observe
+
+to look upon
+
+to perceive
+
+[WORD 17]
+Original: אֱלֹהִים
+Transliteration: Elohim
+Root: אֱלֹהִים (Elohim)
+Part of Speech: Noun
+Grammar: Plural in form, singular in grammar
+Lexical Range:
+
+God
+
+gods
+
+divine beings
+
+rulers, judges
+
+[WORD 18]
+Original: כִּי־טוֹב
+Transliteration: ki-tov
+Root: כִּי (ki) + טוֹב (tov)
+Part of Speech: Conjunction + Adjective
+Lexical Range:
+
+that it was good
+
+because good
+
+indeed good
+Lexical Range of טוֹב (tov):
+
+good
+
+pleasant
+
+desirable
+
+beneficial
+
+morally right
+
+valuable
+
+[4. STRUCTURAL NOTES]
+
+The verse has three creative objects: great sea creatures, swarming living beings of the waters, and winged birds.
+
+“Bara” (create) is the central verb, distinct from “asah” (make), often marking divine creation.
+
+Each group is described “le-min” (according to kind), reinforcing order and distinction.
+
+Closes with divine evaluation “ki-tov.”
+
+[5. VARIANT MANUSCRIPT NOTES]
+
+MT and DSS consistent.
+
+LXX: “καὶ ἐποίησεν ὁ θεὸς τὰ κήτη τὰ μεγάλα” (“and God made the great sea creatures”), using ποιέω (to make) instead of “create” (bara’).
+
+Samaritan Pentateuch follows MT.
+
+[6. STRUCTURAL CONNECTION TO OTHER LINES]
+
+Fulfillment of the command in v.20.
+
+First use of “bara” since v.1, highlighting importance of living creatures.
+
+Connects with vv.24–25 (land creatures) and anticipates vv.26–27 (humanity, also created with “bara”).
+
+[7. CAUTIONARY REMINDER]
+The content above does not represent a translation.
+No conclusions, smoothing, or interpretive decisions have been made.
+This file serves only to display the original structure and lexical range as transparently as possible.

@@ -1,0 +1,48 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00017
+[BOOK]: Genesis
+[CHAPTER]: 1
+[VERSE]: 17
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And God set them in the expanse of the heavens to give light upon the earth.
+
+[RENDERING NOTES]
+
+“Set” from וַיִּתֵּן (vayyiten), literally “gave,” rendered here as “set” to reflect spatial placement.
+“Them” = אֹתָם (otam), 3rd person masculine plural — refers to the luminaries from v.16.
+“In the expanse of the heavens” = בִּרְקִיעַ הַשָּׁמָיִם (birqia ha-shamayim), same phrasing as v.14 and v.15.
+“To give light” = לְהָאִיר (le-ha’ir), Hiphil infinitive — emphasizes illuminating purpose.
+“Upon the earth” = עַל־הָאָרֶץ (al-ha-aretz), consistent with previous use.
+
+[INSERTION / HELPER WORD TRACKING]
+
+“Set” substituted for “gave” to better convey spatial intention.
+“The” added to “expanse,” “heavens,” and “earth” for clarity and article match.
+“To give” used for Hiphil infinitive; no smoothing added.
+
+[CONTEXTUAL PLACEMENT]
+
+Describes execution of luminary placement after their creation in v.16.
+Fulfills function introduced in v.14 and reinforced in v.15.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Continues three-verse arc of divine light assignment: command (v.14), function (v.15), placement (v.17).
+Mirrors other Genesis 1 patterns: action + purpose.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

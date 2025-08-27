@@ -1,0 +1,244 @@
+=== LINE SOURCE FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00016
+[BOOK]: Genesis
+[CHAPTER]: 1
+[VERSE]: 16
+[FILE TYPE]: Line Source
+
+[INTRO]
+This file shows what the earliest Hebrew/Greek manuscripts say, word by word, before any interpretation.
+
+[PREFACE]
+This file presents the earliest traceable form of this line, drawn primarily from manuscript sources like the Leningrad Codex.
+Where other manuscript witnesses differ or offer meaningful variation (such as the Dead Sea Scrolls or the Samaritan Pentateuch), we remain watchful and will note those cases transparently when identified.
+Every word is shown with its full lexical range — without smoothing, interpretation, or insertion.
+This is not a translation or conclusion. It is a transparent starting point, open to personal encounter and divine resonance.
+We do not treat any human source as final — only as visible reference points for deeper unfolding.
+While we strive for care and clarity, any oversight or omission is unintentional, and all work remains open to refinement as understanding grows.
+
+[1. ORIGINAL LINE TEXT]
+Language: Hebrew
+Manuscript Source: Leningrad Codex
+Line Reference: Genesis 1:16
+
+וַיַּעַשׂ אֱלֹהִים אֶת־שְׁנֵי הַמְּאֹרֹת הַגְּדֹלִים אֶת־הַמָּאוֹר הַגָּדוֹל לְמֶמְשֶׁלֶת הַיּוֹם וְאֶת־הַמָּאוֹר הַקָּטֹן לְמֶמְשֶׁלֶת הַלַּיְלָה וְאֵת הַכּוֹכָבִים
+
+[2. DIRECT TRANSLITERATION]
+
+vayya‘as Elohim et-shnei ha-me’orot ha-gedolim et-ha-ma’or ha-gadol le-memshelet ha-yom ve-et-ha-ma’or ha-qaton le-memshelet ha-laylah ve-et ha-kokhavim
+
+[3. WORD-BY-WORD LEXICAL BREAKDOWN]
+
+[WORD 1]
+Original: וַיַּעַשׂ
+Transliteration: vayya‘as
+Root: עשה (asah)
+Part of Speech: Verb
+Grammar: Qal imperfect, 3rd masculine singular, vav-consecutive
+Lexical Range:
+
+to make
+
+to do
+
+to act
+
+to fashion
+
+to perform
+
+[WORD 2]
+Original: אֱלֹהִים
+Transliteration: Elohim
+Root: אֱלֹהִים (Elohim)
+Part of Speech: Noun
+Grammar: Plural in form, singular in grammar here
+Lexical Range:
+
+God
+
+gods
+
+divine beings
+
+rulers, judges
+
+[WORD 3]
+Original: אֶת־
+Transliteration: et
+Root: —
+Part of Speech: Particle
+Grammar: Direct object marker
+Lexical Range:
+
+marks the definite direct object (no direct equivalent in English)
+
+[WORD 4]
+Original: שְׁנֵי
+Transliteration: shnei
+Root: שני (shenayim)
+Part of Speech: Numeral
+Grammar: Construct dual form
+Lexical Range:
+
+two
+
+[WORD 5]
+Original: הַמְּאֹרֹת
+Transliteration: ha-me’orot
+Root: מָאוֹר (ma’or)
+Part of Speech: Noun
+Grammar: Masculine plural with definite article
+Lexical Range:
+
+lights
+
+luminaries
+
+shining bodies
+
+[WORD 6]
+Original: הַגְּדֹלִים
+Transliteration: ha-gedolim
+Root: גָּדוֹל (gadol)
+Part of Speech: Adjective
+Grammar: Masculine plural with definite article
+Lexical Range:
+
+great
+
+large
+
+important
+
+distinguished
+
+[WORD 7]
+Original: אֶת־הַמָּאוֹר הַגָּדוֹל
+Transliteration: et-ha-ma’or ha-gadol
+Root: מָאוֹר (ma’or) + גָּדוֹל (gadol)
+Part of Speech: Noun + Adjective
+Grammar: Masculine singular with definite article
+Lexical Range:
+
+the great light
+
+the larger luminary
+
+[WORD 8]
+Original: לְמֶמְשֶׁלֶת
+Transliteration: le-memshelet
+Root: מֶמְשָׁלָה (memshalah)
+Part of Speech: Noun
+Grammar: Feminine singular with prefixed לְ (“for, to”)
+Lexical Range:
+
+rule
+
+dominion
+
+authority
+
+governance
+
+[WORD 9]
+Original: הַיּוֹם
+Transliteration: ha-yom
+Root: יוֹם (yom)
+Part of Speech: Noun
+Grammar: Masculine singular with definite article
+Lexical Range:
+
+day
+
+daytime
+
+24-hour period
+
+time
+
+[WORD 10]
+Original: וְאֶת־הַמָּאוֹר הַקָּטֹן
+Transliteration: ve-et-ha-ma’or ha-qaton
+Root: מָאוֹר (ma’or) + קָטֹן (qaton)
+Part of Speech: Noun + Adjective
+Grammar: Masculine singular with definite article
+Lexical Range:
+
+the lesser light
+
+the smaller luminary
+
+[WORD 11]
+Original: לְמֶמְשֶׁלֶת
+Transliteration: le-memshelet
+Root: מֶמְשָׁלָה (memshalah)
+Part of Speech: Noun
+Grammar: Feminine singular with prefixed לְ
+Lexical Range:
+
+for rule
+
+for dominion
+
+for authority
+
+[WORD 12]
+Original: הַלַּיְלָה
+Transliteration: ha-laylah
+Root: לַיְלָה (laylah)
+Part of Speech: Noun
+Grammar: Masculine singular with definite article
+Lexical Range:
+
+night
+
+nighttime period
+
+darkness hours
+
+[WORD 13]
+Original: וְאֵת הַכּוֹכָבִים
+Transliteration: ve-et ha-kokhavim
+Root: כּוֹכָב (kokhav)
+Part of Speech: Noun
+Grammar: Masculine plural with definite article + prefixed וְ
+Lexical Range:
+
+stars
+
+celestial bodies
+
+[4. STRUCTURAL NOTES]
+
+The verse uses a threefold structure: “two great lights” → their specific functions (day/night) → addition of stars.
+
+The great/lesser distinction is functional (day/night governance), not necessarily size-related.
+
+The particle “et” marks each object of divine making.
+
+[5. VARIANT MANUSCRIPT NOTES]
+
+MT and DSS align closely.
+
+Septuagint renders “two great lights” as “δύο φωστῆρες τοὺς μεγάλους” (two great luminaries).
+
+Samaritan Pentateuch matches MT.
+
+[6. STRUCTURAL CONNECTION TO OTHER LINES]
+
+Direct fulfillment of the command in vv.14–15.
+
+Anticipates v.17, where God sets them in the expanse.
+
+Echoes “rule” motif found again in Psalm 136:7–9.
+
+[7. CAUTIONARY REMINDER]
+The content above does not represent a translation.
+No conclusions, smoothing, or interpretive decisions have been made.
+This file serves only to display the original structure and lexical range as transparently as possible.

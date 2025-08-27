@@ -1,0 +1,50 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00018
+[BOOK]: Genesis
+[CHAPTER]: 1
+[VERSE]: 18
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+To rule over the day and over the night, and to separate between the light and between the darkness. And God saw that it was good.
+
+[RENDERING NOTES]
+
+“To rule” = וְלִמְשֹׁל (ve-limshol), infinitive construct with prefixed conjunction — purpose clause.
+“Over the day and over the night” translates בַּיּוֹם וּבַלַּיְלָה, retaining dual governance.
+“To separate” = וּלְהַבְדִּיל (u-le-havdil), second infinitive construct, in parallel with “to rule.”
+“Between the light and between the darkness” = בֵּין הָאוֹר וּבֵין הַחֹשֶׁךְ, duplication of “between” (בֵּין) retains poetic emphasis.
+“And God saw that it was good” = וַיַּרְא אֱלֹהִים כִּי־טוֹב (vayyar Elohim ki-tov), repeated evaluative formula.
+
+[INSERTION / HELPER WORD TRACKING]
+
+“Over” inserted to clarify governing domains.
+“To” reflects purpose-driven infinitive forms.
+“That it was” added to preserve the common rendering of כִּי־טוֹב.
+No smoothing or embellishments added.
+
+[CONTEXTUAL PLACEMENT]
+
+Clarifies the functions assigned to luminaries after their creation and placement (vv.16–17).
+Emphasizes divine order through governance and distinction.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Mirrors v.4, where God separates light and darkness directly — here mediated by luminaries.
+Part of the four-verse arc (vv.14–18) defining the role of lights.
+Ends with standard evaluative refrain — thematic closure.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

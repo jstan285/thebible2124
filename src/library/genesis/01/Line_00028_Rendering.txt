@@ -1,0 +1,50 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00028
+[BOOK]: Genesis
+[CHAPTER]: 1
+[VERSE]: 28
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And God blessed them, and God said to them: Be fruitful and multiply and fill the earth and subdue it, and rule over the fish of the sea and the birds of the heavens and every living thing that moves upon the earth.
+
+[RENDERING NOTES]
+
+The line contains two main verbs of divine activity: “blessed” and “said.”
+Five imperatives follow: “be fruitful,” “multiply,” “fill,” “subdue,” and “rule.”
+Object scope includes all spheres of living creation: sea, sky, land.
+“Subdue” (כָּבַשׁ) is a strong verb, denoting constraint or management.
+“Rule” (רָדָה) aligns with dominion language from v.26, reinforcing commission.
+
+[INSERTION / HELPER WORD TRACKING]
+
+“And” reflects Hebrew vav-consecutive throughout.
+“To them” included for clarity from לָהֶם.
+Prepositions “of the,” “upon the” added for English readability; no conceptual insertions made.
+
+[CONTEXTUAL PLACEMENT]
+
+This line enacts the commission following the creation of humanity in v.27.
+Blessing and task are given together — echoing divine intention and partnership.
+Prepares the theological ground for stewardship, authority, and ecological relationship.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Mirrors v.22 (blessing to animals) but adds verbs of rulership.
+Final imperative section before food provision is introduced (vv.29–30).
+Begins the human vocation — the ongoing work of caring, cultivating, and managing.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

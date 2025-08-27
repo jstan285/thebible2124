@@ -1,0 +1,52 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00021
+[BOOK]: Genesis
+[CHAPTER]: 1
+[VERSE]: 21
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And God created the great sea creatures, and every living soul that swarms, which the waters swarmed according to their kinds, and every winged bird according to its kind. And God saw that it was good.
+
+[RENDERING NOTES]
+
+“Created” from וַיִּבְרָא (vayivra), Qal imperfect with vav-consecutive — marks divine creation.
+“Great sea creatures” = הַתַּנִּינִם הַגְּדֹלִים (ha-tanninim ha-gedolim) — majestic and mysterious aquatic beings.
+“Living soul” = נֶפֶשׁ הַחַיָּה (nefesh ha-chayyah) — emphasizes creaturely vitality.
+“That swarms” and “which the waters swarmed” = participle and verb (שָׁרְצוּ) — reflects ecological abundance.
+“According to their kinds” = לְמִינֵהֶם (le-minehem), mirrored with לְמִינֵהוּ (le-minehu) for birds — signals diversity within order.
+“Saw that it was good” = וַיַּרְא...כִּי־טוֹב (vayyar…ki-tov), divine affirmation formula.
+
+[INSERTION / HELPER WORD TRACKING]
+
+“The” added to “great sea creatures” and “waters” for English article clarity.
+“Which” included to preserve relative clause meaning from אֲשֶׁר (asher).
+“That” used for readability between clauses — traceable to Hebrew participle/verb pairing.
+No smoothing or rearrangement beyond clause preservation.
+
+[CONTEXTUAL PLACEMENT]
+
+Fulfills command of v.20 — actualization of life in sea and sky.
+First use of “bara” (create) since v.1 — signals theological and narrative weight.
+First divine seeing in relation to living creatures.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Triadic creation: sea monsters, water swarmers, winged birds.
+Parallels v.1 in verb choice (bara), foreshadows vv.24–27.
+“According to kind” reinforces taxonomic and orderly motif.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

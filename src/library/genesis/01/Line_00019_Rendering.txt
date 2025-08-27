@@ -1,0 +1,48 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00019
+[BOOK]: Genesis
+[CHAPTER]: 1
+[VERSE]: 19
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And it was evening, and it was morning — fourth day.
+
+[RENDERING NOTES]
+
+“And it was evening” = וַיְהִי־עֶרֶב (vayhi-erev), consistent phrase from prior creation days.
+“And it was morning” = וַיְהִי־בֹקֶר (vayhi-voqer), parallel structure.
+“Fourth day” = יוֹם רְבִיעִי (yom revi‘i), ordinal use of “four” matching day-sequence formula.
+Em dash used in English to indicate poetic pause between sequence and day name.
+
+[INSERTION / HELPER WORD TRACKING]
+
+No insertions needed.
+Em dash used for pacing — matches structural cadence of Hebrew.
+Articles (“the”) not added to “day” as not present in Hebrew text.
+
+[CONTEXTUAL PLACEMENT]
+
+Concludes the fourth creation day, specifically the creation and assignment of luminaries (vv.14–18).
+Marks temporal closure — evening/morning cycle confirms time-function alignment.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Echoes refrain from vv.5, 8, 13 — establishing liturgical cadence.
+Serves as a rhythmic checkpoint in the creation narrative.
+Embeds pattern recognition — sacred time begins in evening.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

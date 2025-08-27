@@ -1,0 +1,50 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00007
+[BOOK]: Genesis
+[CHAPTER]: 1
+[VERSE]: 7
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And God made the expanse, and separated between the waters that were beneath the expanse and between the waters that were above the expanse. And it was so.
+
+[RENDERING NOTES]
+
+“Made” translates וַיַּעַשׂ (vayya‘as), a Qal imperfect verb with vav-consecutive, indicating completed action.
+“The expanse” renders הָרָקִיעַ (ha-raqia), retaining the definite article.
+“Separated” reflects וַיַּבְדֵּל (vayyavdel), maintaining causative force of separation.
+“Between the waters…” reflects בֵּין הַמַּיִם… וּבֵין הַמַּיִם, preserving parallel structure.
+“That were beneath…” and “that were above…” translate אֲשֶׁר מִתַּחַת… and אֲשֶׁר מֵעַל…, keeping directional nuance.
+“And it was so” reflects וַיְהִי־כֵן (vayhi-ken), a formulaic fulfillment clause.
+
+[INSERTION / HELPER WORD TRACKING]
+
+Added “that were” for clarity in relative clauses.
+“The” added before “expanse” and “waters” to reflect Hebrew definiteness.
+“And” inserted before each main clause to reflect Hebrew vav-consecutives.
+
+[CONTEXTUAL PLACEMENT]
+
+This line fulfills the command given in Genesis 1:6.
+It confirms divine action, emphasizing separation and the ordering of primordial waters into layered structure.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Repeats the “made → separated” sequence used across Genesis 1.
+Uses the “bein… uvein…” separation formula consistent with lines 1:4 and 1:6.
+Ends with the fulfillment phrase “and it was so,” anchoring this verse within the creation rhythm.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

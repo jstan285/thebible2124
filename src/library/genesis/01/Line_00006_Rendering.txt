@@ -1,0 +1,52 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00006
+[BOOK]: Genesis
+[CHAPTER]: 1
+[VERSE]: 6
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And God said, “Let there be an expanse in the midst of the waters, and let it be separating between waters and waters.”
+
+[RENDERING NOTES]
+
+“Said” translates וַיֹּאמֶר (vayomer), maintaining narrative introduction of divine speech.
+“Let there be” reflects יְהִי (yehi), in the jussive form signaling permissive creation.
+“Expanse” renders רָקִיעַ (raqia), meaning an extended surface or firmament.
+“In the midst of the waters” translates בְּתוֹךְ הַמָּיִם (betokh ha-mayim), indicating spatial placement.
+“Let it be separating” reflects וִיהִי מַבְדִּיל (vihi mavdil), using a jussive plus a participial form for function.
+“Between waters and waters” reflects בֵּין מַיִם לָמָיִם (bein mayim la-mayim), a Hebrew idiom for spatial division.
+
+[INSERTION / HELPER WORD TRACKING]
+
+Quotation marks used for clarity of divine speech — not present in original.
+“The” inserted before “waters” to reflect definite article in Hebrew.
+“An” added before “expanse” to reflect English usage.
+“It be separating” adapts participle for functional clarity in English.
+
+[CONTEXTUAL PLACEMENT]
+
+This line initiates a second major creative act — introducing structure by division.
+Marks the first explicit reference to space (raqia) between previously unified elements (waters).
+Builds from earlier separations (light/dark) and anticipates future distinctions (day/night, land/sea).
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Continues the recurring divine speech → command → action pattern.
+The concept of “raqia” recurs in 1:7–8, anchoring this moment within a sequence of atmospheric distinctions.
+Echoes the separation motif from verse 4, extending the theme of divine ordering.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

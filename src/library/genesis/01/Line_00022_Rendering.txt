@@ -1,0 +1,50 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00022
+[BOOK]: Genesis
+[CHAPTER]: 1
+[VERSE]: 22
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And God blessed them, saying: Be fruitful and multiply and fill the waters in the seas, and let the bird multiply in the land.
+
+[RENDERING NOTES]
+
+“Blessed them” = וַיְבָרֶךְ אֹתָם (vayvarekh otam), first use of divine blessing in the creation narrative.
+“Saying” = לֵאמֹר (lemor), introduces direct speech.
+Imperatives “be fruitful,” “multiply,” “fill” directed toward sea life.
+“Let the bird multiply” uses imperfect יִרֶב (yirev), third person singular — ongoing process.
+“In the seas” = בַּיַּמִּים (ba-yamim), and “in the land” = בָּאָרֶץ (ba-aretz), mark domain-specific fruitfulness.
+
+[INSERTION / HELPER WORD TRACKING]
+
+“And” added for clause continuity — traces to Hebrew vav prefix.
+“Let” inserted to express jussive form in final clause.
+No articles or adjectives added beyond source.
+
+[CONTEXTUAL PLACEMENT]
+
+Immediately follows creation of marine and aerial life in v.21.
+Marks first instance of God blessing creation — introduces a new divine mode.
+Opens thematic trajectory of fruitfulness and generativity, echoed later with humanity.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Introduces three imperatives in parallel: be fruitful, multiply, fill — a generative triad.
+Blessing diverges from prior “God said / it was so” formula — represents divine engagement beyond command.
+“Multiply” used for both sea and air creatures, structurally linking domains.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

@@ -1,0 +1,51 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00026
+[BOOK]: Genesis
+[CHAPTER]: 1
+[VERSE]: 26
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And God said: Let us make humankind in our image, according to our likeness, and let them rule over the fish of the sea, and over the birds of the heavens, and over the cattle, and over all the earth, and over every creeping thing that creeps upon the earth.
+
+[RENDERING NOTES]
+
+“Let us make” (נַעֲשֶׂה) is a plural cohortative/jussive form — divine self-deliberation, unique in the creation account.
+“Humankind” (אָדָם) can be read collectively or as an archetype — ambiguity is intentional.
+“In our image / according to our likeness” (בְּצַלְמֵנוּ / כִּדְמוּתֵנוּ) — parallel phrases linking identity and function.
+The ruling mandate (וְיִרְדּוּ) covers five domains: sea, sky, domestic animals, earth, creeping things.
+"Creeping thing that creeps" — poetic intensification through noun + participle.
+Phrase repetition structures dominion as encompassing and relational.
+
+[INSERTION / HELPER WORD TRACKING]
+
+“Let us” reflects jussive form; “them” added for verb agreement in English.
+“Of the” and “over the” included to match English prepositional clarity.
+No conceptual insertions beyond surface adjustments.
+
+[CONTEXTUAL PLACEMENT]
+
+This is the first divine statement regarding human identity and role.
+Precedes the actual creation (v.27) and blessing/commission (v.28).
+Climax of the structured unfolding from light through land to life.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Balances earlier “Let the earth/waters bring forth” lines with a direct divine involvement.
+Parallel with v.27 in form and theme — these two lines are a conceptual pair.
+Builds the theological scaffold for later human-divine relationships throughout scripture.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

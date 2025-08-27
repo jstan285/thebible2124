@@ -1,0 +1,293 @@
+=== LINE SOURCE FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00011
+[BOOK]: Genesis
+[CHAPTER]: 1
+[VERSE]: 11
+[FILE TYPE]: Line Source
+
+[INTRO]
+This file shows what the earliest Hebrew/Greek manuscripts say, word by word, before any interpretation.
+
+[PREFACE]
+This file presents the earliest traceable form of this line, drawn primarily from manuscript sources like the Leningrad Codex.
+Where other manuscript witnesses differ or offer meaningful variation (such as the Dead Sea Scrolls or the Samaritan Pentateuch), we remain watchful and will note those cases transparently when identified.
+Every word is shown with its full lexical range — without smoothing, interpretation, or insertion.
+This is not a translation or conclusion. It is a transparent starting point, open to personal encounter and divine resonance.
+We do not treat any human source as final — only as visible reference points for deeper unfolding.
+While we strive for care and clarity, any oversight or omission is unintentional, and all work remains open to refinement as understanding grows.
+
+[1. ORIGINAL LINE TEXT]
+Language: Hebrew
+Manuscript Source: Leningrad Codex
+Line Reference: Genesis 1:11
+
+וַיֹּאמֶר אֱלֹהִים תַּדְשֵׁא הָאָרֶץ דֶּשֶׁא עֵשֶׂב מַזְרִיעַ זֶרַע עֵץ פְּרִי עֹשֶׂה פְּרִי לְמִינוֹ אֲשֶׁר זַרְעוֹ־בוֹ עַל־הָאָרֶץ וַיְהִי־כֵן
+
+[2. DIRECT TRANSLITERATION]
+
+vayomer Elohim tad’she ha-aretz deshe esev mazria zera etz peri oseh peri le-mino asher zar‘o-vo al-ha-aretz vayhi-ken
+
+[3. WORD-BY-WORD LEXICAL BREAKDOWN]
+
+[WORD 1]
+Original: וַיֹּאמֶר
+Transliteration: vayomer
+Root: אמר (amar)
+Part of Speech: Verb
+Grammar: Qal imperfect, 3rd masculine singular, vav-consecutive
+Lexical Range:
+
+to say
+
+to speak
+
+to command
+
+to declare
+
+[WORD 2]
+Original: אֱלֹהִים
+Transliteration: Elohim
+Root: אֱלֹהִים (Elohim)
+Part of Speech: Noun
+Grammar: Plural in form, singular in usage here
+Lexical Range:
+
+God
+
+gods
+
+divine beings
+
+rulers, judges
+
+[WORD 3]
+Original: תַּדְשֵׁא
+Transliteration: tad’she
+Root: דשא (dasha)
+Part of Speech: Verb
+Grammar: Hiphil imperfect, 3rd feminine singular (with subject: ha-aretz)
+Lexical Range:
+
+to sprout
+
+to produce vegetation
+
+to bring forth fresh growth
+
+[WORD 4]
+Original: הָאָרֶץ
+Transliteration: ha-aretz
+Root: ארץ (erets)
+Part of Speech: Noun
+Grammar: Feminine singular with definite article
+Lexical Range:
+
+earth
+
+land
+
+ground
+
+[WORD 5]
+Original: דֶּשֶׁא
+Transliteration: deshe
+Root: דֶּשֶׁא (deshe)
+Part of Speech: Noun
+Grammar: Masculine singular
+Lexical Range:
+
+grass
+
+tender green growth
+
+vegetation
+
+[WORD 6]
+Original: עֵשֶׂב
+Transliteration: esev
+Root: עֵשֶׂב (esev)
+Part of Speech: Noun
+Grammar: Masculine singular
+Lexical Range:
+
+plant
+
+herb
+
+vegetation
+
+[WORD 7]
+Original: מַזְרִיעַ
+Transliteration: mazria
+Root: זרע (zara‘)
+Part of Speech: Verb (participle, Hiphil)
+Grammar: Masculine singular
+Lexical Range:
+
+bearing seed
+
+causing to sow
+
+yielding
+
+[WORD 8]
+Original: זֶרַע
+Transliteration: zera
+Root: זרע (zera‘)
+Part of Speech: Noun
+Grammar: Masculine singular
+Lexical Range:
+
+seed
+
+offspring
+
+descendant
+
+semen
+
+[WORD 9]
+Original: עֵץ
+Transliteration: etz
+Root: עֵץ (etz)
+Part of Speech: Noun
+Grammar: Masculine singular
+Lexical Range:
+
+tree
+
+wood
+
+timber
+
+[WORD 10]
+Original: פְּרִי
+Transliteration: peri
+Root: פְּרִי (peri)
+Part of Speech: Noun
+Grammar: Masculine singular
+Lexical Range:
+
+fruit
+
+produce
+
+offspring
+
+[WORD 11]
+Original: עֹשֶׂה
+Transliteration: oseh
+Root: עשה (asah)
+Part of Speech: Verb (participle, Qal)
+Grammar: Masculine singular
+Lexical Range:
+
+making
+
+producing
+
+doing
+
+bringing forth
+
+[WORD 12]
+Original: פְּרִי
+Transliteration: peri
+Root: פְּרִי (peri)
+Part of Speech: Noun
+Grammar: Masculine singular
+Lexical Range:
+
+fruit
+
+produce
+
+[WORD 13]
+Original: לְמִינוֹ
+Transliteration: le-mino
+Root: מין (min)
+Part of Speech: Noun with prefixed לְ and suffix pronoun
+Grammar: Masculine singular construct
+Lexical Range:
+
+according to its kind
+
+species, category
+
+[WORD 14]
+Original: אֲשֶׁר
+Transliteration: asher
+Root: אֲשֶׁר
+Part of Speech: Relative pronoun
+Lexical Range:
+
+which
+
+that
+
+who
+
+[WORD 15]
+Original: זַרְעוֹ־בוֹ
+Transliteration: zar‘o-vo
+Root: זרע (zera‘)
+Part of Speech: Noun with suffix + preposition
+Grammar: Masculine singular construct with 3rd masculine singular suffix + בְּ
+Lexical Range:
+
+its seed in it
+
+[WORD 16]
+Original: עַל־הָאָרֶץ
+Transliteration: al-ha-aretz
+Root: על (‘al) + ארץ (erets)
+Part of Speech: Preposition + Noun
+Grammar: Construct
+Lexical Range:
+
+upon the earth
+
+over the land
+
+[WORD 17]
+Original: וַיְהִי־כֵן
+Transliteration: vayhi-ken
+Root: היה (hayah) + כֵּן (ken)
+Part of Speech: Verb + Adverb
+Grammar: Qal imperfect, vav-consecutive + adverb
+Lexical Range:
+
+and it was so
+
+and thus it came to be
+
+[4. STRUCTURAL NOTES]
+
+The verse contains three coordinated categories of vegetation: “grass,” “plants yielding seed,” and “fruit trees producing fruit.”
+
+Each is qualified by the reproductive formula “according to its kind.”
+
+Ends with the fulfillment marker “vayhi-ken.”
+
+[5. VARIANT MANUSCRIPT NOTES]
+
+DSS fragments (4QGen) largely align with MT.
+
+Septuagint: ἐξαγαγέτω ἡ γῆ χόρτον χόρτου… (“let the earth bring forth grass/herb…”).
+
+[6. STRUCTURAL CONNECTION TO OTHER LINES]
+
+Parallels Genesis 1:12 (fulfillment).
+
+Anticipates Genesis 1:29–30, where vegetation is designated as food.
+
+[7. CAUTIONARY REMINDER]
+The content above does not represent a translation.
+No conclusions, smoothing, or interpretive decisions have been made.
+This file serves only to display the original structure and lexical range as transparently as possible.

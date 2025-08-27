@@ -1,0 +1,56 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00011
+[BOOK]: Genesis
+[CHAPTER]: 1
+[VERSE]: 11
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And God said, “Let the earth sprout vegetation — grass, plants bearing seed, fruit trees making fruit according to its kind, whose seed is in it — upon the earth.” And it was so.
+
+[RENDERING NOTES]
+
+“Said” from וַיֹּאמֶר (vayomer), standard divine speech introduction.
+“Let the earth sprout” translates תַּדְשֵׁא (tad’she), Hiphil form, signaling causative emergence.
+“Vegetation” combines דֶּשֶׁא (deshe) and עֵשֶׂב (esev) — “grass” and “plant,” respectively.
+“Bearing seed” reflects מַזְרִיעַ זֶרַע (mazria zera), a participle construction emphasizing action.
+“Fruit trees” from עֵץ פְּרִי (etz peri), followed by participial phrase “making fruit.”
+“According to its kind” is לְמִינוֹ (le-mino), common Genesis taxonomic phrase.
+“Whose seed is in it” = אֲשֶׁר זַרְעוֹ־בוֹ (asher zar‘o-vo), clarifying internal generativity.
+“Upon the earth” = עַל־הָאָרֶץ (al ha-aretz), reasserting terrestrial domain.
+Closes with וַיְהִי־כֵן (vayhi-ken): “And it was so.”
+
+[INSERTION / HELPER WORD TRACKING]
+
+Quotation marks added to frame direct speech.
+Em dash inserted for clarity in vegetation list.
+“Let” used to mark jussive intent of divine command.
+“Is” added in “whose seed is in it” for English readability.
+“Making” used to preserve participial aspect of עֹשֶׂה (oseh).
+
+[CONTEXTUAL PLACEMENT]
+
+Follows naming and structuring of Earth and Seas (v.10).
+Marks the first biological emergence — plant life.
+Establishes generativity and classification before fauna are introduced.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+First command to the earth to generate autonomously.
+Thematic echo of separation and structure — now applied to organic systems.
+Prepares for fulfillment in v.12 and provisioning themes in v.29.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

@@ -1,0 +1,259 @@
+=== LINE SOURCE FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00020
+[BOOK]: Genesis
+[CHAPTER]: 1
+[VERSE]: 20
+[FILE TYPE]: Line Source
+
+[INTRO]
+This file shows what the earliest Hebrew/Greek manuscripts say, word by word, before any interpretation.
+
+[PREFACE]
+This file presents the earliest traceable form of this line, drawn primarily from manuscript sources like the Leningrad Codex.
+Where other manuscript witnesses differ or offer meaningful variation (such as the Dead Sea Scrolls or the Samaritan Pentateuch), we remain watchful and will note those cases transparently when identified.
+Every word is shown with its full lexical range — without smoothing, interpretation, or insertion.
+This is not a translation or conclusion. It is a transparent starting point, open to personal encounter and divine resonance.
+We do not treat any human source as final — only as visible reference points for deeper unfolding.
+While we strive for care and clarity, any oversight or omission is unintentional, and all work remains open to refinement as understanding grows.
+
+[1. ORIGINAL LINE TEXT]
+Language: Hebrew
+Manuscript Source: Leningrad Codex
+Line Reference: Genesis 1:20
+
+וַיֹּאמֶר אֱלֹהִים יִשְׁרְצוּ הַמַּיִם שֶׁרֶץ נֶפֶשׁ חַיָּה וְעוֹף יְעוֹפֵף עַל־הָאָרֶץ עַל־פְּנֵי רְקִיעַ הַשָּׁמָיִם
+
+[2. DIRECT TRANSLITERATION]
+
+vayomer Elohim yishretzu ha-mayim sheretz nefesh chayyah ve-‘of ye‘ofef al-ha-aretz al-penei reqia ha-shamayim
+
+[3. WORD-BY-WORD LEXICAL BREAKDOWN]
+
+[WORD 1]
+Original: וַיֹּאמֶר
+Transliteration: vayomer
+Root: אמר (amar)
+Part of Speech: Verb
+Grammar: Qal imperfect, 3rd masculine singular, vav-consecutive
+Lexical Range:
+
+to say
+
+to speak
+
+to command
+
+to declare
+
+[WORD 2]
+Original: אֱלֹהִים
+Transliteration: Elohim
+Root: אֱלֹהִים (Elohim)
+Part of Speech: Noun
+Grammar: Plural in form, singular in function
+Lexical Range:
+
+God
+
+gods
+
+divine beings
+
+rulers, judges
+
+[WORD 3]
+Original: יִשְׁרְצוּ
+Transliteration: yishretzu
+Root: שָׁרַץ (sharatz)
+Part of Speech: Verb
+Grammar: Qal imperfect, 3rd plural
+Lexical Range:
+
+to swarm
+
+to teem
+
+to abound
+
+to multiply abundantly
+
+[WORD 4]
+Original: הַמַּיִם
+Transliteration: ha-mayim
+Root: מַיִם (mayim)
+Part of Speech: Noun
+Grammar: Plural with definite article
+Lexical Range:
+
+waters
+
+liquid bodies
+
+seas, rivers
+
+[WORD 5]
+Original: שֶׁרֶץ
+Transliteration: sheretz
+Root: שֶׁרֶץ (sheretz)
+Part of Speech: Noun
+Grammar: Masculine singular
+Lexical Range:
+
+swarm
+
+teeming thing
+
+creeping thing
+
+collective masses of small creatures
+
+[WORD 6]
+Original: נֶפֶשׁ
+Transliteration: nefesh
+Root: נֶפֶשׁ (nefesh)
+Part of Speech: Noun
+Grammar: Feminine singular
+Lexical Range:
+
+soul
+
+living being
+
+life force
+
+person, individual life
+
+appetite, desire
+
+[WORD 7]
+Original: חַיָּה
+Transliteration: chayyah
+Root: חיה (chayah)
+Part of Speech: Adjective functioning as Noun
+Grammar: Feminine singular
+Lexical Range:
+
+living
+
+alive
+
+life-bearing
+
+creature, animal
+
+[WORD 8]
+Original: וְעוֹף
+Transliteration: ve-‘of
+Root: עוֹף (‘of)
+Part of Speech: Noun with conjunction
+Grammar: Masculine singular collective
+Lexical Range:
+
+bird
+
+flying creature
+
+fowl
+
+[WORD 9]
+Original: יְעוֹפֵף
+Transliteration: ye‘ofef
+Root: עוּף (‘uf)
+Part of Speech: Verb
+Grammar: Polel imperfect, 3rd masculine singular
+Lexical Range:
+
+to fly about
+
+to flutter
+
+to hover
+
+to move with wings
+
+[WORD 10]
+Original: עַל־הָאָרֶץ
+Transliteration: al-ha-aretz
+Root: על (‘al) + ארץ (erets)
+Part of Speech: Preposition + Noun
+Grammar: Feminine singular with definite article
+Lexical Range:
+
+over the earth
+
+upon the land
+
+across the ground
+
+[WORD 11]
+Original: עַל־פְּנֵי
+Transliteration: al-penei
+Root: על (‘al) + פנים (panim)
+Part of Speech: Preposition + Noun (construct plural)
+Lexical Range:
+
+upon the face of
+
+over the surface of
+
+[WORD 12]
+Original: רְקִיעַ
+Transliteration: reqia
+Root: רקע (raqia)
+Part of Speech: Noun
+Grammar: Masculine singular
+Lexical Range:
+
+expanse
+
+firmament
+
+extended surface
+
+[WORD 13]
+Original: הַשָּׁמַיִם
+Transliteration: ha-shamayim
+Root: שָׁמַיִם (shamayim)
+Part of Speech: Noun
+Grammar: Plural with definite article
+Lexical Range:
+
+heavens
+
+skies
+
+celestial realm
+
+[4. STRUCTURAL NOTES]
+
+The verse contains two clauses: (1) waters swarming with living beings, (2) birds flying across the expanse.
+
+The parallel verbs “yishretzu” (swarm) and “ye‘ofef” (fly about) emphasize abundance and activity.
+
+“Al-penei reqia ha-shamayim” specifies the spatial domain of bird flight.
+
+[5. VARIANT MANUSCRIPT NOTES]
+
+MT and DSS consistent.
+
+LXX: “ἐξαγαγέτω τὰ ὕδατα ἑρπετὰ ψυχῶν ζώσης καὶ πετεινὰ πετόμενα ἐπάνω τῆς γῆς κατὰ τὸ στερέωμα τοῦ οὐρανοῦ” (“let the waters bring forth creeping things of living soul, and flying birds above the earth across the firmament of heaven”).
+
+Samaritan Pentateuch agrees with MT.
+
+[6. STRUCTURAL CONNECTION TO OTHER LINES]
+
+Introduces creation of living creatures, parallel to vegetation in vv.11–12.
+
+First mention of “nefesh chayyah” (living soul/being), recurring in vv.21, 24, 30.
+
+Prepares for fulfillment in v.21.
+
+[7. CAUTIONARY REMINDER]
+The content above does not represent a translation.
+No conclusions, smoothing, or interpretive decisions have been made.
+This file serves only to display the original structure and lexical range as transparently as possible.

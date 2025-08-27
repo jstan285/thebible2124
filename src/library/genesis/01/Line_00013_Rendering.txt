@@ -1,0 +1,48 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00013
+[BOOK]: Genesis
+[CHAPTER]: 1
+[VERSE]: 13
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And it was evening, and it was morning — the third day.
+
+[RENDERING NOTES]
+
+“And it was evening” = וַיְהִי־עֶרֶב (vayhi-erev), standard close to the creative day.
+“And it was morning” = וַיְהִי־בֹקֶר (vayhi-voqer), in sequence with evening.
+“The third day” from יוֹם שְׁלִישִׁי (yom shelishi) — masculine singular ordinal structure.
+Follows identical syntactic pattern to Genesis 1:5 and 1:8.
+
+[INSERTION / HELPER WORD TRACKING]
+
+Em dash added for rhythm and pause before day identifier.
+“The” before “third day” added for English readability.
+No interpretive or smoothing language included.
+
+[CONTEXTUAL PLACEMENT]
+
+Concludes the third day of creation, which encompassed land emergence (v.9), naming (v.10), and vegetation (vv.11–12).
+The refrains “evening” and “morning” function as temporal bookends and sacred pacing markers.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Third repetition of the evening-morning formula, anchoring Genesis 1’s rhythm.
+Each repetition strengthens the cycle of order, closure, and progression.
+Prepares reader for the shift to celestial bodies in verse 14.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

@@ -1,0 +1,48 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00008
+[BOOK]: Genesis
+[CHAPTER]: 1
+[VERSE]: 8
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And God called the expanse “heavens.” And it was evening, and it was morning — second day.
+
+[RENDERING NOTES]
+
+“Called” reflects וַיִּקְרָא (vayiqra), preserving the naming function in direct speech form.
+“The expanse” renders לָרָקִיעַ (la-raqia), with prefixed definite article intact.
+“Heavens” translates שָׁמָיִם (shamayim), a plural or dual-form noun referring to sky or celestial realms.
+“And it was evening, and it was morning” preserves the repeated structure of Genesis 1 temporal phrasing.
+“Second day” translates יוֹם שֵׁנִי (yom sheni), combining noun and ordinal adjective.
+
+[INSERTION / HELPER WORD TRACKING]
+
+Quotation marks added around “heavens” to clarify naming.
+“And” added at each clause opening to maintain rhythm and reflect Hebrew vav-consecutives.
+Em dash added before “second day” to mirror pacing of earlier lines.
+
+[CONTEXTUAL PLACEMENT]
+
+This line concludes the creation of the raqia from the previous verse and assigns its identity as “heavens.”
+Reinforces temporal rhythm established in Genesis 1:5, marking the completion of the second creation phase.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Mirrors the structure of Genesis 1:5 — naming followed by temporal conclusion.
+Confirms the fulfillment of the divine action begun in Genesis 1:6–7.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

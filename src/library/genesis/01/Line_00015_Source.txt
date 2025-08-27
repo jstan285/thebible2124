@@ -1,0 +1,163 @@
+=== LINE SOURCE FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00015
+[BOOK]: Genesis
+[CHAPTER]: 1
+[VERSE]: 15
+[FILE TYPE]: Line Source
+
+[INTRO]
+This file shows what the earliest Hebrew/Greek manuscripts say, word by word, before any interpretation.
+
+[PREFACE]
+This file presents the earliest traceable form of this line, drawn primarily from manuscript sources like the Leningrad Codex.
+Where other manuscript witnesses differ or offer meaningful variation (such as the Dead Sea Scrolls or the Samaritan Pentateuch), we remain watchful and will note those cases transparently when identified.
+Every word is shown with its full lexical range — without smoothing, interpretation, or insertion.
+This is not a translation or conclusion. It is a transparent starting point, open to personal encounter and divine resonance.
+We do not treat any human source as final — only as visible reference points for deeper unfolding.
+While we strive for care and clarity, any oversight or omission is unintentional, and all work remains open to refinement as understanding grows.
+
+[1. ORIGINAL LINE TEXT]
+Language: Hebrew
+Manuscript Source: Leningrad Codex
+Line Reference: Genesis 1:15
+
+וְהָיוּ לִמְאֹרוֹת בִּרְקִיעַ הַשָּׁמַיִם לְהָאִיר עַל־הָאָרֶץ וַיְהִי־כֵן
+
+[2. DIRECT TRANSLITERATION]
+
+vehayu li-me’orot birqia ha-shamayim le-ha’ir al-ha-aretz vayhi-ken
+
+[3. WORD-BY-WORD LEXICAL BREAKDOWN]
+
+[WORD 1]
+Original: וְהָיוּ
+Transliteration: vehayu
+Root: היה (hayah)
+Part of Speech: Verb
+Grammar: Qal perfect, 3rd person plural, with prefixed וְ (vav-consecutive)
+Lexical Range:
+
+and they were
+
+and they came into being
+
+and they became
+
+[WORD 2]
+Original: לִמְאֹרוֹת
+Transliteration: li-me’orot
+Root: מָאוֹר (ma’or)
+Part of Speech: Noun
+Grammar: Masculine plural with prefixed לְ (“for, as, to”)
+Lexical Range:
+
+luminaries
+
+lights, sources of light
+
+shining objects
+
+[WORD 3]
+Original: בִּרְקִיעַ
+Transliteration: birqia
+Root: רקע (raqia)
+Part of Speech: Noun
+Grammar: Masculine singular with prefixed בְּ (“in”)
+Lexical Range:
+
+expanse
+
+firmament
+
+extended surface
+
+sky dome
+
+[WORD 4]
+Original: הַשָּׁמַיִם
+Transliteration: ha-shamayim
+Root: שָׁמַיִם (shamayim)
+Part of Speech: Noun
+Grammar: Plural with definite article
+Lexical Range:
+
+heavens
+
+skies
+
+celestial realm
+
+[WORD 5]
+Original: לְהָאִיר
+Transliteration: le-ha’ir
+Root: אוֹר (or)
+Part of Speech: Verb (Infinitive Construct, Hiphil)
+Lexical Range:
+
+to give light
+
+to shine upon
+
+to illuminate
+
+[WORD 6]
+Original: עַל־הָאָרֶץ
+Transliteration: al-ha-aretz
+Root: על (‘al) + ארץ (erets)
+Part of Speech: Preposition + Noun
+Grammar: Construct with definite article
+Lexical Range:
+
+upon the earth
+
+over the land
+
+on the ground
+
+[WORD 7]
+Original: וַיְהִי־כֵן
+Transliteration: vayhi-ken
+Root: היה (hayah) + כֵּן (ken)
+Part of Speech: Verb + Adverb
+Grammar: Qal imperfect, 3rd masculine singular with vav-consecutive + adverb
+Lexical Range:
+
+and it was so
+
+and thus it came to be
+
+and it happened accordingly
+
+[4. STRUCTURAL NOTES]
+
+This verse continues the command from v.14 with purpose (“to give light upon the earth”).
+
+It employs an infinitive construct (“le-ha’ir”) to express the function of the luminaries.
+
+The closing “vayhi-ken” is the standard fulfillment marker in Genesis 1.
+
+[5. VARIANT MANUSCRIPT NOTES]
+
+MT and DSS are consistent.
+
+Septuagint: “καὶ ἔστωσαν εἰς φωστῆρας… τοῦ φαίνειν ἐπὶ τῆς γῆς” (“and let them be for lights… to shine upon the earth”), closely paralleling Hebrew structure.
+
+Samaritan Pentateuch aligns with MT wording.
+
+[6. STRUCTURAL CONNECTION TO OTHER LINES]
+
+Builds on v.14’s introduction of luminaries and anticipates their making in v.16.
+
+Function of illumination echoes Genesis 1:3–4 (light vs. darkness).
+
+“Vayhi-ken” refrain appears in vv.7, 9, 11, 24, serving as divine confirmation.
+
+[7. CAUTIONARY REMINDER]
+The content above does not represent a translation.
+No conclusions, smoothing, or interpretive decisions have been made.
+This file serves only to display the original structure and lexical range as transparently as possible.

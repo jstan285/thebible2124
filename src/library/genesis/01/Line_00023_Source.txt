@@ -1,0 +1,126 @@
+=== LINE SOURCE FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00023
+[BOOK]: Genesis
+[CHAPTER]: 1
+[VERSE]: 23
+[FILE TYPE]: Line Source
+
+[INTRO]
+This file shows what the earliest Hebrew/Greek manuscripts say, word by word, before any interpretation.
+
+[PREFACE]
+This file presents the earliest traceable form of this line, drawn primarily from manuscript sources like the Leningrad Codex.
+Where other manuscript witnesses differ or offer meaningful variation (such as the Dead Sea Scrolls or the Samaritan Pentateuch), we remain watchful and will note those cases transparently when identified.
+Every word is shown with its full lexical range — without smoothing, interpretation, or insertion.
+This is not a translation or conclusion. It is a transparent starting point, open to personal encounter and divine resonance.
+We do not treat any human source as final — only as visible reference points for deeper unfolding.
+While we strive for care and clarity, any oversight or omission is unintentional, and all work remains open to refinement as understanding grows.
+
+[1. ORIGINAL LINE TEXT]
+Language: Hebrew
+Manuscript Source: Leningrad Codex
+Line Reference: Genesis 1:23
+
+וַיְהִי־עֶרֶב וַיְהִי־בֹקֶר יוֹם חֲמִישִׁי
+
+[2. DIRECT TRANSLITERATION]
+
+vayhi-erev vayhi-voqer yom chamishi
+
+[3. WORD-BY-WORD LEXICAL BREAKDOWN]
+
+[WORD 1]
+Original: וַיְהִי־עֶרֶב
+Transliteration: vayhi-erev
+Root: היה (hayah) + עֶרֶב (erev)
+Part of Speech: Verb + Noun
+Grammar: Qal imperfect, 3rd masculine singular, vav-consecutive + noun
+Lexical Range:
+
+and it was evening
+
+dusk
+
+sunset
+
+the time of growing dark
+
+[WORD 2]
+Original: וַיְהִי־בֹקֶר
+Transliteration: vayhi-voqer
+Root: היה (hayah) + בֹּקֶר (boqer)
+Part of Speech: Verb + Noun
+Grammar: Qal imperfect, 3rd masculine singular, vav-consecutive + noun
+Lexical Range:
+
+and it was morning
+
+dawn
+
+daybreak
+
+the time of early light
+
+[WORD 3]
+Original: יוֹם
+Transliteration: yom
+Root: יוֹם (yom)
+Part of Speech: Noun
+Grammar: Masculine singular
+Lexical Range:
+
+day (24-hour period)
+
+daytime (light portion)
+
+time, period, age
+
+lifetime, season
+
+[WORD 4]
+Original: חֲמִישִׁי
+Transliteration: chamishi
+Root: חמש (chamesh, “five”)
+Part of Speech: Adjective (ordinal)
+Grammar: Masculine singular
+Lexical Range:
+
+fifth
+
+fifth in order or sequence
+
+ordinal of “five”
+
+[4. STRUCTURAL NOTES]
+
+Formulaic refrain: “and it was evening, and it was morning, [ordinal] day.”
+
+This refrain marks the conclusion of the fifth creative sequence.
+
+The ordinals advance narrative progression and structure the creation account.
+
+[5. VARIANT MANUSCRIPT NOTES]
+
+MT and DSS are consistent.
+
+Septuagint: “καὶ ἐγένετο ἑσπέρα καὶ ἐγένετο πρωί, ἡμέρα πέμπτη” (“and it became evening and it became morning, fifth day”).
+
+Samaritan Pentateuch agrees with MT.
+
+[6. STRUCTURAL CONNECTION TO OTHER LINES]
+
+Completes Day Five, following the blessing of sea creatures and birds (vv.20–22).
+
+Parallel to vv.5, 8, 13, 19; anticipates vv.31 as the final refrain.
+
+Provides closure before transition to land creatures and humanity in Day Six (vv.24–31).
+
+[7. CAUTIONARY REMINDER]
+The content above does not represent a translation.
+No conclusions, smoothing, or interpretive decisions have been made.
+This file serves only to display the original structure and lexical range as transparently as possible.

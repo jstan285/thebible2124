@@ -1,0 +1,51 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00020
+[BOOK]: Genesis
+[CHAPTER]: 1
+[VERSE]: 20
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And God said: Let the waters swarm with a swarm of living soul, and let the bird fly over the earth across the face of the expanse of the heavens.
+
+[RENDERING NOTES]
+
+“Let…swarm” from יִשְׁרְצוּ (yishretzu), 3rd person plural Qal imperfect — permissive jussive form.
+“Swarm of living soul” renders שֶׁרֶץ נֶפֶשׁ חַיָּה (sheretz nefesh chayyah) — teeming creature with living being.
+“Let the bird fly” from יְעוֹפֵף (‘ye‘ofef), Polel imperfect — emphasizes fluttering, active motion.
+“Over the earth…face of the expanse” preserves spatial dual-preposition structure: עַל־הָאָרֶץ עַל־פְּנֵי רְקִיעַ הַשָּׁמַיִם.
+Maintains Hebrew parallelism between water-bound teeming and sky-borne movement.
+
+[INSERTION / HELPER WORD TRACKING]
+
+“Let” inserted for jussive command tone — matches Genesis 1 stylistic precedent.
+“With a” inserted for smoother English readability around “swarm of living soul.”
+“The” added to “waters,” “earth,” “expanse,” and “heavens” to reflect Hebrew definite articles.
+“And” at mid-point retained from Hebrew vav.
+
+[CONTEXTUAL PLACEMENT]
+
+Begins Day Five of creation — introduces first mobile, animate life.
+First appearance of “living soul” (nefesh chayyah) — foundational term for creaturely life.
+Establishes dual creation domains: aquatic and aerial.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Structural parallel to v.11 (“Let the earth sprout vegetation”) — domain-based creative command.
+Prepares linguistic and thematic frame for v.21, where this command is fulfilled.
+Repetition of motion verbs (swarm, fly) signals animate abundance.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

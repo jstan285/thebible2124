@@ -1,0 +1,244 @@
+=== LINE SOURCE FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00012
+[BOOK]: Genesis
+[CHAPTER]: 1
+[VERSE]: 12
+[FILE TYPE]: Line Source
+
+[INTRO]
+This file shows what the earliest Hebrew/Greek manuscripts say, word by word, before any interpretation.
+
+[PREFACE]
+This file presents the earliest traceable form of this line, drawn primarily from manuscript sources like the Leningrad Codex.
+Where other manuscript witnesses differ or offer meaningful variation (such as the Dead Sea Scrolls or the Samaritan Pentateuch), we remain watchful and will note those cases transparently when identified.
+Every word is shown with its full lexical range — without smoothing, interpretation, or insertion.
+This is not a translation or conclusion. It is a transparent starting point, open to personal encounter and divine resonance.
+We do not treat any human source as final — only as visible reference points for deeper unfolding.
+While we strive for care and clarity, any oversight or omission is unintentional, and all work remains open to refinement as understanding grows.
+
+[1. ORIGINAL LINE TEXT]
+Language: Hebrew
+Manuscript Source: Leningrad Codex
+Line Reference: Genesis 1:12
+
+וַתּוֹצֵא הָאָרֶץ דֶּשֶׁא עֵשֶׂב מַזְרִיעַ זֶרַע לְמִינֵהוּ וְעֵץ עֹשֶׂה פְּרִי אֲשֶׁר זַרְעוֹ־בוֹ לְמִינֵהוּ וַיַּרְא אֱלֹהִים כִּי־טוֹב
+
+[2. DIRECT TRANSLITERATION]
+
+vatotze ha-aretz deshe esev mazria zera le-minehu ve-etz oseh peri asher zar‘o-vo le-minehu vayyar Elohim ki-tov
+
+[3. WORD-BY-WORD LEXICAL BREAKDOWN]
+
+[WORD 1]
+Original: וַתּוֹצֵא
+Transliteration: vatotze
+Root: יצא (yatsa)
+Part of Speech: Verb
+Grammar: Hiphil imperfect, 3rd feminine singular, vav-consecutive
+Lexical Range:
+
+to cause to go out
+
+to bring forth
+
+to produce
+
+[WORD 2]
+Original: הָאָרֶץ
+Transliteration: ha-aretz
+Root: ארץ (erets)
+Part of Speech: Noun
+Grammar: Feminine singular with article
+Lexical Range:
+
+earth
+
+land
+
+ground
+
+[WORD 3]
+Original: דֶּשֶׁא
+Transliteration: deshe
+Root: דֶּשֶׁא
+Part of Speech: Noun
+Grammar: Masculine singular
+Lexical Range:
+
+grass
+
+green growth
+
+[WORD 4]
+Original: עֵשֶׂב
+Transliteration: esev
+Root: עֵשֶׂב
+Part of Speech: Noun
+Grammar: Masculine singular
+Lexical Range:
+
+plant
+
+herb
+
+[WORD 5]
+Original: מַזְרִיעַ
+Transliteration: mazria
+Root: זרע (zara‘)
+Part of Speech: Verb (participle, Hiphil)
+Grammar: Masculine singular
+Lexical Range:
+
+bearing seed
+
+sowing
+
+[WORD 6]
+Original: זֶרַע
+Transliteration: zera
+Root: זרע (zera‘)
+Part of Speech: Noun
+Grammar: Masculine singular
+Lexical Range:
+
+seed
+
+offspring
+
+[WORD 7]
+Original: לְמִינֵהוּ
+Transliteration: le-minehu
+Root: מין (min)
+Part of Speech: Noun construct with suffix
+Grammar: Masculine singular construct + 3rd masculine singular suffix
+Lexical Range:
+
+according to its kind
+
+[WORD 8]
+Original: וְעֵץ
+Transliteration: ve-etz
+Root: עֵץ (etz)
+Part of Speech: Noun with conjunction
+Grammar: Masculine singular
+Lexical Range:
+
+tree
+
+wood
+
+[WORD 9]
+Original: עֹשֶׂה
+Transliteration: oseh
+Root: עשה (asah)
+Part of Speech: Verb (participle, Qal)
+Grammar: Masculine singular
+Lexical Range:
+
+making
+
+producing
+
+doing
+
+[WORD 10]
+Original: פְּרִי
+Transliteration: peri
+Root: פְּרִי (peri)
+Part of Speech: Noun
+Grammar: Masculine singular
+Lexical Range:
+
+fruit
+
+produce
+
+[WORD 11]
+Original: אֲשֶׁר זַרְעוֹ־בוֹ
+Transliteration: asher zar‘o-vo
+Root: זרע (zera‘)
+Part of Speech: Relative clause
+Lexical Range:
+
+which its seed is in it
+
+[WORD 12]
+Original: לְמִינֵהוּ
+Transliteration: le-minehu
+Root: מין (min)
+Part of Speech: Noun construct + suffix
+Grammar: Masculine singular construct with 3rd singular suffix
+Lexical Range:
+
+according to its kind
+
+[WORD 13]
+Original: וַיַּרְא
+Transliteration: vayyar
+Root: ראה (ra’ah)
+Part of Speech: Verb
+Grammar: Qal imperfect, 3rd masculine singular, vav-consecutive
+Lexical Range:
+
+to see
+
+to observe
+
+to consider
+
+[WORD 14]
+Original: אֱלֹהִים
+Transliteration: Elohim
+Root: אֱלֹהִים (Elohim)
+Part of Speech: Noun
+Grammar: Plural in form, singular in usage here
+Lexical Range:
+
+God
+
+gods
+
+divine beings
+
+[WORD 15]
+Original: כִּי־טוֹב
+Transliteration: ki-tov
+Root: כִּי (ki) + טוֹב (tov)
+Part of Speech: Conjunction + Adjective
+Lexical Range:
+
+that it was good
+
+because good
+
+indeed good
+
+[4. STRUCTURAL NOTES]
+
+This verse narrates fulfillment of the command in v.11.
+
+The “according to its kind” formula is repeated twice for emphasis.
+
+The verse concludes with the evaluative refrain “ki-tov.”
+
+[5. VARIANT MANUSCRIPT NOTES]
+
+MT and DSS are consistent.
+
+LXX: κατὰ γένος αὐτοῦ (“according to its kind”) matches Hebrew phrasing.
+
+[6. STRUCTURAL CONNECTION TO OTHER LINES]
+
+Mirrors Genesis 1:11 command with fulfillment.
+
+Prepares for the evening-morning refrain in v.13.
+
+[7. CAUTIONARY REMINDER]
+The content above does not represent a translation.
+No conclusions, smoothing, or interpretive decisions have been made.
+This file serves only to display the original structure and lexical range as transparently as possible.

@@ -1,0 +1,226 @@
+=== LINE SOURCE FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00027
+[BOOK]: Genesis
+[CHAPTER]: 1
+[VERSE]: 27
+[FILE TYPE]: Line Source
+
+[INTRO]
+This file shows what the earliest Hebrew/Greek manuscripts say, word by word, before any interpretation.
+
+[PREFACE]
+This file presents the earliest traceable form of this line, drawn primarily from manuscript sources like the Leningrad Codex.
+Where other manuscript witnesses differ or offer meaningful variation (such as the Dead Sea Scrolls or the Samaritan Pentateuch), we remain watchful and will note those cases transparently when identified.
+Every word is shown with its full lexical range — without smoothing, interpretation, or insertion.
+This is not a translation or conclusion. It is a transparent starting point, open to personal encounter and divine resonance.
+We do not treat any human source as final — only as visible reference points for deeper unfolding.
+While we strive for care and clarity, any oversight or omission is unintentional, and all work remains open to refinement as understanding grows.
+
+[1. ORIGINAL LINE TEXT]
+Language: Hebrew
+Manuscript Source: Leningrad Codex
+Line Reference: Genesis 1:27
+
+וַיִּבְרָא אֱלֹהִים אֶת־הָאָדָם בְּצַלְמוֹ בְּצֶלֶם אֱלֹהִים בָּרָא אֹתוֹ זָכָר וּנְקֵבָה בָּרָא אֹתָם
+
+[2. DIRECT TRANSLITERATION]
+
+vayivra Elohim et-ha-adam be-tsalmo be-tselem Elohim bara oto zakhar u-nekevah bara otam
+
+[3. WORD-BY-WORD LEXICAL BREAKDOWN]
+
+[WORD 1]
+Original: וַיִּבְרָא
+Transliteration: vayivra
+Root: ברא (bara’)
+Part of Speech: Verb
+Grammar: Qal imperfect, 3rd masculine singular, vav-consecutive
+Lexical Range:
+
+to create
+
+to shape
+
+to bring into existence (divine activity uniquely)
+
+[WORD 2]
+Original: אֱלֹהִים
+Transliteration: Elohim
+Root: אֱלֹהִים (Elohim)
+Part of Speech: Noun
+Grammar: Plural in form, singular in grammar
+Lexical Range:
+
+God
+
+gods
+
+divine beings
+
+rulers, judges
+
+[WORD 3]
+Original: אֶת־הָאָדָם
+Transliteration: et-ha-adam
+Root: אָדָם (adam)
+Part of Speech: Noun with object marker
+Grammar: Masculine singular with definite article
+Lexical Range:
+
+the human
+
+man, person
+
+humankind, mankind
+
+[WORD 4]
+Original: בְּצַלְמוֹ
+Transliteration: be-tsalmo
+Root: צֶלֶם (tselem)
+Part of Speech: Noun with suffix
+Grammar: Construct form with 3rd masculine singular suffix, prefixed בְּ
+Lexical Range:
+
+image
+
+likeness
+
+statue, idol
+
+representation
+
+form, resemblance
+
+[WORD 5]
+Original: בְּצֶלֶם אֱלֹהִים
+Transliteration: be-tselem Elohim
+Root: צֶלֶם (tselem) + אֱלֹהִים (Elohim)
+Part of Speech: Construct phrase
+Grammar: Noun construct + proper noun
+Lexical Range:
+
+in the image of God
+
+in divine likeness, representation
+
+[WORD 6]
+Original: בָּרָא
+Transliteration: bara
+Root: ברא (bara’)
+Part of Speech: Verb
+Grammar: Qal perfect, 3rd masculine singular
+Lexical Range:
+
+he created
+
+he brought forth
+
+he shaped into existence
+
+[WORD 7]
+Original: אֹתוֹ
+Transliteration: oto
+Root: —
+Part of Speech: Pronoun (object suffix)
+Grammar: 3rd person masculine singular object
+Lexical Range:
+
+him
+
+that one
+
+[WORD 8]
+Original: זָכָר
+Transliteration: zakhar
+Root: זָכָר (zakhar)
+Part of Speech: Noun
+Grammar: Masculine singular
+Lexical Range:
+
+male
+
+man as opposite of woman
+
+masculine being
+
+[WORD 9]
+Original: וּנְקֵבָה
+Transliteration: u-nekevah
+Root: נְקֵבָה (neqevah)
+Part of Speech: Noun
+Grammar: Feminine singular with prefixed conjunction וְ
+Lexical Range:
+
+female
+
+woman
+
+feminine being
+
+[WORD 10]
+Original: בָּרָא
+Transliteration: bara
+Root: ברא (bara’)
+Part of Speech: Verb
+Grammar: Qal perfect, 3rd masculine singular
+Lexical Range:
+
+he created
+
+he shaped
+
+he brought forth
+
+[WORD 11]
+Original: אֹתָם
+Transliteration: otam
+Root: —
+Part of Speech: Pronoun (object suffix)
+Grammar: 3rd person masculine plural object
+Lexical Range:
+
+them
+
+[4. STRUCTURAL NOTES]
+
+This verse is poetic in form, with three parallel cola:
+
+“God created the human in his image.”
+
+“In the image of God he created him.”
+
+“Male and female he created them.”
+
+Repetition of ברא (bara’) emphasizes divine creative act.
+
+Singular “oto” and plural “otam” highlight humanity as both unified and diverse.
+
+Male and female together constitute the fullness of “adam.”
+
+[5. VARIANT MANUSCRIPT NOTES]
+
+MT and DSS align.
+
+Septuagint: “καὶ ἐποίησεν ὁ θεὸς τὸν ἄνθρωπον· κατ’ εἰκόνα θεοῦ ἐποίησεν αὐτόν· ἄρσεν καὶ θῆλυ ἐποίησεν αὐτούς” (“and God made man; according to the image of God he made him; male and female he made them”).
+
+Samaritan Pentateuch matches MT.
+
+[6. STRUCTURAL CONNECTION TO OTHER LINES]
+
+Fulfills the deliberative “let us make” of v.26.
+
+Establishes humanity as uniquely bearing God’s image.
+
+Prepares for v.28 (blessing and mandate).
+
+Literary parallel with Genesis 5:1–2.
+
+[7. CAUTIONARY REMINDER]
+The content above does not represent a translation.
+No conclusions, smoothing, or interpretive decisions have been made.
+This file serves only to display the original structure and lexical range as transparently as possible.

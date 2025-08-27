@@ -1,0 +1,51 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00015
+[BOOK]: Genesis
+[CHAPTER]: 1
+[VERSE]: 15
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And they were as lights in the expanse of the heavens to give light upon the earth. And it was so.
+
+[RENDERING NOTES]
+
+“They were” from וְהָיוּ (vehayu), indicating realized state from command.
+“As lights” = לִמְאֹרוֹת (li-me’orot), retaining plural sense of light-giving sources.
+“In the expanse of the heavens” renders בִּרְקִיעַ הַשָּׁמַיִם (birqia ha-shamayim), consistent with earlier phrasing (v.14).
+“To give light” = לְהָאִיר (le-ha’ir), Hiphil infinitive — purpose clause.
+“Upon the earth” = עַל־הָאָרֶץ (al-ha-aretz), matches use from previous light passages.
+“And it was so” = וַיְהִי־כֵן (vayhi-ken), standard Genesis 1 confirmation refrain.
+
+[INSERTION / HELPER WORD TRACKING]
+
+“As” inserted before “lights” to track לְ as function indicator.
+“The” added before “expanse,” “heavens,” and “earth” to reflect definite articles.
+“To give” used to reflect infinitive construct “le-ha’ir.”
+No interpretive smoothing added.
+
+[CONTEXTUAL PLACEMENT]
+
+Confirms execution of luminary purpose given in v.14.
+Represents the realized function of cosmic bodies before their naming (v.16).
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Second part of the command-fulfillment sequence: v.14 = declaration; v.15 = realization.
+Parallels structure from days 1–3: intention → action → validation.
+“Vayhi-ken” ties it to other creation milestones.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

@@ -1,0 +1,50 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00029
+[BOOK]: Genesis
+[CHAPTER]: 1
+[VERSE]: 29
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And God said, “See, I have given you every plant bearing seed that is upon the face of all the earth, and every tree that has in it seed-bearing fruit — it shall be for food for you.”
+
+[RENDERING NOTES]
+
+Begins with divine speech (“And God said”).
+“See” (hineh) emphasizes divine announcement or gift.
+Two food sources listed: (1) seed-bearing plants, (2) trees with seed-bearing fruit.
+Purpose clause: “it shall be for food for you.”
+The repeated root “zera” (seed) underscores reproduction, continuity, sustainability.
+
+[INSERTION / HELPER WORD TRACKING]
+
+Quotation marks added to mark divine speech.
+“That is” and “has in it” are insertions for readability from “asher” and “bo.”
+No interpretive smoothing or conceptual additions beyond structure.
+
+[CONTEXTUAL PLACEMENT]
+
+Follows the human mandate in verse 28 — provision is given alongside commission.
+Introduces divine-human relationship of sustenance and shared earth.
+Sets up contrast with Genesis 2, where access to certain trees is limited.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Parallel to v.30 (food for animals).
+Completes the pattern of blessing + instruction + provision.
+Uses familiar Torah phrase “behold, I have given you…” seen also in covenantal moments.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

@@ -1,0 +1,51 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00027
+[BOOK]: Genesis
+[CHAPTER]: 1
+[VERSE]: 27
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+So God created the human in his image; in the image of God he created him; male and female he created them.
+
+[RENDERING NOTES]
+
+Repetition of “created” (bara) three times — emphatic poetic structure.
+“The human” (ha-adam) used generically, not yet gender-specific.
+“In his image / in the image of God” — deliberate mirror phrasing.
+Object pronouns shift from singular (him) to plural (them), indicating collective identity.
+“Male and female” are stated without hierarchy — presenting binary within unified humanity.
+
+[INSERTION / HELPER WORD TRACKING]
+
+“So” reflects narrative continuation.
+Semicolons used to mark poetic colons.
+“The” added for readability with “human”; no conceptual additions.
+No interpretive smoothing added.
+
+[CONTEXTUAL PLACEMENT]
+
+This is the fulfillment of the decision stated in verse 26.
+It declares human origin as divine act and divine resemblance.
+Sets up the blessing and directive in verse 28.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Three-part poetic structure: create – image – gender pairing.
+Follows Hebraic poetic parallelism, reinforcing divine intentionality.
+Echoed in Genesis 5:1–2 with similar structure and phrasing.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

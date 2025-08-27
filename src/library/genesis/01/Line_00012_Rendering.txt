@@ -1,0 +1,52 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00012
+[BOOK]: Genesis
+[CHAPTER]: 1
+[VERSE]: 12
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And the earth brought forth grass, plants bearing seed according to its kind, and trees making fruit whose seed is in it — according to its kind. And God saw that it was good.
+
+[RENDERING NOTES]
+
+“Brought forth” renders וַתּוֹצֵא (vatotze), causative verb — earth as initiator.
+“Grass” and “plants bearing seed” maintain distinction between דֶּשֶׁא (deshe) and עֵשֶׂב מַזְרִיעַ זֶרַע (esev mazria zera).
+“According to its kind” is repeated twice — לְמִינֵהוּ (le-minehu) — anchoring species or order integrity.
+“Trees making fruit” from עֵץ עֹשֶׂה פְּרִי (etz oseh peri) retains present participle for ongoing action.
+“Whose seed is in it” is a direct rendering of אֲשֶׁר זַרְעוֹ־בוֹ (asher zar‘o-vo), emphasizing internal generativity.
+“And God saw that it was good” preserves the evaluative phrase וַיַּרְא אֱלֹהִים כִּי־טוֹב (vayyar Elohim ki-tov).
+
+[INSERTION / HELPER WORD TRACKING]
+
+“The” added before “earth,” “plants,” and “trees” for clarity and alignment with Hebrew definiteness.
+Em dash added before second “according to its kind” for readability.
+“Is” inserted in “whose seed is in it.”
+No smoothing beyond minimal grammatical necessity.
+
+[CONTEXTUAL PLACEMENT]
+
+Fulfillment of the divine command in v.11.
+Establishes successful execution of Earth’s generative capacity.
+Solidifies vegetative categories ahead of temporal framing in v.13.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Follows Genesis 1 pattern: command → action → observation → approval.
+Repetition of “according to its kind” underscores emphasis on differentiated order.
+Ends with evaluative refrain (ki-tov) — fifth such moment.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

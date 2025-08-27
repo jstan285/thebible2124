@@ -1,0 +1,255 @@
+=== LINE SOURCE FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00029
+[BOOK]: Genesis
+[CHAPTER]: 1
+[VERSE]: 29
+[FILE TYPE]: Line Source
+
+[INTRO]
+This file shows what the earliest Hebrew/Greek manuscripts say, word by word, before any interpretation.
+
+[PREFACE]
+This file presents the earliest traceable form of this line, drawn primarily from manuscript sources like the Leningrad Codex.
+Where other manuscript witnesses differ or offer meaningful variation (such as the Dead Sea Scrolls or the Samaritan Pentateuch), we remain watchful and will note those cases transparently when identified.
+Every word is shown with its full lexical range — without smoothing, interpretation, or insertion.
+This is not a translation or conclusion. It is a transparent starting point, open to personal encounter and divine resonance.
+We do not treat any human source as final — only as visible reference points for deeper unfolding.
+While we strive for care and clarity, any oversight or omission is unintentional, and all work remains open to refinement as understanding grows.
+
+[1. ORIGINAL LINE TEXT]
+Language: Hebrew
+Manuscript Source: Leningrad Codex
+Line Reference: Genesis 1:29
+
+וַיֹּאמֶר אֱלֹהִים הִנֵּה נָתַתִּי לָכֶם אֶת־כָּל־עֵשֶׂב זֹרֵעַ זֶרַע אֲשֶׁר עַל־פְּנֵי כָל־הָאָרֶץ וְאֶת־כָּל־הָעֵץ אֲשֶׁר־בוֹ פְּרִי־עֵץ זֹרֵעַ זָרַע לָכֶם יִהְיֶה לְאָכְלָה
+
+[2. DIRECT TRANSLITERATION]
+
+vayomer Elohim hineh natatti lachem et-kol-esev zorea zera asher al-penei kol-ha-aretz ve-et-kol-ha-etz asher-bo peri-etz zorea zara lachem yihyeh le-okhlah
+
+[3. WORD-BY-WORD LEXICAL BREAKDOWN]
+
+[WORD 1]
+Original: וַיֹּאמֶר
+Transliteration: vayomer
+Root: אמר (amar)
+Part of Speech: Verb
+Grammar: Qal imperfect, 3rd masculine singular, vav-consecutive
+Lexical Range:
+
+to say
+
+to speak
+
+to declare
+
+to command
+
+[WORD 2]
+Original: אֱלֹהִים
+Transliteration: Elohim
+Root: אֱלֹהִים (Elohim)
+Part of Speech: Noun
+Grammar: Plural in form, singular in function here
+Lexical Range:
+
+God
+
+gods
+
+divine beings
+
+rulers, judges
+
+[WORD 3]
+Original: הִנֵּה
+Transliteration: hineh
+Root: —
+Part of Speech: Interjection
+Lexical Range:
+
+behold
+
+see
+
+look
+
+here is
+
+[WORD 4]
+Original: נָתַתִּי
+Transliteration: natatti
+Root: נתן (natan)
+Part of Speech: Verb
+Grammar: Qal perfect, 1st person common singular
+Lexical Range:
+
+I have given
+
+I have placed
+
+I have bestowed
+
+[WORD 5]
+Original: לָכֶם
+Transliteration: lachem
+Root: הֵם (hem)
+Part of Speech: Pronoun with preposition
+Grammar: Preposition לְ + 2nd masculine plural suffix
+Lexical Range:
+
+to you
+
+for you
+
+[WORD 6]
+Original: אֶת־כָּל־עֵשֶׂב
+Transliteration: et-kol-esev
+Root: עֵשֶׂב (esev)
+Part of Speech: Noun construct phrase with object marker
+Grammar: Masculine singular collective in construct with כָּל (“all”)
+Lexical Range:
+
+every plant
+
+all herbage
+
+vegetation, grass
+
+[WORD 7]
+Original: זֹרֵעַ זֶרַע
+Transliteration: zorea zera
+Root: זרע (zara‘)
+Part of Speech: Verb (Participle, masculine singular) + Noun
+Grammar: Construct phrase
+Lexical Range:
+
+bearing seed
+
+sowing seed
+
+reproducing seed
+
+[WORD 8]
+Original: אֲשֶׁר עַל־פְּנֵי כָל־הָאָרֶץ
+Transliteration: asher al-penei kol-ha-aretz
+Root: על (al) + פנים (panim) + ארץ (erets)
+Part of Speech: Construct phrase
+Grammar: Relative pronoun + prepositional phrase
+Lexical Range:
+
+which is upon the face of all the earth
+
+that is across the whole land
+
+[WORD 9]
+Original: וְאֶת־כָּל־הָעֵץ
+Transliteration: ve-et-kol-ha-etz
+Root: עֵץ (etz)
+Part of Speech: Noun construct phrase with object marker
+Grammar: Masculine singular collective with article
+Lexical Range:
+
+every tree
+
+the whole of trees
+
+[WORD 10]
+Original: אֲשֶׁר־בוֹ פְּרִי־עֵץ
+Transliteration: asher-bo peri-etz
+Root: פרי (peri) + עֵץ (etz)
+Part of Speech: Construct phrase
+Grammar: Relative pronoun + prepositional phrase
+Lexical Range:
+
+which in it is fruit of a tree
+
+tree with seed-bearing fruit
+
+[WORD 11]
+Original: זֹרֵעַ זָרַע
+Transliteration: zorea zara
+Root: זרע (zara‘)
+Part of Speech: Verb (Participle) + Noun
+Grammar: Construct phrase
+Lexical Range:
+
+producing seed
+
+yielding seed
+
+[WORD 12]
+Original: לָכֶם
+Transliteration: lachem
+Root: הֵם (hem)
+Part of Speech: Pronoun with preposition
+Grammar: Preposition לְ + 2nd masculine plural suffix
+Lexical Range:
+
+for you
+
+to you
+
+[WORD 13]
+Original: יִהְיֶה
+Transliteration: yihyeh
+Root: היה (hayah)
+Part of Speech: Verb
+Grammar: Qal imperfect, 3rd masculine singular
+Lexical Range:
+
+it shall be
+
+it will exist
+
+it will happen
+
+[WORD 14]
+Original: לְאָכְלָה
+Transliteration: le-okhlah
+Root: אָכַל (akal)
+Part of Speech: Noun with preposition
+Grammar: Feminine singular infinitive/noun form
+Lexical Range:
+
+for food
+
+for eating
+
+for consumption
+
+[4. STRUCTURAL NOTES]
+
+Divine provision formula: “Behold, I have given you…”
+
+Two categories of provision: (1) seed-bearing plants, (2) seed-bearing fruit trees.
+
+Repetition of “zera” (seed) emphasizes reproductive capacity of food sources.
+
+Ends with infinitive purpose clause: “for food.”
+
+[5. VARIANT MANUSCRIPT NOTES]
+
+MT and DSS consistent.
+
+LXX: “ἰδοὺ δέδωκα ὑμῖν πᾶν χόρτον σπεῖρον σπέρμα… καὶ πᾶν ξύλον ὃ ἔχει ἐν ἑαυτῷ καρπὸν σπερματόφορον· ὑμῖν ἔσται εἰς βρῶσιν” (“behold I have given you every herb sowing seed… and every tree that has in itself seed-bearing fruit; it shall be for food to you”).
+
+Samaritan Pentateuch matches MT.
+
+[6. STRUCTURAL CONNECTION TO OTHER LINES]
+
+Expands humanity’s blessing (v.28) with provision of sustenance.
+
+Parallel to v.30, where food is given to animals.
+
+Connects with Genesis 2:16–17 (tree food permitted, with one restriction).
+
+[7. CAUTIONARY REMINDER]
+The content above does not represent a translation.
+No conclusions, smoothing, or interpretive decisions have been made.
+This file serves only to display the original structure and lexical range as transparently as possible.

@@ -4,19 +4,19 @@ layout: layout.njk
 
 <h1>{{ group.book | capitalize }} - Chapter {{ group.chapter }} - Line {{ group.id }}</h1>
 
-<div class="tile-container">
-  {% set order = ["Lens","Reflections","Rendering","Source"] %}
+<div class="tile-container tile-container--stack">
+  {% set order = ["Source","Rendering","Reflections","Lens"] %}
   {% for label in order %}
     {% set key = label | lower %}
     {% if group.files[key] %}
       {% set url = (group.book | txtUrl(group.chapter, group.files[key].basename)) %}
       <a class="tile" href="{{ url }}">
-        <div class="tile-book"></div>
-        <div class="tile-label">Line {{ group.id }} {{ label }}</div>
+        <span class="tile-label">Line {{ group.id }}<br>{{ label }}</span>
       </a>
     {% endif %}
   {% endfor %}
 </div>
+
 
 <a href="/library/{{ group.book }}/{{ group.chapter }}/" class="back-button">
   ← Back to Chapter {{ group.chapter }}

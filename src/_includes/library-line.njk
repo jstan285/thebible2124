@@ -1,4 +1,4 @@
----
+--- 
 layout: layout.njk
 ---
 
@@ -8,8 +8,91 @@ layout: layout.njk
   {{ line.htmlFormatted | safe }}
 </div>
 
-
 {% set id = line | lineId %}
+
+{# Determine current type #}
+{% set curType = line.filename | fileType %}
+
+{# --- NEXT candidate --------------------------------------------- #}
+{% if curType == 'Source' %}
+  {% set nextType = 'Rendering' %}
+  {% set nextId = id %}
+{% elif curType == 'Rendering' %}
+  {% set nextType = 'Reflections' %}
+  {% set nextId = id %}
+{% elif curType == 'Reflections' %}
+  {% set nextType = 'Lens' %}
+  {% set nextId = id %}
+{% else %}
+  {# curType == 'Lens' → next ID Source #}
+  {% set nextIdNum = id | int + 1 %}
+  {% set nextId = nextIdNum | pad5 %}
+  {% set nextType = 'Source' %}
+{% endif %}
+
+{% set nextBase = 'Line_' ~ nextId ~ '_' ~ nextType ~ '.txt' %}
+
+{# track current slug to avoid self-linking #}
+{% set currentSlug = line.filename | replace('.txt','') %}
+
+{% set nextExists = false %}
+{% set nextUrl = '' %}
+
+{% for it in collections.lines %}
+  {% if it.book == line.book and it.chapter == line.chapter and it.filename == nextBase %}
+    {% set targetSlug = it.filename | replace('.txt','') %}
+    {% if targetSlug != currentSlug %}
+      {% set nextExists = true %}
+      {% set nextUrl = '/library/' ~ it.book ~ '/' ~ it.chapter ~ '/' ~ targetSlug ~ '/' %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
+{# --- PREVIOUS candidate ----------------------------------------- #}
+{% if curType == 'Lens' %}
+  {% set prevType = 'Reflections' %}
+  {% set prevId = id %}
+{% elif curType == 'Reflections' %}
+  {% set prevType = 'Rendering' %}
+  {% set prevId = id %}
+{% elif curType == 'Rendering' %}
+  {% set prevType = 'Source' %}
+  {% set prevId = id %}
+{% else %}
+  {% set prevIdNum = id | int - 1 %}
+  {% if prevIdNum > 0 %}
+    {% set prevId = prevIdNum | pad5 %}
+    {% set prevType = 'Lens' %}
+  {% else %}
+    {% set prevId = '' %}
+    {% set prevType = '' %}
+  {% endif %}
+{% endif %}
+
+{% set prevExists = false %}
+{% set prevUrl = '' %}
+
+{% if prevId %}
+  {% set prevBase = 'Line_' ~ prevId ~ '_' ~ prevType ~ '.txt' %}
+  {% for it in collections.lines %}
+    {% if it.book == line.book and it.chapter == line.chapter and it.filename == prevBase %}
+      {% set targetSlug = it.filename | replace('.txt','') %}
+      {% if targetSlug != currentSlug %}
+        {% set prevExists = true %}
+        {% set prevUrl = '/library/' ~ it.book ~ '/' ~ it.chapter ~ '/' ~ targetSlug ~ '/' %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+{% endif %}
+
+<div class="line-nav">
+  {% if prevExists %}
+    <a class="btn btn-subtle" href="{{ prevUrl }}">← Previous</a>
+  {% endif %}
+  {% if nextExists %}
+    <a class="btn btn-subtle" href="{{ nextUrl }}">Next →</a>
+  {% endif %}
+</div>
 
 <a href="/library/{{ line.book }}/{{ line.chapter }}/Line_{{ id }}/" class="back-button">
   ← Back to Line {{ id }}

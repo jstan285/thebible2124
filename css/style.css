@@ -241,7 +241,7 @@ main ul li::marker {
 
   width: 138px;         /* controls width of each tile */
   height: 180px;        /* controls height of each tile */
-  padding: 0 1rem 0.75rem 0.7rem;     /* extra right padding for text */
+  padding: 0 .5rem 0.75rem 0.7rem;     /* extra right padding for text */
   
   background-image: url("/img/book-final.svg");
   background-repeat: no-repeat;
@@ -442,7 +442,7 @@ main ul li::marker {
     flex-direction: column;      /* stack icon and text */
     align-items: center;         /* center horizontally */
     justify-content: center;     /* center vertically */
-    text-align: center;
+    text-align: right;
 
     font-size: .95rem;           /* slightly smaller on mobile */
     line-height: 1.2;
@@ -463,10 +463,67 @@ main ul li::marker {
 @media (max-width: 380px) {
   .tile-container { grid-template-columns: 1fr; }
 }
-/* Center the === File type === heading on line pages */
-.line-content .filetype-title {
-  text-align: center;
-  margin: 0 0 1rem;
-  font-weight: 700;
-  letter-spacing: .02em;
+
+/* === Line-group page: refined single-column stack === */
+.tile-container--stack {
+  width: 100%;
+  max-width: 460px;            /* narrower column so tiles don’t feel gigantic */
+  margin: 1.25rem auto 2rem;
+  display: grid;
+  grid-template-columns: 1fr;  /* single column */
+  gap: .6rem;
 }
+
+/* Shrink the tile and keep the book art look */
+.tile-container--stack .tile,
+.tile--stack {
+  width: 100%;
+  height: 150px;               /* shorter card height */
+  padding: 0 .75rem .7rem .75rem;
+
+  display: flex;
+  align-items: center;          /* center vertically (cleanest read) */
+  justify-content: center;      /* center horizontally */
+  padding-left: 1.25rem;
+  text-align: right;
+
+  /* keep your existing visuals */
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  /* typographic scale for this stack */
+  font-size: 1rem;
+  line-height: 1.2;
+}
+
+/* Label refinement */
+.tile-container--stack .tile .tile-label {
+  display: block;
+  max-width: 90%;
+  overflow-wrap: anywhere;
+  hyphens: auto;
+}
+
+/* --- If you prefer the original right-aligned vibe but higher on the card, swap this block in: ---
+.tile-container--stack .tile,
+.tile--stack {
+  width: 100%;
+  height: 150px;
+  padding: 0 .9rem .7rem .75rem;
+  display: flex;
+  align-items: flex-end;        /* baseline: text near bottom */
+  justify-content: flex-end;    /* right side */
+  text-align: right;
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  font-size: 1rem;
+  line-height: 1.2;
+}
+.tile-container--stack .tile .tile-label { 
+  max-width: 90%;
+  transform: translateY(-14%);  /* nudge upward so it’s not stuck at the very bottom */
+}
+*/
+

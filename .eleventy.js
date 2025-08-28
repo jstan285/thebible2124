@@ -57,19 +57,24 @@ if (mt) {
     // ignore blank lines (but keep pendingBullet state)
     if (isBlank(raw)) { continue; }
 
-    // [SECTION] → H2  (changed from H1)
-    if (isHeadingBrackets(raw)) {
-      const label = esc(raw.replace(/^\s*\[|\]\s*$/g, ""));
-      closeAll();
-      if (label.toUpperCase() === "FILE TAGS") {
-        out.push(`<h2>${label}</h2>`);                // <-- H2
-        open('div class="file-tags"');                // <-- plain wrapper (no grid)
-        inTags = true;
-      } else {
-        out.push(`<h2>${label}</h2>`);                // <-- H2
-      }
-      continue;
-    }
+    // [SECTION] headings
+if (isHeadingBrackets(raw)) {
+  const label = esc(raw.replace(/^\s*\[|\]\s*$/g, ""));
+  const labelUpper = label.toUpperCase();
+  closeAll();
+
+  if (labelUpper === "FILE TAGS") {
+    out.push(`<h2>${label}</h2>`);
+    open('div class="file-tags"');
+    inTags = true;
+  } else if (labelUpper === "YOU ARE WELCOME HERE") {
+    out.push(`<h3>${label}</h3>`);          // demote just this heading
+  } else {
+    out.push(`<h2>${label}</h2>`);          // all other bracketed headings stay H2
+  }
+  continue;
+}
+
 
     // Inside [FILE TAGS]: show "[KEY]: value" as plain paragraphs; ignore everything else
     if (inTags) {

@@ -168,7 +168,13 @@ eleventyConfig.addFilter("lineId", (line) => {
   return m ? m[1] : "";
 });
 
+eleventyConfig.addFilter("pad5", (n) => String(Number(n)).padStart(5, "0"));
+eleventyConfig.addFilter("fileType", (filename = "") => {
+  const m = String(filename).match(/_(Source|Rendering|Reflections|Lens)\.txt$/i);
+  return m ? m[1] : "";
+});
 
+  
   // Custom collection for books
   eleventyConfig.addCollection("books", () => {
     const booksPath = path.join(__dirname, "src", "library");

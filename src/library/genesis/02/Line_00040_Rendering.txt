@@ -1,0 +1,50 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00040
+[BOOK]: Genesis
+[CHAPTER]: 2
+[VERSE]: 9
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And YHWH God caused to grow from the ground every tree desirable in appearance and good for food — and the tree of life in the midst of the garden, and the tree of the knowledge of good and evil.
+
+[RENDERING NOTES]
+
+“Caused to grow” renders וַיַּצְמַח (vayyatzmach), Hiphil imperfect with vav-consecutive — divine initiator of emergence.
+“From the ground” (מִן־הָאֲדָמָה, min-ha’adamah) links to human origin in 2:7, reinforcing shared source.
+“Every tree desirable in appearance and good for food” follows the structure כָּל־עֵץ נֶחְמָד לְמַרְאֶה וְטוֹב לְמַאֲכָל — descriptive pairing of beauty and function.
+“The tree of life... the tree of the knowledge of good and evil” are rendered as direct phrases, retaining conjunction structure and definite articles.
+
+[INSERTION / HELPER WORD TRACKING]
+
+“And” added between list elements for English readability.
+“Of” inserted to reflect genitive constructions in “tree of life,” “tree of knowledge.”
+Em dashes and list breaks used for clarity, not original punctuation.
+All phrasing traceable to word-for-word lexical structure.
+
+[CONTEXTUAL PLACEMENT]
+
+Expands the Eden environment introduced in 2:8 — describing its organic fullness and moral-symbolic centerpieces.
+Establishes thematic anchors: life, knowledge, appearance, sustenance.
+Prepares for ethical instruction (2:16–17) and narrative tension (Genesis 3).
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Tripartite unfolding: general tree description → tree of life → tree of knowledge.
+Balances aesthetic (“desirable in appearance”) with practical (“good for food”).
+“Tov vara” (good and evil) introduces moral duality language not yet activated.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

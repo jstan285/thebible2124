@@ -1,0 +1,204 @@
+=== LINE SOURCE FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00055
+[BOOK]: Genesis
+[CHAPTER]: 2
+[VERSE]: 24
+[FILE TYPE]: Line Source
+
+[INTRO]
+This file shows what the earliest Hebrew/Greek manuscripts say, word by word, before any interpretation.
+
+[PREFACE]
+This file presents the earliest traceable form of this line, drawn primarily from manuscript sources like the Leningrad Codex.
+Where other manuscript witnesses differ or offer meaningful variation (such as the Dead Sea Scrolls or the Samaritan Pentateuch), we remain watchful and will note those cases transparently when identified.
+Every word is shown with its full lexical range — without smoothing, interpretation, or insertion.
+This is not a translation or conclusion. It is a transparent starting point, open to personal encounter and divine resonance.
+We do not treat any human source as final — only as visible reference points for deeper unfolding.
+While we strive for care and clarity, any oversight or omission is unintentional, and all work remains open to refinement as understanding grows.
+
+[1. ORIGINAL LINE TEXT]
+Language: Hebrew
+Manuscript Source: Leningrad Codex
+Line Reference: Genesis 2:24
+
+עַל־כֵּן יַעֲזָב אִישׁ אֶת־אָבִיו וְאֶת־אִמּוֹ וְדָבַק בְּאִשְׁתּוֹ וְהָיוּ לְבָשָׂר אֶחָד
+
+[2. DIRECT TRANSLITERATION]
+
+al-ken ya‘azov ish et-aviv ve’et-immoh vedavaq be’ishto vehayu lebasar echad
+
+[3. WORD-BY-WORD LEXICAL BREAKDOWN]
+
+[WORD 1]
+Original: עַל־כֵּן
+Transliteration: al-ken
+Lexical Root: על + כן
+Part of Speech: Preposition + adverb
+Grammatical Info: —
+Lexical Range:
+
+therefore
+
+on account of this
+
+for this reason
+
+[WORD 2]
+Original: יַעֲזָב
+Transliteration: ya‘azov
+Lexical Root: עזב (‘azav)
+Part of Speech: Verb
+Grammatical Info: Qal, imperfect, 3rd person masculine singular
+Lexical Range:
+
+he will leave
+
+he will forsake
+
+he will abandon
+
+[WORD 3]
+Original: אִישׁ
+Transliteration: ish
+Lexical Root: אִישׁ (’ish)
+Part of Speech: Noun
+Grammatical Info: Masculine singular
+Lexical Range:
+
+man
+
+male
+
+individual
+
+[WORD 4]
+Original: אֶת־
+Transliteration: et
+Lexical Root: —
+Part of Speech: Direct object marker
+Grammatical Info: —
+Lexical Range:
+
+[no lexical meaning; marks definite direct object]
+
+[WORD 5]
+Original: אָבִיו
+Transliteration: aviv
+Lexical Root: אָב (av)
+Part of Speech: Noun + pronominal suffix
+Grammatical Info: Masculine singular + 3rd person masculine singular suffix
+Lexical Range:
+
+his father
+
+[WORD 6]
+Original: וְאֶת־
+Transliteration: ve’et
+Lexical Root: —
+Part of Speech: Conjunction + direct object marker
+Grammatical Info: —
+Lexical Range:
+
+and [direct object marker]
+
+[WORD 7]
+Original: אִמּוֹ
+Transliteration: immoh
+Lexical Root: אֵם (’em)
+Part of Speech: Noun + pronominal suffix
+Grammatical Info: Feminine singular + 3rd person masculine singular suffix
+Lexical Range:
+
+his mother
+
+[WORD 8]
+Original: וְדָבַק
+Transliteration: vedavaq
+Lexical Root: דבק (davaq)
+Part of Speech: Verb
+Grammatical Info: Qal, perfect, 3rd person masculine singular with vav-consecutive nuance
+Lexical Range:
+
+and he clung
+
+and he adhered
+
+and he held fast
+
+[WORD 9]
+Original: בְּאִשְׁתּוֹ
+Transliteration: be’ishto
+Lexical Root: אִשָּׁה (ishah)
+Part of Speech: Noun + preposition + pronominal suffix
+Grammatical Info: Feminine singular + 3rd person masculine singular suffix
+Lexical Range:
+
+to his wife
+
+with his woman
+
+[WORD 10]
+Original: וְהָיוּ
+Transliteration: vehayu
+Lexical Root: היה (hayah)
+Part of Speech: Verb
+Grammatical Info: Qal, perfect, 3rd person plural
+Lexical Range:
+
+and they became
+
+and they were
+
+[WORD 11]
+Original: לְבָשָׂר
+Transliteration: lebasar
+Lexical Root: בָּשָׂר (basar)
+Part of Speech: Noun + preposition
+Grammatical Info: Masculine singular
+Lexical Range:
+
+to flesh
+
+for body
+
+[WORD 12]
+Original: אֶחָד
+Transliteration: echad
+Lexical Root: אחד (’echad)
+Part of Speech: Numeral / adjective
+Grammatical Info: Masculine singular
+Lexical Range:
+
+one
+
+single
+
+united
+
+[4. STRUCTURAL NOTES]
+
+“Al-ken” signals causality, linking this verse to the preceding action.
+Verb “ya‘azov” is imperfect, indicating future or general habitual action.
+“Vedavaq be’ishto” conveys strong attachment, often physical and relational.
+“Vehayu lebasar echad” is a verbless clause expressing unity, grammatically plural-to-singular transition.
+
+[5. VARIANT MANUSCRIPT NOTES]
+
+Masoretic reading consistent.
+Septuagint parallels: “ἕνεκεν τούτου καταλείψει ἄνθρωπος…” and affirms unity expression with “εἰς σάρκα μίαν”.
+
+[6. STRUCTURAL CONNECTION TO OTHER LINES]
+
+Interpretive conclusion following Genesis 2:23’s naming of the woman.
+Functions as a paradigmatic statement on relational unity.
+Often referenced in New Testament texts (e.g., Matthew 19:5; Ephesians 5:31).
+
+[7. CAUTIONARY REMINDER]
+The content above does not represent a translation.
+No conclusions, smoothing, or interpretive decisions have been made.
+This file serves only to display the original structure and lexical range as transparently as possible.

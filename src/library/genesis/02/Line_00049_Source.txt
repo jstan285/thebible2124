@@ -1,0 +1,228 @@
+=== LINE SOURCE FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00049
+[BOOK]: Genesis
+[CHAPTER]: 2
+[VERSE]: 18
+[FILE TYPE]: Line Source
+
+[INTRO]
+This file shows what the earliest Hebrew/Greek manuscripts say, word by word, before any interpretation.
+
+[PREFACE]
+This file presents the earliest traceable form of this line, drawn primarily from manuscript sources like the Leningrad Codex.
+Where other manuscript witnesses differ or offer meaningful variation (such as the Dead Sea Scrolls or the Samaritan Pentateuch), we remain watchful and will note those cases transparently when identified.
+Every word is shown with its full lexical range — without smoothing, interpretation, or insertion.
+This is not a translation or conclusion. It is a transparent starting point, open to personal encounter and divine resonance.
+We do not treat any human source as final — only as visible reference points for deeper unfolding.
+While we strive for care and clarity, any oversight or omission is unintentional, and all work remains open to refinement as understanding grows.
+
+[1. ORIGINAL LINE TEXT]
+Language: Hebrew
+Manuscript Source: Leningrad Codex
+Line Reference: Genesis 2:18
+
+וַיֹּאמֶר יְהוָה אֱלֹהִים לֹא־טוֹב הֱיוֹת הָאָדָם לְבַדּוֹ אֶֽעֱשֶׂה־לּוֹ עֵזֶר כְּנֶגְדּוֹ
+
+[2. DIRECT TRANSLITERATION]
+
+vayomer YHWH Elohim lo-tov heyot ha’adam levado e‘eseh-lo ‘ezer kenegdo
+
+[3. WORD-BY-WORD LEXICAL BREAKDOWN]
+
+[WORD 1]
+Original: וַיֹּאמֶר
+Transliteration: vayomer
+Lexical Root: אמר (’amar)
+Part of Speech: Verb
+Grammatical Info: Qal, imperfect, 3rd person masculine singular, vav-consecutive
+Lexical Range:
+
+to say
+
+to speak
+
+to declare
+
+[WORD 2]
+Original: יְהוָה
+Transliteration: YHWH
+Lexical Root: היה (hayah)
+Part of Speech: Proper noun
+Grammatical Info: Tetragrammaton
+Lexical Range:
+
+the personal name of Israel’s God
+
+[WORD 3]
+Original: אֱלֹהִים
+Transliteration: Elohim
+Lexical Root: אֱלוֹהַּ (eloah)
+Part of Speech: Noun
+Grammatical Info: Masculine plural (used with singular verb)
+Lexical Range:
+
+God
+
+gods
+
+divine beings
+
+rulers
+
+judges
+
+[WORD 4]
+Original: לֹא
+Transliteration: lo
+Lexical Root: לֹא
+Part of Speech: Negative particle
+Grammatical Info: —
+Lexical Range:
+
+no
+
+not
+
+[WORD 5]
+Original: טוֹב
+Transliteration: tov
+Lexical Root: טוֹב (tov)
+Part of Speech: Adjective
+Grammatical Info: Masculine singular
+Lexical Range:
+
+good
+
+beneficial
+
+pleasing
+
+appropriate
+
+[WORD 6]
+Original: הֱיוֹת
+Transliteration: heyot
+Lexical Root: היה (hayah)
+Part of Speech: Verb (infinitive construct)
+Grammatical Info: —
+Lexical Range:
+
+being
+
+existence
+
+to be
+
+[WORD 7]
+Original: הָאָדָם
+Transliteration: ha’adam
+Lexical Root: אָדָם (adam)
+Part of Speech: Noun
+Grammatical Info: Masculine singular with definite article
+Lexical Range:
+
+the man
+
+the human
+
+humanity
+
+[WORD 8]
+Original: לְבַדּוֹ
+Transliteration: levado
+Lexical Root: בדד (badad)
+Part of Speech: Noun + pronominal suffix
+Grammatical Info: Preposition with 3rd person masculine singular suffix
+Lexical Range:
+
+by himself
+
+alone
+
+in isolation
+
+[WORD 9]
+Original: אֶֽעֱשֶׂה
+Transliteration: e‘eseh
+Lexical Root: עשה (‘asah)
+Part of Speech: Verb
+Grammatical Info: Qal, imperfect, 1st person common singular
+Lexical Range:
+
+I will make
+
+I will do
+
+I will produce
+
+[WORD 10]
+Original: לּוֹ
+Transliteration: lo
+Lexical Root: ל + הוא
+Part of Speech: Preposition + pronominal suffix
+Grammatical Info: Preposition with 3rd person masculine singular suffix
+Lexical Range:
+
+for him
+
+to him
+
+[WORD 11]
+Original: עֵזֶר
+Transliteration: ‘ezer
+Lexical Root: עזר (‘azar)
+Part of Speech: Noun
+Grammatical Info: Masculine singular
+Lexical Range:
+
+help
+
+support
+
+aid
+
+assistance
+
+[WORD 12]
+Original: כְּנֶגְדּוֹ
+Transliteration: kenegdo
+Lexical Root: נגד (neged)
+Part of Speech: Preposition + pronominal suffix
+Grammatical Info: Construct with 3rd person masculine singular suffix
+Lexical Range:
+
+corresponding to him
+
+opposite him
+
+in front of him
+
+alongside him
+
+[4. STRUCTURAL NOTES]
+
+The sentence opens with a divine declaration (“vayomer YHWH Elohim”).
+The phrase “lo-tov heyot ha’adam levado” is a negative evaluative clause.
+“E‘eseh-lo ‘ezer kenegdo” functions as the divine resolve and solution.
+“Kenegdo” is unique and structurally complex — connoting alignment and correspondence.
+
+[5. VARIANT MANUSCRIPT NOTES]
+
+Masoretic tradition is stable.
+Septuagint reflects: "ποιήσω αὐτῷ βοηθὸν κατ᾽ αὐτόν" — confirming correspondence theme.
+
+[6. STRUCTURAL CONNECTION TO OTHER LINES]
+
+Responds directly to the preceding isolation of the human in Genesis 2:15–17.
+Prepares for the sequence of creation in Genesis 2:19–22.
+Anchors the Eden narrative in relational design, preceding the naming of animals.
+
+[7. CAUTIONARY REMINDER]
+The content above does not represent a translation.
+No conclusions, smoothing, or interpretive decisions have been made.
+This file serves only to display the original structure and lexical range as transparently as possible.

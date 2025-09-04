@@ -1,0 +1,49 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00036
+[BOOK]: Genesis
+[CHAPTER]: 2
+[VERSE]: 5
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And every shrub of the field was not yet on the earth, and every plant of the field had not yet sprouted, because YHWH God had not caused it to rain upon the earth, and there was no human to work the ground.
+
+[RENDERING NOTES]
+
+“Every shrub of the field” and “every plant of the field” reflect parallel constructs: וְכֹל שִׂיחַ הַשָּׂדֶה and וְכָל־עֵשֶׂב הַשָּׂדֶה.
+“Was not yet” and “had not yet sprouted” translate טֶרֶם יִהְיֶה and טֶרֶם יִצְמָח, respectively — emphasizing states unrealized.
+“Because YHWH God had not caused it to rain” renders כִּי לֹא הִמְטִיר יְהוָה אֱלֹהִים — causal explanation with divine subject.
+“There was no human to work the ground” translates וְאָדָם אַיִן לַעֲבֹד אֶת־הָאֲדָמָה — existential absence of a cultivator.
+Wordplay present between אָדָם (adam, human) and אֲדָמָה (adamah, ground).
+
+[INSERTION / HELPER WORD TRACKING]
+
+“Was,” “had,” and “to” added to complete English grammar structures.
+“It” inserted in “had not caused it to rain” for clarity of object.
+No interpretive smoothing or restructuring applied.
+
+[CONTEXTUAL PLACEMENT]
+
+Prepares the narrative terrain for the creation of the human in 2:7.
+Emphasizes a world in potential — uninhabited, unwatered, uncultivated.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Balances two negative conditionals followed by causal reasoning.
+Rhythmic repetition: “not yet... not yet... because... and.”
+Sets environmental stage for human emergence and vocation.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

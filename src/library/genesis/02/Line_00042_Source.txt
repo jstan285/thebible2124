@@ -1,0 +1,218 @@
+=== LINE SOURCE FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00042
+[BOOK]: Genesis
+[CHAPTER]: 2
+[VERSE]: 11
+[FILE TYPE]: Line Source
+
+[INTRO]
+This file shows what the earliest Hebrew/Greek manuscripts say, word by word, before any interpretation.
+
+[PREFACE]
+This file presents the earliest traceable form of this line, drawn primarily from manuscript sources like the Leningrad Codex.
+Where other manuscript witnesses differ or offer meaningful variation (such as the Dead Sea Scrolls or the Samaritan Pentateuch), we remain watchful and will note those cases transparently when identified.
+Every word is shown with its full lexical range — without smoothing, interpretation, or insertion.
+This is not a translation or conclusion. It is a transparent starting point, open to personal encounter and divine resonance.
+We do not treat any human source as final — only as visible reference points for deeper unfolding.
+While we strive for care and clarity, any oversight or omission is unintentional, and all work remains open to refinement as understanding grows.
+
+[1. ORIGINAL LINE TEXT]
+Language: Hebrew
+Manuscript Source: Leningrad Codex
+Line Reference: Genesis 2:11
+
+שְׁמוֹ הַנָּהָר הָרִאשׁוֹן פִּישׁוֹן הוּא הַסּוֹבֵב אֵת כָּל־אֶרֶץ־חֲוִילָה אֲשֶׁר שָׁם הָאוֹנִיק פֶּרֶחַ אוֹב
+
+[2. DIRECT TRANSLITERATION]
+
+shem-hanahar harishon Pishon hu hassovev et kol-erets-Chavila asher sham ha-‘onikh perakh-ov
+
+[3. WORD-BY-WORD LEXICAL BREAKDOWN]
+
+[WORD 1]
+Original: שְׁמוֹ
+Transliteration: shem-o
+Lexical Root: שֵׁם (shem)
+Part of Speech: Noun + pronominal suffix
+Grammatical Info: Masculine singular + 3rd person masculine singular suffix
+Lexical Range:
+
+his name
+
+its name
+
+[WORD 2]
+Original: הַנָּהָר
+Transliteration: hanahar
+Lexical Root: נָהָר (nahar)
+Part of Speech: Noun with definite article
+Grammatical Info: Masculine singular
+Lexical Range:
+
+the river
+
+the stream
+
+[WORD 3]
+Original: הָרִאשׁוֹן
+Transliteration: harishon
+Lexical Root: רִאשׁוֹן (rishon)
+Part of Speech: Ordinal number with definite article
+Grammatical Info: Masculine singular
+Lexical Range:
+
+the first
+
+first in sequence
+
+[WORD 4]
+Original: פִּישׁוֹן
+Transliteration: Pishon
+Part of Speech: Proper noun
+Grammatical Info: —
+Lexical Range:
+
+Pishon (river name)
+
+[WORD 5]
+Original: הוּא
+Transliteration: hu
+Lexical Root: הוּא (hu)
+Part of Speech: Pronoun
+Grammatical Info: 3rd person masculine singular
+Lexical Range:
+
+he
+
+it
+
+[WORD 6]
+Original: הַסּוֹבֵב
+Transliteration: hassovev
+Lexical Root: סבב (savav)
+Part of Speech: Verb (participle)
+Grammatical Info: Qal participle with definite article
+Lexical Range:
+
+circling
+
+surrounding
+
+encompassing
+
+[WORD 7]
+Original: אֵת
+Transliteration: et
+Lexical Root: —
+Part of Speech: Direct object marker
+Grammatical Info: —
+Lexical Range:
+
+(no direct English equivalent; marks definite direct object)
+
+[WORD 8]
+Original: כָּל־
+Transliteration: kol
+Lexical Root: כל (kol)
+Part of Speech: Noun (construct form)
+Grammatical Info: Masculine singular construct
+Lexical Range:
+
+all
+
+every
+
+entire
+
+[WORD 9]
+Original: אֶרֶץ־חֲוִילָה
+Transliteration: erets-Chavila
+Lexical Root: אֶרֶץ (erets) + חֲוִילָה (Chavila)
+Part of Speech: Noun + Proper noun
+Grammatical Info: Feminine singular + proper noun
+Lexical Range:
+
+land of Havilah (desert valley region, one of Eden’s regions)
+
+[WORD 10]
+Original: אֲשֶׁר
+Transliteration: asher
+Lexical Root: אשר
+Part of Speech: Relative pronoun
+Grammatical Info: —
+Lexical Range:
+
+which
+
+that
+
+[WORD 11]
+Original: שָׁם
+Transliteration: sham
+Lexical Root: שָׁם
+Part of Speech: Adverb
+Grammatical Info: —
+Lexical Range:
+
+there
+
+[WORD 12]
+Original: הָאוֹנִיק
+Transliteration: ha-‘onikh
+Lexical Root: אוֹנִיק (‘onikh)
+Part of Speech: Noun with definite article
+Grammatical Info: Masculine singular
+Lexical Range:
+
+bdellium (precious resin/gem)
+
+[WORD 13]
+Original: פֶּרֶחַ
+Transliteration: perakh
+Lexical Root: פֶּרַח (perakh)
+Part of Speech: Noun
+Grammatical Info: Masculine singular
+Lexical Range:
+
+blossom
+
+flower
+
+[WORD 14]
+Original: אוֹב
+Transliteration: ov
+Lexical Root: אוֹב (ov)
+Part of Speech: Noun
+Grammatical Info: Masculine singular
+Lexical Range:
+
+onyx or precious stone
+
+specifically, a type of gem associated with that region
+
+[4. STRUCTURAL NOTES]
+
+Begins with a possessive clause: "shem‑o hanahar harishon Pishon" — naming the first river.
+Follows with existential/locative participle: "hu hassovev et kol‑erets‑Chavila."
+"Asher sham" introduces relative location.
+Two substances “ha‑‘onikh perakh‑ov” are listed with parallel structure for description.
+
+[5. VARIANT MANUSCRIPT NOTES]
+
+Masoretic tradition is stable here; no substantial textual variants known.
+Septuagint retains similar phrasing and preserves Pishon and Havilah names.
+
+[6. STRUCTURAL CONNECTION TO OTHER LINES]
+
+Part of the Edenic river-naming series (preceded by 2:10; followed by 2:12–14).
+Details the first river and region — provides context for subsequent mineral mention in 2:12 and naming of the Gihon river in 2:13.
+
+[7. CAUTIONARY REMINDER]
+The content above does not represent a translation.
+No conclusions, smoothing, or interpretive decisions have been made.
+This file serves only to display the original structure and lexical range as transparently as possible.

@@ -1,0 +1,48 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00032
+[BOOK]: Genesis
+[CHAPTER]: 2
+[VERSE]: 1
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And were completed the heavens and the earth and all their array.
+
+[RENDERING NOTES]
+
+“And were completed” reflects וַיְכֻלּוּ (vaykullu), a vav-consecutive verb in the imperfect Qal form indicating completed action.
+“The heavens” renders הַשָּׁמַיִם (hashamayim), a masculine plural noun with definite article.
+“The earth” renders וְהָאָרֶץ (veha’aretz), feminine singular with conjunction and definite article.
+“And all their array” renders וְכָל־צְבָאָם (vekol-tzeva’am), a construct noun meaning “host” or “assembly,” with a 3rd person masculine plural suffix referring to “the heavens and the earth.”
+
+[INSERTION / HELPER WORD TRACKING]
+
+Inserted “and” at the beginning to reflect vav-consecutive on the verb.
+Definite articles “the” before “heavens” and “earth” match Hebrew form.
+Added “their” to reflect the suffix ם in צְבָאָם (“their array”).
+No interpretive smoothing or reordering applied.
+
+[CONTEXTUAL PLACEMENT]
+
+This line concludes the six-day creative sequence and marks a structural shift into rest and sanctification (Genesis 2:2–3).
+It functions as a closure to the preceding cosmic formation and an opening to the concept of divine cessation and blessing.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Completes a verbal arc begun in Genesis 1:1 with “the heavens and the earth” as object; this line now shows their finished state.
+The phrase “all their array” anticipates heavenly assemblies and ordered multiplicity seen in later texts (e.g., Nehemiah 9:6).
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

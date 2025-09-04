@@ -1,0 +1,144 @@
+=== LINE SOURCE FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00032
+[BOOK]: Genesis
+[CHAPTER]: 2
+[VERSE]: 1
+[FILE TYPE]: Line Source
+
+[INTRO]
+This file shows what the earliest Hebrew/Greek manuscripts say, word by word, before any interpretation.
+
+[PREFACE]
+This file presents the earliest traceable form of this line, drawn primarily from manuscript sources like the Leningrad Codex.
+Where other manuscript witnesses differ or offer meaningful variation (such as the Dead Sea Scrolls or the Samaritan Pentateuch), we remain watchful and will note those cases transparently when identified.
+Every word is shown with its full lexical range — without smoothing, interpretation, or insertion.
+This is not a translation or conclusion. It is a transparent starting point, open to personal encounter and divine resonance.
+We do not treat any human source as final — only as visible reference points for deeper unfolding.
+While we strive for care and clarity, any oversight or omission is unintentional, and all work remains open to refinement as understanding grows.
+
+[1. ORIGINAL LINE TEXT]
+Language: Hebrew
+Manuscript Source: Leningrad Codex
+Line Reference: Genesis 2:1
+
+וַיְכֻלּוּ הַשָּׁמַיִם וְהָאָרֶץ וְכָל־צְבָאָם
+
+[2. DIRECT TRANSLITERATION]
+
+vaykullu hashamayim veha’aretz vekol-tzeva’am
+
+[3. WORD-BY-WORD LEXICAL BREAKDOWN]
+
+[WORD 1]
+Original: וַיְכֻלּוּ
+Transliteration: vaykullu
+Lexical Root: כלה (kalah)
+Part of Speech: Verb
+Grammatical Info: Qal, imperfect, 3rd person masculine plural, vav-consecutive
+Lexical Range:
+
+to be completed
+
+to be finished
+
+to come to an end
+
+to be consumed
+
+[WORD 2]
+Original: הַשָּׁמַיִם
+Transliteration: hashamayim
+Lexical Root: שָׁמַיִם (shamayim)
+Part of Speech: Noun
+Grammatical Info: Masculine plural with definite article
+Lexical Range:
+
+heavens
+
+sky
+
+upper realms
+
+cosmic expanse
+
+[WORD 3]
+Original: וְהָאָרֶץ
+Transliteration: veha’aretz
+Lexical Root: אֶרֶץ (eretz)
+Part of Speech: Noun
+Grammatical Info: Feminine singular with prefixed conjunction and definite article
+Lexical Range:
+
+earth
+
+land
+
+territory
+
+ground
+
+[WORD 4]
+Original: וְכָל־
+Transliteration: vekol
+Lexical Root: כל (kol)
+Part of Speech: Noun
+Grammatical Info: Construct form with prefixed conjunction
+Lexical Range:
+
+all
+
+every
+
+entirety
+
+totality
+
+[WORD 5]
+Original: צְבָאָם
+Transliteration: tzeva’am
+Lexical Root: צָבָא (tzeva)
+Part of Speech: Noun + pronominal suffix
+Grammatical Info: Masculine singular construct with 3rd person masculine plural suffix
+Lexical Range:
+
+host
+
+army
+
+mass
+
+array
+
+assembly
+
+company
+
+Notable Observations:
+
+The suffix “ם” (their) refers collectively to “the heavens and the earth,” denoting their constituents.
+
+[4. STRUCTURAL NOTES]
+
+The verb “vaykullu” governs a compound subject — “the heavens and the earth and all their host.”
+The phrase “kol-tzeva’am” forms a genitive construction indicating all subordinate entities.
+The verb is plural, aligning grammatically with the compound plural subject.
+
+[5. VARIANT MANUSCRIPT NOTES]
+
+No major deviations recorded in Qumran, SP, or LXX for this verse.
+Consistent form in Leningrad Codex and Aleppo Codex (fragmentary support).
+
+[6. STRUCTURAL CONNECTION TO OTHER LINES]
+
+Continuation of “shamayim” and “aretz” pairing from Genesis 1:1, completing the structural arc.
+The term “tzeva’am” anticipates similar cosmological assemblies seen in later texts (e.g., Nehemiah 9:6).
+
+[7. CAUTIONARY REMINDER]
+The content above does not represent a translation.
+No conclusions, smoothing, or interpretive decisions have been made.
+This file serves only to display the original structure and lexical range as transparently as possible.

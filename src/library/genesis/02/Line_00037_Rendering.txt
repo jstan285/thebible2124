@@ -1,0 +1,50 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00037
+[BOOK]: Genesis
+[CHAPTER]: 2
+[VERSE]: 6
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+But a mist would rise from the earth and water all the surface of the ground.
+
+[RENDERING NOTES]
+
+“But” reflects the vav at the beginning of וְאֵד (ve’ed), offering narrative contrast to the previous absence in 2:5.
+“A mist” renders אֵד (ed), which can mean vapor, exhalation, or stream — selected here as “mist” to maintain subtle emergence.
+“Would rise” reflects יַעֲלֶה (ya‘aleh), Qal imperfect, indicating ongoing or habitual action — a rising motion from below.
+“From the earth” is מִן־הָאָרֶץ (min-ha’aretz), with clear directional flow.
+“Water” reflects וְהִשְׁקָה (vehishqah), Hiphil perfect with vav-consecutive — causative action: to moisten or irrigate.
+“All the surface of the ground” translates אֶת־כָּל־פְּנֵי הָאֲדָמָה — a totalizing phrase describing the full terrain, with “face” (penei) used idiomatically.
+
+[INSERTION / HELPER WORD TRACKING]
+
+“But” inserted to reflect narrative contrast.
+“Would” added for imperfective aspect in “would rise.”
+“The” added in “the surface of the ground” for clarity.
+No interpretive smoothing or metaphoric language used.
+
+[CONTEXTUAL PLACEMENT]
+
+Offers an alternative to rain — an emergent source of moisture preceding cultivation and human action.
+Resolves the environmental tension posed in Genesis 2:5 with an unexpected mechanism.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Follows a narrative pattern of problem/resolution: no rain/no man (2:5) → mist rising (2:6) → human formed (2:7).
+Completes a fluid triad preparing the conditions of Eden.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

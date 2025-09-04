@@ -1,0 +1,262 @@
+=== LINE SOURCE FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00051
+[BOOK]: Genesis
+[CHAPTER]: 2
+[VERSE]: 20
+[FILE TYPE]: Line Source
+
+[INTRO]
+This file shows what the earliest Hebrew/Greek manuscripts say, word by word, before any interpretation.
+
+[PREFACE]
+This file presents the earliest traceable form of this line, drawn primarily from manuscript sources like the Leningrad Codex.
+Where other manuscript witnesses differ or offer meaningful variation (such as the Dead Sea Scrolls or the Samaritan Pentateuch), we remain watchful and will note those cases transparently when identified.
+Every word is shown with its full lexical range — without smoothing, interpretation, or insertion.
+This is not a translation or conclusion. It is a transparent starting point, open to personal encounter and divine resonance.
+We do not treat any human source as final — only as visible reference points for deeper unfolding.
+While we strive for care and clarity, any oversight or omission is unintentional, and all work remains open to refinement as understanding grows.
+
+[1. ORIGINAL LINE TEXT]
+Language: Hebrew
+Manuscript Source: Leningrad Codex
+Line Reference: Genesis 2:20
+
+וַיִּקְרָא הָאָדָם שֵׁמוֹת לְכָל־הַבְּהֵמָה וּלְעוֹף הַשָּׁמַיִם וּלְכֹל חַיַּת הַשָּׂדֶה וּלְאָדָם לֹא־מָצָא עֵזֶר כְּנֶגְדּוֹ
+
+[2. DIRECT TRANSLITERATION]
+
+vayiqra ha’adam shemot le’khol-habehemah u’le‘of hashamayim u’le’khol chayat hasadeh u’le’adam lo-matza ‘ezer kenegdo
+
+[3. WORD-BY-WORD LEXICAL BREAKDOWN]
+
+[WORD 1]
+Original: וַיִּקְרָא
+Transliteration: vayiqra
+Lexical Root: קרא (qara)
+Part of Speech: Verb
+Grammatical Info: Qal, imperfect, 3rd person masculine singular, vav-consecutive
+Lexical Range:
+
+to call
+
+to name
+
+to proclaim
+
+to summon
+
+[WORD 2]
+Original: הָאָדָם
+Transliteration: ha’adam
+Lexical Root: אָדָם (adam)
+Part of Speech: Noun
+Grammatical Info: Masculine singular with definite article
+Lexical Range:
+
+the man
+
+the human
+
+humanity
+
+[WORD 3]
+Original: שֵׁמוֹת
+Transliteration: shemot
+Lexical Root: שֵׁם (shem)
+Part of Speech: Noun (plural)
+Grammatical Info: Masculine plural
+Lexical Range:
+
+names
+
+designations
+
+titles
+
+[WORD 4]
+Original: לְכָל־
+Transliteration: le’khol
+Lexical Root: ל + כל (kol)
+Part of Speech: Preposition + noun (construct)
+Grammatical Info: —
+Lexical Range:
+
+to all
+
+for every
+
+[WORD 5]
+Original: הַבְּהֵמָה
+Transliteration: habehemah
+Lexical Root: בְּהֵמָה (behemah)
+Part of Speech: Noun
+Grammatical Info: Feminine singular with definite article
+Lexical Range:
+
+the beast
+
+the animal
+
+domesticated creature
+
+[WORD 6]
+Original: וּלְעוֹף
+Transliteration: u’le‘of
+Lexical Root: ל + עוֹף (‘of)
+Part of Speech: Conjunction + preposition + noun
+Grammatical Info: Masculine singular
+Lexical Range:
+
+and to the bird
+
+and for flying creature
+
+[WORD 7]
+Original: הַשָּׁמַיִם
+Transliteration: hashamayim
+Lexical Root: שָׁמַיִם (shamayim)
+Part of Speech: Noun
+Grammatical Info: Masculine plural with definite article
+Lexical Range:
+
+the heavens
+
+the sky
+
+[WORD 8]
+Original: וּלְכֹל
+Transliteration: u’le’khol
+Lexical Root: ל + כל (kol)
+Part of Speech: Conjunction + preposition + noun (construct)
+Grammatical Info: —
+Lexical Range:
+
+and to all
+
+and for every
+
+[WORD 9]
+Original: חַיַּת
+Transliteration: chayat
+Lexical Root: חיה (chayah)
+Part of Speech: Noun (construct)
+Grammatical Info: Feminine singular construct
+Lexical Range:
+
+creature
+
+living being
+
+wild animal
+
+[WORD 10]
+Original: הַשָּׂדֶה
+Transliteration: hasadeh
+Lexical Root: שָׂדֶה (sadeh)
+Part of Speech: Noun
+Grammatical Info: Masculine singular with definite article
+Lexical Range:
+
+the field
+
+the open country
+
+[WORD 11]
+Original: וּלְאָדָם
+Transliteration: u’le’adam
+Lexical Root: ל + אָדָם (adam)
+Part of Speech: Conjunction + preposition + noun
+Grammatical Info: Masculine singular
+Lexical Range:
+
+and for the man
+
+and to the human
+
+[WORD 12]
+Original: לֹא
+Transliteration: lo
+Lexical Root: לֹא
+Part of Speech: Negative particle
+Grammatical Info: —
+Lexical Range:
+
+not
+
+no
+
+[WORD 13]
+Original: מָצָא
+Transliteration: matza
+Lexical Root: מצא (matza)
+Part of Speech: Verb
+Grammatical Info: Qal, perfect, 3rd person masculine singular
+Lexical Range:
+
+he found
+
+he discovered
+
+he obtained
+
+[WORD 14]
+Original: עֵזֶר
+Transliteration: ‘ezer
+Lexical Root: עזר (‘azar)
+Part of Speech: Noun
+Grammatical Info: Masculine singular
+Lexical Range:
+
+help
+
+aid
+
+support
+
+assistant
+
+[WORD 15]
+Original: כְּנֶגְדּוֹ
+Transliteration: kenegdo
+Lexical Root: נגד (neged)
+Part of Speech: Preposition + pronominal suffix
+Grammatical Info: Construct with 3rd person masculine singular suffix
+Lexical Range:
+
+corresponding to him
+
+alongside him
+
+opposite him
+
+[4. STRUCTURAL NOTES]
+
+The line contains two major clauses:
+
+Naming action performed by the human upon animals.
+
+Conclusive statement of absence regarding a fitting helper.
+
+The phrasing “kenegdo” parallels Genesis 2:18.
+“Lo matza” is past tense and definitive.
+
+[5. VARIANT MANUSCRIPT NOTES]
+
+Masoretic reading consistent.
+Septuagint parallels “οὐχ εὑρέθη βοηθὸς ὅμοιος αὐτῷ” — “no helper was found like to him.”
+
+[6. STRUCTURAL CONNECTION TO OTHER LINES]
+
+Immediate continuation of Genesis 2:19 — same sequence.
+Precedes divine action in Genesis 2:21–22 to resolve the helper absence.
+Reinforces distinctiveness and insufficiency of animal creation for relational counterpart.
+
+[7. CAUTIONARY REMINDER]
+The content above does not represent a translation.
+No conclusions, smoothing, or interpretive decisions have been made.
+This file serves only to display the original structure and lexical range as transparently as possible.

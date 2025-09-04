@@ -1,0 +1,49 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00033
+[BOOK]: Genesis
+[CHAPTER]: 2
+[VERSE]: 2
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And God completed on the seventh day his work that he had made, and he ceased on the seventh day from all his work that he had made.
+
+[RENDERING NOTES]
+
+“Completed” renders וַיְכַל (vaykhal), from כלה (kalah), used here in Qal imperfect with vav-consecutive — signifying finalized action.
+“On the seventh day” translates בַּיּוֹם הַשְּׁבִיעִי (bayom hashevi‘i), repeated twice for emphasis.
+“His work that he had made” translates מְלַאכְתּוֹ אֲשֶׁר עָשָׂה, using construct and perfect verb to denote ownership and completed past action.
+“Ceased” reflects וַיִּשְׁבֹּת (vayishbot), from שׁבת (shavat), meaning to rest or stop.
+The structure mirrors itself in the repetition of phrasing — “his work that he had made” appears identically in both halves.
+
+[INSERTION / HELPER WORD TRACKING]
+
+“On” inserted for the prepositional בְּ (in/on) before “day.”
+“That he had” added to reflect perfect tense and relative clause of אֲשֶׁר עָשָׂה.
+Repetition maintained without smoothing.
+
+[CONTEXTUAL PLACEMENT]
+
+This line concludes the active creation sequence and initiates the concept of sacred cessation.
+It prepares the theological ground for Sabbath — not as absence of activity, but as fulfillment and rest.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Continues the pattern of divine action followed by completion.
+“Melakhto asher asah” (his work that he had made) appears twice — emphasizing totality and closure.
+This structure bridges Genesis 1 (creation) and Genesis 2:3 (blessing and sanctification).
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

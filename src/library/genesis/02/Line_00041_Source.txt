@@ -1,0 +1,207 @@
+=== LINE SOURCE FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00041
+[BOOK]: Genesis
+[CHAPTER]: 2
+[VERSE]: 10
+[FILE TYPE]: Line Source
+
+[INTRO]
+This file shows what the earliest Hebrew/Greek manuscripts say, word by word, before any interpretation.
+
+[PREFACE]
+This file presents the earliest traceable form of this line, drawn primarily from manuscript sources like the Leningrad Codex.
+Where other manuscript witnesses differ or offer meaningful variation (such as the Dead Sea Scrolls or the Samaritan Pentateuch), we remain watchful and will note those cases transparently when identified.
+Every word is shown with its full lexical range — without smoothing, interpretation, or insertion.
+This is not a translation or conclusion. It is a transparent starting point, open to personal encounter and divine resonance.
+We do not treat any human source as final — only as visible reference points for deeper unfolding.
+While we strive for care and clarity, any oversight or omission is unintentional, and all work remains open to refinement as understanding grows.
+
+[1. ORIGINAL LINE TEXT]
+Language: Hebrew
+Manuscript Source: Leningrad Codex
+Line Reference: Genesis 2:10
+
+וְנָהָר יֹצֵא מֵעֵדֶן לְהַשְׁקוֹת אֶת־הַגָּן וּמִשָּׁם יִפָּרֵד וְהָיָה לְאַרְבָּעָה רָאשִׁים
+
+[2. DIRECT TRANSLITERATION]
+
+venahar yotze me‘eden lehashqot et-hagan umisham yippared vehayah le’arba‘ah rashim
+
+[3. WORD-BY-WORD LEXICAL BREAKDOWN]
+
+[WORD 1]
+Original: וְנָהָר
+Transliteration: venahar
+Lexical Root: נָהָר (nahar)
+Part of Speech: Noun with conjunction
+Grammatical Info: Masculine singular
+Lexical Range:
+
+river
+
+stream
+
+flowing channel
+
+[WORD 2]
+Original: יֹצֵא
+Transliteration: yotze
+Lexical Root: יצא (yatsa)
+Part of Speech: Verb
+Grammatical Info: Qal, participle, masculine singular
+Lexical Range:
+
+going out
+
+flowing forth
+
+proceeding
+
+issuing
+
+[WORD 3]
+Original: מֵעֵדֶן
+Transliteration: me‘eden
+Lexical Root: עֵדֶן (eden)
+Part of Speech: Noun with prefixed preposition
+Grammatical Info: Masculine singular
+Lexical Range:
+
+from Eden
+
+from delight
+
+from luxuriance
+
+[WORD 4]
+Original: לְהַשְׁקוֹת
+Transliteration: lehashqot
+Lexical Root: שׁקה (shaqah)
+Part of Speech: Verb (infinitive construct)
+Grammatical Info: Hiphil, with prefixed preposition
+Lexical Range:
+
+to water
+
+to irrigate
+
+to provide drink
+
+[WORD 5]
+Original: אֶת־
+Transliteration: et
+Lexical Root: —
+Part of Speech: Direct object marker
+Grammatical Info: —
+Lexical Range:
+
+marks the definite direct object
+
+[WORD 6]
+Original: הַגָּן
+Transliteration: hagan
+Lexical Root: גַּן (gan)
+Part of Speech: Noun
+Grammatical Info: Masculine singular with definite article
+Lexical Range:
+
+the garden
+
+cultivated area
+
+enclosed space
+
+[WORD 7]
+Original: וּמִשָּׁם
+Transliteration: umisham
+Lexical Root: מן (min) + שָׁם (sham)
+Part of Speech: Preposition + adverb with conjunction
+Grammatical Info: —
+Lexical Range:
+
+and from there
+
+and thence
+
+[WORD 8]
+Original: יִפָּרֵד
+Transliteration: yippared
+Lexical Root: פרד (parad)
+Part of Speech: Verb
+Grammatical Info: Niphal, imperfect, 3rd person masculine singular
+Lexical Range:
+
+to be divided
+
+to separate
+
+to branch out
+
+[WORD 9]
+Original: וְהָיָה
+Transliteration: vehayah
+Lexical Root: היה (hayah)
+Part of Speech: Verb
+Grammatical Info: Qal, perfect, 3rd person masculine singular with conjunction
+Lexical Range:
+
+and it became
+
+and it was
+
+and it came to be
+
+[WORD 10]
+Original: לְאַרְבָּעָה
+Transliteration: le’arba‘ah
+Lexical Root: ארבע (arba)
+Part of Speech: Numeral
+Grammatical Info: Masculine singular with preposition
+Lexical Range:
+
+to four
+
+into four
+
+[WORD 11]
+Original: רָאשִׁים
+Transliteration: rashim
+Lexical Root: רֹאשׁ (rosh)
+Part of Speech: Noun (plural)
+Grammatical Info: Masculine plural
+Lexical Range:
+
+heads
+
+sources
+
+beginnings
+
+chief streams
+
+[4. STRUCTURAL NOTES]
+
+The sentence is composed of a main clause (“a river goes out”) followed by purpose (“to water the garden”) and result (“was divided into four heads”).
+Verbs shift from participial (“yotze”) to finite forms (“yippared,” “vehayah”), indicating flow-to-division sequence.
+“Rashim” as “heads” can signify both geographic source points or primary channels.
+
+[5. VARIANT MANUSCRIPT NOTES]
+
+No major variants in the Masoretic tradition; phrase structure stable across major witnesses.
+Septuagint renders “heads” as “ἀρχάς” (archas), consistent with “sources” or “beginnings.”
+
+[6. STRUCTURAL CONNECTION TO OTHER LINES]
+
+Introduces the branching rivers that will be named in Genesis 2:11–14.
+Reinforces Eden as a geographic and life-giving source.
+Continues motif of abundance initiated in Genesis 2:9.
+
+[7. CAUTIONARY REMINDER]
+The content above does not represent a translation.
+No conclusions, smoothing, or interpretive decisions have been made.
+This file serves only to display the original structure and lexical range as transparently as possible.

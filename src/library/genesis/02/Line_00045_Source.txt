@@ -1,0 +1,211 @@
+=== LINE SOURCE FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00045
+[BOOK]: Genesis
+[CHAPTER]: 2
+[VERSE]: 14
+[FILE TYPE]: Line Source
+
+[INTRO]
+This file shows what the earliest Hebrew/Greek manuscripts say, word by word, before any interpretation.
+
+[PREFACE]
+This file presents the earliest traceable form of this line, drawn primarily from manuscript sources like the Leningrad Codex.
+Where other manuscript witnesses differ or offer meaningful variation (such as the Dead Sea Scrolls or the Samaritan Pentateuch), we remain watchful and will note those cases transparently when identified.
+Every word is shown with its full lexical range — without smoothing, interpretation, or insertion.
+This is not a translation or conclusion. It is a transparent starting point, open to personal encounter and divine resonance.
+We do not treat any human source as final — only as visible reference points for deeper unfolding.
+While we strive for care and clarity, any oversight or omission is unintentional, and all work remains open to refinement as understanding grows.
+
+[1. ORIGINAL LINE TEXT]
+Language: Hebrew
+Manuscript Source: Leningrad Codex
+Line Reference: Genesis 2:14
+
+וְשֵׁם הַנָּהָר הַשְּׁלִישִׁי חִדֶּקֶל הוּא הַהֹלֵךְ קִדְמַת אַשּׁוּר וְהַנָּהָר הָרְבִיעִי הוּא פְרָת
+
+[2. DIRECT TRANSLITERATION]
+
+veshem hanahar hashlishi Chiddeqel hu haholekh qidmat Ashur vehanahar harevi‘i hu Perat
+
+[3. WORD-BY-WORD LEXICAL BREAKDOWN]
+
+[WORD 1]
+Original: וְשֵׁם
+Transliteration: veshem
+Lexical Root: שֵׁם (shem)
+Part of Speech: Noun with conjunction
+Grammatical Info: Masculine singular
+Lexical Range:
+
+and name
+
+and reputation
+
+and designation
+
+[WORD 2]
+Original: הַנָּהָר
+Transliteration: hanahar
+Lexical Root: נָהָר (nahar)
+Part of Speech: Noun
+Grammatical Info: Masculine singular with definite article
+Lexical Range:
+
+the river
+
+the stream
+
+the channel
+
+[WORD 3]
+Original: הַשְּׁלִישִׁי
+Transliteration: hashlishi
+Lexical Root: שָׁלֹשׁ (shalosh)
+Part of Speech: Ordinal number
+Grammatical Info: Masculine singular with definite article
+Lexical Range:
+
+the third
+
+third in sequence
+
+[WORD 4]
+Original: חִדֶּקֶל
+Transliteration: Chiddeqel
+Lexical Root: חִדֶּקֶל (Chiddeqel)
+Part of Speech: Proper noun
+Grammatical Info: —
+Lexical Range:
+
+Tigris (river name)
+
+rapid stream (traditional gloss)
+
+[WORD 5]
+Original: הוּא
+Transliteration: hu
+Lexical Root: הוּא (hu)
+Part of Speech: Pronoun
+Grammatical Info: 3rd person masculine singular
+Lexical Range:
+
+he
+
+it
+
+this one
+
+[WORD 6]
+Original: הַהֹלֵךְ
+Transliteration: haholekh
+Lexical Root: הלך (halakh)
+Part of Speech: Verb (participle)
+Grammatical Info: Qal participle, masculine singular with definite article
+Lexical Range:
+
+the one going
+
+the one proceeding
+
+the one flowing
+
+[WORD 7]
+Original: קִדְמַת
+Transliteration: qidmat
+Lexical Root: קֶדֶם (qedem)
+Part of Speech: Noun (construct)
+Grammatical Info: Feminine singular
+Lexical Range:
+
+eastward of
+
+in front of
+
+toward the east of
+
+[WORD 8]
+Original: אַשּׁוּר
+Transliteration: Ashur
+Lexical Root: אַשּׁוּר (Ashur)
+Part of Speech: Proper noun
+Grammatical Info: —
+Lexical Range:
+
+Assyria
+
+region north of Mesopotamia
+
+[WORD 9]
+Original: וְהַנָּהָר
+Transliteration: vehanahar
+Lexical Root: נָהָר (nahar)
+Part of Speech: Noun with conjunction
+Grammatical Info: Masculine singular with definite article
+Lexical Range:
+
+and the river
+
+and the stream
+
+[WORD 10]
+Original: הָרְבִיעִי
+Transliteration: harevi‘i
+Lexical Root: רְבִיעִי (revi‘i)
+Part of Speech: Ordinal number
+Grammatical Info: Masculine singular with definite article
+Lexical Range:
+
+the fourth
+
+fourth in sequence
+
+[WORD 11]
+Original: הוּא
+Transliteration: hu
+Lexical Root: הוּא (hu)
+Part of Speech: Pronoun
+Grammatical Info: 3rd person masculine singular
+Lexical Range:
+
+he
+
+it
+
+[WORD 12]
+Original: פְרָת
+Transliteration: Perat
+Lexical Root: פְרָת (Perat)
+Part of Speech: Proper noun
+Grammatical Info: —
+Lexical Range:
+
+Euphrates (river name)
+
+fruitful stream (traditional gloss)
+
+[4. STRUCTURAL NOTES]
+
+Two clauses of parallel form: each names a river, gives its ordinal rank, adds a proper noun identifier, and a brief descriptor.
+"Hu haholekh" and "hu Perat" serve as predicate constructions.
+“Qidmat Ashur” is a compound directional phrase: "eastward of Ashur."
+
+[5. VARIANT MANUSCRIPT NOTES]
+
+Masoretic witnesses are unified in structure and naming.
+Septuagint renders Χεδέκλ and Εὐφράτης for Chiddeqel and Perat respectively.
+
+[6. STRUCTURAL CONNECTION TO OTHER LINES]
+
+Completes the fourfold river structure initiated in Genesis 2:10.
+All four rivers now named: Pishon, Gihon, Chiddeqel (Tigris), and Perat (Euphrates).
+Connects to broader biblical geography (e.g., Assyria, future narratives in Genesis and beyond).
+
+[7. CAUTIONARY REMINDER]
+The content above does not represent a translation.
+No conclusions, smoothing, or interpretive decisions have been made.
+This file serves only to display the original structure and lexical range as transparently as possible.

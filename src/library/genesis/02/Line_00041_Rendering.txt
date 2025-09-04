@@ -1,0 +1,50 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00041
+[BOOK]: Genesis
+[CHAPTER]: 2
+[VERSE]: 10
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And a river flows out from Eden to water the garden, and from there it separates and becomes four heads.
+
+[RENDERING NOTES]
+
+“Flows out” translates יֹצֵא (yotze), a Qal participle indicating ongoing movement.
+“From Eden” (מֵעֵדֶן, me‘eden) connects the water source with the origin-place of delight and cultivation.
+“To water the garden” renders לְהַשְׁקוֹת אֶת־הַגָּן (lehashqot et-hagan), Hiphil infinitive construct for irrigation or sustenance.
+“Separates” renders יִפָּרֵד (yippared), Niphal imperfect — a passive branching.
+“Becomes four heads” uses וְהָיָה לְאַרְבָּעָה רָאשִׁים (vehayah le’arba‘ah rashim) — results in four sources or branches.
+
+[INSERTION / HELPER WORD TRACKING]
+
+“And” added for sequential connection.
+“It” before “separates” added for English grammar; subject implied in Hebrew.
+All verbs and nouns are directly traceable; no smoothing or interpretive insertions made.
+
+[CONTEXTUAL PLACEMENT]
+
+Builds the ecosystem introduced in verses 8–9 by adding irrigation flow.
+Initiates movement outward from Eden — first fluid dynamism in the narrative.
+Sets up geographic and symbolic expansion via the four rivers named in 2:11–14.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Structure: origin (Eden) → purpose (water garden) → consequence (branch into four).
+Syntactic sequence models flow: participle (yotze) → infinitive (lehashqot) → imperfect (yippared) → perfect (vehayah).
+Introduces multiplicity from unity — singular river divides into plural “heads.”
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

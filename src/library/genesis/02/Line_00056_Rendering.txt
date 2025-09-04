@@ -1,0 +1,50 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00056
+[BOOK]: Genesis
+[CHAPTER]: 2
+[VERSE]: 25
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And the two of them were naked — the human and his wife — and they were not ashamed.
+
+[RENDERING NOTES]
+
+“And they were” = וַיִּהְיוּ (vayihyu), Qal imperfect plural with vav-consecutive — simple state-of-being.
+“The two of them” = שְׁנֵיהֶם (shenehem), dual construct with 3mp suffix — emphasizes the pair.
+“Naked” = עֲרוּמִּים (‘arummim), plural adjective — bare or exposed.
+“The human and his wife” = הָאָדָם וְאִשְׁתּוֹ (ha’adam ve’ishto) — singular subjects reaffirmed as the plural antecedent.
+“And they were not ashamed” = וְלֹא יִתְבֹּשָׁשׁוּ (velo yitboshasu), Hitpael imperfect — no mutual or internal shame response.
+
+[INSERTION / HELPER WORD TRACKING]
+
+Em-dash added for clarity between subject clarification and the verb clause.
+No smoothing or additional verbs.
+“Ashamed” chosen for יִתְבֹּשָׁשׁוּ — primary reflexive meaning retained.
+
+[CONTEXTUAL PLACEMENT]
+
+Culminating statement of the Genesis 2 creation narrative.
+Final condition before the introduction of the serpent and shame in Genesis 3.
+Marks a moment of unguarded being — a shared state of presence.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+“The two of them” aligns with the singular pair just described — a unity-in-plurality.
+Reflexive verb form suggests emotional mutuality.
+Notably concise, yet layered — placement before the Fall magnifies its narrative weight.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

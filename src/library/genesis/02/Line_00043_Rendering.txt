@@ -1,0 +1,49 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00043
+[BOOK]: Genesis
+[CHAPTER]: 2
+[VERSE]: 12
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And the gold of that land is good — there is bdellium and onyx stone there.
+
+[RENDERING NOTES]
+
+“And the gold of that land” renders וּזֲהַב הָאָרֶץ הַהִוא (uzahav ha’aretz hahi), with the conjunction + definite noun + demonstrative.
+“Is good” reflects טוֹב (tov), standing independently as a value judgment.
+“There is bdellium and onyx” reflects שָׁם הַבְּדֹלַח וְאֶבֶן הַשֹּׁהַם (sham habdolach ve’even hashoham), maintaining noun listing structure.
+All items are presented as locational — “there” occurs twice in Hebrew for poetic emphasis.
+
+[INSERTION / HELPER WORD TRACKING]
+
+“Is” supplied in “is good” for English grammar; not explicitly present in Hebrew.
+Second “there” inserted in final phrase for English balance and clarity.
+“Stone” after “onyx” is interpretive clarification of אֶבֶן (even) — traceable but added for clarity.
+
+[CONTEXTUAL PLACEMENT]
+
+Continues description of the land of Havilah (introduced in v.11).
+Confirms its resources and quality, enriching Edenic river narrative.
+First direct evaluation of land materials in the narrative — “good.”
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Syntactic flow: noun clause → evaluative adjective → locational substance list.
+Links directly to prior verse thematically and lexically (see "bdellium").
+Emphasizes triad of resources across verses 11–12: bdellium, blossom, onyx → gold, bdellium, onyx.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

@@ -1,0 +1,49 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00034
+[BOOK]: Genesis
+[CHAPTER]: 2
+[VERSE]: 3
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And God blessed the seventh day and sanctified it, because in it he ceased from all his work that God created to do.
+
+[RENDERING NOTES]
+
+“Blessed” reflects וַיְבָרֶךְ (vayevarekh), a Piel vav-consecutive verb meaning to bless or invoke divine favor.
+“Sanctified” renders וַיְקַדֵּשׁ (vayqaddesh), also in the Piel stem, meaning to consecrate or set apart as holy.
+“Because in it he ceased” translates כִּי בוֹ שָׁבַת (ki vo shavat), with “ki” offering causal explanation.
+“From all his work that God created to do” follows the sequence: מִכָּל־מְלַאכְתּוֹ אֲשֶׁר בָּרָא אֱלֹהִים לַעֲשׂוֹת — reflecting both completed action (bara) and ongoing purpose (la’asot).
+Repetition of “Elohim” and “work” (melakhto) ties back structurally to Genesis 2:2 and 1:1.
+
+[INSERTION / HELPER WORD TRACKING]
+
+Definite articles “the” inserted before “seventh day.”
+“It” supplied for the object pronoun אֹתוֹ (oto).
+“He” added before “ceased” for clarity.
+No smoothing applied beyond grammatical readability.
+
+[CONTEXTUAL PLACEMENT]
+
+This line finalizes the creation narrative by framing the seventh day not only as a day of cessation but as one of blessing and sanctification.
+It transitions the sequence from action to purpose — from forming to meaning.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Concludes the three-part seventh-day triad: completion (2:1), cessation (2:2), and sanctification (2:3).
+The dual verbs “blessed” and “sanctified” mirror liturgical and legal echoes throughout the Torah.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

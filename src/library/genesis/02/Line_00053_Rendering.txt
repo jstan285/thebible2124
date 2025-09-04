@@ -1,0 +1,52 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00053
+[BOOK]: Genesis
+[CHAPTER]: 2
+[VERSE]: 22
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And YHWH God built the side that he took from the human into a woman, and brought her to the human.
+
+[RENDERING NOTES]
+
+“Built” renders וַיִּבֶן (vayiven), Qal imperfect with vav-consecutive — used for constructing, not forming.
+“The side” = הַצֵּלָע (hatsela), feminine singular with definite article — rib/side/beam.
+“That he took” = אֲשֶׁר לָקַח (asher laqach), relative clause.
+“From the human” = מִן־הָאָדָם (min-ha’adam), prepositional phrase.
+“Into a woman” = לְאִשָּׁה (le’ishah), preposition + noun, signaling transformation or purpose.
+“Brought her” = וַיְבִאֶהָ (vayevieha), Hiphil imperfect with 3fs suffix — causative movement.
+“To the human” = אֶל־הָאָדָם (el-ha’adam), directional phrasing.
+
+[INSERTION / HELPER WORD TRACKING]
+
+“Into” used to render לְ (le’) in a sense of transformation.
+“Her” is grammatically present in the Hebrew (3fs suffix).
+No smoothing; sequence maintained exactly.
+
+[CONTEXTUAL PLACEMENT]
+
+Immediately follows the divine act of extraction (v.21).
+Completes the transformation arc: side → woman.
+Sets stage for human recognition in v.23.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Continuity of subject (YHWH God) and object (the side → woman).
+Action arc: build → bring.
+Brings narrative closure to the problem raised in v.18 and restated in v.20.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

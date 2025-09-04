@@ -1,0 +1,52 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00039
+[BOOK]: Genesis
+[CHAPTER]: 2
+[VERSE]: 8
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And YHWH God planted a garden in Eden, from the east, and there he placed the human whom he had formed.
+
+[RENDERING NOTES]
+
+“Planted” renders וַיִּטַּע (vayyitta), Qal imperfect with vav-consecutive — deliberate, creative action.
+“A garden in Eden” translates גַּן־בְּעֵדֶן (gan-be‘eden) — not yet a proper name but a location descriptor.
+“From the east” renders מִקֶּדֶם (miqqedem), which also connotes “from ancient time” or “from before” — spatial and/or temporal.
+“He placed” is וַיָּשֶׂם (vayyasem), second vav-consecutive verb — signals intentional positioning.
+“The human whom he had formed” retains the relative clause אֶת־הָאָדָם אֲשֶׁר יָצָר (et-ha’adam asher yatzar), connecting back to 2:7.
+
+[INSERTION / HELPER WORD TRACKING]
+
+“A” before “garden” added for clarity.
+“There” added for smoother English rendering of שָׁם (sham).
+“Whom he had” supplies English grammar for the relative verb clause.
+All content traceable directly to original phrasing; no interpretive smoothing applied.
+
+[CONTEXTUAL PLACEMENT]
+
+Follows directly after the formation of the human — shows divine placement, not random existence.
+Introduces the Garden of Eden as a created space for habitation and cultivation.
+Builds the environment for the human–divine relational story to unfold.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Two action verbs in sequence: “planted” and “placed.”
+Eden functions as both noun and concept — location of delight and origin.
+Echo of human intentionality: “whom he had formed” (asher yatzar) connects to divine design.
+Opens the spatial dimension of the Eden narrative cycle.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

@@ -1,0 +1,51 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00042
+[BOOK]: Genesis
+[CHAPTER]: 2
+[VERSE]: 11
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+The name of the first river is Pishon — it encircles the whole land of Havilah, where there is bdellium, blossom, and onyx.
+
+[RENDERING NOTES]
+
+“The name of the first river” renders שְׁמוֹ הַנָּהָר הָרִאשׁוֹן (shem hanahar harishon) with possessive construction.
+“Is Pishon” reflects simple noun equivalence with פִּישׁוֹן (Pishon).
+“It encircles” comes from הַסּוֹבֵב (hassovev), a participle form of סבב (savav).
+“The whole land of Havilah” uses כָּל־אֶרֶץ־חֲוִילָה (kol-erets-Chavila), combining totality and geographic naming.
+“Where there is” derives from אֲשֶׁר שָׁם (asher sham), a relative clause.
+“Bdellium, blossom, and onyx” groups הָאוֹנִיק פֶּרֶחַ אוֹב as a triad — all precious or aesthetically significant substances.
+
+[INSERTION / HELPER WORD TRACKING]
+
+Em dash inserted to break list for clarity; not in original.
+“There is” implied by context of אֲשֶׁר שָׁם; included for readability.
+All listed nouns traceable directly to source line; no interpretive additions.
+
+[CONTEXTUAL PLACEMENT]
+
+First of four rivers stemming from Eden (see 2:10).
+Connects geography with resource wealth — both mineral and aesthetic.
+Launches the regional mapping of the Edenic outflow.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Pattern: Name → Function → Region → Feature
+This structure repeats in upcoming verses for the other rivers.
+Use of relative clause (“where there is…”) parallels 2:12's mineral detail.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

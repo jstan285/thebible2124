@@ -1,0 +1,51 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00038
+[BOOK]: Genesis
+[CHAPTER]: 2
+[VERSE]: 7
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And YHWH God formed the human from dust of the ground, and breathed into his nostrils the breath of life, and the human became a living being.
+
+[RENDERING NOTES]
+
+“Formed” renders וַיִּיצֶר (vayyitzer), Qal imperfect with vav-consecutive, suggesting completed, intentional action.
+“The human” for הָאָדָם (ha’adam), matching the definite article and reflecting the archetypal rather than named individual.
+“Dust of the ground” reflects עָפָר מִן־הָאֲדָמָה (afar min-ha’adamah), preserving the adam–adamah wordplay.
+“Breathed into his nostrils” translates וַיִּפַּח בְּאַפָּיו (vayyipach be’apav), with direct object “the breath of life” (נִשְׁמַת חַיִּים, nishmat chayyim).
+“Became a living being” for וַיְהִי לְנֶפֶשׁ חַיָּה (vayhi lenephesh chayyah), an idiom signifying transformation into animate life.
+
+[INSERTION / HELPER WORD TRACKING]
+
+“The” inserted before “human” and “ground” to reflect definite articles.
+“Of” inserted to clarify construct chain “dust of the ground.”
+“Into” and “a” added for readability in English.
+All phrases directly traceable to the structure and lexemes in the Line Source File.
+
+[CONTEXTUAL PLACEMENT]
+
+This is the climactic creation moment for humanity — formed physically from soil, activated by divine breath.
+The line serves as a fulcrum between environmental preparation (2:5–6) and the human’s placement in Eden (2:8).
+Introduces foundational anthropological themes: embodiment, divine origin, breath-life.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Structured as three movement clauses: form (physical), breathe (spiritual), become (ontological state).
+Wordplay: adam–adamah; chayyim–chayyah.
+Verb sequence binds divine action to transformation of material into living nephesh.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

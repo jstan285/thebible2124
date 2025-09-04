@@ -1,0 +1,52 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00048
+[BOOK]: Genesis
+[CHAPTER]: 2
+[VERSE]: 17
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+But from the tree of the knowledge of good and evil, you shall not eat from it, for in the day you eat from it, dying you shall die.
+
+[RENDERING NOTES]
+
+“But from the tree…” renders the prepositional phrase וּמֵעֵץ (ume‘etz) with contrast to prior verse.
+“The knowledge of good and evil” follows הַדַּעַת טוֹב וָרָע (hadda‘at tov vara), combining feminine noun with masculine adjectives.
+“You shall not eat” translates לֹא תֹאכַל (lo to’khal), standard negated imperfect form.
+Repetition of מִמֶּנּוּ (mimennu) — “from it” — frames both instruction and consequence.
+“For in the day you eat…” reflects כִּי בְּיוֹם אֲכָלְךָ (ki beyom akholkha) — causal/temporal clause.
+“Dying you shall die” is the emphatic Hebrew idiom מוֹת תָּמוּת (mot tamut) — infinitive absolute + imperfect verb.
+
+[INSERTION / HELPER WORD TRACKING]
+
+“But” inserted for contrastive sense, implied by context though not grammatically marked.
+Repeated “from it” preserved as in original Hebrew structure.
+No smoothing or omissions applied.
+
+[CONTEXTUAL PLACEMENT]
+
+This line completes the divine command that begins in 2:16.
+Moves from permissive abundance to singular boundary.
+Establishes a sacred limit that becomes central to the unfolding Eden narrative.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Direct inversion of the permission formula in v.16 — akhol to’khel vs. lo to’khal.
+Structural layering:
+• Instruction → Object → Consequence
+• Contrast within divine voice — invitation then warning.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

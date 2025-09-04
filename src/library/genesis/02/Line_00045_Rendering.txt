@@ -1,0 +1,49 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00045
+[BOOK]: Genesis
+[CHAPTER]: 2
+[VERSE]: 14
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And the name of the third river is Chiddeqel — it is the one flowing eastward of Assyria. And the fourth river is Perat.
+
+[RENDERING NOTES]
+
+“And the name of the third river” renders וְשֵׁם הַנָּהָר הַשְּׁלִישִׁי (veshem hanahar hashlishi).
+“Chiddeqel” is preserved untranslated as the river’s proper name.
+“It is the one flowing eastward of Assyria” reflects הוּא הַהֹלֵךְ קִדְמַת אַשּׁוּר (hu haholekh qidmat Ashur).
+“And the fourth river is Perat” renders וְהַנָּהָר הָרְבִיעִי הוּא פְרָת (vehanahar harevi‘i hu Perat), a full naming and identification clause.
+
+[INSERTION / HELPER WORD TRACKING]
+
+“Is” inserted for standard English syntax.
+“The one” in “the one flowing” draws from participial structure; not a direct lexical term.
+No smoothing or interpretive phrases beyond traceable equivalents.
+
+[CONTEXTUAL PLACEMENT]
+
+Completes the Edenic four-river system introduced in 2:10.
+Chiddeqel and Perat correspond to known geographical rivers: Tigris and Euphrates.
+Ashur (Assyria) establishes the verse within later geopolitical consciousness.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+The dual-phrase structure (third + fourth river) closes the narrative cycle begun in v.10.
+Use of “hu” for both clauses unites identity with directional or nominal predicate.
+Geographic expansion from Eden proper to regional landmarks (Assyria, Euphrates).
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

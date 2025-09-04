@@ -1,0 +1,51 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00047
+[BOOK]: Genesis
+[CHAPTER]: 2
+[VERSE]: 16
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And YHWH God commanded the human, saying: “From every tree of the garden, you may surely eat.”
+
+[RENDERING NOTES]
+
+“Commanded” reflects וַיְצַו (vaytzav), Piel stem with emphatic nuance.
+“The human” translates הָאָדָם (ha’adam), definite singular.
+“Saying” renders לֵאמֹר (lemor), introducing direct divine speech.
+“From every tree of the garden” comes from מִכֹּל עֵץ־הַגָּן (mikol etz-hagan), indicating abundance.
+“You may surely eat” translates the emphatic Hebrew structure אָכֹל תֹּאכֵל (akhol to’khel), combining infinitive absolute and imperfect verb to intensify allowance.
+
+[INSERTION / HELPER WORD TRACKING]
+
+“You may surely” inserted to represent emphatic verb construction.
+Quotation marks used for clarity in presenting direct speech.
+“Of the” added for standard English readability — traceable to definite article on “garden.”
+No other additions or interpretive smoothing.
+
+[CONTEXTUAL PLACEMENT]
+
+Initiates the divine instruction sequence, immediately preceding the prohibition in v.17.
+Establishes a tone of generous permission and trust.
+Builds from the vocational placement in v.15 — now transitioning from presence to directive.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Clear divine speech marker (“lemor”) links this to other moments of instruction and covenant.
+Use of infinitive absolute + imperfect verb (akhol to’khel) anchors the idea of divine emphasis in Hebrew rhetoric.
+Complements but sets up contrast with the next verse’s “but from…” structure.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

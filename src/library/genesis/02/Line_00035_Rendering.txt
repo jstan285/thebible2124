@@ -1,0 +1,50 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00035
+[BOOK]: Genesis
+[CHAPTER]: 2
+[VERSE]: 4
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+These are the generations of the heavens and the earth in their being created, on the day YHWH God made earth and heavens.
+
+[RENDERING NOTES]
+
+“These are the generations” reflects אֵלֶּה תּוֹלְדוֹת (elleh toledot), a recurring phrase introducing genealogical or narrative sections.
+“Of the heavens and the earth” is a standard construct pair; note the definite articles.
+“In their being created” renders בְּהִבָּרְאָם (behibbare’am), a Niphal infinitive construct with a 3rd person masculine plural suffix — indicating passive creation of the plural subject.
+“On the day” translates בְּיוֹם (beyom), functioning as a temporal marker.
+“YHWH God” reflects the full double divine naming: יְהוָה אֱלֹהִים.
+“Made earth and heavens” reflects עֲשׂוֹת...אֶרֶץ וְשָׁמָיִם, notably reversing the phrase order from the standard “heavens and earth.”
+
+[INSERTION / HELPER WORD TRACKING]
+
+“Are” inserted for grammatical flow in English.
+“Their” added to reflect 3rd person suffix on “being created.”
+“The” added before “heavens” and “earth” where definite article is present.
+“God” added after “YHWH” to represent dual name.
+
+[CONTEXTUAL PLACEMENT]
+
+This line closes the first creation narrative and introduces the next.
+Serves as a hinge verse — summarizing the cosmos’ origin and reframing the narrative lens toward human-centered formation.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Mirrors Genesis 1:1 but reverses the phrase order (“earth and heavens”).
+The formula “elleh toledot” initiates a literary structure used throughout Genesis (e.g., Gen 5:1, 6:9).
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

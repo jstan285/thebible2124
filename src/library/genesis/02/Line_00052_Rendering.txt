@@ -1,0 +1,51 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00052
+[BOOK]: Genesis
+[CHAPTER]: 2
+[VERSE]: 21
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And YHWH God caused a deep sleep to fall upon the human, and he slept. And he took one from his sides, and closed up flesh in its place.
+
+[RENDERING NOTES]
+
+“Caused to fall” = וַיַּפֵּל (vayyapel), Hiphil imperfect with vav-consecutive — causative action.
+“Deep sleep” = תַּרְדֵּמָה (tardemah), rare word indicating trance-like unconsciousness.
+“The human” = הָאָדָם (ha’adam), as earlier.
+“He slept” = וַיֵּשַׁן (vayyishan), Qal imperfect, narrative continuation.
+“Took one from his sides” = אַחַת מִצַּלְעֹתָיו (achat mitzaltotav), literally “one of his ribs/sides.”
+“Closed up flesh in its place” = וַיִּסְגֹּר בָּשָׂר תַּחְתֶּנָּה (vayisgor basar takhtenah) — sealed with flesh beneath it.
+
+[INSERTION / HELPER WORD TRACKING]
+
+“To fall” added for clarity with Hiphil verb.
+“In its place” = interpretive trace of תַּחְתֶּנָּה (“under her / instead of it”).
+“Sides” used for צַּלְעֹתָיו (tsaltotav) to keep open the rib/beam/side range.
+
+[CONTEXTUAL PLACEMENT]
+
+Direct divine response to lack of counterpart from v.20.
+Describes initiation of a new act of formation, preceding the emergence of woman.
+Divine agency, human passivity — reversal of prior naming acts.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Verb sequence: cause → sleep → take → close.
+Clear narrative arc with surgical and mysterious rhythm.
+The only “deep sleep” in Genesis — marked moment of creative rupture.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

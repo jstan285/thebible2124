@@ -1,0 +1,209 @@
+=== LINE SOURCE FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00047
+[BOOK]: Genesis
+[CHAPTER]: 2
+[VERSE]: 16
+[FILE TYPE]: Line Source
+
+[INTRO]
+This file shows what the earliest Hebrew/Greek manuscripts say, word by word, before any interpretation.
+
+[PREFACE]
+This file presents the earliest traceable form of this line, drawn primarily from manuscript sources like the Leningrad Codex.
+Where other manuscript witnesses differ or offer meaningful variation (such as the Dead Sea Scrolls or the Samaritan Pentateuch), we remain watchful and will note those cases transparently when identified.
+Every word is shown with its full lexical range — without smoothing, interpretation, or insertion.
+This is not a translation or conclusion. It is a transparent starting point, open to personal encounter and divine resonance.
+We do not treat any human source as final — only as visible reference points for deeper unfolding.
+While we strive for care and clarity, any oversight or omission is unintentional, and all work remains open to refinement as understanding grows.
+
+[1. ORIGINAL LINE TEXT]
+Language: Hebrew
+Manuscript Source: Leningrad Codex
+Line Reference: Genesis 2:16
+
+וַיְצַו יְהוָה אֱלֹהִים עַל־הָאָדָם לֵאמֹר מִכֹּל עֵץ־הַגָּן אָכֹל תֹּאכֵל
+
+[2. DIRECT TRANSLITERATION]
+
+vaytzav YHWH Elohim al-ha’adam lemor mikol etz-hagan akhol to’khel
+
+[3. WORD-BY-WORD LEXICAL BREAKDOWN]
+
+[WORD 1]
+Original: וַיְצַו
+Transliteration: vaytzav
+Lexical Root: צוה (tsavah)
+Part of Speech: Verb
+Grammatical Info: Piel, imperfect, 3rd person masculine singular, vav-consecutive
+Lexical Range:
+
+to command
+
+to give order
+
+to charge
+
+[WORD 2]
+Original: יְהוָה
+Transliteration: YHWH
+Lexical Root: היה (hayah)
+Part of Speech: Proper noun
+Grammatical Info: Tetragrammaton
+Lexical Range:
+
+the personal name of Israel’s God
+
+[WORD 3]
+Original: אֱלֹהִים
+Transliteration: Elohim
+Lexical Root: אֱלוֹהַּ (eloah)
+Part of Speech: Noun
+Grammatical Info: Masculine plural (with singular verb)
+Lexical Range:
+
+God
+
+gods
+
+divine beings
+
+rulers
+
+judges
+
+[WORD 4]
+Original: עַל־
+Transliteration: al
+Lexical Root: על (al)
+Part of Speech: Preposition
+Grammatical Info: —
+Lexical Range:
+
+upon
+
+over
+
+concerning
+
+[WORD 5]
+Original: הָאָדָם
+Transliteration: ha’adam
+Lexical Root: אָדָם (adam)
+Part of Speech: Noun
+Grammatical Info: Masculine singular with definite article
+Lexical Range:
+
+the man
+
+the human
+
+humanity
+
+[WORD 6]
+Original: לֵאמֹר
+Transliteration: lemor
+Lexical Root: אמר (’amar)
+Part of Speech: Verb (infinitive construct)
+Grammatical Info: Infinitive with prefixed preposition
+Lexical Range:
+
+saying
+
+to say
+
+to speak
+
+[WORD 7]
+Original: מִכֹּל
+Transliteration: mikol
+Lexical Root: מן (min) + כל (kol)
+Part of Speech: Preposition + noun
+Grammatical Info: Construct form
+Lexical Range:
+
+from all
+
+from every
+
+[WORD 8]
+Original: עֵץ־
+Transliteration: etz
+Lexical Root: עֵץ (etz)
+Part of Speech: Noun
+Grammatical Info: Masculine singular
+Lexical Range:
+
+tree
+
+wood
+
+timber
+
+[WORD 9]
+Original: הַגָּן
+Transliteration: hagan
+Lexical Root: גַּן (gan)
+Part of Speech: Noun
+Grammatical Info: Masculine singular with definite article
+Lexical Range:
+
+the garden
+
+the enclosure
+
+the cultivated space
+
+[WORD 10]
+Original: אָכֹל
+Transliteration: akhol
+Lexical Root: אכל (’akhal)
+Part of Speech: Verb (infinitive absolute)
+Grammatical Info: Infinitive absolute
+Lexical Range:
+
+eating
+
+to eat
+
+devouring
+
+[WORD 11]
+Original: תֹּאכֵל
+Transliteration: to’khel
+Lexical Root: אכל (’akhal)
+Part of Speech: Verb
+Grammatical Info: Qal, imperfect, 2nd person masculine singular
+Lexical Range:
+
+you shall eat
+
+you will consume
+
+you may eat
+
+[4. STRUCTURAL NOTES]
+
+Begins with vav-consecutive Piel verb ("vaytzav") indicating authoritative speech.
+"Lemor" marks the introduction of direct discourse.
+The phrase "akhol to’khel" is a Hebrew emphatic structure using infinitive absolute + imperfect verb — connoting certainty or emphasis.
+
+[5. VARIANT MANUSCRIPT NOTES]
+
+No known significant variants in Masoretic tradition.
+Septuagint maintains structure using Greek imperatives and infinitives.
+
+[6. STRUCTURAL CONNECTION TO OTHER LINES]
+
+Introduces divine command that leads directly into Genesis 2:17’s contrasting prohibition.
+Builds upon Genesis 2:15's vocational placement of the human in Eden.
+Echoes themes of freedom, abundance, and responsibility.
+
+[7. CAUTIONARY REMINDER]
+The content above does not represent a translation.
+No conclusions, smoothing, or interpretive decisions have been made.
+This file serves only to display the original structure and lexical range as transparently as possible.

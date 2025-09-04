@@ -1,0 +1,51 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00046
+[BOOK]: Genesis
+[CHAPTER]: 2
+[VERSE]: 15
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And YHWH God took the human and placed him in the garden of Eden to serve it and to guard it.
+
+[RENDERING NOTES]
+
+“And YHWH God took” renders וַיִּקַּח יְהוָה אֱלֹהִים (vayyiqqach YHWH Elohim), combining divine subject with vav-consecutive verb.
+“The human” translates אֶת־הָאָדָם (et-ha’adam), marked as the direct object.
+“And placed him” comes from וַיַּנִּחֵהוּ (vayyannihehu), causative verb form.
+“In the garden of Eden” (בְּגַן־עֵדֶן, began-‘eden) is a prepositional placement.
+“To serve it and to guard it” reflects the infinitive pair לְעָבְדָהּ וּלְשָׁמְרָהּ (le‘ovdah uleshomerah), with final feminine suffixes referring to “garden.”
+
+[INSERTION / HELPER WORD TRACKING]
+
+“And” supplied where vav-consecutive verbs occur.
+“It” in “serve it” and “guard it” corresponds to suffixes — no addition.
+“The” added for English flow (“the human,” “the garden”).
+No other insertions or interpretive smoothing.
+
+[CONTEXTUAL PLACEMENT]
+
+Follows the Eden planting and river sequencing of v.8–14.
+Introduces human vocation within the sacred space.
+First explicit declaration of human responsibility.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Balanced structure: divine action → human subject → sacred location → dual purpose.
+Root verbs (עבד, שׁמר) echo throughout Torah in both cultic and ethical commands.
+Garden as both gift and trust.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

@@ -1,0 +1,232 @@
+=== LINE SOURCE FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00053
+[BOOK]: Genesis
+[CHAPTER]: 2
+[VERSE]: 22
+[FILE TYPE]: Line Source
+
+[INTRO]
+This file shows what the earliest Hebrew/Greek manuscripts say, word by word, before any interpretation.
+
+[PREFACE]
+This file presents the earliest traceable form of this line, drawn primarily from manuscript sources like the Leningrad Codex.
+Where other manuscript witnesses differ or offer meaningful variation (such as the Dead Sea Scrolls or the Samaritan Pentateuch), we remain watchful and will note those cases transparently when identified.
+Every word is shown with its full lexical range — without smoothing, interpretation, or insertion.
+This is not a translation or conclusion. It is a transparent starting point, open to personal encounter and divine resonance.
+We do not treat any human source as final — only as visible reference points for deeper unfolding.
+While we strive for care and clarity, any oversight or omission is unintentional, and all work remains open to refinement as understanding grows.
+
+[1. ORIGINAL LINE TEXT]
+Language: Hebrew
+Manuscript Source: Leningrad Codex
+Line Reference: Genesis 2:22
+
+וַיִּבֶן יְהוָה אֱלֹהִים אֶת־הַצֵּלָע אֲשֶׁר לָקַח מִן־הָאָדָם לְאִשָּׁה וַיְבִאֶהָ אֶל־הָאָדָם
+
+[2. DIRECT TRANSLITERATION]
+
+vayiven YHWH Elohim et-hatsela asher laqach min-ha’adam le’ishah vayevieha el-ha’adam
+
+[3. WORD-BY-WORD LEXICAL BREAKDOWN]
+
+[WORD 1]
+Original: וַיִּבֶן
+Transliteration: vayiven
+Lexical Root: בנה (banah)
+Part of Speech: Verb
+Grammatical Info: Qal, imperfect, 3rd person masculine singular, vav-consecutive
+Lexical Range:
+
+he built
+
+he constructed
+
+he established
+
+[WORD 2]
+Original: יְהוָה
+Transliteration: YHWH
+Lexical Root: היה (hayah)
+Part of Speech: Proper noun
+Grammatical Info: Tetragrammaton
+Lexical Range:
+
+the personal name of Israel’s God
+
+[WORD 3]
+Original: אֱלֹהִים
+Transliteration: Elohim
+Lexical Root: אֱלוֹהַּ (eloah)
+Part of Speech: Noun
+Grammatical Info: Masculine plural (used with singular verb)
+Lexical Range:
+
+God
+
+gods
+
+divine beings
+
+rulers
+
+judges
+
+[WORD 4]
+Original: אֶת־
+Transliteration: et
+Lexical Root: —
+Part of Speech: Direct object marker
+Grammatical Info: —
+Lexical Range:
+
+(no translation; marks definite direct object)
+
+[WORD 5]
+Original: הַצֵּלָע
+Transliteration: hatsela
+Lexical Root: צלע (tsela)
+Part of Speech: Noun
+Grammatical Info: Feminine singular with definite article
+Lexical Range:
+
+the rib
+
+the side
+
+the beam
+
+[WORD 6]
+Original: אֲשֶׁר
+Transliteration: asher
+Lexical Root: אשר
+Part of Speech: Relative pronoun
+Grammatical Info: —
+Lexical Range:
+
+which
+
+that
+
+who
+
+[WORD 7]
+Original: לָקַח
+Transliteration: laqach
+Lexical Root: לקח (laqach)
+Part of Speech: Verb
+Grammatical Info: Qal, perfect, 3rd person masculine singular
+Lexical Range:
+
+he took
+
+he grasped
+
+he received
+
+[WORD 8]
+Original: מִן־
+Transliteration: min
+Lexical Root: מן (min)
+Part of Speech: Preposition
+Grammatical Info: —
+Lexical Range:
+
+from
+
+out of
+
+away from
+
+[WORD 9]
+Original: הָאָדָם
+Transliteration: ha’adam
+Lexical Root: אָדָם (adam)
+Part of Speech: Noun
+Grammatical Info: Masculine singular with definite article
+Lexical Range:
+
+the man
+
+the human
+
+[WORD 10]
+Original: לְאִשָּׁה
+Transliteration: le’ishah
+Lexical Root: אִשָּׁה (ishah)
+Part of Speech: Noun with preposition
+Grammatical Info: Feminine singular
+Lexical Range:
+
+to a woman
+
+for a wife
+
+as a female
+
+[WORD 11]
+Original: וַיְבִאֶהָ
+Transliteration: vayevieha
+Lexical Root: בוא (bo)
+Part of Speech: Verb + pronominal suffix
+Grammatical Info: Hiphil, imperfect, 3rd person masculine singular, vav-consecutive + 3rd person feminine singular suffix
+Lexical Range:
+
+he brought her
+
+he caused her to come
+
+he led her in
+
+[WORD 12]
+Original: אֶל־
+Transliteration: el
+Lexical Root: אל (el)
+Part of Speech: Preposition
+Grammatical Info: —
+Lexical Range:
+
+to
+
+toward
+
+into
+
+[WORD 13]
+Original: הָאָדָם
+Transliteration: ha’adam
+Lexical Root: אָדָם (adam)
+Part of Speech: Noun
+Grammatical Info: Masculine singular with definite article
+Lexical Range:
+
+the man
+
+the human
+
+[4. STRUCTURAL NOTES]
+
+“Vayiven” marks divine construction — distinctive verb differing from “yatsar” or “asah.”
+“Et-hatsela” is marked by direct object indicator, linking the prior rib to a new form.
+“Le’ishah” denotes purpose or function in the transformation.
+“Vayevieha el-ha’adam” establishes presentation dynamic — movement from divine crafting to human encounter.
+
+[5. VARIANT MANUSCRIPT NOTES]
+
+Masoretic reading consistent.
+Septuagint renders “κατεσκεύασεν… εἰς γυναῖκα” (he fashioned… into a woman), reflecting similar transformation concept.
+
+[6. STRUCTURAL CONNECTION TO OTHER LINES]
+
+Fulfills the resolution of Genesis 2:20.
+Directly follows divine action begun in Genesis 2:21.
+Precedes the naming of woman in Genesis 2:23.
+
+[7. CAUTIONARY REMINDER]
+The content above does not represent a translation.
+No conclusions, smoothing, or interpretive decisions have been made.
+This file serves only to display the original structure and lexical range as transparently as possible.

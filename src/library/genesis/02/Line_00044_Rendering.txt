@@ -1,0 +1,50 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00044
+[BOOK]: Genesis
+[CHAPTER]: 2
+[VERSE]: 13
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And the name of the second river is Gihon — it encircles all the land of Cush.
+
+[RENDERING NOTES]
+
+“And the name of the second river” renders וְשֵׁם־הַנָּהָר הַשֵּׁנִי (veshem-hanahar hasheni), a direct naming formula.
+“Is Gihon” reflects apposition with גִּיחוֹן (Gichon) and pronoun הוּא (hu), typical of identification clauses.
+“It encircles” derives from the participial הַסּוֹבֵב (hassovev), emphasizing ongoing or habitual action.
+“All the land of Cush” renders אֵת כָּל־אֶרֶץ כּוּשׁ (et kol-eretz Kush) with direct object marker and geographic specificity.
+
+[INSERTION / HELPER WORD TRACKING]
+
+Em dash inserted for English pacing; not in original.
+“Is” supplied for readability in “is Gihon.”
+“It” inferred for subject continuity in “it encircles.”
+No other insertions or interpretive flourishes.
+
+[CONTEXTUAL PLACEMENT]
+
+Continues the sequence of four Eden rivers (see v.10–12).
+Expands sacred geography beyond Eden proper.
+Cush later appears in biblical history as a notable southern region.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Mirrors 2:11 in structure: river name → function → geography.
+Participle use (“encircling”) maintains stylistic continuity.
+Sets up spatial dynamics of Edenic river outflow — one center, multiple flows.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

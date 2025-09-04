@@ -1,0 +1,52 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00055
+[BOOK]: Genesis
+[CHAPTER]: 2
+[VERSE]: 24
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+Therefore, a man will leave his father and his mother, and he will cling to his wife, and they will become one flesh.
+
+[RENDERING NOTES]
+
+“Therefore” = עַל־כֵּן (al-ken), causal connector from preceding verse.
+“Will leave” = יַעֲזָב (ya‘azov), Qal imperfect — general/habitual future.
+“His father… his mother” = definite objects marked by אֶת and suffixes.
+“Will cling” = וְדָבַק (vedavaq), Qal perfect with vav-consecutive nuance — strong bonding.
+“His wife” = בְּאִשְׁתּוֹ (be’ishto), prepositional phrase with suffix.
+“They will become” = וְהָיוּ (vehayu), Qal perfect plural — joint transformation.
+“One flesh” = לְבָשָׂר אֶחָד (lebasar echad), singular noun with numeral — fused unity.
+
+[INSERTION / HELPER WORD TRACKING]
+
+“Therefore” accurately reflects al-ken’s causal function.
+No helper words or smoothing beyond structural clarity.
+Retains original subject-verb-object progression.
+
+[CONTEXTUAL PLACEMENT]
+
+Direct consequence of the prior poetic recognition (v.23).
+Shifts from narrative to archetype — prescriptive in tone.
+Introduces core pattern of partnership in biblical anthropology.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Transition from speech (v.23) to general principle.
+Subject moves from “the human” to “a man” — individual becomes exemplary.
+Flow: Leave → Cling → Become — relational trajectory embedded in structure.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

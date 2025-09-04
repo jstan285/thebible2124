@@ -1,0 +1,254 @@
+=== LINE SOURCE FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00054
+[BOOK]: Genesis
+[CHAPTER]: 2
+[VERSE]: 23
+[FILE TYPE]: Line Source
+
+[INTRO]
+This file shows what the earliest Hebrew/Greek manuscripts say, word by word, before any interpretation.
+
+[PREFACE]
+This file presents the earliest traceable form of this line, drawn primarily from manuscript sources like the Leningrad Codex.
+Where other manuscript witnesses differ or offer meaningful variation (such as the Dead Sea Scrolls or the Samaritan Pentateuch), we remain watchful and will note those cases transparently when identified.
+Every word is shown with its full lexical range — without smoothing, interpretation, or insertion.
+This is not a translation or conclusion. It is a transparent starting point, open to personal encounter and divine resonance.
+We do not treat any human source as final — only as visible reference points for deeper unfolding.
+While we strive for care and clarity, any oversight or omission is unintentional, and all work remains open to refinement as understanding grows.
+
+[1. ORIGINAL LINE TEXT]
+Language: Hebrew
+Manuscript Source: Leningrad Codex
+Line Reference: Genesis 2:23
+
+וַיֹּאמֶר הָאָדָם זֹאת הַפַּעַם עֶצֶם מֵעֲצָמַי וּבָשָׂר מִבְּשָׂרִי לְזֹאת יִקָּרֵא אִשָּׁה כִּי מֵאִישׁ לֻקֳחָה זֹאת
+
+[2. DIRECT TRANSLITERATION]
+
+vayomer ha’adam zot happa‘am etsem me‘atsamai uvasar mibbesari le’zot yiqqare’ ishah ki me’ish luqqachah zot
+
+[3. WORD-BY-WORD LEXICAL BREAKDOWN]
+
+[WORD 1]
+Original: וַיֹּאמֶר
+Transliteration: vayomer
+Lexical Root: אמר (’amar)
+Part of Speech: Verb
+Grammatical Info: Qal, imperfect, 3rd person masculine singular, vav-consecutive
+Lexical Range:
+
+to say
+
+to declare
+
+to speak
+
+[WORD 2]
+Original: הָאָדָם
+Transliteration: ha’adam
+Lexical Root: אָדָם (adam)
+Part of Speech: Noun
+Grammatical Info: Masculine singular with definite article
+Lexical Range:
+
+the man
+
+the human
+
+[WORD 3]
+Original: זֹאת
+Transliteration: zot
+Lexical Root: זה (zeh)
+Part of Speech: Demonstrative pronoun
+Grammatical Info: Feminine singular
+Lexical Range:
+
+this
+
+this one (feminine)
+
+[WORD 4]
+Original: הַפַּעַם
+Transliteration: happa‘am
+Lexical Root: פעם (pa‘am)
+Part of Speech: Noun with definite article
+Grammatical Info: Feminine singular
+Lexical Range:
+
+the time
+
+the occurrence
+
+the step
+
+[WORD 5]
+Original: עֶצֶם
+Transliteration: etsem
+Lexical Root: עֶצֶם (etsem)
+Part of Speech: Noun
+Grammatical Info: Feminine singular
+Lexical Range:
+
+bone
+
+essence
+
+substance
+
+[WORD 6]
+Original: מֵעֲצָמַי
+Transliteration: me‘atsamai
+Lexical Root: עצם (etsem)
+Part of Speech: Noun + preposition + pronominal suffix
+Grammatical Info: Construct with 1st person common singular suffix
+Lexical Range:
+
+from my bones
+
+out of my essence
+
+[WORD 7]
+Original: וּבָשָׂר
+Transliteration: uvasar
+Lexical Root: בָּשָׂר (basar)
+Part of Speech: Noun with conjunction
+Grammatical Info: Masculine singular
+Lexical Range:
+
+and flesh
+
+and body
+
+[WORD 8]
+Original: מִבְּשָׂרִי
+Transliteration: mibbesari
+Lexical Root: בשר (basar)
+Part of Speech: Noun + preposition + pronominal suffix
+Grammatical Info: Masculine singular construct with 1cs suffix
+Lexical Range:
+
+from my flesh
+
+from my body
+
+[WORD 9]
+Original: לְזֹאת
+Transliteration: le’zot
+Lexical Root: זה (zeh)
+Part of Speech: Preposition + demonstrative pronoun
+Grammatical Info: Feminine singular
+Lexical Range:
+
+to this
+
+for this one
+
+[WORD 10]
+Original: יִקָּרֵא
+Transliteration: yiqqare’
+Lexical Root: קרא (qara)
+Part of Speech: Verb
+Grammatical Info: Niphal, imperfect, 3rd person masculine singular
+Lexical Range:
+
+it shall be called
+
+it shall be proclaimed
+
+it shall be named
+
+[WORD 11]
+Original: אִשָּׁה
+Transliteration: ishah
+Lexical Root: אִשָּׁה (ishah)
+Part of Speech: Noun
+Grammatical Info: Feminine singular
+Lexical Range:
+
+woman
+
+wife
+
+female human
+
+[WORD 12]
+Original: כִּי
+Transliteration: ki
+Lexical Root: כי
+Part of Speech: Conjunction
+Grammatical Info: —
+Lexical Range:
+
+because
+
+for
+
+that
+
+[WORD 13]
+Original: מֵאִישׁ
+Transliteration: me’ish
+Lexical Root: אִישׁ (ish)
+Part of Speech: Noun + preposition
+Grammatical Info: Masculine singular
+Lexical Range:
+
+from man
+
+from husband
+
+from male human
+
+[WORD 14]
+Original: לֻקֳחָה
+Transliteration: luqqachah
+Lexical Root: לקח (laqach)
+Part of Speech: Verb
+Grammatical Info: Pual, perfect, 3rd person feminine singular
+Lexical Range:
+
+she was taken
+
+she was received
+
+she was seized
+
+[WORD 15]
+Original: זֹאת
+Transliteration: zot
+Lexical Root: זה (zeh)
+Part of Speech: Demonstrative pronoun
+Grammatical Info: Feminine singular
+Lexical Range:
+
+this
+
+this one
+
+[4. STRUCTURAL NOTES]
+
+Opening clause begins human speech with divine-recognition tone.
+Phrases “etsem me‘atsamai” and “basar mibbesari” reflect poetic parallelism and structural mirroring.
+Passive “yiqqare’” and “luqqachah” indicate naming and origin beyond human initiation.
+“Ishah” and “ish” form a wordplay rooted in Hebrew morphology.
+
+[5. VARIANT MANUSCRIPT NOTES]
+
+Masoretic Text is stable.
+Septuagint renders “γυνή... ἐκ τοῦ ἀνδρός” preserving gendered origin theme.
+
+[6. STRUCTURAL CONNECTION TO OTHER LINES]
+
+Continuation of Genesis 2:22's divine presentation of the woman.
+Forms conceptual climax of Genesis 2:18–22.
+Introduces gendered identity distinction within shared human essence.
+
+[7. CAUTIONARY REMINDER]
+The content above does not represent a translation.
+No conclusions, smoothing, or interpretive decisions have been made.
+This file serves only to display the original structure and lexical range as transparently as possible.

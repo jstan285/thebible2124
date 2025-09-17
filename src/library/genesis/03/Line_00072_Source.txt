@@ -1,0 +1,198 @@
+=== LINE SOURCE FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00072
+[BOOK]: Genesis
+[CHAPTER]: 3
+[VERSE]: 16
+[FILE TYPE]: Line Source
+
+[INTRO]
+This file shows what the earliest Hebrew/Greek manuscripts say, word by word, before any interpretation.
+
+[PREFACE]
+This file presents the earliest traceable form of this line, drawn primarily from manuscript sources like the Leningrad Codex.
+Where other manuscript witnesses differ or offer meaningful variation (such as the Dead Sea Scrolls or the Samaritan Pentateuch), we remain watchful and will note those cases transparently when identified.
+Every word is shown with its full lexical range — without smoothing, interpretation, or insertion.
+This is not a translation or conclusion. It is a transparent starting point, open to personal encounter and divine resonance.
+We do not treat any human source as final — only as visible reference points for deeper unfolding.
+While we strive for care and clarity, any oversight or omission is unintentional, and all work remains open to refinement as understanding grows.
+
+[1. ORIGINAL LINE TEXT]  
+Language: Hebrew  
+Manuscript Source: Leningrad Codex  
+Line Reference: Genesis 3:16  
+> אֶל־הָאִשָּׁה אָמַר הַרְבָּה אַרְבֶּה עִצְּבוֹנֵךְ וְהֵרוֹנֵךְ בְּעֶצֶב תֵּלְדִי בָנִים וְאֶל־אִישֵׁךְ תְּשׁוּקָתֵךְ וְהוּא יִמְשָׁל־בָּךְ
+
+[2. DIRECT TRANSLITERATION]  
+> el-ha’ishah amar harbah arbeh itz’vonekh veheironekh be’etzev teledi vanim ve’el ishekh teshukatekh vehu yimshol-bakh
+
+[3. WORD-BY-WORD LEXICAL BREAKDOWN]
+
+[WORD 1]  
+Original: אֶל־הָאִשָּׁה  
+Transliteration: el-ha’ishah  
+Lexical Root: אל (el) + אִשָּׁה (ishah)  
+Part of Speech: Preposition + Noun  
+Grammatical Info: Feminine singular with definite article  
+Lexical Range:  
+- to the woman  
+- toward the woman  
+
+[WORD 2]  
+Original: אָמַר  
+Transliteration: amar  
+Lexical Root: אמר (amar)  
+Part of Speech: Verb  
+Grammatical Info: Qal, perfect, 3rd person masculine singular  
+Lexical Range:  
+- he said  
+- he declared  
+
+[WORD 3]  
+Original: הַרְבָּה  
+Transliteration: harbah  
+Lexical Root: רבה (ravah)  
+Part of Speech: Verb (infinitive absolute used adverbially)  
+Grammatical Info: Feminine form  
+Lexical Range:  
+- greatly  
+- abundantly  
+- intensely  
+
+[WORD 4]  
+Original: אַרְבֶּה  
+Transliteration: arbeh  
+Lexical Root: רבה (ravah)  
+Part of Speech: Verb  
+Grammatical Info: Hifil, imperfect, 1st person common singular  
+Lexical Range:  
+- I will increase  
+- I will multiply  
+
+[WORD 5]  
+Original: עִצְּבוֹנֵךְ  
+Transliteration: itz’vonekh  
+Lexical Root: עֶצֶב (etzeb)  
+Part of Speech: Noun + Pronoun suffix  
+Grammatical Info: Masculine singular with 2nd person feminine singular suffix  
+Lexical Range:  
+- your pain  
+- your sorrow  
+- your toil  
+
+[WORD 6]  
+Original: וְהֵרוֹנֵךְ  
+Transliteration: veheironekh  
+Lexical Root: הרה (harah)  
+Part of Speech: Noun + Pronoun suffix  
+Grammatical Info: Feminine noun with 2nd person feminine singular suffix  
+Lexical Range:  
+- your conception  
+- your pregnancy  
+
+[WORD 7]  
+Original: בְּעֶצֶב  
+Transliteration: be’etzev  
+Lexical Root: עֶצֶב (etzeb)  
+Part of Speech: Noun  
+Grammatical Info: Masculine singular  
+Lexical Range:  
+- in pain  
+- in sorrow  
+- in toil  
+
+[WORD 8]  
+Original: תֵּלְדִי  
+Transliteration: teledi  
+Lexical Root: ילד (yalad)  
+Part of Speech: Verb  
+Grammatical Info: Qal, imperfect, 2nd person feminine singular  
+Lexical Range:  
+- you shall bear  
+- you shall give birth  
+
+[WORD 9]  
+Original: בָנִים  
+Transliteration: vanim  
+Lexical Root: בן (ben)  
+Part of Speech: Noun  
+Grammatical Info: Masculine plural  
+Lexical Range:  
+- sons  
+- children  
+- descendants  
+
+[WORD 10]  
+Original: וְאֶל־אִישֵׁךְ  
+Transliteration: ve’el ishekh  
+Lexical Root: אל (el) + איש (ish)  
+Part of Speech: Preposition + Noun + Pronoun suffix  
+Grammatical Info: Masculine singular with 2nd person feminine singular suffix  
+Lexical Range:  
+- and to your man  
+- and to your husband  
+
+[WORD 11]  
+Original: תְּשׁוּקָתֵךְ  
+Transliteration: teshukatekh  
+Lexical Root: שוק (shuq)  
+Part of Speech: Noun + Pronoun suffix  
+Grammatical Info: Feminine singular with 2nd person feminine singular suffix  
+Lexical Range:  
+- your desire  
+- your longing  
+- your craving  
+
+[WORD 12]  
+Original: וְהוּא  
+Transliteration: vehu  
+Lexical Root: הוּא (hu)  
+Part of Speech: Conjunction + Pronoun  
+Grammatical Info: 3rd person masculine singular  
+Lexical Range:  
+- and he  
+
+[WORD 13]  
+Original: יִמְשָׁל־  
+Transliteration: yimshol  
+Lexical Root: משל (mashal)  
+Part of Speech: Verb  
+Grammatical Info: Qal, imperfect, 3rd person masculine singular  
+Lexical Range:  
+- he shall rule  
+- he shall have dominion  
+- he shall govern  
+
+[WORD 14]  
+Original: בָּךְ  
+Transliteration: bakh  
+Lexical Root: ב (be) + Pronoun  
+Part of Speech: Preposition + 2nd person feminine singular suffix  
+Grammatical Info: —  
+Lexical Range:  
+- over you  
+- against you  
+- in you  
+
+[4. STRUCTURAL NOTES]
+> Infinitive + imperfect verb pair (“harbah arbeh”) used for emphasis in divine speech.  
+> Parallel clauses “itz’vonekh veheironekh” set paired experiences.  
+> “Teledi vanim” serves as core predicate for effect.  
+> Final two clauses form chiastic mirror: “to your man – your desire / he – will rule over you.”  
+
+[5. VARIANT MANUSCRIPT NOTES]
+> No major textual variants known in MT for this line.  
+> LXX has slight divergence in “your sighing and groaning” for “pain” and “conception.”
+
+[6. STRUCTURAL CONNECTION TO OTHER LINES]
+> Continuation of divine declarations of consequence (following 3:14–15).  
+> Establishes relational and reproductive themes that echo throughout the Genesis narrative (cf. 4:1, 4:7).
+
+[7. CAUTIONARY REMINDER]
+The content above does not represent a translation.  
+No conclusions, smoothing, or interpretive decisions have been made.  
+This file serves only to display the original structure and lexical range as transparently as possible.

@@ -1,0 +1,51 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00069
+[BOOK]: Genesis
+[CHAPTER]: 3
+[VERSE]: 13
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+Then YHWH Elohim said to the woman, “What is this you have done?” And the woman said, “The serpent deceived me, and I ate.”
+
+[RENDERING NOTES]
+
+“Then YHWH Elohim said” (וַיֹּאמֶר יְהוָה אֱלֹהִים) follows the narrative pattern of divine inquiry.
+“To the woman” (לָאִשָּׁה) — direct address using the definite form.
+“What is this you have done?” (מַה־זֹּאת עָשִׂית) — interrogative + demonstrative + perfect verb, 2nd feminine singular; conveys astonishment or demand for explanation.
+“And the woman said” (וַתֹּאמֶר הָאִשָּׁה) — introduces reply with vav-consecutive feminine imperfect.
+“The serpent deceived me” (הַנָּחָשׁ הִשִּׁיאַנִי) — subject + Hifil verb + 1cs suffix; cause-effect structure.
+“And I ate” (וָאֹכֵל) — narrative conclusion matching 3:6 and 3:12; concise acknowledgment.
+
+[INSERTION / HELPER WORD TRACKING]
+
+“Then” added for temporal flow; implied in vav-consecutive.
+No smoothing or elaboration; quotation marks used for clarity in dialogue.
+
+[CONTEXTUAL PLACEMENT]
+
+Final response in the triadic sequence of human replies to God.
+Directly follows the man’s explanation/blame in 3:12.
+Re-centers narrative on serpent's role, closing the dialogic loop initiated in 3:4–3:6.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+“What is this you have done?” parallels other divine challenges (e.g., Genesis 4:10).
+Repeats pattern: divine question → human response → act acknowledgment.
+“He deceived me, and I ate” aligns structurally with 3:12’s “she gave to me, and I ate.”
+Sets stage for God’s direct address to the serpent in the following line.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

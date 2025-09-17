@@ -1,0 +1,54 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00057
+[BOOK]: Genesis
+[CHAPTER]: 3
+[VERSE]: 1
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+Now the serpent was more shrewd than any wild creature of the field that YHWH God had made. And he said to the woman, “Indeed, did God say, ‘You shall not eat from any tree of the garden’?”
+
+[RENDERING NOTES]
+
+“Now the serpent” reflects וְהַנָּחָשׁ (ve-hannachash), including the conjunction and definite article.
+“Was more shrewd than” reflects the verbless clause structure: הָיָה עָרוּם מִכֹּל — a statement of being with comparative form “more than all.”
+“Wild creature of the field” draws from חיַת הַשָּׂדֶה (chayat hasadeh) — a construct form linking "living creature" to "the field."
+“YHWH God” retains the full divine name from יְהוָה אֱלֹהִים.
+“And he said to the woman” preserves the sequencing of וַיֹּאמֶר אֶל־הָאִשָּׁה.
+“Indeed, did God say…” renders אַף כִּי־אָמַר אֱלֹהִים — with “af ki” functioning as an emphatic or rhetorical intro.
+“You shall not eat from any tree…” follows the Hebrew structure of לֹא תֹאכְלוּ מִכֹּל עֵץ הַגָּן — verb-subject-object-preposition.
+
+[INSERTION / HELPER WORD TRACKING]
+
+“Now” inserted to reflect narrative transitional vav.
+Quotation marks added to frame speech for clarity.
+“Did” inserted for English interrogative flow.
+“From” added before “any tree” to clarify preposition מִכֹּל.
+No smoothing of divine name or interpretive rewording introduced.
+
+[CONTEXTUAL PLACEMENT]
+
+This is the first narrative moment of speech from a non-divine creature.
+The line opens the pivotal temptation scene and introduces moral tension.
+First instance of direct engagement with divine command from a third party.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+“Arum” (shrewd) contrasts wordplay-wise with “eyrumim” (naked) in Genesis 2:25.
+The speech structure mirrors divine declarations but carries subversion.
+Begins narrative arc of questioning, deviation, and concealment.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

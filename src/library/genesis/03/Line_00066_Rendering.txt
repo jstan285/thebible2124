@@ -1,0 +1,52 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00066
+[BOOK]: Genesis
+[CHAPTER]: 3
+[VERSE]: 10
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And he said, “Your voice I heard in the garden, and I was afraid, because I was naked, and I hid myself.”
+
+[RENDERING NOTES]
+
+“And he said” (וַיֹּאמֶר) is a standard narrative introduction, maintaining sequential structure.
+“Your voice I heard” (אֶת־קֹלְךָ שָׁמַעְתִּי) preserves Hebrew word order and direct object emphasis.
+“In the garden” (בַּגָּן) includes preposition and definite article.
+“And I was afraid” (וָאִירָא) uses imperfect with vav-consecutive, first person.
+“Because I was naked” (כִּי עֵירֹם אָנֹכִי) includes causal particle “ki,” adjective “naked,” and pronoun “I.”
+“And I hid myself” (וָאֵחָבֵא) reflects Niphal form — reflexive or passive aspect of hiding.
+
+[INSERTION / HELPER WORD TRACKING]
+
+“I” and “myself” are directly derived from explicit pronouns or verbal forms in the Hebrew.
+Quotation marks added to set off speech.
+No interpretive smoothing applied — all elements trace to lexical source.
+
+[CONTEXTUAL PLACEMENT]
+
+Immediate reply to divine question “Where are you?” in Genesis 3:9.
+First human verbal response after the act of concealment in Genesis 3:8.
+Introduces emotional vocabulary — fear — into human-divine interaction.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Uses three first-person verbs in sequence: “I heard,” “I was afraid,” “I hid.”
+Narrative flow follows linear pattern of perception → emotion → action.
+Phrase “because I was naked” functions as internal cause of fear — expanding on previous awareness from 3:7.
+Embedded structure mirrors earlier divine speech forms now echoed by the human voice.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

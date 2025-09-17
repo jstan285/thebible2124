@@ -1,0 +1,159 @@
+=== LINE SOURCE FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00066
+[BOOK]: Genesis
+[CHAPTER]: 3
+[VERSE]: 10
+[FILE TYPE]: Line Source
+
+[INTRO]
+This file shows what the earliest Hebrew/Greek manuscripts say, word by word, before any interpretation.
+
+[PREFACE]
+This file presents the earliest traceable form of this line, drawn primarily from manuscript sources like the Leningrad Codex.
+Where other manuscript witnesses differ or offer meaningful variation (such as the Dead Sea Scrolls or the Samaritan Pentateuch), we remain watchful and will note those cases transparently when identified.
+Every word is shown with its full lexical range — without smoothing, interpretation, or insertion.
+This is not a translation or conclusion. It is a transparent starting point, open to personal encounter and divine resonance.
+We do not treat any human source as final — only as visible reference points for deeper unfolding.
+While we strive for care and clarity, any oversight or omission is unintentional, and all work remains open to refinement as understanding grows.
+
+[1. ORIGINAL LINE TEXT]
+Language: Hebrew  
+Manuscript Source: Leningrad Codex  
+Line Reference: Genesis 3:10  
+> וַיֹּאמֶר אֶת־קֹלְךָ שָׁמַעְתִּי בַּגָּן וָאִירָא כִּי עֵירֹם אָנֹכִי וָאֵחָבֵא
+
+[2. DIRECT TRANSLITERATION]  
+> vayomer et-qol’kha shamati bagan va’ira ki eirom anokhi va’e’chave
+
+[3. WORD-BY-WORD LEXICAL BREAKDOWN]
+
+[WORD 1]  
+Original: וַיֹּאמֶר  
+Transliteration: vayomer  
+Lexical Root: אמר (amar)  
+Part of Speech: Verb  
+Grammatical Info: Qal, imperfect, 3rd person masculine singular, vav-consecutive  
+Lexical Range:
+- he said  
+- he spoke  
+- he declared  
+
+[WORD 2]  
+Original: אֶת־  
+Transliteration: et  
+Lexical Root: —  
+Part of Speech: Particle  
+Grammatical Info: Direct object marker  
+Lexical Range:
+- marks definite direct object  
+
+[WORD 3]  
+Original: קֹלְךָ  
+Transliteration: qol’kha  
+Lexical Root: קול (qol)  
+Part of Speech: Noun + Pronominal suffix  
+Grammatical Info: Masculine singular construct with 2nd person masculine singular suffix  
+Lexical Range:
+- your voice  
+- your sound  
+- your call  
+
+[WORD 4]  
+Original: שָׁמַעְתִּי  
+Transliteration: shamati  
+Lexical Root: שמע (shama)  
+Part of Speech: Verb  
+Grammatical Info: Qal, perfect, 1st person common singular  
+Lexical Range:
+- I heard  
+- I listened  
+- I perceived by ear  
+
+[WORD 5]  
+Original: בַּגָּן  
+Transliteration: bagan  
+Lexical Root: גן (gan)  
+Part of Speech: Noun  
+Grammatical Info: Masculine singular with definite article and preposition ב  
+Lexical Range:
+- in the garden  
+- in the enclosure  
+
+[WORD 6]  
+Original: וָאִירָא  
+Transliteration: va’ira  
+Lexical Root: ירא (yare)  
+Part of Speech: Verb  
+Grammatical Info: Qal, imperfect, 1st person common singular, vav-consecutive  
+Lexical Range:
+- and I feared  
+- and I was afraid  
+- and I reverenced  
+
+[WORD 7]  
+Original: כִּי  
+Transliteration: ki  
+Lexical Root: כִּי (ki)  
+Part of Speech: Conjunction  
+Grammatical Info: —  
+Lexical Range:
+- because  
+- for  
+- that  
+
+[WORD 8]  
+Original: עֵירֹם  
+Transliteration: eirom  
+Lexical Root: עירם (eyrom)  
+Part of Speech: Adjective  
+Grammatical Info: Masculine singular  
+Lexical Range:
+- naked  
+- bare  
+- unclothed  
+
+[WORD 9]  
+Original: אָנֹכִי  
+Transliteration: anokhi  
+Lexical Root: אָנֹכִי (anokhi)  
+Part of Speech: Pronoun  
+Grammatical Info: 1st person singular  
+Lexical Range:
+- I  
+- myself  
+
+[WORD 10]  
+Original: וָאֵחָבֵא  
+Transliteration: va’e’chave  
+Lexical Root: חבא (chaba)  
+Part of Speech: Verb  
+Grammatical Info: Niphal, imperfect, 1st person common singular, vav-consecutive  
+Lexical Range:
+- and I hid myself  
+- and I concealed myself  
+- and I withdrew  
+
+[4. STRUCTURAL NOTES]
+> “Et-qol’kha shamati” is a complete clause with emphatic pronoun suffix on “qol’kha.”  
+> Verbal sequence follows first-person narration using consecutive action: shamati → va’ira → va’e’chave.  
+> “Ki eirom anokhi” forms the causal reason for fear.  
+> Use of Niphal in final verb emphasizes reflexivity or personal concealment.
+
+[5. VARIANT MANUSCRIPT NOTES]
+> No textual variations known in major manuscript traditions.  
+> LXX parallels the structure semantically with no notable omissions.
+
+[6. STRUCTURAL CONNECTION TO OTHER LINES]
+> Follows directly from divine question in Genesis 3:9 (“ayyekah”) with human response.  
+> Reinforces recurring motif of hearing and concealment seen in 3:8–9.  
+> Verbs from שמע and חבא mirror language used in previous and subsequent Eden discourse.
+
+[7. CAUTIONARY REMINDER]
+The content above does not represent a translation.  
+No conclusions, smoothing, or interpretive decisions have been made.  
+This file serves only to display the original structure and lexical range as transparently as possible.

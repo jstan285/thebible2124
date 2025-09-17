@@ -1,0 +1,49 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00077
+[BOOK]: Genesis
+[CHAPTER]: 3
+[VERSE]: 21
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And YHWH God made for the human and for his wife garments of skin, and clothed them.
+
+[RENDERING NOTES]
+
+“And…made” (וַיַּעַשׂ) — vav-consecutive + imperfect; signals sequential divine action.
+“YHWH God” (יְהוָה אֱלֹהִים) — maintains the double naming formula from 2:4 onward.
+“For the human and for his wife” (לְאָדָם וּלְאִשְׁתּוֹ) — dative construction indicates recipients of the action.
+“Garments of skin” (כָּתְנוֹת עוֹר) — plural noun + material descriptor; evokes something tangible, durable, perhaps sacrificial.
+“And clothed them” (וַיַּלְבִּשֵׁם) — hifil form; intensive causative verb reinforces divine action with tenderness.
+
+[INSERTION / HELPER WORD TRACKING]
+
+“And,” “for,” and “of” used to replicate Hebrew structure in readable English.
+No smoothing or elaboration beyond grammatical alignment.
+
+[CONTEXTUAL PLACEMENT]
+
+Follows the naming of Chavvah in 3:20.
+God takes action — a gesture of provision and continuity amid the consequences.
+Prepares for the exile (3:22–24) with an act of covering and care.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Mirrors divine acts in Genesis 2:7–22 (forming, building, presenting).
+Uses dual verbs: create (make) and clothe — both generative and relational.
+Introduces theme of divine clothing that recurs in prophetic and priestly imagery (e.g., Zechariah 3, Exodus 28).
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

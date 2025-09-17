@@ -1,0 +1,52 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00078
+[BOOK]: Genesis
+[CHAPTER]: 3
+[VERSE]: 22
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And YHWH God said, “Behold, the human has become like one from us, knowing good and evil. And now—lest he reach out his hand, and also take from the tree of life, and eat, and live forever…”
+
+[RENDERING NOTES]
+
+“Vayomer” — standard divine speech introduction.
+“Hen” — interjection often rendered as “behold”; signals a shift in divine awareness or announcement.
+“Ha’adam hayah ke’achad mimennu” — “the human has become like one from us”; phrase can echo divine council language.
+“Lada’at tov va-ra” — “to know good and evil”; infinitive used to express scope of awareness.
+“Ve-attah pen…” — “and now, lest…”; introduces potential concern or intervention.
+Multiple sequential verbs in imperfect vav-consecutive form: “yishlah” (he send), “ve-lakah” (he take), “ve’achal” (he eat), “va-chai” (he live).
+Final phrase “le’olam” — indicates an indefinite extension, often translated “forever.”
+
+[INSERTION / HELPER WORD TRACKING]
+
+“From,” “and,” and “lest” are necessary English insertions to mirror Hebrew conjunctions and prepositions.
+Dashes added to signal rhetorical flow in translation (“and now—lest…”).
+Quotation marks used to preserve clarity of divine speech.
+
+[CONTEXTUAL PLACEMENT]
+
+Direct follow-up to 3:21 (divine clothing).
+Marks God’s internal deliberation before human expulsion.
+Introduces the rationale behind the Edenic boundary regarding eternal life.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Forms a hinge between transgression and exile.
+Mirrors Genesis 1 divine speech forms, but with a precautionary rather than creative thrust.
+Phrase “like one from us” links to Genesis 1:26 (“let us make…”), suggesting continuity in divine multiplicity.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

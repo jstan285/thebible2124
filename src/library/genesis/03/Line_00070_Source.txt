@@ -1,0 +1,251 @@
+=== LINE SOURCE FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00070
+[BOOK]: Genesis
+[CHAPTER]: 3
+[VERSE]: 14
+[FILE TYPE]: Line Source
+
+[INTRO]
+This file shows what the earliest Hebrew/Greek manuscripts say, word by word, before any interpretation.
+
+[PREFACE]
+This file presents the earliest traceable form of this line, drawn primarily from manuscript sources like the Leningrad Codex.
+Where other manuscript witnesses differ or offer meaningful variation (such as the Dead Sea Scrolls or the Samaritan Pentateuch), we remain watchful and will note those cases transparently when identified.
+Every word is shown with its full lexical range — without smoothing, interpretation, or insertion.
+This is not a translation or conclusion. It is a transparent starting point, open to personal encounter and divine resonance.
+We do not treat any human source as final — only as visible reference points for deeper unfolding.
+While we strive for care and clarity, any oversight or omission is unintentional, and all work remains open to refinement as understanding grows.
+
+[1. ORIGINAL LINE TEXT]  
+Language: Hebrew  
+Manuscript Source: Leningrad Codex  
+Line Reference: Genesis 3:14  
+> וַיֹּאמֶר יְהוָה אֱלֹהִים אֶל־הַנָּחָשׁ כִּי עָשִׂיתָ זֹּאת אָרוּר אַתָּה מִכָּל־הַבְּהֵמָה וּמִכֹּל חַיַּת הַשָּׂדֶה עַל־גְּחֹנְךָ תֵלֵךְ וְעָפָר תֹּאכַל כָּל־יְמֵי חַיֶּיךָ
+
+[2. DIRECT TRANSLITERATION]  
+> vayomer YHWH Elohim el-hannachash ki asita zot arur attah mikol-habehemah umikkol chayat hasadeh al-gehonkha telekh ve’afar tokhal kol-yemei chayyekha
+
+[3. WORD-BY-WORD LEXICAL BREAKDOWN]
+
+[WORD 1]  
+Original: וַיֹּאמֶר  
+Transliteration: vayomer  
+Lexical Root: אמר (amar)  
+Part of Speech: Verb  
+Grammatical Info: Qal, imperfect, 3rd person masculine singular, vav-consecutive  
+Lexical Range:  
+- he said  
+- he declared  
+- he uttered  
+
+[WORD 2]  
+Original: יְהוָה  
+Transliteration: YHWH  
+Lexical Root: היה (hayah) — presumed  
+Part of Speech: Proper noun  
+Grammatical Info: Tetragrammaton  
+Lexical Range:  
+- personal divine name  
+
+[WORD 3]  
+Original: אֱלֹהִים  
+Transliteration: Elohim  
+Lexical Root: אלה (eloah)  
+Part of Speech: Noun  
+Grammatical Info: Plural in form, singular in usage  
+Lexical Range:  
+- God  
+- gods  
+- divine beings  
+- rulers  
+
+[WORD 4]  
+Original: אֶל־הַנָּחָשׁ  
+Transliteration: el-hannachash  
+Lexical Root: נָחָשׁ (nachash)  
+Part of Speech: Preposition + Noun  
+Grammatical Info: Masculine singular with definite article  
+Lexical Range:  
+- to the serpent  
+- to the snake  
+
+[WORD 5]  
+Original: כִּי  
+Transliteration: ki  
+Lexical Root: כִּי (ki)  
+Part of Speech: Conjunction  
+Grammatical Info: —  
+Lexical Range:  
+- because  
+- for  
+- that  
+
+[WORD 6]  
+Original: עָשִׂיתָ  
+Transliteration: asita  
+Lexical Root: עשה (asah)  
+Part of Speech: Verb  
+Grammatical Info: Qal, perfect, 2nd person masculine singular  
+Lexical Range:  
+- you did  
+- you made  
+- you performed  
+
+[WORD 7]  
+Original: זֹּאת  
+Transliteration: zot  
+Lexical Root: זֹּאת (zot)  
+Part of Speech: Demonstrative pronoun  
+Grammatical Info: Feminine singular  
+Lexical Range:  
+- this  
+- this thing  
+
+[WORD 8]  
+Original: אָרוּר  
+Transliteration: arur  
+Lexical Root: ארר (arar)  
+Part of Speech: Adjective (passive participle)  
+Grammatical Info: Masculine singular  
+Lexical Range:  
+- cursed  
+- declared cursed  
+- banned  
+
+[WORD 9]  
+Original: אַתָּה  
+Transliteration: attah  
+Lexical Root: אַתָּה (attah)  
+Part of Speech: Pronoun  
+Grammatical Info: 2nd person masculine singular  
+Lexical Range:  
+- you  
+- yourself  
+
+[WORD 10]  
+Original: מִכָּל־הַבְּהֵמָה  
+Transliteration: mikol-habehemah  
+Lexical Root: מִן (min) + בהמה (behemah)  
+Part of Speech: Preposition + Noun  
+Grammatical Info: Feminine singular with definite article  
+Lexical Range:  
+- from all the cattle  
+- from among all beasts  
+- from all domesticated animals  
+
+[WORD 11]  
+Original: וּמִכֹּל  
+Transliteration: umikkol  
+Lexical Root: ו (vav) + מִן (min) + כל (kol)  
+Part of Speech: Conjunction + Preposition + Noun  
+Grammatical Info: —  
+Lexical Range:  
+- and from all  
+
+[WORD 12]  
+Original: חַיַּת  
+Transliteration: chayat  
+Lexical Root: חיה (chayah)  
+Part of Speech: Noun (construct form)  
+Grammatical Info: Feminine singular  
+Lexical Range:  
+- life of  
+- living creature of  
+- animal of  
+
+[WORD 13]  
+Original: הַשָּׂדֶה  
+Transliteration: hasadeh  
+Lexical Root: שדה (sadeh)  
+Part of Speech: Noun  
+Grammatical Info: Masculine singular with definite article  
+Lexical Range:  
+- the field  
+- the open country  
+- cultivated ground  
+
+[WORD 14]  
+Original: עַל־גְּחֹנְךָ  
+Transliteration: al-gehonkha  
+Lexical Root: גָּחוֹן (gachon)  
+Part of Speech: Preposition + Noun + Pronoun suffix  
+Grammatical Info: Masculine singular with 2nd person masculine singular suffix  
+Lexical Range:  
+- on your belly  
+- on your body underside  
+
+[WORD 15]  
+Original: תֵלֵךְ  
+Transliteration: telekh  
+Lexical Root: הלך (halakh)  
+Part of Speech: Verb  
+Grammatical Info: Qal, imperfect, 2nd person masculine singular  
+Lexical Range:  
+- you shall go  
+- you shall walk  
+- you shall move  
+
+[WORD 16]  
+Original: וְעָפָר  
+Transliteration: ve’afar  
+Lexical Root: עָפָר (afar)  
+Part of Speech: Noun  
+Grammatical Info: Masculine singular  
+Lexical Range:  
+- dust  
+- dry earth  
+- soil  
+
+[WORD 17]  
+Original: תֹּאכַל  
+Transliteration: tokhal  
+Lexical Root: אכל (akal)  
+Part of Speech: Verb  
+Grammatical Info: Qal, imperfect, 2nd person masculine singular  
+Lexical Range:  
+- you shall eat  
+- you shall consume  
+
+[WORD 18]  
+Original: כָּל־יְמֵי  
+Transliteration: kol-yemei  
+Lexical Root: כל (kol) + יום (yom)  
+Part of Speech: Noun construct  
+Grammatical Info: Plural construct form  
+Lexical Range:  
+- all the days of  
+- the entirety of time-periods of  
+
+[WORD 19]  
+Original: חַיֶּיךָ  
+Transliteration: chayyekha  
+Lexical Root: חַיִּים (chayim)  
+Part of Speech: Noun + Pronoun suffix  
+Grammatical Info: Masculine plural with 2nd person masculine singular suffix  
+Lexical Range:  
+- your life  
+- your lifetime  
+- your living existence  
+
+[4. STRUCTURAL NOTES]
+> “Arur attah” is a formal curse formula.  
+> Use of prepositions “mikol” and “umikkol” sets comparative scope of curse among animal categories.  
+> Verbs “telekh” and “tokhal” mark future condition or destiny of the serpent.  
+> Final clause “kol-yemei chayyekha” functions temporally: full duration of life.
+
+[5. VARIANT MANUSCRIPT NOTES]
+> No significant deviations noted in MT or LXX. LXX aligns in curse structure and semantic detail.
+
+[6. STRUCTURAL CONNECTION TO OTHER LINES]
+> First divine declaration of consequence after questioning cycle (Genesis 3:9–13).  
+> Introduces thematic arc of curse, bodily degradation, and dust — echoed in 3:19.
+
+[7. CAUTIONARY REMINDER]
+The content above does not represent a translation.  
+No conclusions, smoothing, or interpretive decisions have been made.  
+This file serves only to display the original structure and lexical range as transparently as possible.

@@ -1,0 +1,135 @@
+=== LINE SOURCE FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00074
+[BOOK]: Genesis
+[CHAPTER]: 3
+[VERSE]: 18
+[FILE TYPE]: Line Source
+
+[INTRO]
+This file shows what the earliest Hebrew/Greek manuscripts say, word by word, before any interpretation.
+
+[PREFACE]
+This file presents the earliest traceable form of this line, drawn primarily from manuscript sources like the Leningrad Codex.
+Where other manuscript witnesses differ or offer meaningful variation (such as the Dead Sea Scrolls or the Samaritan Pentateuch), we remain watchful and will note those cases transparently when identified.
+Every word is shown with its full lexical range — without smoothing, interpretation, or insertion.
+This is not a translation or conclusion. It is a transparent starting point, open to personal encounter and divine resonance.
+We do not treat any human source as final — only as visible reference points for deeper unfolding.
+While we strive for care and clarity, any oversight or omission is unintentional, and all work remains open to refinement as understanding grows.
+
+[1. ORIGINAL LINE TEXT]  
+Language: Hebrew  
+Manuscript Source: Leningrad Codex  
+Line Reference: Genesis 3:18  
+> וְקוֹץ וְדַרְדַּר תַּצְמִיחַ לָךְ וְאָכַלְתָּ אֶת־עֵשֶׂב הַשָּׂדֶה
+
+[2. DIRECT TRANSLITERATION]  
+> veqotz vedardar tatzmiach lakh ve’akhalta et-esev hasadeh
+
+[3. WORD-BY-WORD LEXICAL BREAKDOWN]
+
+[WORD 1]  
+Original: וְקוֹץ  
+Transliteration: veqotz  
+Lexical Root: קוץ (qotz)  
+Part of Speech: Conjunction + Noun  
+Grammatical Info: Masculine singular  
+Lexical Range:  
+- and thorn  
+- bramble  
+- sharp-pointed plant  
+
+[WORD 2]  
+Original: וְדַרְדַּר  
+Transliteration: vedardar  
+Lexical Root: דרדר (dardar)  
+Part of Speech: Conjunction + Noun  
+Grammatical Info: Masculine singular  
+Lexical Range:  
+- and thistle  
+- rough weed  
+- spiny plant  
+
+[WORD 3]  
+Original: תַּצְמִיחַ  
+Transliteration: tatzmiach  
+Lexical Root: צמח (tzamach)  
+Part of Speech: Verb  
+Grammatical Info: Hifil, imperfect, 3rd person feminine singular  
+Lexical Range:  
+- it shall bring forth  
+- it will sprout  
+- it will produce  
+
+[WORD 4]  
+Original: לָךְ  
+Transliteration: lakh  
+Lexical Root: ל (le) + Pronoun  
+Part of Speech: Preposition + 2nd person masculine singular suffix  
+Grammatical Info: —  
+Lexical Range:  
+- for you  
+- to you  
+
+[WORD 5]  
+Original: וְאָכַלְתָּ  
+Transliteration: ve’akhalta  
+Lexical Root: אכל (akal)  
+Part of Speech: Verb  
+Grammatical Info: Qal, perfect, 2nd person masculine singular with vav-consecutive  
+Lexical Range:  
+- and you ate  
+- and you consumed  
+
+[WORD 6]  
+Original: אֶת־  
+Transliteration: et  
+Lexical Root: אֵת (et)  
+Part of Speech: Direct object marker  
+Grammatical Info: —  
+Lexical Range:  
+- [marks definite direct object]  
+
+[WORD 7]  
+Original: עֵשֶׂב  
+Transliteration: esev  
+Lexical Root: עֵשֶׂב (esev)  
+Part of Speech: Noun  
+Grammatical Info: Masculine singular  
+Lexical Range:  
+- grass  
+- vegetation  
+- herb  
+
+[WORD 8]  
+Original: הַשָּׂדֶה  
+Transliteration: hasadeh  
+Lexical Root: שדה (sadeh)  
+Part of Speech: Noun  
+Grammatical Info: Masculine singular with definite article  
+Lexical Range:  
+- the field  
+- the cultivated land  
+- the open area  
+
+[4. STRUCTURAL NOTES]
+> Repetition of “ve” (and) links the thorn-thistle pairing.  
+> Verb “tatzmiach” (it shall bring forth) is feminine, referring back to “ha’adamah” (ground) from the previous verse.  
+> The direct object marker “et” signals “esev hasadeh” as the object of “ve’akhalta.”
+
+[5. VARIANT MANUSCRIPT NOTES]
+> No substantive variants in MT or LXX noted for this line.  
+> LXX renders “thorns and thistles it shall bring forth to you,” closely matching Hebrew structure.
+
+[6. STRUCTURAL CONNECTION TO OTHER LINES]
+> Continues the theme from Genesis 3:17 regarding consequences tied to the ground.  
+> Sets contrast with Edenic vegetation previously provided without labor (cf. Genesis 2:9).
+
+[7. CAUTIONARY REMINDER]  
+The content above does not represent a translation.  
+No conclusions, smoothing, or interpretive decisions have been made.  
+This file serves only to display the original structure and lexical range as transparently as possible.

@@ -1,0 +1,51 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00072
+[BOOK]: Genesis
+[CHAPTER]: 3
+[VERSE]: 16
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+To the woman he said, “Greatly I will increase your pain and your conception. In pain you shall bear children. And toward your man is your desire, and he shall rule over you.”
+
+[RENDERING NOTES]
+
+“To the woman he said” (אֶל־הָאִשָּׁה אָמַר) — standard divine address formula, used as in v.14.
+“Greatly I will increase” (הַרְבָּה אַרְבֶּה) — infinitive absolute + imperfect verb; intensification construction in Hebrew.
+“Your pain and your conception” (עִצְּבוֹנֵךְ וְהֵרוֹנֵךְ) — two paired internal conditions; not clearly separable.
+“In pain you shall bear children” (בְּעֶצֶב תֵּלְדִי בָנִים) — root etzev repeated; birth through toil.
+“And to your man is your desire” (וְאֶל־אִישֵׁךְ תְּשׁוּקָתֵךְ) — relational longing, ambiguous in tone.
+“He shall rule over you” (וְהוּא יִמְשָׁל־בָּךְ) — Qal imperfect “yimshol” (rule/dominate); relational hierarchy introduced.
+
+[INSERTION / HELPER WORD TRACKING]
+
+“Is” and “shall” inserted for English verb clarity.
+“And” retained to mirror connective “vav” usage.
+Quotation marks used to frame direct divine speech.
+
+[CONTEXTUAL PLACEMENT]
+
+Second of three divine addresses (serpent → woman → man).
+Marks transition from serpent’s cosmic curse to human embodied consequence.
+Introduces themes of pain, procreation, and relational imbalance.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Mirrors 3:14 in structure (address formula + direct consequence).
+Echoes and sets up structural reversal in Genesis 4:7 (desire/rule echo).
+Double intensification (harbah arbeh) frames this consequence with marked emphasis.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

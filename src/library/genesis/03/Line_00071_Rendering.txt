@@ -1,0 +1,52 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00071
+[BOOK]: Genesis
+[CHAPTER]: 3
+[VERSE]: 15
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And I will put enmity between you and the woman, and between your seed and her seed. He shall strike your head, and you shall strike his heel.
+
+[RENDERING NOTES]
+
+“And I will put enmity” (וְאֵיבָה אָשִׁית) — divine action in first person, Qal imperfect = future intent.
+“Between you and the woman… between your seed and her seed” — repeated prepositional phrases emphasize multiple relational layers.
+“Seed” (זֶרַע) functions collectively and generationally — not limited to a single figure.
+“He shall strike you (on) the head” (הוּא יְשׁוּפְךָ רֹאשׁ) — ambiguous but potent verb “shuph” (strike/crush) plus locative target “head.”
+“You shall strike him (on) the heel” (וְאַתָּה תְּשׁוּפֶנּוּ עָקֵב) — mirrored structure, reduced position of impact.
+Symmetrical verb-object-pronoun clauses suggest recurring conflict and balance.
+
+[INSERTION / HELPER WORD TRACKING]
+
+“And” used throughout to preserve Hebrew connective “vav.”
+“Shall” added for English future tense verb clarity.
+No smoothing of metaphors; quotation marks excluded to allow narrative flow.
+
+[CONTEXTUAL PLACEMENT]
+
+Climactic close of divine address to the serpent.
+Shifts from current consequence (v.14) to generational prophecy.
+Introduces enduring conflict between two lineages — interpretively pivotal for all Abrahamic traditions.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+“Seed” (zera) reappears as central in later covenants (e.g., Genesis 12, 15, 22).
+Repetition of “between” establishes four-fold enmity: you↔woman, your seed↔her seed.
+Structural mirroring in strike-strike clauses creates poetic balance and tension.
+“Head” vs “heel” implies directional and hierarchical symbolism.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

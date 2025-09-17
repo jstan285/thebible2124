@@ -1,0 +1,51 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00067
+[BOOK]: Genesis
+[CHAPTER]: 3
+[VERSE]: 11
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And He said, “Who told you that you were naked? Have you eaten from the tree which I commanded you not to eat from?”
+
+[RENDERING NOTES]
+
+“And He said” (וַיֹּאמֶר) continues the narrative flow; vav-consecutive, third person masculine singular.
+“Who told you” (מִי הִגִּיד לְךָ) uses the Hifil perfect “higgid” — causative verb for “declare/make known.”
+“That you were naked” (כִּי עֵירֹם אָתָּה) preserves word order; “ki” as causal or declarative conjunction.
+“Have you eaten from the tree” (הֲמִן־הָעֵץ ... אָכָלְתָּ) uses interrogative particle “ha-min” to construct a yes/no question.
+“Which I commanded you not to eat from” (אֲשֶׁר צִוִּיתִיךָ לְבִלְתִּי אֲכָל מִמֶּנּוּ) maintains full clause: “I commanded you not to eat from it.”
+
+[INSERTION / HELPER WORD TRACKING]
+
+“Have you” added for English clarity; reflects interrogative particle “ha-min.”
+Second “from” inserted for natural English phrasing at sentence end.
+No smoothing or paraphrasing introduced; all elements trace to original structure.
+
+[CONTEXTUAL PLACEMENT]
+
+Immediately follows the human's confession of fear and nakedness in 3:10.
+Marks God's direct interrogation — first mention of the tree by God post-violation.
+Repeats and mirrors language from the original prohibition (2:17), forming a linguistic echo.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Dual question structure emphasizes revelation and accountability.
+First question (“Who told you...”) probes source of new awareness.
+Second question (“Have you eaten...”) initiates direct confrontation of transgression.
+The phrase “asher tzivvitikha levilti akhal” structurally binds this line to God’s earlier command.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

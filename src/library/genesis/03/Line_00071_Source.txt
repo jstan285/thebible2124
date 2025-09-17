@@ -1,0 +1,205 @@
+=== LINE SOURCE FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00071
+[BOOK]: Genesis
+[CHAPTER]: 3
+[VERSE]: 15
+[FILE TYPE]: Line Source
+
+[INTRO]
+This file shows what the earliest Hebrew/Greek manuscripts say, word by word, before any interpretation.
+
+[PREFACE]
+This file presents the earliest traceable form of this line, drawn primarily from manuscript sources like the Leningrad Codex.
+Where other manuscript witnesses differ or offer meaningful variation (such as the Dead Sea Scrolls or the Samaritan Pentateuch), we remain watchful and will note those cases transparently when identified.
+Every word is shown with its full lexical range — without smoothing, interpretation, or insertion.
+This is not a translation or conclusion. It is a transparent starting point, open to personal encounter and divine resonance.
+We do not treat any human source as final — only as visible reference points for deeper unfolding.
+While we strive for care and clarity, any oversight or omission is unintentional, and all work remains open to refinement as understanding grows.
+
+[1. ORIGINAL LINE TEXT]  
+Language: Hebrew  
+Manuscript Source: Leningrad Codex  
+Line Reference: Genesis 3:15  
+> וְאֵיבָה אָשִׁית בֵּינְךָ וּבֵין הָאִשָּׁה וּבֵין זַרְעֲךָ וּבֵין זַרְעָהּ הוּא יְשׁוּפְךָ רֹאשׁ וְאַתָּה תְּשׁוּפֶנּוּ עָקֵב
+
+[2. DIRECT TRANSLITERATION]  
+> ve’eyvah ashit beynkha uveyn ha’ishah uveyn zar‘akha uveyn zar‘ah hu yeshufkha rosh ve’attah teshufennu aqev
+
+[3. WORD-BY-WORD LEXICAL BREAKDOWN]
+
+[WORD 1]  
+Original: וְאֵיבָה  
+Transliteration: ve’eyvah  
+Lexical Root: איב (eyvah)  
+Part of Speech: Noun  
+Grammatical Info: Feminine singular  
+Lexical Range:  
+- enmity  
+- hostility  
+- hatred  
+
+[WORD 2]  
+Original: אָשִׁית  
+Transliteration: ashit  
+Lexical Root: שית (shith)  
+Part of Speech: Verb  
+Grammatical Info: Qal, imperfect, 1st person common singular  
+Lexical Range:  
+- I will put  
+- I will set  
+- I will place  
+
+[WORD 3]  
+Original: בֵּינְךָ  
+Transliteration: beynkha  
+Lexical Root: בין (beyn)  
+Part of Speech: Preposition + Pronoun  
+Grammatical Info: 2nd person masculine singular  
+Lexical Range:  
+- between you  
+- among you  
+
+[WORD 4]  
+Original: וּבֵין  
+Transliteration: uveyn  
+Lexical Root: בין (beyn)  
+Part of Speech: Conjunction + Preposition  
+Grammatical Info: —  
+Lexical Range:  
+- and between  
+
+[WORD 5]  
+Original: הָאִשָּׁה  
+Transliteration: ha’ishah  
+Lexical Root: אִשָּׁה (ishah)  
+Part of Speech: Noun  
+Grammatical Info: Feminine singular with definite article  
+Lexical Range:  
+- the woman  
+- the female  
+
+[WORD 6]  
+Original: וּבֵין  
+Transliteration: uveyn  
+Lexical Root: בין (beyn)  
+Part of Speech: Conjunction + Preposition  
+Grammatical Info: —  
+Lexical Range:  
+- and between  
+
+[WORD 7]  
+Original: זַרְעֲךָ  
+Transliteration: zar‘akha  
+Lexical Root: זרע (zera)  
+Part of Speech: Noun + Suffix  
+Grammatical Info: Masculine singular construct + 2nd person masculine singular suffix  
+Lexical Range:  
+- your seed  
+- your offspring  
+- your descendants  
+
+[WORD 8]  
+Original: וּבֵין  
+Transliteration: uveyn  
+Lexical Root: בין (beyn)  
+Part of Speech: Conjunction + Preposition  
+Grammatical Info: —  
+Lexical Range:  
+- and between  
+
+[WORD 9]  
+Original: זַרְעָהּ  
+Transliteration: zar‘ah  
+Lexical Root: זרע (zera)  
+Part of Speech: Noun + Suffix  
+Grammatical Info: Masculine singular construct + 3rd person feminine singular suffix  
+Lexical Range:  
+- her seed  
+- her offspring  
+- her descendants  
+
+[WORD 10]  
+Original: הוּא  
+Transliteration: hu  
+Lexical Root: הוּא (hu)  
+Part of Speech: Pronoun  
+Grammatical Info: 3rd person masculine singular  
+Lexical Range:  
+- he  
+- it  
+
+[WORD 11]  
+Original: יְשׁוּפְךָ  
+Transliteration: yeshufkha  
+Lexical Root: שוף (shuph)  
+Part of Speech: Verb + Suffix  
+Grammatical Info: Qal, imperfect, 3rd person masculine singular + 2nd person masculine singular suffix  
+Lexical Range:  
+- he shall bruise you  
+- he shall crush you  
+- he shall strike you  
+
+[WORD 12]  
+Original: רֹאשׁ  
+Transliteration: rosh  
+Lexical Root: ראשׁ (rosh)  
+Part of Speech: Noun  
+Grammatical Info: Masculine singular  
+Lexical Range:  
+- head  
+- top  
+- chief  
+
+[WORD 13]  
+Original: וְאַתָּה  
+Transliteration: ve’attah  
+Lexical Root: אַתָּה (attah)  
+Part of Speech: Conjunction + Pronoun  
+Grammatical Info: 2nd person masculine singular  
+Lexical Range:  
+- and you  
+
+[WORD 14]  
+Original: תְּשׁוּפֶנּוּ  
+Transliteration: teshufennu  
+Lexical Root: שוף (shuph)  
+Part of Speech: Verb + Suffix  
+Grammatical Info: Qal, imperfect, 2nd person masculine singular + 3rd person masculine singular suffix  
+Lexical Range:  
+- you shall bruise him  
+- you shall strike him  
+- you shall crush him  
+
+[WORD 15]  
+Original: עָקֵב  
+Transliteration: aqev  
+Lexical Root: עָקֵב (aqev)  
+Part of Speech: Noun  
+Grammatical Info: Masculine singular  
+Lexical Range:  
+- heel  
+- rear  
+- end  
+
+[4. STRUCTURAL NOTES]
+> Parallel structure of “beyn... uveyn” segments introduces layered hostility lines.  
+> Both “yeshufkha rosh” and “teshufennu aqev” are symmetric verb-object phrases with pronominal suffixes.  
+> “Enmity” (eyvah) is subject of the primary clause; final clauses forecast mutual conflict.
+
+[5. VARIANT MANUSCRIPT NOTES]
+> MT is consistent across primary witnesses.  
+> LXX renders “he shall watch against your head,” indicating early interpretive variance in “shuph.”  
+
+[6. STRUCTURAL CONNECTION TO OTHER LINES]
+> Culmination of divine speech to serpent (vv. 14–15).  
+> Introduces central motifs of conflict, descent, and generation that echo through Genesis.
+
+[7. CAUTIONARY REMINDER]
+The content above does not represent a translation.  
+No conclusions, smoothing, or interpretive decisions have been made.  
+This file serves only to display the original structure and lexical range as transparently as possible.

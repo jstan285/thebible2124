@@ -1,0 +1,49 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00074
+[BOOK]: Genesis
+[CHAPTER]: 3
+[VERSE]: 18
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And thorn and thistle it shall bring forth for you, and you shall eat the grass of the field.
+
+[RENDERING NOTES]
+
+“And thorn and thistle” (וְקוֹץ וְדַרְדַּר) — paired nouns linked by repetition of “ve” (and); poetic doubling.
+“It shall bring forth” (תַּצְמִיחַ) — Hifil imperfect; refers back to “the ground” (implicit from v.17).
+“For you” (לָךְ) — indirect object; the consequence is personalized.
+“And you shall eat” (וְאָכַלְתָּ) — Qal perfect with vav-consecutive; continues future sequence from v.17.
+“The grass of the field” (אֶת־עֵשֶׂב הַשָּׂדֶה) — direct object marked by “et”; contrasts with Edenic provision.
+
+[INSERTION / HELPER WORD TRACKING]
+
+“It” supplied for subject clarity.
+“Shall” inserted to match Hebrew imperfect tense.
+“And” retained from Hebrew conjunctions.
+
+[CONTEXTUAL PLACEMENT]
+
+Expands and deepens the ground-human rupture announced in v.17.
+Introduces imagery of struggle and altered vegetation — not just cursed ground, but changed produce.
+Reinforces relational shift between human and land.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Continues poetic-legal declaration style from v.17.
+“Thorn and thistle” becomes a literary and theological motif echoed in later texts (e.g. Hosea 10:8, Hebrews 6:8).
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

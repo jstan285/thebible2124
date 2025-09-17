@@ -1,0 +1,138 @@
+=== LINE SOURCE FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00077
+[BOOK]: Genesis
+[CHAPTER]: 3
+[VERSE]: 21
+[FILE TYPE]: Line Source
+
+[INTRO]
+This file shows what the earliest Hebrew/Greek manuscripts say, word by word, before any interpretation.
+
+[PREFACE]
+This file presents the earliest traceable form of this line, drawn primarily from manuscript sources like the Leningrad Codex.
+Where other manuscript witnesses differ or offer meaningful variation (such as the Dead Sea Scrolls or the Samaritan Pentateuch), we remain watchful and will note those cases transparently when identified.
+Every word is shown with its full lexical range — without smoothing, interpretation, or insertion.
+This is not a translation or conclusion. It is a transparent starting point, open to personal encounter and divine resonance.
+We do not treat any human source as final — only as visible reference points for deeper unfolding.
+While we strive for care and clarity, any oversight or omission is unintentional, and all work remains open to refinement as understanding grows.
+
+[1. ORIGINAL LINE TEXT]  
+Language: Hebrew  
+Manuscript Source: Leningrad Codex  
+Line Reference: Genesis 3:21  
+> וַיַּעַשׂ יְהוָה אֱלֹהִים לְאָדָם וּלְאִשְׁתּוֹ כָּתְנוֹת עוֹר וַיַּלְבִּשֵׁם
+
+[2. DIRECT TRANSLITERATION]  
+> vaya‘as YHWH Elohim le’adam ule’ishto katnot ‘or vayalbishem
+
+[3. WORD-BY-WORD LEXICAL BREAKDOWN]
+
+[WORD 1]  
+Original: וַיַּעַשׂ  
+Transliteration: vaya‘as  
+Lexical Root: עשה (‘asah)  
+Part of Speech: Verb  
+Grammatical Info: Qal, imperfect, 3rd person masculine singular with vav-consecutive  
+Lexical Range:  
+- and he made  
+- and he did  
+- and he fashioned  
+
+[WORD 2]  
+Original: יְהוָה  
+Transliteration: YHWH  
+Lexical Root: —  
+Part of Speech: Proper noun (divine name)  
+Grammatical Info: —  
+Lexical Range:  
+- YHWH (Tetragrammaton; personal name of Israel’s deity)  
+
+[WORD 3]  
+Original: אֱלֹהִים  
+Transliteration: Elohim  
+Lexical Root: אֵל (El)  
+Part of Speech: Noun (plural form used singularly)  
+Grammatical Info: Masculine plural in form, singular in use here  
+Lexical Range:  
+- God  
+- deity  
+- divine being(s)  
+
+[WORD 4]  
+Original: לְאָדָם  
+Transliteration: le’adam  
+Lexical Root: אדם (adam)  
+Part of Speech: Preposition + Noun  
+Grammatical Info: Masculine singular  
+Lexical Range:  
+- for the man  
+- to the human  
+
+[WORD 5]  
+Original: וּלְאִשְׁתּוֹ  
+Transliteration: ule’ishto  
+Lexical Root: אִשָּׁה (ishah)  
+Part of Speech: Conjunction + Preposition + Noun + Pronoun suffix  
+Grammatical Info: Feminine singular with 3rd person masculine singular suffix  
+Lexical Range:  
+- and for his wife  
+- and to his woman  
+
+[WORD 6]  
+Original: כָּתְנוֹת  
+Transliteration: katnot  
+Lexical Root: כֻּתֹּנֶת (kutonet)  
+Part of Speech: Noun  
+Grammatical Info: Feminine plural  
+Lexical Range:  
+- tunics  
+- coats  
+- garments  
+
+[WORD 7]  
+Original: עוֹר  
+Transliteration: ‘or  
+Lexical Root: עוֹר (‘or)  
+Part of Speech: Noun  
+Grammatical Info: Masculine singular (used as material descriptor)  
+Lexical Range:  
+- skin  
+- hide  
+- leather  
+
+[WORD 8]  
+Original: וַיַּלְבִּשֵׁם  
+Transliteration: vayalbishem  
+Lexical Root: לבש (lavash)  
+Part of Speech: Verb  
+Grammatical Info: Hifil, imperfect, 3rd person masculine singular + 3rd person plural suffix, vav-consecutive  
+Lexical Range:  
+- and he clothed them  
+- and he dressed them  
+- and he put clothing on them  
+
+[4. STRUCTURAL NOTES]
+> Subject “YHWH Elohim” precedes verb “vaya‘as” in standard narrative clause.  
+> Dative phrase “le’adam ule’ishto” defines recipients.  
+> “Katnot ‘or” is compound object (noun + noun used as material descriptor).  
+> Final verb “vayalbishem” closes the action with a secondary verb clause tied to the same subject.
+
+[5. VARIANT MANUSCRIPT NOTES]
+> No major variants noted in MT.  
+> LXX similarly includes “tunics of skin” and retains both verbs (made, clothed).  
+> No DSS fragments of this line currently available.
+
+[6. STRUCTURAL CONNECTION TO OTHER LINES]
+> Continuation of divine initiative following the human consequences.  
+> Balances judgment (3:17–19) with provision.  
+> Echoes “covering” themes that resonate through biblical literature.
+
+[7. CAUTIONARY REMINDER]
+The content above does not represent a translation.  
+No conclusions, smoothing, or interpretive decisions have been made.  
+This file serves only to display the original structure and lexical range as transparently as possible.

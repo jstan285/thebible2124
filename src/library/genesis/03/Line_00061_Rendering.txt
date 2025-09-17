@@ -1,0 +1,51 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00061
+[BOOK]: Genesis
+[CHAPTER]: 3
+[VERSE]: 5
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+For God knows that in the day you eat from it, your eyes will be opened, and you will be like God, knowing good and evil.
+
+[RENDERING NOTES]
+
+“For God knows” renders כִּי יֹדֵעַ אֱלֹהִים (ki yodea Elohim), with “ki” signaling causation and “yodea” as participle “knowing.”
+“That in the day you eat from it” (כִּי בְּיוֹם אֲכָלְכֶם מִמֶּנּוּ) — second “ki” again causal or temporal; “akholkhem” includes plural “you.”
+“Your eyes will be opened” (וְנִפְקְחוּ עֵינֵיכֶם) uses a nifal perfect form, passive: “will be unveiled.”
+“And you will be like God” (וִהְיִיתֶם כֵּאלֹהִים) includes “ke’Elohim” — literally “as God” or “like divine beings.”
+“Knowing good and evil” (יֹדְעֵי טוֹב וָרָע) is a participial construct — “knowers of good and evil.”
+
+[INSERTION / HELPER WORD TRACKING]
+
+“That” added in two clauses for temporal and causal flow.
+“Will be” inserted to express future perfect implications in verbs (נִפְקְחוּ / וִהְיִיתֶם).
+“Like” from preposition “k-” — traceable.
+No additional interpretive smoothing added.
+
+[CONTEXTUAL PLACEMENT]
+
+Continues the serpent’s dialogue, expanding on the denial of death (3:4) with an alternative rationale.
+Attributes motive to God — suggesting withheld knowledge or status.
+Prepares the ground for human action by framing the consequence positively.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Echoes and reverses divine logic from Genesis 2:17 — reframing divine command as limitation rather than protection.
+Three-part progression: divine knowing → human eating → transformation.
+Thematic binary “good and evil” first introduced — foundational ethical polarity.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

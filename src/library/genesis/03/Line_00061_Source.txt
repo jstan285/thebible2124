@@ -1,0 +1,215 @@
+=== LINE SOURCE FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00061
+[BOOK]: Genesis
+[CHAPTER]: 3
+[VERSE]: 5
+[FILE TYPE]: Line Source
+
+[INTRO]
+This file shows what the earliest Hebrew/Greek manuscripts say, word by word, before any interpretation.
+
+[PREFACE]
+This file presents the earliest traceable form of this line, drawn primarily from manuscript sources like the Leningrad Codex.
+Where other manuscript witnesses differ or offer meaningful variation (such as the Dead Sea Scrolls or the Samaritan Pentateuch), we remain watchful and will note those cases transparently when identified.
+Every word is shown with its full lexical range — without smoothing, interpretation, or insertion.
+This is not a translation or conclusion. It is a transparent starting point, open to personal encounter and divine resonance.
+We do not treat any human source as final — only as visible reference points for deeper unfolding.
+While we strive for care and clarity, any oversight or omission is unintentional, and all work remains open to refinement as understanding grows.
+
+[1. ORIGINAL LINE TEXT]
+Language: Hebrew
+Manuscript Source: Leningrad Codex
+Line Reference: Genesis 3:5
+> כִּי יֹדֵעַ אֱלֹהִים כִּי בְּיוֹם אֲכָלְכֶם מִמֶּנּוּ וְנִפְקְחוּ עֵינֵיכֶם וִהְיִיתֶם כֵּאלֹהִים יֹדְעֵי טוֹב וָרָע
+
+[2. DIRECT TRANSLITERATION]
+> ki yodea Elohim ki b’yom akholkhem mimennu ve-nifqechu eineikhem vihyitem ke’Elohim yod’ei tov va-ra
+
+[3. WORD-BY-WORD LEXICAL BREAKDOWN]
+
+[WORD 1]
+Original: כִּי
+Transliteration: ki
+Lexical Root: כִּי (ki)
+Part of Speech: Conjunction
+Grammatical Info: —
+Lexical Range:
+- for
+- because
+- that
+- when
+- indeed
+
+[WORD 2]
+Original: יֹדֵעַ
+Transliteration: yodea
+Lexical Root: ידע (yada)
+Part of Speech: Verb (Participle)
+Grammatical Info: Qal, masculine singular
+Lexical Range:
+- knowing
+- perceiving
+- being aware
+- recognizing
+
+[WORD 3]
+Original: אֱלֹהִים
+Transliteration: Elohim
+Lexical Root: אלה (eloah)
+Part of Speech: Noun
+Grammatical Info: Plural form, singular usage
+Lexical Range:
+- God
+- gods
+- divine beings
+- rulers
+- judges
+
+[WORD 4]
+Original: כִּי
+Transliteration: ki
+Lexical Root: כִּי (ki)
+Part of Speech: Conjunction
+Grammatical Info: —
+Lexical Range:
+- for
+- because
+- that
+- when
+- indeed
+
+[WORD 5]
+Original: בְּיוֹם
+Transliteration: b’yom
+Lexical Root: יום (yom)
+Part of Speech: Noun
+Grammatical Info: Masculine singular with prefixed preposition בְּ
+Lexical Range:
+- in the day
+- at the time
+- when
+
+[WORD 6]
+Original: אֲכָלְכֶם
+Transliteration: akholkhem
+Lexical Root: אכל (achal)
+Part of Speech: Verb
+Grammatical Info: Qal, infinitive construct with 2nd person masculine plural suffix
+Lexical Range:
+- your eating
+- when you eat
+- in your act of consuming
+
+[WORD 7]
+Original: מִמֶּנּוּ
+Transliteration: mimennu
+Lexical Root: מִן (min) + הוּא (hu)
+Part of Speech: Preposition + Pronominal suffix
+Grammatical Info: Preposition with 3rd person masculine singular suffix
+Lexical Range:
+- from it
+- out of it
+- of it
+
+[WORD 8]
+Original: וְנִפְקְחוּ
+Transliteration: ve-nifqechu
+Lexical Root: פקח (paqach)
+Part of Speech: Verb
+Grammatical Info: Nifal, perfect, 3rd person masculine plural, vav-consecutive
+Lexical Range:
+- to be opened
+- to be unveiled
+- to be unclosed
+
+[WORD 9]
+Original: עֵינֵיכֶם
+Transliteration: eineikhem
+Lexical Root: עין (ayin)
+Part of Speech: Noun
+Grammatical Info: Feminine dual with 2nd person masculine plural suffix
+Lexical Range:
+- your eyes
+- visual organs
+- perspective
+
+[WORD 10]
+Original: וִהְיִיתֶם
+Transliteration: vihyitem
+Lexical Root: היה (hayah)
+Part of Speech: Verb
+Grammatical Info: Qal, perfect, 2nd person masculine plural, vav-consecutive
+Lexical Range:
+- and you became
+- and you were
+- and you came into being
+
+[WORD 11]
+Original: כֵּאלֹהִים
+Transliteration: ke’Elohim
+Lexical Root: אלה (eloah)
+Part of Speech: Preposition + Noun
+Grammatical Info: Masculine plural (grammatical usage remains singular here)
+Lexical Range:
+- like God
+- like gods
+- as divine beings
+- resembling rulers
+
+[WORD 12]
+Original: יֹדְעֵי
+Transliteration: yod’ei
+Lexical Root: ידע (yada)
+Part of Speech: Verb (Participle in construct)
+Grammatical Info: Masculine plural construct
+Lexical Range:
+- knowers of
+- those perceiving
+- ones who understand
+
+[WORD 13]
+Original: טוֹב
+Transliteration: tov
+Lexical Root: טוֹב (tov)
+Part of Speech: Adjective / Noun
+Grammatical Info: Masculine singular
+Lexical Range:
+- good
+- pleasant
+- desirable
+- beneficial
+
+[WORD 14]
+Original: וָרָע
+Transliteration: va-ra
+Lexical Root: רַע (ra)
+Part of Speech: Conjunction + Adjective / Noun
+Grammatical Info: Masculine singular
+Lexical Range:
+- and evil
+- and bad
+- and distress
+- and adversity
+
+[4. STRUCTURAL NOTES]
+> The line opens with a causal clause (“ki yodea Elohim”) followed by a temporal conditional clause (“ki b’yom akholkhem...”).
+> Two vav-consecutive perfect verbs “ve-nifqechu” and “vihyitem” carry forward predicted consequences.
+> The final clause (“ke’Elohim yod’ei tov va-ra”) contains a nominal construct phrase functioning as a predicate.
+
+[5. VARIANT MANUSCRIPT NOTES]
+> No significant variants known in major Masoretic texts.
+> Samaritan Pentateuch and LXX both preserve a structurally similar progression, though with minor lexical choices.
+
+[6. STRUCTURAL CONNECTION TO OTHER LINES]
+> The participial form “יֹדֵעַ” echoes the verb root used to describe divine knowledge throughout early Genesis.
+> The phrase “tov va-ra” introduces a thematic binary that recurs in later ethical frameworks (see Genesis 2:9; Deuteronomy 1:39).
+
+[7. CAUTIONARY REMINDER]
+The content above does not represent a translation.  
+No conclusions, smoothing, or interpretive decisions have been made.  
+This file serves only to display the original structure and lexical range as transparently as possible.

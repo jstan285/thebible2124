@@ -1,0 +1,49 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00075
+[BOOK]: Genesis
+[CHAPTER]: 3
+[VERSE]: 19
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+By the sweat of your face you shall eat bread until you return to the ground, for from it you were taken; for dust you are, and to dust you shall return.
+
+[RENDERING NOTES]
+
+“By the sweat of your face” (בְּזֵעַת אַפֶּיךָ) — construct phrase; evokes effortful labor, literal or symbolic.
+“You shall eat bread” (תֹּאכַל לֶחֶם) — repetition of eating motif under new conditions (contrast with Eden).
+“Until you return to the ground” (עַד שֻׁבְךָ אֶל־הָאֲדָמָה) — temporal clause tied to death and origin.
+“For from it you were taken” (כִּי מִמֶּנָּה לֻקָּחְתָּ) — passive verb with clear origin reference.
+“Dust you are, and to dust you shall return” (כִּי עָפָר אַתָּה וְאֶל־עָפָר תָּשׁוּב) — poetic parallelism; chiastic closure.
+
+[INSERTION / HELPER WORD TRACKING]
+
+“By,” “until,” “for,” and conjunctions included for readability and logical linkage.
+No additional helper nouns or verbs added beyond syntactic smoothing.
+
+[CONTEXTUAL PLACEMENT]
+
+Culminates the divine consequence speech to the man.
+Links labor (3:17–18) with mortality.
+Echoes Genesis 2:7 — reversing origin moment with a return.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Final closure to the triplet consequence structure (3:14–19).
+Uses sequential reasoning clauses (ki) to build toward thematic inevitability.
+Pairs with 3:23–24 where the return to ground is enacted through exile.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

@@ -1,0 +1,49 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00060
+[BOOK]: Genesis
+[CHAPTER]: 3
+[VERSE]: 4
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And the serpent said to the woman, “You will not surely die.”
+
+[RENDERING NOTES]
+
+“And the serpent said” reflects וַיֹּאמֶר הַנָּחָשׁ (vayomer hannachash) — the vav-consecutive introduces speech, with subject marked by definite article.
+“To the woman” renders אֶל־הָאִשָּׁה (el-ha’ishah), maintaining prepositional clarity.
+“You will not surely die” translates לֹא מוֹת תְּמֻתוּן (lo mot temutun), an emphatically negated construction using infinitive absolute + imperfect.
+The phrase directly mirrors and contradicts Genesis 2:17 and 3:3, reversing divine and human warnings.
+
+[INSERTION / HELPER WORD TRACKING]
+
+“The” added before “serpent” and “woman” based on Hebrew definites.
+Quotation marks added for clarity of direct speech.
+No modal or interpretive helpers inserted — phrasing remains terse and structured.
+English “surely” reflects the intensifying function of the infinitive absolute.
+
+[CONTEXTUAL PLACEMENT]
+
+This is the serpent’s direct rebuttal to the woman’s statement of divine command in Genesis 3:3.
+Introduces the first recorded contradiction of God’s word in the narrative.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Direct structural inversion of Genesis 2:17 (“mot tamut”) — both use infinitive + imperfect.
+“Lo” (not) placed frontally — a negation of divine consequence and boundary.
+Continues speech structure set by 3:1 and 3:2–3, escalating tension.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

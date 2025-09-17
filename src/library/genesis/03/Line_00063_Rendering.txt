@@ -1,0 +1,50 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00063
+[BOOK]: Genesis
+[CHAPTER]: 3
+[VERSE]: 7
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+Then the eyes of both of them were opened, and they knew that they were naked. So they sewed fig leaves and made coverings for themselves.
+
+[RENDERING NOTES]
+
+“Then the eyes of both of them were opened” (וַתִּפָּקַחְנָה עֵינֵי שְׁנֵיהֶם) — feminine plural verb matches dual noun construct.
+“And they knew that they were naked” (וַיֵּדְעוּ כִּי עֵירֻמִּם הֵם) — realization clause using “ki” to mark awareness.
+“So they sewed fig leaves” (וַיִּתְפְּרוּ עֲלֵה תְאֵנָה) — vav-consecutive action in response.
+“And made coverings for themselves” (וַיַּעֲשׂוּ לָהֶם חֲגֹרֹת) — reflexive care, “for themselves.”
+
+[INSERTION / HELPER WORD TRACKING]
+
+“Then” inserted to signal sequential shift (vav-consecutive opening verb).
+“That” added to causal clause “ki.”
+“So” inserted to transition between realization and response.
+“Coverings” chosen for “chagorot” — broader than “girdles,” retains neutrality.
+
+[CONTEXTUAL PLACEMENT]
+
+Follows the act of eating (v.6), initiating immediate awareness and bodily consciousness.
+Marks the first human-crafted response — covering, not dialogue.
+Begins new relational axis: human-to-self, human-to-body, human-to-other.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Fulfillment of 3:5’s “your eyes will be opened” — structurally and lexically.
+Sequence: perception → realization → action.
+Thematic inversion: knowledge leads to concealment, not clarity.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

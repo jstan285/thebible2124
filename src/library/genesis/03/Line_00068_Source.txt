@@ -1,0 +1,157 @@
+=== LINE SOURCE FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00068
+[BOOK]: Genesis
+[CHAPTER]: 3
+[VERSE]: 12
+[FILE TYPE]: Line Source
+
+[INTRO]
+This file shows what the earliest Hebrew/Greek manuscripts say, word by word, before any interpretation.
+
+[PREFACE]
+This file presents the earliest traceable form of this line, drawn primarily from manuscript sources like the Leningrad Codex.
+Where other manuscript witnesses differ or offer meaningful variation (such as the Dead Sea Scrolls or the Samaritan Pentateuch), we remain watchful and will note those cases transparently when identified.
+Every word is shown with its full lexical range — without smoothing, interpretation, or insertion.
+This is not a translation or conclusion. It is a transparent starting point, open to personal encounter and divine resonance.
+We do not treat any human source as final — only as visible reference points for deeper unfolding.
+While we strive for care and clarity, any oversight or omission is unintentional, and all work remains open to refinement as understanding grows.
+
+[1. ORIGINAL LINE TEXT]
+Language: Hebrew  
+Manuscript Source: Leningrad Codex  
+Line Reference: Genesis 3:12  
+> וַיֹּאמֶר הָאָדָם הָאִשָּׁה אֲשֶׁר נָתַתָּה עִמָּדִי הִוא נָתְנָה־לִּי מִן־הָעֵץ וָאֹכֵל
+
+[2. DIRECT TRANSLITERATION]  
+> vayomer ha’adam ha’ishah asher natattah immadi hi nat’nah-li min-ha’etz va’okhel
+
+[3. WORD-BY-WORD LEXICAL BREAKDOWN]
+
+[WORD 1]  
+Original: וַיֹּאמֶר  
+Transliteration: vayomer  
+Lexical Root: אמר (amar)  
+Part of Speech: Verb  
+Grammatical Info: Qal, imperfect, 3rd person masculine singular, vav-consecutive  
+Lexical Range:
+- he said  
+- he spoke  
+- he declared  
+
+[WORD 2]  
+Original: הָאָדָם  
+Transliteration: ha’adam  
+Lexical Root: אדם (adam)  
+Part of Speech: Noun  
+Grammatical Info: Masculine singular with definite article  
+Lexical Range:
+- the man  
+- the human  
+- the person  
+
+[WORD 3]  
+Original: הָאִשָּׁה  
+Transliteration: ha’ishah  
+Lexical Root: אִשָּׁה (ishah)  
+Part of Speech: Noun  
+Grammatical Info: Feminine singular with definite article  
+Lexical Range:
+- the woman  
+- the female partner  
+
+[WORD 4]  
+Original: אֲשֶׁר  
+Transliteration: asher  
+Lexical Root: אֲשֶׁר (asher)  
+Part of Speech: Relative pronoun  
+Grammatical Info: —  
+Lexical Range:
+- who  
+- which  
+- that  
+
+[WORD 5]  
+Original: נָתַתָּה  
+Transliteration: natattah  
+Lexical Root: נתן (natan)  
+Part of Speech: Verb  
+Grammatical Info: Qal, perfect, 2nd person masculine singular  
+Lexical Range:
+- you gave  
+- you granted  
+- you delivered  
+
+[WORD 6]  
+Original: עִמָּדִי  
+Transliteration: immadi  
+Lexical Root: עם (im) + אני (anokhi)  
+Part of Speech: Preposition + Pronoun  
+Grammatical Info: 1st person common singular suffix  
+Lexical Range:
+- with me  
+- beside me  
+
+[WORD 7]  
+Original: הִוא  
+Transliteration: hi  
+Lexical Root: הוּא (hu) — feminine form  
+Part of Speech: Pronoun  
+Grammatical Info: 3rd person feminine singular  
+Lexical Range:
+- she  
+- that one  
+
+[WORD 8]  
+Original: נָתְנָה־לִּי  
+Transliteration: nat’nah-li  
+Lexical Root: נתן (natan)  
+Part of Speech: Verb + Preposition + Pronoun  
+Grammatical Info: Qal, perfect, 3rd person feminine singular + 1st person common singular suffix  
+Lexical Range:
+- she gave to me  
+- she handed to me  
+
+[WORD 9]  
+Original: מִן־הָעֵץ  
+Transliteration: min-ha’etz  
+Lexical Root: מִן (min) + עֵץ (etz)  
+Part of Speech: Preposition + Noun  
+Grammatical Info: Masculine singular with definite article  
+Lexical Range:
+- from the tree  
+- out of the tree  
+
+[WORD 10]  
+Original: וָאֹכֵל  
+Transliteration: va’okhel  
+Lexical Root: אכל (akal)  
+Part of Speech: Verb  
+Grammatical Info: Qal, imperfect, 1st person common singular, vav-consecutive  
+Lexical Range:
+- and I ate  
+- and I consumed  
+- and I partook  
+
+[4. STRUCTURAL NOTES]
+> “Ha’ishah asher natattah immadi” is a relative clause modifying “ha’ishah,” attributing origin to divine action.  
+> Double subject sequence: “hi nat’nah-li” sets the woman as agent of giving.  
+> Temporal sequence preserved through consecutive verbs: “va’okhel” follows causal gifting.  
+> The final clause is concise, without self-defense or elaboration.
+
+[5. VARIANT MANUSCRIPT NOTES]
+> No major variations known in primary Masoretic witnesses.  
+> LXX preserves similar relational clause structure and sequential actions.
+
+[6. STRUCTURAL CONNECTION TO OTHER LINES]
+> Continuation of dialogue begun in Genesis 3:11, presenting man’s direct response.  
+> Shares key roots with Genesis 2:22 (“the woman whom you gave”) and 3:6 (“she gave to her husband”).
+
+[7. CAUTIONARY REMINDER]
+The content above does not represent a translation.  
+No conclusions, smoothing, or interpretive decisions have been made.  
+This file serves only to display the original structure and lexical range as transparently as possible.

@@ -1,0 +1,54 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00064
+[BOOK]: Genesis
+[CHAPTER]: 3
+[VERSE]: 8
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And they heard the sound of YHWH God walking in the garden at the breeze of the day, and the human and his woman hid themselves from the presence of YHWH God among the trees of the garden.
+
+[RENDERING NOTES]
+
+“They heard” (וַיִּשְׁמְעוּ) is a third-person plural vav-consecutive verb — subject is human pair.
+“The sound of YHWH God” (קוֹל יְהוָה אֱלֹהִים) retains both divine names; “qol” can be rendered as voice, sound, or presence.
+“Walking in the garden” uses participial form (מִתְהַלֵּךְ), conveying ongoing or habitual motion.
+“At the breeze of the day” (לְרוּחַ הַיּוֹם) is left literal; often interpreted as “in the cool of the day,” but “ruach” also means spirit/wind.
+“Hid themselves” (וַיִּתְחַבֵּא) is reflexive (Hithpael), rendered as mutual withdrawal.
+“From the presence of YHWH God” uses “mipenei” — from before the face of.
+“Among the trees of the garden” is “b’tokh etz hagan” — literally “in the midst of the tree of the garden,” interpreted contextually as a grove.
+
+[INSERTION / HELPER WORD TRACKING]
+
+“Of” used for genitive connections: sound of YHWH, trees of the garden.
+“Themselves” is reflexive rendering of Hithpael verb.
+“At” inserted to express temporal clause “leruach hayom.”
+All insertions traceable to grammatical constructions; no interpretation added.
+
+[CONTEXTUAL PLACEMENT]
+
+This line follows the awareness and clothing of Genesis 3:7, shifting into relational distance.
+Marks first auditory perception of divine movement and human response of fear.
+Introduces movement dynamics in the garden — God not as static, but mobile.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Reintroduces divine presence with compound naming: YHWH Elohim.
+Follows Eden pattern: perception → response.
+Sets up divine-human encounter and accountability sequence (vv. 9–13).
+“Walking,” “breeze,” and “garden” motifs recall Genesis 2 — but now in tension.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

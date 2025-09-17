@@ -1,0 +1,49 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00079
+[BOOK]: Genesis
+[CHAPTER]: 3
+[VERSE]: 23
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+So YHWH God sent him out from the garden of Eden to work the ground from which he had been taken.
+
+[RENDERING NOTES]
+
+“Vayeshallchehu” — Piel form of “send,” intensive; implies forceful sending or expulsion.
+“YHWH Elohim” — double-name formula retained; denotes covenantal divinity acting in justice and care.
+“Mi-gan-‘eden” — “from the garden of Eden,” location of removal.
+“La’avod et-ha’adamah” — infinitive construct indicating purpose: to work/till the ground.
+“Asher luqqach misham” — relative clause identifying the ground: it is the source of his origin.
+
+[INSERTION / HELPER WORD TRACKING]
+
+“So,” “from,” and “to” used to clarify temporal and directional logic in English.
+No smoothing beyond clause alignment.
+
+[CONTEXTUAL PLACEMENT]
+
+Follows divine deliberation about the human and the tree of life (v.22).
+Begins the actual act of exile.
+The human is moved from delight (Eden) to labor upon the land.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Parallel to Genesis 2:15 — human placed in Eden “to work it.”
+Now redirected to work the same ground from which he was drawn (Genesis 2:7).
+The motif of return (to origin) is activated without full restoration.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

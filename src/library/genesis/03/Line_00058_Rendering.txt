@@ -1,0 +1,49 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00058
+[BOOK]: Genesis
+[CHAPTER]: 3
+[VERSE]: 2
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And the woman said to the serpent, “From the fruit of the trees of the garden we may eat.”
+
+[RENDERING NOTES]
+
+“And the woman said” renders וַתֹּאמֶר הָאִשָּׁה (vattomer ha’ishah), preserving the feminine singular narrative form and definite article.
+“To the serpent” reflects אֶל־הַנָּחָשׁ (el-hannachash), with preposition and definite article.
+“From the fruit of the tree of the garden” reflects מִפְּרִי עֵץ הַגָּן (miperi etz hagan), a compound construct phrase.
+“We may eat” renders נֹאכֵל (no’khel), a first-person plural imperfect — indicating habitual or ongoing permission.
+
+[INSERTION / HELPER WORD TRACKING]
+
+“The” inserted for “the woman,” “the serpent,” and “the garden” based on Hebrew definite articles.
+Quotation marks used to frame direct speech for clarity.
+“May” added to English verb to reflect modal implication of imperfect tense — habitual action.
+No pronouns, adjectives, or interpretation added beyond the structure.
+
+[CONTEXTUAL PLACEMENT]
+
+This is the woman’s response to the serpent’s question from the previous verse.
+It asserts partial knowledge of divine permission — possibly affirming, clarifying, or preparing for contrast.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Continues the speech-exchange pattern from Genesis 3:1.
+Introduces the first direct response to a non-divine speaker in scripture.
+Thematically echoes God’s earlier command in Genesis 2:16 — now voiced through the human character.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

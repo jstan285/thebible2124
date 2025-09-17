@@ -1,0 +1,52 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00059
+[BOOK]: Genesis
+[CHAPTER]: 3
+[VERSE]: 3
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+But from the fruit of the tree that is in the midst of the garden, God said, “You shall not eat from it, and you shall not touch it, lest you die.”
+
+[RENDERING NOTES]
+
+“But from the fruit of the tree…” renders וּמִפְּרִי הָעֵץ — the conjunction “u-” gives a contrastive tone, continuing from the previous line.
+“That is in the midst of the garden” translates אֲשֶׁר בְּתוֹךְ הַגָּן — a relative clause describing the tree.
+“God said” (אָמַר אֱלֹהִים) is rendered without smoothing; reflects direct attribution of speech.
+“You shall not eat from it” follows לֹא תֹאכְלוּ מִמֶּנּוּ, preserving negative command with clear reference.
+“And you shall not touch it” renders וְלֹא תִגְּעוּ בּוֹ — a second prohibition.
+“Lest you die” reflects פֶּן תְּמֻתוּן — warning clause indicating consequence.
+
+[INSERTION / HELPER WORD TRACKING]
+
+“But” inserted to mark contrast continuation from Genesis 3:2.
+Quotation marks added around divine speech for clarity.
+“That is” added in relative clause for English readability.
+“From it,” “touch it” — pronoun rendered from Hebrew suffixes.
+No interpretive words added beyond prepositional or modal clarity.
+
+[CONTEXTUAL PLACEMENT]
+
+This is the woman’s continued speech — specifying the divine command.
+Introduces the first variation from the original divine instruction in Genesis 2:17 (the added prohibition of “touch”).
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Echoes the structure of earlier divine speech but includes additions or paraphrasing.
+The use of “pen” (lest) links it structurally to other cautionary clauses across Torah.
+Sets the linguistic stage for the serpent’s immediate contradiction in Genesis 3:4.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

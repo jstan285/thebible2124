@@ -1,0 +1,217 @@
+=== LINE SOURCE FILE ===
+
+[YOU ARE WELCOME HERE]  
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]  
+[LINE ID]: 00080  
+[BOOK]: Genesis  
+[CHAPTER]: 3  
+[VERSE]: 24  
+[FILE TYPE]: Line Source
+
+[INTRO]  
+This file shows what the earliest Hebrew/Greek manuscripts say, word by word, before any interpretation.
+
+[PREFACE]  
+This file presents the earliest traceable form of this line, drawn primarily from manuscript sources like the Leningrad Codex.  
+Where other manuscript witnesses differ or offer meaningful variation (such as the Dead Sea Scrolls or the Samaritan Pentateuch), we remain watchful and will note those cases transparently when identified.  
+Every word is shown with its full lexical range — without smoothing, interpretation, or insertion.  
+This is not a translation or conclusion. It is a transparent starting point, open to personal encounter and divine resonance.  
+We do not treat any human source as final — only as visible reference points for deeper unfolding.  
+While we strive for care and clarity, any oversight or omission is unintentional, and all work remains open to refinement as understanding grows.
+
+[1. ORIGINAL LINE TEXT]  
+Language: Hebrew  
+Manuscript Source: Leningrad Codex  
+Line Reference: Genesis 3:24  
+> וַיְגָרֶשׁ אֶת־הָאָדָם וַיַּשְׁכֵּן מִקֶּדֶם לְגַן־עֵדֶן אֶת־הַכְּרֻבִים וְאֵת לַהַט הַחֶרֶב הַמִּתְהַפֶּכֶת לִשְׁמֹר אֶת־דֶּרֶךְ עֵץ הַחַיִּים
+
+[2. DIRECT TRANSLITERATION]  
+> vayegaresh et-ha’adam vayashken miqqedem legan-‘eden et-hakkeruvim ve’et lahat hacherev hamithappekhet lishmor et-derekh ‘etz hachayim
+
+[3. WORD-BY-WORD LEXICAL BREAKDOWN]
+
+[WORD 1]  
+Original: וַיְגָרֶשׁ  
+Transliteration: vayegaresh  
+Lexical Root: גרשׁ (garash)  
+Part of Speech: Verb  
+Grammatical Info: Piel, imperfect, 3rd person masculine singular, vav-consecutive  
+Lexical Range:  
+- and he drove out  
+- and he expelled  
+- and he banished  
+
+[WORD 2]  
+Original: אֶת־  
+Transliteration: et  
+Lexical Root: אֵת (et)  
+Part of Speech: Particle  
+Grammatical Info: Direct object marker  
+Lexical Range:  
+- [marks definite direct object]  
+
+[WORD 3]  
+Original: הָאָדָם  
+Transliteration: ha’adam  
+Lexical Root: אדם (adam)  
+Part of Speech: Noun  
+Grammatical Info: Masculine singular with definite article  
+Lexical Range:  
+- the man  
+- the human  
+
+[WORD 4]  
+Original: וַיַּשְׁכֵּן  
+Transliteration: vayashken  
+Lexical Root: שׁכן (shakan)  
+Part of Speech: Verb  
+Grammatical Info: Hifil, imperfect, 3rd person masculine singular, vav-consecutive  
+Lexical Range:  
+- and he made to dwell  
+- and he placed  
+- and he caused to settle  
+
+[WORD 5]  
+Original: מִקֶּדֶם  
+Transliteration: miqqedem  
+Lexical Root: מן (min) + קֶדֶם (qedem)  
+Part of Speech: Preposition + Noun  
+Grammatical Info: Masculine singular  
+Lexical Range:  
+- from the east  
+- at the front/origin  
+- eastward  
+
+[WORD 6]  
+Original: לְגַן־עֵדֶן  
+Transliteration: legan-‘eden  
+Lexical Root: גן (gan) + עדן (‘eden)  
+Part of Speech: Preposition + Noun (construct)  
+Grammatical Info: Masculine singular  
+Lexical Range:  
+- to the Garden of Eden  
+- toward Eden’s garden  
+
+[WORD 7]  
+Original: אֶת־הַכְּרֻבִים  
+Transliteration: et-hakkeruvim  
+Lexical Root: כּרוּב (keruv)  
+Part of Speech: Noun  
+Grammatical Info: Masculine plural with definite article  
+Lexical Range:  
+- the cherubim  
+- winged beings  
+
+[WORD 8]  
+Original: וְאֵת  
+Transliteration: ve’et  
+Lexical Root: ו + אֵת (et)  
+Part of Speech: Conjunction + direct object marker  
+Grammatical Info: —  
+Lexical Range:  
+- and [direct object marker]  
+
+[WORD 9]  
+Original: לַהַט  
+Transliteration: lahat  
+Lexical Root: לָהַט (lahat)  
+Part of Speech: Noun  
+Grammatical Info: Masculine singular  
+Lexical Range:  
+- flame  
+- flashing blade  
+- blaze  
+
+[WORD 10]  
+Original: הַחֶרֶב  
+Transliteration: hacherev  
+Lexical Root: חרב (cherev)  
+Part of Speech: Noun  
+Grammatical Info: Feminine singular with definite article  
+Lexical Range:  
+- the sword  
+
+[WORD 11]  
+Original: הַמִּתְהַפֶּכֶת  
+Transliteration: hamithappekhet  
+Lexical Root: הפך (hafakh)  
+Part of Speech: Verb (participle)  
+Grammatical Info: Hitpael, feminine singular  
+Lexical Range:  
+- that turns itself  
+- revolving  
+- whirling  
+
+[WORD 12]  
+Original: לִשְׁמֹר  
+Transliteration: lishmor  
+Lexical Root: שׁמר (shamar)  
+Part of Speech: Verb (infinitive construct)  
+Grammatical Info: Preposition + infinitive  
+Lexical Range:  
+- to guard  
+- to keep  
+- to protect  
+
+[WORD 13]  
+Original: אֶת־  
+Transliteration: et  
+Lexical Root: אֵת (et)  
+Part of Speech: Direct object marker  
+Grammatical Info: —  
+Lexical Range:  
+- [marks definite direct object]  
+
+[WORD 14]  
+Original: דֶּרֶךְ  
+Transliteration: derekh  
+Lexical Root: דרך (derekh)  
+Part of Speech: Noun  
+Grammatical Info: Masculine singular  
+Lexical Range:  
+- way  
+- path  
+- route  
+
+[WORD 15]  
+Original: עֵץ  
+Transliteration: ‘etz  
+Lexical Root: עֵץ (‘etz)  
+Part of Speech: Noun  
+Grammatical Info: Masculine singular  
+Lexical Range:  
+- tree  
+- wood  
+
+[WORD 16]  
+Original: הַחַיִּים  
+Transliteration: hachayim  
+Lexical Root: חַיִּים (chayim)  
+Part of Speech: Noun  
+Grammatical Info: Masculine plural (used as collective) with definite article  
+Lexical Range:  
+- the life  
+- the living  
+- life-force  
+
+[4. STRUCTURAL NOTES]  
+> Narrative sequence of two key verbs: "vayegaresh" (he expelled) and "vayashken" (he caused to dwell).  
+> Geographic preposition “miqqedem” marks placement relative to Eden.  
+> Parallel objects: “et-hakkeruvim” and “ve’et lahat hacherev hamithappekhet.”  
+> Final infinitive clause “lishmor et-derekh ‘etz hachayim” expresses purpose of the guarding action.  
+
+[5. VARIANT MANUSCRIPT NOTES]  
+> LXX renders similar form; cherubim and flaming sword preserved in Greek equivalents.  
+> No major textual variants noted in MT.
+
+[6. STRUCTURAL CONNECTION TO OTHER LINES]  
+> Completes narrative closure of Eden chapter.  
+> Mirrors divine-human separation initiated in 3:22–23.  
+> Establishes ongoing boundary between humanity and the Tree of Life.
+
+[7. CAUTIONARY REMINDER]  
+The content above does not represent a translation.  
+No conclusions, smoothing, or interpretive decisions have been made.  
+This file serves only to display the original structure and lexical range as transparently as possible.

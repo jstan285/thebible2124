@@ -1,0 +1,51 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00073
+[BOOK]: Genesis
+[CHAPTER]: 3
+[VERSE]: 17
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And to the man he said, “Because you listened to the voice of your wife and ate from the tree about which I commanded you, saying, ‘You shall not eat from it,’ cursed is the ground because of you. In pain you shall eat from it all the days of your life.”
+
+[RENDERING NOTES]
+
+“And to the man he said” (וּלְאָדָם אָמַר) — parallel structure to 3:14, 3:16.
+“Because you listened to the voice of your wife” — causal clause establishing basis for consequence.
+“And ate from the tree” (וַתֹּאכַל מִן־הָעֵץ) — refers to direct action contrary to command.
+“Which I commanded you, saying…” — embedded quotation structure to recall divine prohibition.
+“Cursed is the ground because of you” — passive participle fronted for emphasis.
+“In pain you shall eat from it” (בְּעִצָּבוֹן תֹּאכֲלֶנָּה) — echo of “pain” motif from 3:16; toil in contrast to earlier abundance.
+“All the days of your life” — temporal closure; introduces lifelong burden.
+
+[INSERTION / HELPER WORD TRACKING]
+
+“Because,” “about which,” “from it,” and quotation marks used for clarity and flow.
+“Shall” added to express Hebrew imperfect forms in future/command modality.
+
+[CONTEXTUAL PLACEMENT]
+
+Final divine address of the sequence (after serpent and woman).
+Introduces transformation in relationship between human and ground.
+Begins thematic shift toward mortality and labor.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Mirrors the structure of 3:14–16: direct address, cause, consequence.
+Uses repetition of “eat” (akal) to bookend violation and penalty.
+Sets up continuation in 3:18–19, culminating in return to dust.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

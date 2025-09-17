@@ -1,0 +1,216 @@
+=== LINE SOURCE FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00059
+[BOOK]: Genesis
+[CHAPTER]: 3
+[VERSE]: 3
+[FILE TYPE]: Line Source
+
+[INTRO]
+This file shows what the earliest Hebrew/Greek manuscripts say, word by word, before any interpretation.
+
+[PREFACE]
+This file presents the earliest traceable form of this line, drawn primarily from manuscript sources like the Leningrad Codex.
+Where other manuscript witnesses differ or offer meaningful variation (such as the Dead Sea Scrolls or the Samaritan Pentateuch), we remain watchful and will note those cases transparently when identified.
+Every word is shown with its full lexical range — without smoothing, interpretation, or insertion.
+This is not a translation or conclusion. It is a transparent starting point, open to personal encounter and divine resonance.
+We do not treat any human source as final — only as visible reference points for deeper unfolding.
+While we strive for care and clarity, any oversight or omission is unintentional, and all work remains open to refinement as understanding grows.
+
+[1. ORIGINAL LINE TEXT]
+Language: Hebrew
+Manuscript Source: Leningrad Codex
+Line Reference: Genesis 3:3
+> וּמִפְּרִי הָעֵץ אֲשֶׁר בְּתוֹךְ הַגָּן אָמַר אֱלֹהִים לֹא תֹאכְלוּ מִמֶּנּוּ וְלֹא תִגְּעוּ בּוֹ פֶּן תְּמֻתוּן
+
+[2. DIRECT TRANSLITERATION]
+> u-miperi ha’etz asher b’tokh hagan amar Elohim lo to’khelu mimennu ve-lo tigge’u bo pen temutun
+
+[3. WORD-BY-WORD LEXICAL BREAKDOWN]
+
+[WORD 1]
+Original: וּמִפְּרִי
+Transliteration: u-miperi
+Lexical Root: ו (ve) + מִן (min) + פְּרִי (peri)
+Part of Speech: Conjunction + Preposition + Noun
+Grammatical Info: Construct form
+Lexical Range:
+- and from the fruit of
+- even from the produce of
+- from among the fruit
+
+[WORD 2]
+Original: הָעֵץ
+Transliteration: ha’etz
+Lexical Root: עֵץ (etz)
+Part of Speech: Noun
+Grammatical Info: Masculine singular with definite article
+Lexical Range:
+- tree
+- wood
+- timber
+- stalk
+
+[WORD 3]
+Original: אֲשֶׁר
+Transliteration: asher
+Lexical Root: אֲשֶׁר (asher)
+Part of Speech: Relative pronoun
+Grammatical Info: —
+Lexical Range:
+- that
+- which
+- who
+
+[WORD 4]
+Original: בְּתוֹךְ
+Transliteration: b’tokh
+Lexical Root: תּוֹךְ (tokh)
+Part of Speech: Preposition
+Grammatical Info: Construct with prefixed בְּ
+Lexical Range:
+- in the midst of
+- within
+- inside
+
+[WORD 5]
+Original: הַגָּן
+Transliteration: hagan
+Lexical Root: גָּן (gan)
+Part of Speech: Noun
+Grammatical Info: Masculine singular with definite article
+Lexical Range:
+- garden
+- enclosure
+- protected space
+
+[WORD 6]
+Original: אָמַר
+Transliteration: amar
+Lexical Root: אמר (amar)
+Part of Speech: Verb
+Grammatical Info: Qal, perfect, 3rd person masculine singular
+Lexical Range:
+- to say
+- to declare
+- to speak
+
+[WORD 7]
+Original: אֱלֹהִים
+Transliteration: Elohim
+Lexical Root: אלה (eloah)
+Part of Speech: Noun
+Grammatical Info: Plural in form, singular in usage
+Lexical Range:
+- God
+- gods
+- divine beings
+- rulers
+- judges
+
+[WORD 8]
+Original: לֹא
+Transliteration: lo
+Lexical Root: לֹא (lo)
+Part of Speech: Negative particle
+Grammatical Info: —
+Lexical Range:
+- not
+- no
+
+[WORD 9]
+Original: תֹאכְלוּ
+Transliteration: to’khelu
+Lexical Root: אכל (achal)
+Part of Speech: Verb
+Grammatical Info: Qal, imperfect, 2nd person masculine plural
+Lexical Range:
+- you shall not eat
+- you do not consume
+- do not partake
+
+[WORD 10]
+Original: מִמֶּנּוּ
+Transliteration: mimennu
+Lexical Root: מִן (min) + הוּא (hu)
+Part of Speech: Preposition + Pronominal suffix
+Grammatical Info: Preposition with 3rd person masculine singular suffix
+Lexical Range:
+- from it
+- out of it
+- of it
+
+[WORD 11]
+Original: וְלֹא
+Transliteration: ve-lo
+Lexical Root: ו (ve) + לֹא (lo)
+Part of Speech: Conjunction + Negative particle
+Grammatical Info: —
+Lexical Range:
+- and not
+- nor
+
+[WORD 12]
+Original: תִגְּעוּ
+Transliteration: tigge’u
+Lexical Root: נגע (naga)
+Part of Speech: Verb
+Grammatical Info: Qal, imperfect, 2nd person masculine plural
+Lexical Range:
+- to touch
+- to strike
+- to reach
+
+[WORD 13]
+Original: בּוֹ
+Transliteration: bo
+Lexical Root: ב (b) + הוּא (hu)
+Part of Speech: Preposition + Pronominal suffix
+Grammatical Info: 3rd person masculine singular
+Lexical Range:
+- in it
+- upon it
+- with it
+
+[WORD 14]
+Original: פֶּן
+Transliteration: pen
+Lexical Root: פֶּן (pen)
+Part of Speech: Conjunction
+Grammatical Info: —
+Lexical Range:
+- lest
+- in case
+- so that not
+
+[WORD 15]
+Original: תְּמֻתוּן
+Transliteration: temutun
+Lexical Root: מוּת (mut)
+Part of Speech: Verb
+Grammatical Info: Qal, imperfect, 2nd person masculine plural
+Lexical Range:
+- you will die
+- you may perish
+- you might be put to death
+
+[4. STRUCTURAL NOTES]
+> The phrase “asher b’tokh hagan” forms a relative clause modifying “ha’etz.”
+> A negative command structure is used: “lo to’khelu... ve-lo tigge’u.”
+> The clause introduced by “pen” conveys a purpose or consequence (non-interpretively: a conditional structure).
+
+[5. VARIANT MANUSCRIPT NOTES]
+> No significant textual variations found among the major manuscript witnesses for this line.
+
+[6. STRUCTURAL CONNECTION TO OTHER LINES]
+> Continues the dialogue initiated in Genesis 3:2, reaffirming the theme of divine prohibition.
+> The root מוּת (mut) is key to thematic contrasts that follow in Genesis 3:4–5.
+
+[7. CAUTIONARY REMINDER]
+The content above does not represent a translation.  
+No conclusions, smoothing, or interpretive decisions have been made.  
+This file serves only to display the original structure and lexical range as transparently as possible.

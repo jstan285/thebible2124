@@ -1,0 +1,53 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00070
+[BOOK]: Genesis
+[CHAPTER]: 3
+[VERSE]: 14
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+Then YHWH Elohim said to the serpent, “Because you have done this, cursed are you more than all the livestock and more than every beast of the field. On your belly you shall go, and dust you shall eat all the days of your life.”
+
+[RENDERING NOTES]
+
+“Then YHWH Elohim said” (וַיֹּאמֶר יְהוָה אֱלֹהִים) — standard divine speech formula, initiating judgment.
+“To the serpent” (אֶל־הַנָּחָשׁ) — definite direct address, marks shift to serpent’s judgment.
+“Because you have done this” (כִּי עָשִׂיתָ זֹּאת) — explanatory clause, frames the curse causally.
+“Cursed are you” (אָרוּר אַתָּה) — formal curse structure, passive participle indicating fixed condition.
+“More than all the livestock and every beast of the field” (מִכָּל־הַבְּהֵמָה וּמִכֹּל חַיַּת הַשָּׂדֶה) — comparative intensifier; specifies sphere of comparison.
+“On your belly you shall go” (עַל־גְּחֹנְךָ תֵלֵךְ) — bodily movement condition; humiliation implied.
+“Dust you shall eat” (וְעָפָר תֹּאכַל) — figurative or literal subjugation, earthly debasement.
+“All the days of your life” (כָּל־יְמֵי חַיֶּיךָ) — lifetime duration, temporal scope of curse.
+
+[INSERTION / HELPER WORD TRACKING]
+
+“Then” inserted for flow of sequence.
+“Are” inserted to reflect English copula for Hebrew verbless clause “arur attah.”
+Quotation marks used for clarity of direct divine speech.
+
+[CONTEXTUAL PLACEMENT]
+
+This line is the first divine judgment issued post-transgression.
+It breaks the triadic interrogation pattern with an immediate pronouncement.
+Sets in motion a new relational axis: divine pronouncement → cosmic consequence.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Curse structure will be echoed in next two lines (3:16–17) to the woman and the man.
+“Dust” as motif introduced here will reappear in Genesis 3:19 as human mortality image.
+Use of superlative comparison ("more than all…") heightens isolation of the serpent.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

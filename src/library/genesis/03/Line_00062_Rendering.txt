@@ -1,0 +1,53 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00062
+[BOOK]: Genesis
+[CHAPTER]: 3
+[VERSE]: 6
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And the woman saw that the tree was good for food, and that it was a desire to the eyes, and the tree was delightful for gaining insight. So she took from its fruit and ate, and she also gave to her man with her, and he ate.
+
+[RENDERING NOTES]
+
+“And the woman saw” (וַתֵּרֶא הָאִשָּׁה) uses feminine singular verb — continues woman as primary subject.
+“That the tree was good for food” renders כִּי טוֹב הָעֵץ לְמַאֲכָל, following direct causative perception.
+“And that it was a desire to the eyes” (וְכִי תַאֲוָה הוּא לָעֵינַיִם) retains both particle “ki” and pronoun “hu.”
+“Delightful for gaining insight” renders וְנֶחְמָד הָעֵץ לְהַשְׂכִּיל — nifal participle + infinitive construct.
+“So she took… and ate… and gave…” mirrors rapid narrative rhythm (vav-consecutives).
+“Her man with her” translates לְאִישָׁהּ עִמָּהּ — reflexive proximity.
+Masculine singular verb “he ate” (וַיֹּאכַל) concludes the progression.
+
+[INSERTION / HELPER WORD TRACKING]
+
+“That” inserted for causative clauses (“ki”)
+“Was” added to express verbal implications within adjectival/present-tense structures
+“So” added as bridging logic between perception and action (not present in Hebrew but implied by narrative flow)
+All additions traceable to grammar; no interpretive smoothing inserted
+
+[CONTEXTUAL PLACEMENT]
+
+This line narrates the pivotal act — human crossing of divine boundary.
+The woman’s internal perception leads to external action.
+This is the climax of the temptation arc initiated in Genesis 3:1.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Heavy use of vav-consecutive verbs for fluidity: saw → took → ate → gave → he ate
+Mirrors God’s earlier speech acts in cadence — but inverted toward desire and autonomy
+“Seeing → taking → eating” becomes a paradigmatic fall pattern across scripture
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

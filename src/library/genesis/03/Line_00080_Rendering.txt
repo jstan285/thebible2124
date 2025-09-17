@@ -1,0 +1,53 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00080
+[BOOK]: Genesis
+[CHAPTER]: 3
+[VERSE]: 24
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+So he expelled the human, and he caused to dwell, east of the Garden of Eden, the cherubim and the flame of the turning sword, to guard the way to the tree of life.
+
+[RENDERING NOTES]
+
+“Vayegaresh” — Piel form of “to drive out”; intensified action of expelling.
+“Et-ha’adam” — definite object marker clarifies the human as direct object.
+“Vayashken” — Hifil, causative: “he caused to dwell/place.”
+“Miqqedem legan-‘eden” — spatial phrase: “from the east / facing east of Eden.”
+“Et-hakkeruvim” — cherubim as definite object, winged or divine beings.
+“Ve’et lahat hacherev hamithappekhet” — direct object phrase: the flame of the turning sword.
+“Lishmor et-derekh ‘etz hachayim” — purpose clause: “to guard the way to the tree of life.”
+
+[INSERTION / HELPER WORD TRACKING]
+
+“So,” “and,” “of,” and “to” are necessary English insertions for clause fluidity.
+No additional smoothing; all elements correspond directly to Hebrew terms.
+Definite articles (“the”) retained per Hebrew structure.
+
+[CONTEXTUAL PLACEMENT]
+
+Culmination of the Eden narrative.
+Implements divine decision to block access to the Tree of Life (v.22).
+Enacts the consequence described in v.23 with a guarding force.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Closure to the Eden cycle (Genesis 2–3).
+Twin verbs (“he expelled,” “he placed”) form the backbone.
+Parallel direct object phrases structure the imagery: cherubim and sword.
+Purpose clause connects physical symbols to divine intention.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

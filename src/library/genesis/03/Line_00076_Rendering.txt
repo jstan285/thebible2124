@@ -1,0 +1,49 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00076
+[BOOK]: Genesis
+[CHAPTER]: 3
+[VERSE]: 20
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And the human called his wife's name Chavvah, for she was the mother of all the living.
+
+[RENDERING NOTES]
+
+“And…called” (וַיִּקְרָא) — vav-consecutive imperfect; marks a narrative shift and active naming.
+“The human” (הָאָדָם) — ha’adam; not yet proper name “Adam” in Hebrew text.
+“His wife's name Chavvah” (שֵׁם אִשְׁתּוֹ חַוָּה) — object structure, with name meaning embedded in next clause.
+“For she was…” (כִּי הִיא הָיְתָה) — causal clause introducing rationale.
+“Mother of all the living” (אֵם כָּל־חָי) — poetic title; uses “kol-chai” as collective life designation.
+
+[INSERTION / HELPER WORD TRACKING]
+
+“And,” “his,” and “for” inserted for grammatical clarity, matching Hebrew conjunction and suffixes.
+No additional smoothing beyond lexical alignment.
+
+[CONTEXTUAL PLACEMENT]
+
+Follows the divine speeches to serpent, woman, and man.
+Marks first recorded human naming act post-consequence.
+Establishes Chavvah’s identity and role as progenitor — a hopeful gesture amid judgment.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Parallels Genesis 2:23, where the man names “ishah” (woman).
+This naming is more narrative than biological — it seals identity and purpose.
+The line acts as a hinge: closing Edenic consequence, opening genealogical sequence.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

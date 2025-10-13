@@ -46,35 +46,34 @@ const formatLineText = (text) => {
   for (let i = 0; i < lines.length; i++) {
     const raw = lines[i];
 
-// === File type ===  → centered heading
-const mt = raw.match(/^\s*===\s*(.+?)\s*===\s*$/);
-if (mt) {
-  closeAll();
-  out.push(`<h2 class="filetype-title">${esc(mt[1])}</h2>`);
-  continue;
-}
-  
+    // === File type ===  → centered heading
+    const mt = raw.match(/^\s*===\s*(.+?)\s*===\s*$/);
+    if (mt) {
+      closeAll();
+      out.push(`<h2 class="filetype-title">${esc(mt[1])}</h2>`);
+      continue;
+    }
+
     // ignore blank lines (but keep pendingBullet state)
     if (isBlank(raw)) { continue; }
 
     // [SECTION] headings
-if (isHeadingBrackets(raw)) {
-  const label = esc(raw.replace(/^\s*\[|\]\s*$/g, ""));
-  const labelUpper = label.toUpperCase();
-  closeAll();
+    if (isHeadingBrackets(raw)) {
+      const label = esc(raw.replace(/^\s*\[|\]\s*$/g, ""));
+      const labelUpper = label.toUpperCase();
+      closeAll();
 
-  if (labelUpper === "FILE TAGS") {
-    out.push(`<h2>${label}</h2>`);
-    open('div class="file-tags"');
-    inTags = true;
-  } else if (labelUpper === "YOU ARE WELCOME HERE") {
-    out.push(`<h3>${label}</h3>`);          // demote just this heading
-  } else {
-    out.push(`<h2>${label}</h2>`);          // all other bracketed headings stay H2
-  }
-  continue;
-}
-
+      if (labelUpper === "FILE TAGS") {
+        out.push(`<h2>${label}</h2>`);
+        open('div class="file-tags"');
+        inTags = true;
+      } else if (labelUpper === "YOU ARE WELCOME HERE") {
+        out.push(`<h3>${label}</h3>`);          // demote just this heading
+      } else {
+        out.push(`<h2>${label}</h2>`);          // all other bracketed headings stay H2
+      }
+      continue;
+    }
 
     // Inside [FILE TAGS]: show "[KEY]: value" as plain paragraphs; ignore everything else
     if (inTags) {
@@ -143,8 +142,6 @@ if (isHeadingBrackets(raw)) {
   return out.join("\n");
 };
 
-
-
 const formatTranslationText = (text) => {
   return text
     .split("\n")
@@ -166,20 +163,72 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("css");
   eleventyConfig.addPassthroughCopy("src/img");
 
-// Extracts "00001" from "Line_00001_Source.txt" (works with or without .basename)
-eleventyConfig.addFilter("lineId", (line) => {
-  const base = (line && (line.basename || line.filename)) || "";
-  const m = String(base).match(/^Line_(\d{5})/);
-  return m ? m[1] : "";
-});
+  // Extracts "00001" from "Line_00001_Source.txt" (works with or without .basename)
+  eleventyConfig.addFilter("lineId", (line) => {
+    const base = (line && (line.basename || line.filename)) || "";
+    const m = String(base).match(/^Line_(\d{5})/);
+    return m ? m[1] : "";
+  });
 
-eleventyConfig.addFilter("pad5", (n) => String(Number(n)).padStart(5, "0"));
-eleventyConfig.addFilter("fileType", (filename = "") => {
-  const m = String(filename).match(/_(Source|Rendering|Reflections|Lens)\.txt$/i);
-  return m ? m[1] : "";
-});
+  eleventyConfig.addFilter("pad5", (n) => String(Number(n)).padStart(5, "0"));
+  eleventyConfig.addFilter("fileType", (filename = "") => {
+    const m = String(filename).match(/_(Source|Rendering|Reflections|Lens)\.txt$/i);
+    return m ? m[1] : "";
+  });
 
-  
+  // ---- Line Group Summary (Line_XXXXX_Sum.txt) → H2 + paragraphs ----
+  eleventyConfig.addNunjucksShortcode("lineGroupSum", (book, chapter, id) => {
+    const escapeHtml = (s) => String(s)
+      .replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;")
+      .replace(/"/g,"&quot;").replace(/'/g,"&#39;");
+
+    const idStr = String(id).padStart(5, "0");
+    const chRaw = String(chapter);
+    const ch2   = chRaw.padStart(2, "0");
+
+    // Try common variants to be resilient
+    const bookVariants = [
+      String(book),
+      String(book).toLowerCase(),
+      String(book).charAt(0).toUpperCase() + String(book).slice(1).toLowerCase()
+    ];
+    const chapterVariants = [chRaw, ch2];
+
+    // Prefer line-folder path; include flat-in-chapter fallback
+    const candidates = [];
+    for (const b of bookVariants) {
+      for (const c of chapterVariants) {
+        candidates.push(
+          path.join("src", "library", b, c, `Line_${idStr}`, `Line_${idStr}_Sum.txt`),
+          path.join("src", "library", b, c, `Line_${idStr}_Sum.txt`)
+        );
+      }
+    }
+
+    let found = null;
+    for (const p of candidates) {
+      if (fs.existsSync(p)) { found = p; break; }
+    }
+    if (!found) return "";
+
+    const raw = fs.readFileSync(found, "utf8").replace(/\r\n/g, "\n");
+    const lines = raw.split("\n");
+
+    // First non-empty line → H2; remainder → <p>…</p> (split on blank lines)
+    let title = "";
+    let bodyStart = 0;
+    for (let i = 0; i < lines.length; i++) {
+      if (lines[i].trim().length > 0) { title = lines[i].trim(); bodyStart = i + 1; break; }
+    }
+
+    const bodyText = lines.slice(bodyStart).join("\n").trim();
+    const paras = bodyText
+      ? bodyText.split(/\n\s*\n/).map(p => `<p>${escapeHtml(p.trim())}</p>`)
+      : [];
+
+    return (title ? `<h2>${escapeHtml(title)}</h2>` : "") + paras.join("");
+  });
+
   // Custom collection for books
   eleventyConfig.addCollection("books", () => {
     const booksPath = path.join(__dirname, "src", "library");
@@ -206,56 +255,53 @@ eleventyConfig.addFilter("fileType", (filename = "") => {
     return chapters;
   });
 
-// Group Line_XXXXX_*type*.txt files by ID (no folders required)
-const fs = require("fs");
-const path = require("path");
+  // Group Line_XXXXX_*type*.txt files by ID (no folders required)
+  eleventyConfig.addCollection("lineGroups", () => {
+    const base = path.join(__dirname, "src", "library");
+    const groups = [];
 
-eleventyConfig.addCollection("lineGroups", () => {
-  const base = path.join(__dirname, "src", "library");
-  const groups = [];
+    fs.readdirSync(base).forEach(book => {
+      const bookPath = path.join(base, book);
+      if (!fs.statSync(bookPath).isDirectory()) return;
 
-  fs.readdirSync(base).forEach(book => {
-    const bookPath = path.join(base, book);
-    if (!fs.statSync(bookPath).isDirectory()) return;
+      fs.readdirSync(bookPath).forEach(chapter => {
+        const chapterPath = path.join(bookPath, chapter);
+        if (!fs.statSync(chapterPath).isDirectory()) return;
 
-    fs.readdirSync(bookPath).forEach(chapter => {
-      const chapterPath = path.join(bookPath, chapter);
-      if (!fs.statSync(chapterPath).isDirectory()) return;
+        // bucket files in this chapter by Line ID
+        const map = new Map();
 
-      // bucket files in this chapter by Line ID
-      const map = new Map();
+        fs.readdirSync(chapterPath).forEach(file => {
+          // Match Line_00001_Source.txt, Line_00001_Rendering.txt, etc.
+          const m = file.match(/^Line_(\d{5})_(Source|Rendering|Reflections|Lens)\.txt$/i);
+          if (!m) return;
+          const id = m[1];
+          const type = m[2].toLowerCase(); // source|rendering|reflections|lens
 
-      fs.readdirSync(chapterPath).forEach(file => {
-        // Match Line_00001_Source.txt, Line_00001_Rendering.txt, etc.
-        const m = file.match(/^Line_(\d{5})_(Source|Rendering|Reflections|Lens)\.txt$/i);
-        if (!m) return;
-        const id = m[1];
-        const type = m[2].toLowerCase(); // source|rendering|reflections|lens
+          const key = `${book}/${chapter}/${id}`;
+          if (!map.has(key)) {
+            map.set(key, { book, chapter, id, files: {} });
+          }
+          map.get(key).files[type] = {
+            file,
+            basename: file.replace(/\.txt$/i, ""),
+          };
+        });
 
-        const key = `${book}/${chapter}/${id}`;
-        if (!map.has(key)) {
-          map.set(key, { book, chapter, id, files: {} });
-        }
-        map.get(key).files[type] = {
-          file,
-          basename: file.replace(/\.txt$/i, ""),
-        };
+        for (const g of map.values()) groups.push(g);
       });
-
-      for (const g of map.values()) groups.push(g);
     });
+
+    // predictable order
+    groups.sort((a, b) => Number(a.id) - Number(b.id));
+    return groups;
   });
 
-  // predictable order
-  groups.sort((a, b) => Number(a.id) - Number(b.id));
-  return groups;
-});
+  // Optional tiny helper to build the same URLs your .txt pages already use
+  eleventyConfig.addFilter("txtUrl", (book, chapter, basename) =>
+    `/library/${book}/${chapter}/${basename}/`
+  );
 
-// Optional tiny helper to build the same URLs your .txt pages already use
-eleventyConfig.addFilter("txtUrl", (book, chapter, basename) =>
-  `/library/${book}/${chapter}/${basename}/`
-);
-  
   // Lines per chapter
   eleventyConfig.addCollection("lines", () => {
     const base = path.join(__dirname, "src", "library");

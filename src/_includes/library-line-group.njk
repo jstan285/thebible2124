@@ -4,10 +4,8 @@ layout: layout.njk
 
 <h1>{{ group.book | capitalize }} - Chapter {{ group.chapter }} - Line {{ group.id }}</h1>
 
-{% set sumHtml = lineGroupSum(group.book, group.chapter, group.id) %}
-{% if sumHtml %}
-  {{ sumHtml | safe }}
-{% endif %}
+{# Call the shortcode directly (no set/if needed) #}
+{% lineGroupSum group.book, group.chapter, group.id %}
 
 <div class="tile-container tile-container--stack">
   {% set order = ["Source","Rendering","Reflections","Lens"] %}
@@ -26,4 +24,5 @@ layout: layout.njk
 <a href="/library/{{ group.book }}/{{ group.chapter }}/" class="back-button">
   ← Back to Chapter {{ group.chapter }}
 </a>
+
 

@@ -1,0 +1,218 @@
+=== LINE SOURCE FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00106
+[BOOK]: Genesis
+[CHAPTER]: 4
+[VERSE]: 26
+[FILE TYPE]: Line Source
+
+[INTRO]
+This file shows what the earliest Hebrew/Greek manuscripts say, word by word, before any interpretation.
+
+[PREFACE]
+This file presents the earliest traceable form of this line, drawn primarily from manuscript sources like the Leningrad Codex.
+Where other manuscript witnesses differ or offer meaningful variation (such as the Dead Sea Scrolls or the Samaritan Pentateuch), we remain watchful and will note those cases transparently when identified.
+Every word is shown with its full lexical range — without smoothing, interpretation, or insertion.
+This is not a translation or conclusion. It is a transparent starting point, open to personal encounter and divine resonance.
+We do not treat any human source as final — only as visible reference points for deeper unfolding.
+While we strive for care and clarity, any oversight or omission is unintentional, and all work remains open to refinement as understanding grows.
+
+[1. ORIGINAL LINE TEXT]
+Language: Hebrew
+Manuscript Source: Leningrad Codex
+Line Reference: Genesis 4:26
+
+וּלְשֵׁת גַּם־הוּא יֻלַּד־בֵּן וַיִּקְרָא אֶת־שְׁמוֹ אֱנוֹשׁ אָז הוּחַל לִקְרֹא בְּשֵׁם יְהוָה
+
+[2. DIRECT TRANSLITERATION]
+
+ul-shet gam-hu yullad-ben vayiqra et-shemo enosh az huchal liqro beshem YHWH
+
+[3. WORD-BY-WORD LEXICAL BREAKDOWN]
+
+[WORD 1]
+Original: וּלְשֵׁת
+Transliteration: ul-shet
+Lexical Root: ו (vav) + ל (le) + שת (shet)
+Part of Speech: Conjunction + preposition + proper noun
+Grammatical Info: Masculine singular
+Lexical Range:
+
+and to Seth
+
+[WORD 2]
+Original: גַּם־הוּא
+Transliteration: gam-hu
+Lexical Root: גם (gam) + הוא (hu)
+Part of Speech: Adverb + pronoun
+Grammatical Info: Masculine singular
+Lexical Range:
+
+also he
+
+he too
+
+even he
+
+[WORD 3]
+Original: יֻלַּד
+Transliteration: yullad
+Lexical Root: ילד (yalad)
+Part of Speech: Verb
+Grammatical Info: Pual perfect 3rd person masculine singular
+Lexical Range:
+
+was born
+
+was brought forth
+
+was delivered
+
+[WORD 4]
+Original: בֵּן
+Transliteration: ben
+Lexical Root: בן (ben)
+Part of Speech: Noun
+Grammatical Info: Masculine singular
+Lexical Range:
+
+son
+
+male child
+
+descendant
+
+[WORD 5]
+Original: וַיִּקְרָא
+Transliteration: vayiqra
+Lexical Root: קרא (qara)
+Part of Speech: Verb
+Grammatical Info: Qal imperfect 3rd person masculine singular with vav-consecutive
+Lexical Range:
+
+and he called
+
+and he named
+
+and he proclaimed
+
+[WORD 6]
+Original: אֶת־שְׁמוֹ
+Transliteration: et-shemo
+Lexical Root: שם (shem)
+Part of Speech: Direct object marker + noun with pronominal suffix
+Grammatical Info: Masculine singular
+Lexical Range:
+
+his name
+
+[WORD 7]
+Original: אֱנוֹשׁ
+Transliteration: enosh
+Lexical Root: אנוש (enosh)
+Part of Speech: Proper noun
+Grammatical Info: Masculine singular
+Lexical Range:
+
+Enosh (personal name)
+
+man / mortal (root meaning, not applied here)
+
+[WORD 8]
+Original: אָז
+Transliteration: az
+Lexical Root: אז (az)
+Part of Speech: Adverb
+Lexical Range:
+
+then
+
+at that time
+
+[WORD 9]
+Original: הוּחַל
+Transliteration: huchal
+Lexical Root: חלל (chalal)
+Part of Speech: Verb
+Grammatical Info: Hophal perfect 3rd person masculine singular
+Lexical Range:
+
+it was begun
+
+it was profaned
+
+it was initiated
+Notable Observations:
+
+Ambiguity exists in whether usage is passive of "begin" or "profane"; unresolved in manuscript tradition
+
+[WORD 10]
+Original: לִקְרֹא
+Transliteration: liqro
+Lexical Root: קרא (qara)
+Part of Speech: Verb (infinitive construct)
+Grammatical Info: Qal
+Lexical Range:
+
+to call
+
+to proclaim
+
+to invoke
+
+to read aloud
+
+[WORD 11]
+Original: בְּשֵׁם
+Transliteration: beshem
+Lexical Root: ב (be) + שם (shem)
+Part of Speech: Preposition + noun
+Grammatical Info: Masculine singular
+Lexical Range:
+
+in the name
+
+by the name
+
+through the name
+
+[WORD 12]
+Original: יְהוָה
+Transliteration: YHWH
+Lexical Root: היה (h-y-h)
+Part of Speech: Proper noun (divine name)
+Grammatical Info: Masculine singular
+Lexical Range:
+
+YHWH (tetragrammaton; divine name)
+Notable Observations:
+
+Not vocalized in traditional readings; referential rather than phonetic
+
+[4. STRUCTURAL NOTES]
+
+The passive “yullad” introduces Enosh’s birth in contrast to active “yalad” forms in earlier lines.
+Shift from lineage narration to communal ritual act: “huchal liqro beshem YHWH.”
+Debate over verb “huchal” centers on whether meaning is “began” (initiated) or “was profaned”; the form supports both depending on context.
+Word pair “liqro beshem” recurs throughout Torah for acts of invocation and naming.
+
+[5. VARIANT MANUSCRIPT NOTES]
+
+LXX translates “huchal” as “began,” implying public invocation of deity.
+No alternate readings confirmed in Samaritan Pentateuch.
+DSS fragments do not cover this verse.
+
+[6. STRUCTURAL CONNECTION TO OTHER LINES]
+
+Culminates Genesis 4 genealogy, closing the Cain/Seth division (Lines_00081–00106).
+Thematic shift from familial to communal, from violence to invocation.
+Sets theological precedent for “calling on the name of YHWH” as covenantal act (cf. Genesis 12:8, Exodus 34:5).
+
+[7. CAUTIONARY REMINDER]
+The content above does not represent a translation.
+No conclusions, smoothing, or interpretive decisions have been made.
+This file serves only to display the original structure and lexical range as transparently as possible.

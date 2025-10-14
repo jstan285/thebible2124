@@ -1,0 +1,46 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00106
+[BOOK]: Genesis
+[CHAPTER]: 4
+[VERSE]: 26
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And to Seth also a son was born, and he called his name Enosh. Then it was begun to call upon the name of YHWH.
+
+[RENDERING NOTES]
+
+“Ul-shet” = “and to Seth” — marks transition in lineage focus.
+“Gam-hu” = “also he” — signals continuity and emphasis on Seth’s line.
+“Yullad” = passive form of “was born” — sets Enosh’s arrival as eventful, not agent-driven.
+“Vayiqra et-shemo Enosh” = “and he called his name Enosh” — standard naming construction.
+“Az huchal” = “then it was begun” — ambiguous passive verb (see notes).
+“Liqro beshem YHWH” = “to call upon the name of YHWH” — core phrase initiating public invocation.
+
+[INSERTION / HELPER WORD TRACKING]
+
+“Then it was begun to” = reflects passive verbal nuance of “huchal.”
+“Upon” supplied in “call upon” for clarity — traceable to “beshem.”
+No additional smoothing or extrapolation introduced.
+
+[CONTEXTUAL PLACEMENT]
+
+Marks the shift from genealogical narrative to spiritual invocation.
+First textual moment of collective or ritualized naming of the divine.
+Links Sethite line to future covenantal consciousness.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Closes chapter-long contrast between Cainite and Sethite legacy.
+Builds anticipatory thread to Genesis 12:8, Exodus 34:5, and Levitical rituals of invocation.
+Wordplay and ambiguity around “huchal” reflect dual potential: sacred beginning vs. potential profaning.

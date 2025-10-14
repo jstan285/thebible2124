@@ -1,0 +1,49 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00094
+[BOOK]: Genesis
+[CHAPTER]: 4
+[VERSE]: 14
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+See—today you have driven me away from the face of the ground, and from your presence I will be hidden. I will be a wanderer and a fugitive in the land, and anyone who finds me will kill me.
+
+[RENDERING NOTES]
+
+“See—today” (הֵן ... הַיּוֹם) reflects immediate lament; “hen” functions as interjection (“behold,” “surely”).
+“You have driven me away” translates גֵּרַשְׁתָּ אֹתִי — direct second person with 1st-person object.
+“From the face of the ground” (מֵעַל פְּנֵי הָאֲדָמָה) retains layered imagery — not just location but relational surface.
+“From your presence I will be hidden” (וּמִפָּנֶיךָ אֶסָּתֵר) keeps passive/reflexive sense of Niphal verb — concealment may be chosen or enforced.
+“A wanderer and a fugitive” = נָע וָנָד — double exile reinforced from v.12.
+“In the land” (בָּאָרֶץ) sustains paradox: within terrain, but without home.
+“Anyone who finds me will kill me” maintains participial universal: כָּל־מֹצְאִי יַהַרְגֵנִי.
+
+[INSERTION / HELPER WORD TRACKING]
+
+“See—” inserted to carry “hen” interjection.
+“You have” added for perfect tense completion.
+“Will be” and “will kill” inserted as standard future auxiliaries.
+Quotation punctuation used to organize reported speech, per English clarity norms.
+
+[CONTEXTUAL PLACEMENT]
+
+Continues Cain’s lamentation, begun in v.13 — now with expanded implications.
+Reflects not only internal burden but anticipatory fear of external retaliation.
+Introduces “killer of the killer” motif into early Torah narrative.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Builds on motifs from v.12 and v.13: loss of soil, presence, and social coherence.
+Uses three-part structure: expulsion → divine separation → social fear.
+Repeats “na va-nad” from v.12 as recursive thematic anchor.
+Narrative pause: first time a character anticipates future violence from others — emergence of societal consequence.

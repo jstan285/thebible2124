@@ -1,0 +1,52 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00092
+[BOOK]: Genesis
+[CHAPTER]: 4
+[VERSE]: 12
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+When you work the ground, it will no longer yield her strength to you. A wanderer and a fugitive you will be in the land.
+
+[RENDERING NOTES]
+
+“When you work the ground” translates כִּי תַעֲבֹד אֶת־הָאֲדָמָה — preserving conditional logic with direct object marker.
+“It will no longer yield” captures לֹא־תֹסֵף תֵּת — combining future negation with infinitive construction.
+“Her strength” (כֹּחָהּ) retains feminine suffix referring to adamah — personified as withholding energy.
+“To you” (לָךְ) marks directional loss — Cain remains active but fruitless.
+“A wanderer and a fugitive” translates נָע וָנָד — poetic hendiadys emphasizing dislocation.
+“You will be in the land” (תִּהְיֶה בָאָרֶץ) finalizes consequence with existential shift: dislocated within presence.
+
+[INSERTION / HELPER WORD TRACKING]
+
+“It will” added for clarity in future tense rendering.
+“Her” retained directly from Hebrew suffix; no interpretive insertion.
+“A” added before “wanderer” and “fugitive” to convey role categories in English.
+Sequence mirrors original structure without smoothing.
+
+[CONTEXTUAL PLACEMENT]
+
+Expands the curse from v.11 into active consequence.
+Cain is not removed from the land — but rendered incapable of anchoring to it.
+Line introduces the dual exile: from soil productivity and from social rootedness.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Builds upon Genesis 3:17–19 — laboring the ground post-transgression.
+“Na va-nad” mirrors poetic pairings in other exile texts (e.g., Ishmael, Israel’s wanderings).
+Continues judicial speech from God — three-part decree: guilt revealed (v.10), curse delivered (v.11), function severed (v.12).
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

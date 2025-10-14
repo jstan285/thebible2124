@@ -1,0 +1,49 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00084
+[BOOK]: Genesis
+[CHAPTER]: 4
+[VERSE]: 4
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And Abel also brought from the firstborn of his flock and from their fat portions, and YHWH regarded Abel and his offering.
+
+[RENDERING NOTES]
+
+“And Abel also brought” translates וְהֶבֶל הֵבִיא גַם־הוּא — maintaining emphasis from גַם־הוּא (“also he”).
+“From the firstborn of his flock” renders מִבְּכֹרוֹת צֹאנוֹ — preserving possessive suffix.
+“From their fat portions” is a direct rendering of וּמֵחֶלְבֵהֶן, reflecting sacrificial language without embellishment.
+“Regarded” for וַיִּשַׁע (vayisha) retains the sense of divine attentiveness without over-translating favor.
+“Toward Abel and his offering” reflects the double object of divine gaze — human and act.
+
+[INSERTION / HELPER WORD TRACKING]
+
+Added “and” at key junctions to match Hebrew vav-consecutive structure.
+“Of” in “firstborn of” and “fat portions” included for construct relationships.
+“Regarded” is a traceable rendering; not interpretive. No smoothing or evaluative terms added.
+
+[CONTEXTUAL PLACEMENT]
+
+This line completes the offering diptych begun in 4:3. It introduces divine response — not yet comparative, but attentive.
+The spotlight shifts to Abel’s choice and quality, initiating the narrative tension that will follow.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Mirrors Genesis 4:3 with close structural symmetry.
+Use of “minchah” ties both brothers’ acts into a unified offering framework.
+“Sha’ah” (regard) marks divine attention — a rare verb, implying heightened narrative focus.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

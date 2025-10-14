@@ -1,0 +1,52 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00091
+[BOOK]: Genesis
+[CHAPTER]: 4
+[VERSE]: 11
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And now you are cursed from the ground, which has opened its mouth to take your brother’s bloods from your hand.
+
+[RENDERING NOTES]
+
+“And now” reflects וְעַתָּה (ve-attah), marking the transition from inquiry to judgment.
+“Cursed are you” (אָרוּר אָתָּה) mirrors the judgment formula in Genesis 3:14, maintaining judicial cadence.
+“From the ground” (מִן־הָאֲדָמָה) retains the spatial preposition “min” and signals alienation from the very soil Cain worked.
+“Which has opened its mouth” translates אֲשֶׁר פָּצְתָה אֶת־פִּיהָ — preserving feminine verb agreement with “adamah.”
+“To take your brother’s bloods from your hand” mirrors infinitive clause לָקַחַת אֶת־דְּמֵי אָחִיךָ מִיָּדֶךָ — keeping “bloods” plural for conceptual fullness and moral weight.
+
+[INSERTION / HELPER WORD TRACKING]
+
+“Are” added in “you are cursed” for English grammar.
+“Its” inserted to clarify pronominal suffix of “mouth.”
+Definite article “the” omitted where Hebrew does not require it.
+Phrasing otherwise direct and minimally adapted.
+
+[CONTEXTUAL PLACEMENT]
+
+Divine pronouncement of consequence follows Cain’s denial and the revelation of Abel’s blood crying from the ground.
+Marks a reversal: the ground that once yielded to Cain now turns against him.
+Represents the shift from moral exposure (v.10) to cosmic rebalancing (v.11).
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Parallels “cursed are you” (Genesis 3:14) spoken to the serpent — same formula, different object.
+The “ground” moves from passive medium to active participant.
+The structure (announcement → relative clause → purpose clause) mirrors judgment syntax in Genesis 3.
+“Bloods from your hand” creates a closed moral circuit linking act, victim, and earth.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

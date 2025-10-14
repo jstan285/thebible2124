@@ -1,0 +1,53 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00089
+[BOOK]: Genesis
+[CHAPTER]: 4
+[VERSE]: 9
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And YHWH said to Cain, “Where is Abel, your brother?” And he said, “I do not know. Am I my brother’s keeper?”
+
+[RENDERING NOTES]
+
+“And YHWH said to Cain” follows וַיֹּאמֶר יְהוָה אֶל־קַיִן — standard divine address format.
+“Where is Abel, your brother?” preserves אֵי הֶבֶל אָחִיךָ with full relational name.
+“And he said, ‘I do not know’” reflects וַיֹּאמֶר לֹא יָדַעְתִּי — denial of awareness.
+“Am I my brother’s keeper?” is direct rendering of הֲשֹׁמֵר אָחִי אָנֹכִי — retains rhetorical tone and emphatic “anokhi” (“I”).
+The line holds tension between divine inquiry and human deflection.
+
+[INSERTION / HELPER WORD TRACKING]
+
+No helper words added beyond minimal linking punctuation.
+“Where is” and “Am I” supplied from interrogative forms.
+Quotation marks used to delineate divine and human speech.
+Maintained structure of questions and sequence.
+
+[CONTEXTUAL PLACEMENT]
+
+Occurs immediately after Cain has killed Abel (v.8).
+The line introduces divine awareness into concealed human action.
+Continues pattern of divine questions seeking human self-disclosure (cf. Gen 3:9, 4:6).
+Cain’s reply is deflective and rhetorical, introducing moral evasion.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Two speech events — divine and human — juxtaposed.
+Divine question: direct, seeking; human reply: evasive, ironic.
+The use of “brother” twice intensifies the betrayal and moral tension.
+Echoes the Eden pattern: wrongdoing → divine question → denial/deflection.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

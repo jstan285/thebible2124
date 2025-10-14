@@ -1,0 +1,46 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00101
+[BOOK]: Genesis
+[CHAPTER]: 4
+[VERSE]: 21
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And the name of his brother was Jubal. He was the father of all who handle the lyre and pipe.
+
+[RENDERING NOTES]
+
+“Ve-shem achiv” = “and the name of his brother” — parallel to previous verse’s syntactic pattern.
+“Yubal” = proper name, with possible associations to “stream” or “bringing forth.”
+“Hu hayah avi…” = identity clause designating originator role.
+“Kol-tofesh kinnor ve-ugav” = construct phrase meaning “all who handle lyre and pipe.”
+“Tofesh” (participle) implies skillful, ongoing interaction — not mere possession.
+“Kinnor” = lyre or stringed instrument; “ugav” = wind instrument, perhaps reed flute.
+
+[INSERTION / HELPER WORD TRACKING]
+
+“Was” inserted for the past tense verb “hayah.”
+“Of” added to render construct form “avi kol-tofesh.”
+“Who” supplied to clarify participial phrase as a group identity.
+
+[CONTEXTUAL PLACEMENT]
+
+Second in a triad of culturally foundational offspring from Lamech’s line.
+Establishes the emergence of music and craftsmanship in early human society.
+Juxtaposes with previous line’s nomadic herding (Line_00100) and anticipates metallurgy (Line_00102).
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Reinforces poetic-parallel structure: “[mother] bore [son]; he was father of [domain].”
+Complements “tent and livestock” with “lyre and pipe” — material culture alongside artistic expression.
+Introduces breath-based and string-based instruments — duality of musical mediums.

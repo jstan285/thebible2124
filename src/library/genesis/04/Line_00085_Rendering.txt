@@ -1,0 +1,51 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00085
+[BOOK]: Genesis
+[CHAPTER]: 4
+[VERSE]: 5
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+But toward Cain and toward his offering He did not regard, and Cain burned greatly, and his face fell.
+
+[RENDERING NOTES]
+
+“But” inserted for contrast implied by shift in divine response.
+“Toward Cain and toward his offering” translates וְאֶל־קַיִן וְאֶל־מִנְחָתוֹ — exact structural mirror of v.4.
+“He did not regard” for לֹא שָׁעָה — negative particle with verb of attention/acceptance.
+“Burned greatly” renders וַיִּחַר… מְאֹד — idiomatically expressing intense anger or internal heat.
+“His face fell” mirrors וַיִּפְּלוּ פָנָיו — a Hebrew idiom for visible emotional dejection or shame.
+
+[INSERTION / HELPER WORD TRACKING]
+
+“But” inserted to clarify the contrast with previous verse.
+“He” inferred subject of “did not regard” from context.
+“And” added to preserve vav-consecutive rhythm.
+No smoothing or interpretive intensifiers added.
+
+[CONTEXTUAL PLACEMENT]
+
+This line completes the divine-offering diptych.
+Abel was regarded; Cain was not — and here begins the emotional and narrative unraveling.
+Introduces Cain’s emotional state for the first time in the text.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Direct mirroring of structure from v.4 deepens the contrast.
+The pairing of emotional verb (“burned”) and idiomatic gesture (“face fell”) sets a poetic cadence.
+Repetition of “minchah” reinforces thematic centrality of the offering motif.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

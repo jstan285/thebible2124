@@ -1,0 +1,253 @@
+=== LINE SOURCE FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00082
+[BOOK]: Genesis
+[CHAPTER]: 4
+[VERSE]: 2
+[FILE TYPE]: Line Source
+
+[INTRO]
+This file shows what the earliest Hebrew/Greek manuscripts say, word by word, before any interpretation.
+
+[PREFACE]
+This file presents the earliest traceable form of this line, drawn primarily from manuscript sources like the Leningrad Codex.
+Where other manuscript witnesses differ or offer meaningful variation (such as the Dead Sea Scrolls or the Samaritan Pentateuch), we remain watchful and will note those cases transparently when identified.
+Every word is shown with its full lexical range — without smoothing, interpretation, or insertion.
+This is not a translation or conclusion. It is a transparent starting point, open to personal encounter and divine resonance.
+We do not treat any human source as final — only as visible reference points for deeper unfolding.
+While we strive for care and clarity, any oversight or omission is unintentional, and all work remains open to refinement as understanding grows.
+
+[1. ORIGINAL LINE TEXT]
+Language: Hebrew
+Manuscript Source: Leningrad Codex
+Line Reference: Genesis 4:2
+
+וַתֹּסֶף לָלֶדֶת אֶת־אָחִיו אֶת־הָבֶל וַיְהִי הֶבֶל רֹעֵה צֹאן וְקַיִן הָיָה עֹבֵד אֲדָמָה
+
+[2. DIRECT TRANSLITERATION]
+
+vattosef laledet et-achiv et-hevel vayhi hevel ro’eh tson ve-qayin hayah oved adamah
+
+[3. WORD-BY-WORD LEXICAL BREAKDOWN]
+
+[WORD 1]
+Original: וַתֹּסֶף
+Transliteration: vattosef
+Lexical Root: יסף (yasaf)
+Part of Speech: Verb
+Grammatical Info: Hiphil imperfect 3rd person feminine singular with vav-consecutive
+Lexical Range:
+
+to add
+
+to continue
+
+to do again
+
+to increase
+Notable Observations:
+
+Indicates repetition or continuation of an action, in this case childbirth.
+
+[WORD 2]
+Original: לָלֶדֶת
+Transliteration: laledet
+Lexical Root: ילד (yalad)
+Part of Speech: Verb (infinitive construct)
+Grammatical Info: Qal infinitive construct with prefixed preposition ל (to)
+Lexical Range:
+
+to give birth
+
+to bear
+
+to bring forth
+
+[WORD 3]
+Original: אֶת־
+Transliteration: et
+Lexical Root: —
+Part of Speech: Particle
+Grammatical Info: Direct object marker
+Lexical Range:
+
+marks definite direct object
+
+no equivalent in English
+
+[WORD 4]
+Original: אָחִיו
+Transliteration: achiv
+Lexical Root: אח (ach)
+Part of Speech: Noun + pronominal suffix
+Grammatical Info: Masculine singular with 3rd person masculine singular suffix
+Lexical Range:
+
+his brother
+
+male sibling
+
+kin
+Notable Observations:
+
+Construct form links this to the next direct object: Hevel.
+
+[WORD 5]
+Original: אֶת־הָבֶל
+Transliteration: et-hevel
+Lexical Root: הבל (hevel)
+Part of Speech: Proper noun
+Grammatical Info: Masculine proper noun with direct object marker
+Lexical Range:
+
+personal name “Hevel” (Abel)
+
+also: vapor, breath, vanity (abstract sense)
+
+[WORD 6]
+Original: וַיְהִי
+Transliteration: vayhi
+Lexical Root: היה (hayah)
+Part of Speech: Verb
+Grammatical Info: Qal imperfect 3rd person masculine singular with vav-consecutive
+Lexical Range:
+
+to be
+
+to become
+
+to exist
+
+to happen
+
+[WORD 7]
+Original: הֶבֶל
+Transliteration: hevel
+Lexical Root: הבל (hevel)
+Part of Speech: Proper noun
+Grammatical Info: Masculine singular
+Lexical Range:
+
+personal name “Hevel” (Abel)
+
+also: vapor, breath, futility (in abstract contexts)
+
+[WORD 8]
+Original: רֹעֵה
+Transliteration: ro’eh
+Lexical Root: רעה (ra’ah)
+Part of Speech: Verb (participle)
+Grammatical Info: Qal participle masculine singular
+Lexical Range:
+
+one who tends
+
+shepherd
+
+herder
+
+one who pastures
+
+[WORD 9]
+Original: צֹאן
+Transliteration: tson
+Lexical Root: צאן (tson)
+Part of Speech: Noun
+Grammatical Info: Common gender, collective noun
+Lexical Range:
+
+flock
+
+small livestock (sheep, goats)
+
+animals kept for herding
+
+[WORD 10]
+Original: וְקַיִן
+Transliteration: ve-qayin
+Lexical Root: קין (qayin)
+Part of Speech: Proper noun with conjunction
+Grammatical Info: Masculine proper noun prefixed by conjunction “ve” (and)
+Lexical Range:
+
+personal name “Qayin” (Cain)
+
+[WORD 11]
+Original: הָיָה
+Transliteration: hayah
+Lexical Root: היה (hayah)
+Part of Speech: Verb
+Grammatical Info: Qal perfect 3rd person masculine singular
+Lexical Range:
+
+to be
+
+to exist
+
+to happen
+
+to become
+
+[WORD 12]
+Original: עֹבֵד
+Transliteration: oved
+Lexical Root: עבד (avad)
+Part of Speech: Verb (participle)
+Grammatical Info: Qal participle masculine singular
+Lexical Range:
+
+one who works
+
+laborer
+
+cultivator
+
+servant
+
+worshiper (in other contexts)
+
+[WORD 13]
+Original: אֲדָמָה
+Transliteration: adamah
+Lexical Root: אדמה (adamah)
+Part of Speech: Noun
+Grammatical Info: Feminine singular
+Lexical Range:
+
+ground
+
+soil
+
+cultivated earth
+
+land
+
+red earth (etymologically)
+
+[4. STRUCTURAL NOTES]
+
+The line is composed of two narrative sequences:
+(1) Continuation of childbirth with “vattosef laledet” — a causative construction marking repeated action.
+(2) Parallel statements of occupation: Hevel is described with a participle (“ro’eh”), as is Qayin (“oved”), marking ongoing identity or function.
+Use of vav-consecutive with “vattosef” and “vayhi” sets rhythm in narrative time.
+The phrase “et-achiv et-hevel” reinforces syntactic clarity and referential specificity.
+
+[5. VARIANT MANUSCRIPT NOTES]
+
+No documented deviations in the Leningrad Codex or major Masoretic manuscripts.
+The structure and spelling of names align across known early Hebrew sources.
+Some scribal traditions emphasize the repetition of “et” before both "achiv" and "hevel" to avoid ambiguity.
+
+[6. STRUCTURAL CONNECTION TO OTHER LINES]
+
+The dual professions (shepherd and cultivator) reflect a motif of occupational contrast, seen again in Genesis 9:20 and Genesis 13:5–7.
+Continuation of the “yalad” and “hayah” patterns begun in Genesis 4:1 and recurring throughout Genesis genealogies.
+
+[7. CAUTIONARY REMINDER]
+The content above does not represent a translation.
+No conclusions, smoothing, or interpretive decisions have been made.
+This file serves only to display the original structure and lexical range as transparently as possible.

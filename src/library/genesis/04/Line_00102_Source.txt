@@ -1,0 +1,211 @@
+=== LINE SOURCE FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00102
+[BOOK]: Genesis
+[CHAPTER]: 4
+[VERSE]: 22
+[FILE TYPE]: Line Source
+
+[INTRO]
+This file shows what the earliest Hebrew/Greek manuscripts say, word by word, before any interpretation.
+
+[PREFACE]
+This file presents the earliest traceable form of this line, drawn primarily from manuscript sources like the Leningrad Codex.
+Where other manuscript witnesses differ or offer meaningful variation (such as the Dead Sea Scrolls or the Samaritan Pentateuch), we remain watchful and will note those cases transparently when identified.
+Every word is shown with its full lexical range — without smoothing, interpretation, or insertion.
+This is not a translation or conclusion. It is a transparent starting point, open to personal encounter and divine resonance.
+We do not treat any human source as final — only as visible reference points for deeper unfolding.
+While we strive for care and clarity, any oversight or omission is unintentional, and all work remains open to refinement as understanding grows.
+
+[1. ORIGINAL LINE TEXT]
+Language: Hebrew
+Manuscript Source: Leningrad Codex
+Line Reference: Genesis 4:22
+
+וְצִלָּה גַּם־הִיא יָלְדָה אֶת־תּוּבַל קַיִן לֹטֵשׁ כָּל־חֹרֵשׁ נְחֹשֶׁת וּבַרְזֶל וַאֲחוֹת תּוּבַל קַיִן נַעֲמָה
+
+[2. DIRECT TRANSLITERATION]
+
+ve-tsillah gam-hi yaldah et-tuwval qayin lotesh kol-choresh nechoshet u-varzel va’achot tuwval qayin na’amah
+
+[3. WORD-BY-WORD LEXICAL BREAKDOWN]
+
+[WORD 1]
+Original: וְצִלָּה
+Transliteration: ve-tsillah
+Lexical Root: ו (vav) + צלה (tsillah)
+Part of Speech: Conjunction + proper noun
+Grammatical Info: Feminine singular
+Lexical Range:
+
+and Zillah (personal name)
+
+[WORD 2]
+Original: גַּם־הִיא
+Transliteration: gam-hi
+Lexical Root: גם (gam) + היא (hi)
+Part of Speech: Adverb + pronoun
+Grammatical Info: Feminine singular
+Lexical Range:
+
+also she
+
+she too
+
+even she
+
+[WORD 3]
+Original: יָלְדָה
+Transliteration: yaldah
+Lexical Root: ילד (yalad)
+Part of Speech: Verb
+Grammatical Info: Qal perfect 3rd person feminine singular
+Lexical Range:
+
+she bore
+
+she gave birth
+
+she delivered
+
+[WORD 4]
+Original: אֶת־תּוּבַל קַיִן
+Transliteration: et-tuwval qayin
+Lexical Root: תובל (tuwval) + קין (qayin)
+Part of Speech: Direct object marker + proper noun + proper noun
+Grammatical Info: Masculine singular
+Lexical Range:
+
+Tubal-cain (personal name)
+Notable Observations:
+
+Name compound includes earlier ancestor “Cain”
+
+[WORD 5]
+Original: לֹטֵשׁ
+Transliteration: lotesh
+Lexical Root: לטש (latash)
+Part of Speech: Participle
+Grammatical Info: Masculine singular active
+Lexical Range:
+
+forger
+
+sharpener
+
+whetter
+
+craftsman
+
+[WORD 6]
+Original: כָּל־חֹרֵשׁ
+Transliteration: kol-choresh
+Lexical Root: כל (kol) + חרש (charash)
+Part of Speech: Noun (construct) + participle
+Grammatical Info: Construct form
+Lexical Range:
+
+all engraver
+
+every craftsman
+
+all metal-worker
+
+artisan
+Notable Observations:
+
+“Charash” implies working or carving hard material
+
+[WORD 7]
+Original: נְחֹשֶׁת
+Transliteration: nechoshet
+Lexical Root: נחשת (nechoshet)
+Part of Speech: Noun
+Grammatical Info: Feminine singular
+Lexical Range:
+
+copper
+
+bronze
+
+brass
+
+metal (general, especially reddish alloys)
+
+[WORD 8]
+Original: וּבַרְזֶל
+Transliteration: u-varzel
+Lexical Root: ברזל (barzel)
+Part of Speech: Conjunction + noun
+Grammatical Info: Masculine singular
+Lexical Range:
+
+and iron
+
+and metal
+
+and strength (by metonymy)
+
+[WORD 9]
+Original: וַאֲחוֹת
+Transliteration: va’achot
+Lexical Root: ו (vav) + אחות (achot)
+Part of Speech: Conjunction + noun
+Grammatical Info: Feminine singular
+Lexical Range:
+
+and sister
+
+[WORD 10]
+Original: תּוּבַל קַיִן
+Transliteration: tuwval qayin
+Lexical Root: תובל (tuwval) + קין (qayin)
+Part of Speech: Proper noun (compound name)
+Grammatical Info: Masculine singular
+Lexical Range:
+
+Tubal-cain (repeated for clarity of reference)
+
+[WORD 11]
+Original: נַעֲמָה
+Transliteration: na’amah
+Lexical Root: נעם (na’am)
+Part of Speech: Proper noun
+Grammatical Info: Feminine singular
+Lexical Range:
+
+Naamah (personal name)
+Notable Observations:
+
+Possibly derived from “pleasant” or “lovely”
+
+[4. STRUCTURAL NOTES]
+
+Line follows pattern of Genesis 4:20–21 but includes expanded vocational detail.
+“Gam-hi yaldah” emphasizes continuation and inclusion.
+Participial structure “lotesh kol-choresh…” defines Tubal-cain’s expertise.
+“Kol-choresh” may imply archetypal role, not merely individual skill.
+Final clause introduces Naamah without elaboration—distinct from prior male vocational lists.
+Structural symmetry and gender pairing present but asymmetrical in detail.
+
+[5. VARIANT MANUSCRIPT NOTES]
+
+LXX transliterates names and uses terms for smithing/artisan work.
+Samaritan Pentateuch agrees with MT in structure and name forms.
+No DSS fragments known for this verse.
+
+[6. STRUCTURAL CONNECTION TO OTHER LINES]
+
+Final installment in Lamech’s generational triad (Jabal, Jubal, Tubal-cain).
+Introduces metallurgy as human innovation, expanding Cainite contributions to civilization.
+Naamah’s naming may anticipate her relevance (not detailed here).
+Sets up transition to Lamech’s speech in Genesis 4:23 (Line_00103).
+
+[7. CAUTIONARY REMINDER]
+The content above does not represent a translation.
+No conclusions, smoothing, or interpretive decisions have been made.
+This file serves only to display the original structure and lexical range as transparently as possible.

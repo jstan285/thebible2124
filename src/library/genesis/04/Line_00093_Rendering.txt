@@ -1,0 +1,50 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00093
+[BOOK]: Genesis
+[CHAPTER]: 4
+[VERSE]: 13
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And Cain said to YHWH, “My guilt is too great to bear.”
+
+[RENDERING NOTES]
+
+“And Cain said to YHWH” mirrors the simple narrative verb structure וַיֹּאמֶר ... אֶל־יְהוָה — no additions.
+“My guilt” (עֲוֺנִי) carries double meaning — wrongdoing and punishment — left open in this phrasing.
+“Too great to bear” translates גָּדוֹל ... מִנְּשֹׂא — keeping idiomatic intensifier intact, indicating unendurable burden.
+No verb needed between “gadol” and “avoni” per biblical syntax norms; English inserts “is” for readability.
+
+[INSERTION / HELPER WORD TRACKING]
+
+“Is” added for basic grammatical flow.
+Quotation marks included to clarify direct speech.
+All other elements directly mirror Hebrew phrasing and order.
+
+[CONTEXTUAL PLACEMENT]
+
+Immediate reaction to divine pronouncement in Genesis 4:12.
+This is Cain’s only verbal response in the judgment sequence.
+Introduces theme of unbearable consequence — first articulation of human despair in scripture.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Uses lament formula — short, emphatic declaration without verb.
+“Gadol avoni min-neso” links to burden language in Exodus and Numbers.
+Statement of overwhelming inner state mirrors the Psalmic “my guilt overwhelms me” genre.
+Structure is a reversal of defense: from denial (v.9) to overwhelmed concession (v.13).
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

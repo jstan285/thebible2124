@@ -1,0 +1,52 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00087
+[BOOK]: Genesis
+[CHAPTER]: 4
+[VERSE]: 7
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+Is it not so: if you do well, lifting? But if you do not do well—at the opening, sin is crouching. Toward you is its desire, but you may rule over it.
+
+[RENDERING NOTES]
+
+“Is it not so” reflects הֲלוֹא — rhetorical interrogative particle.
+“If you do well, lifting” preserves the pairing of תֵּיטִיב and שְׂאֵת — retaining ambiguity between “lifting” as result or state.
+“But if you do not do well” matches וְאִם לֹא תֵיטִיב — parallel clause structure.
+“At the opening, sin is crouching” is a close rendering of לַפֶּתַח חַטָּאת רֹבֵץ — retaining spatial metaphor and present participle.
+“Toward you is its desire” retains the directional ve-eilekha and noun teshuqato — noting relational pull.
+“But you may rule over it” mirrors וְאַתָּה תִּמְשָׁל־בּוֹ — preserving volitional possibility without imperative tone.
+
+[INSERTION / HELPER WORD TRACKING]
+
+“Is it not so” added for rhetorical clarity of הֲלוֹא.
+“But” used for clause contrast (וְאִם).
+No smoothing of “se’et” — left as noun (“lifting”) to preserve multivalence.
+All directional and possessive suffixes retained explicitly.
+
+[CONTEXTUAL PLACEMENT]
+
+Continuation of divine speech to Cain. This line articulates moral potential, temptation, and agency.
+Pivotal ethical teaching—both warning and empowerment—just before narrative rupture.
+Suggests divine concern for inner state, not merely outer action.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Two “if” clauses mirror each other — forming a chiastic and conditional structure.
+Crouching sin and rising self form opposing vectors.
+Echoes Gen 3:16 in teshuqah usage — relational desire mirrored across domains.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

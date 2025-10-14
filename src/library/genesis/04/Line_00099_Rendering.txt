@@ -1,0 +1,45 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00099
+[BOOK]: Genesis
+[CHAPTER]: 4
+[VERSE]: 19
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And Lamech took for himself two wives. The name of the one was Adah, and the name of the second was Zillah.
+
+[RENDERING NOTES]
+
+“Took for himself” (וַיִּקַּח לוֹ) reflects the reflexive nuance of the preposition + pronoun, indicating agency and possession.
+“Two wives” (שְׁתֵּי נָשִׁים) uses the dual numeral construct — feminine, indicating paired feminine individuals.
+Names are introduced with parallel phrasing: “The name of the one…” / “and the name of the second…”
+“Adah” (עָדָה) and “Zillah” (צִלָּה) are personal names with poetic/semantic undertones ("adornment" and "shade" respectively).
+Use of definite articles (ה) reinforces individual distinction between the two women.
+
+[INSERTION / HELPER WORD TRACKING]
+
+“Was” added for fluid rendering of verbless nominal clauses.
+“And” reflects original vav conjunction.
+“For himself” interprets prepositional-pronominal pairing explicitly.
+
+[CONTEXTUAL PLACEMENT]
+
+Marks the first biblical mention of polygamy.
+Launches a new phase in the Cainite genealogy, now expanding from vertical descent to horizontal multiplication.
+Sets up identities of Adah and Zillah — important for tracing the named offspring in upcoming verses.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Syntactic parallelism between “the name of the one…” and “the name of the second…” provides poetic symmetry.
+Continuity from Line_00098: Lamech now shifts from being a son to becoming a patriarch.
+The line introduces a triadic structure that unfolds over Lines 00099–00101 (wives → children → vocations).

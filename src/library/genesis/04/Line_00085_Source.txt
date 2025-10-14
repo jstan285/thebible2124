@@ -1,0 +1,196 @@
+=== LINE SOURCE FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00085
+[BOOK]: Genesis
+[CHAPTER]: 4
+[VERSE]: 5
+[FILE TYPE]: Line Source
+
+[INTRO]
+This file shows what the earliest Hebrew/Greek manuscripts say, word by word, before any interpretation.
+
+[PREFACE]
+This file presents the earliest traceable form of this line, drawn primarily from manuscript sources like the Leningrad Codex.
+Where other manuscript witnesses differ or offer meaningful variation (such as the Dead Sea Scrolls or the Samaritan Pentateuch), we remain watchful and will note those cases transparently when identified.
+Every word is shown with its full lexical range — without smoothing, interpretation, or insertion.
+This is not a translation or conclusion. It is a transparent starting point, open to personal encounter and divine resonance.
+We do not treat any human source as final — only as visible reference points for deeper unfolding.
+While we strive for care and clarity, any oversight or omission is unintentional, and all work remains open to refinement as understanding grows.
+
+[1. ORIGINAL LINE TEXT]
+Language: Hebrew
+Manuscript Source: Leningrad Codex
+Line Reference: Genesis 4:5
+
+וְאֶל־קַיִן וְאֶל־מִנְחָתוֹ לֹא שָׁעָה וַיִּחַר לְקַיִן מְאֹד וַיִּפְּלוּ פָנָיו
+
+[2. DIRECT TRANSLITERATION]
+
+ve-el-qayin ve-el-minchato lo sha’ah vayichar le-qayin me’od vayippelu panav
+
+[3. WORD-BY-WORD LEXICAL BREAKDOWN]
+
+[WORD 1]
+Original: וְאֶל־קַיִן
+Transliteration: ve-el-qayin
+Lexical Root: אל (el) + קין (qayin)
+Part of Speech: Preposition + proper noun
+Grammatical Info: Directional phrase with conjunction
+Lexical Range:
+
+and toward Qayin
+
+and regarding Qayin
+
+and in relation to Qayin
+
+[WORD 2]
+Original: וְאֶל־מִנְחָתוֹ
+Transliteration: ve-el-minchato
+Lexical Root: מנחה (minchah)
+Part of Speech: Preposition + noun + pronominal suffix
+Grammatical Info: Feminine singular + 3rd person masculine singular suffix
+Lexical Range:
+
+and toward his offering
+
+and regarding his tribute
+
+and concerning his gift
+
+[WORD 3]
+Original: לֹא
+Transliteration: lo
+Lexical Root: לא (lo)
+Part of Speech: Negative particle
+Grammatical Info: —
+Lexical Range:
+
+not
+
+no
+
+negation of action/state
+
+[WORD 4]
+Original: שָׁעָה
+Transliteration: sha’ah
+Lexical Root: שׁעה (sha’ah)
+Part of Speech: Verb
+Grammatical Info: Qal perfect 3rd person masculine singular
+Lexical Range:
+
+to look upon
+
+to regard
+
+to pay attention
+
+to gaze favorably
+
+[WORD 5]
+Original: וַיִּחַר
+Transliteration: vayichar
+Lexical Root: חרה (charah)
+Part of Speech: Verb
+Grammatical Info: Qal imperfect 3rd person masculine singular with vav-consecutive
+Lexical Range:
+
+to burn
+
+to be kindled (in anger)
+
+to be enraged
+
+to grow hot
+
+[WORD 6]
+Original: לְקַיִן
+Transliteration: le-qayin
+Lexical Root: קין (qayin)
+Part of Speech: Proper noun with preposition
+Grammatical Info: Masculine proper noun with ל (to/for/about)
+Lexical Range:
+
+to Qayin
+
+for Qayin
+
+concerning Qayin
+
+[WORD 7]
+Original: מְאֹד
+Transliteration: me’od
+Lexical Root: מאד (me’od)
+Part of Speech: Adverb
+Grammatical Info: —
+Lexical Range:
+
+greatly
+
+exceedingly
+
+very much
+
+intensely
+
+[WORD 8]
+Original: וַיִּפְּלוּ
+Transliteration: vayippelu
+Lexical Root: נפל (naphal)
+Part of Speech: Verb
+Grammatical Info: Qal imperfect 3rd person plural with vav-consecutive
+Lexical Range:
+
+they fell
+
+they collapsed
+
+they dropped
+
+they descended
+
+[WORD 9]
+Original: פָנָיו
+Transliteration: panav
+Lexical Root: פנים (panim)
+Part of Speech: Noun + pronominal suffix
+Grammatical Info: Plural form with 3rd person masculine singular suffix
+Lexical Range:
+
+his face
+
+his countenance
+
+his appearance
+Notable Observations:
+
+“Panim” is grammatically plural but refers to a singular face; idiomatic in Hebrew.
+
+[4. STRUCTURAL NOTES]
+
+The line opens with a contrastive clause (“ve-el Qayin… lo sha’ah”), continuing directly from 4:4.
+The verb “sha’ah” reappears, now negated with “lo,” establishing divine non-regard.
+A result clause follows: emotional reaction (“vayichar… me’od”) and physical expression (“vayippelu panav”).
+The verb-subject inversion of “vayippelu panav” (literally: “fell his face”) is idiomatic and structurally common in biblical Hebrew.
+
+[5. VARIANT MANUSCRIPT NOTES]
+
+No significant textual variants present in major Masoretic sources.
+Septuagint uses a Greek construction that approximates emotional response (“Cain was greatly grieved”), but differs syntactically.
+Samaritan Pentateuch retains the Hebrew structure; no notable divergence.
+
+[6. STRUCTURAL CONNECTION TO OTHER LINES]
+
+Continues direct contrast between Cain (Line_00083) and Hevel (Line_00084).
+The verb “charah” appears again in Genesis 18:30; common for divine or human anger.
+“Panim” in emotional states recurs in Genesis 31:2 and 40:7.
+
+[7. CAUTIONARY REMINDER]
+The content above does not represent a translation.
+No conclusions, smoothing, or interpretive decisions have been made.
+This file serves only to display the original structure and lexical range as transparently as possible.

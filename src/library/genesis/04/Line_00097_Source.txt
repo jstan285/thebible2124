@@ -1,0 +1,252 @@
+=== LINE SOURCE FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00097
+[BOOK]: Genesis
+[CHAPTER]: 4
+[VERSE]: 17
+[FILE TYPE]: Line Source
+
+[INTRO]
+This file shows what the earliest Hebrew/Greek manuscripts say, word by word, before any interpretation.
+
+[PREFACE]
+This file presents the earliest traceable form of this line, drawn primarily from manuscript sources like the Leningrad Codex.
+Where other manuscript witnesses differ or offer meaningful variation (such as the Dead Sea Scrolls or the Samaritan Pentateuch), we remain watchful and will note those cases transparently when identified.
+Every word is shown with its full lexical range — without smoothing, interpretation, or insertion.
+This is not a translation or conclusion. It is a transparent starting point, open to personal encounter and divine resonance.
+We do not treat any human source as final — only as visible reference points for deeper unfolding.
+While we strive for care and clarity, any oversight or omission is unintentional, and all work remains open to refinement as understanding grows.
+
+[1. ORIGINAL LINE TEXT]
+Language: Hebrew
+Manuscript Source: Leningrad Codex
+Line Reference: Genesis 4:17
+
+וַיֵּדַע קַיִן אֶת־אִשְׁתּוֹ וַתַּהַר וַתֵּלֶד אֶת־חֲנוֹךְ וַיְהִי בֹנֶה עִיר וַיִּקְרָא שֵׁם הָעִיר כְּשֵׁם בְּנוֹ חֲנוֹךְ
+
+[2. DIRECT TRANSLITERATION]
+
+vayyéda qayin et-ishto vattahar vatteled et-chanokh vayehi boneh ir vayiqra shem ha’ir keshem beno chanokh
+
+[3. WORD-BY-WORD LEXICAL BREAKDOWN]
+
+[WORD 1]
+Original: וַיֵּדַע
+Transliteration: vayyéda
+Lexical Root: ידע (yada)
+Part of Speech: Verb
+Grammatical Info: Qal imperfect 3rd person masculine singular with vav-consecutive
+Lexical Range:
+
+he knew
+
+he had sexual relations
+
+he became acquainted with
+
+he experienced
+
+[WORD 2]
+Original: קַיִן
+Transliteration: qayin
+Lexical Root: קין (qayin)
+Part of Speech: Proper noun
+Grammatical Info: Masculine singular
+Lexical Range:
+
+Cain (personal name)
+
+[WORD 3]
+Original: אֶת־אִשְׁתּוֹ
+Transliteration: et-ishto
+Lexical Root: את (et) + אשה (ishah)
+Part of Speech: Direct object marker + noun with suffix
+Grammatical Info: Feminine singular noun with 3rd person masculine singular suffix
+Lexical Range:
+
+his wife
+
+his woman
+
+[WORD 4]
+Original: וַתַּהַר
+Transliteration: vattahar
+Lexical Root: הרה (harah)
+Part of Speech: Verb
+Grammatical Info: Qal imperfect 3rd person feminine singular with vav-consecutive
+Lexical Range:
+
+she conceived
+
+she became pregnant
+
+[WORD 5]
+Original: וַתֵּלֶד
+Transliteration: vatteled
+Lexical Root: ילד (yalad)
+Part of Speech: Verb
+Grammatical Info: Qal imperfect 3rd person feminine singular with vav-consecutive
+Lexical Range:
+
+she gave birth
+
+she bore
+
+she delivered
+
+[WORD 6]
+Original: אֶת־חֲנוֹךְ
+Transliteration: et-chanokh
+Lexical Root: חנוך (chanokh)
+Part of Speech: Direct object marker + proper noun
+Grammatical Info: Masculine singular
+Lexical Range:
+
+Enoch (personal name)
+
+[WORD 7]
+Original: וַיְהִי
+Transliteration: vayehi
+Lexical Root: היה (hayah)
+Part of Speech: Verb
+Grammatical Info: Qal imperfect 3rd person masculine singular with vav-consecutive
+Lexical Range:
+
+and he became
+
+and he came to be
+
+and there was
+
+[WORD 8]
+Original: בֹנֶה
+Transliteration: boneh
+Lexical Root: בנה (banah)
+Part of Speech: Participle (active)
+Grammatical Info: Masculine singular
+Lexical Range:
+
+building
+
+constructing
+
+founding
+
+establishing
+
+[WORD 9]
+Original: עִיר
+Transliteration: ir
+Lexical Root: עיר (ir)
+Part of Speech: Noun
+Grammatical Info: Feminine singular
+Lexical Range:
+
+city
+
+town
+
+settlement
+
+[WORD 10]
+Original: וַיִּקְרָא
+Transliteration: vayiqra
+Lexical Root: קרא (qara)
+Part of Speech: Verb
+Grammatical Info: Qal imperfect 3rd person masculine singular with vav-consecutive
+Lexical Range:
+
+and he called
+
+and he named
+
+and he proclaimed
+
+[WORD 11]
+Original: שֵׁם
+Transliteration: shem
+Lexical Root: שם (shem)
+Part of Speech: Noun
+Grammatical Info: Masculine singular
+Lexical Range:
+
+name
+
+designation
+
+reputation
+
+[WORD 12]
+Original: הָעִיר
+Transliteration: ha’ir
+Lexical Root: עיר (ir)
+Part of Speech: Noun with definite article
+Grammatical Info: Feminine singular
+Lexical Range:
+
+the city
+
+the town
+
+[WORD 13]
+Original: כְּשֵׁם
+Transliteration: keshem
+Lexical Root: כמו (kemo) + שם (shem)
+Part of Speech: Preposition (comparative) + noun
+Grammatical Info: —
+Lexical Range:
+
+like the name
+
+as the name
+
+[WORD 14]
+Original: בְּנוֹ
+Transliteration: beno
+Lexical Root: בן (ben)
+Part of Speech: Noun with pronominal suffix
+Grammatical Info: Masculine singular with 3rd person masculine singular suffix
+Lexical Range:
+
+his son
+
+[WORD 15]
+Original: חֲנוֹךְ
+Transliteration: chanokh
+Lexical Root: חנוך (chanokh)
+Part of Speech: Proper noun
+Grammatical Info: Masculine singular
+Lexical Range:
+
+Enoch (personal name)
+
+[4. STRUCTURAL NOTES]
+
+Structured in four clauses, all joined by vav-consecutives to show action sequence.
+First clause: Cain “knew” his wife — euphemism for sexual union.
+Second clause: she conceives and gives birth to Enoch.
+Third clause: Cain is described as “building a city” — participial usage denotes active role.
+Fourth clause: he names the city after his son — “keshem beno” uses construct form.
+Repetitions of proper names frame narrative continuation through lineage.
+
+[5. VARIANT MANUSCRIPT NOTES]
+
+LXX (Septuagint) preserves parallel clause structure and names.
+Some LXX manuscripts rephrase order slightly, but MT sequence retained.
+Samaritan Pentateuch aligns closely with Masoretic structure.
+
+[6. STRUCTURAL CONNECTION TO OTHER LINES]
+
+Begins Cainite genealogy and urbanization theme that runs through Genesis 4.
+First biblical reference to city-building — introduces “ir” as structural unit.
+“Enoch” here not to be confused with the Enoch of Sethite line (Genesis 5:18).
+Transitions narrative focus from Cain to his descendants (continued in Genesis 4:18).
+
+[7. CAUTIONARY REMINDER]
+The content above does not represent a translation.
+No conclusions, smoothing, or interpretive decisions have been made.
+This file serves only to display the original structure and lexical range as transparently as possible.

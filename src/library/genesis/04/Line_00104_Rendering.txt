@@ -1,0 +1,46 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00104
+[BOOK]: Genesis
+[CHAPTER]: 4
+[VERSE]: 24
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+If Cain is avenged sevenfold, then Lamech seventy and sevenfold.
+
+[RENDERING NOTES]
+
+“Ki” can mean “if,” “for,” or “indeed”—rendered here as “if” to reflect conditional logic.
+“Shiv‘atayim” = “sevenfold” — intensifier from root seven (sheva).
+“Yuqqam” = passive verb “shall be avenged” — form: Pual imperfect, indicating expected or decreed future action.
+“Qayin” = proper name Cain.
+“Ve-lemekh shiv‘im ve-shiv‘ah” = “and Lamech seventy and seven” — read as “seventy-sevenfold” to parallel and escalate Cain’s avenging.
+
+[INSERTION / HELPER WORD TRACKING]
+
+“Is” and “then” added to clarify implied conditional structure.
+“Avenged” drawn directly from “yuqqam” (Pual form of “qum”) — passive causative nuance preserved.
+No smoothing or interpretive additions beyond clarity markers.
+
+[CONTEXTUAL PLACEMENT]
+
+Concludes Lamech’s poetic declaration from the previous verse (Line_00103).
+Serves as final spoken line in Cainite genealogy narrative arc.
+Offers a twisted mirror of divine protection promised to Cain (Line_00095).
+Introduces multiplicative escalation — vengeance as a compounded response.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Mirrors and intensifies Genesis 4:15 — thematic recursion with numeric amplification.
+Pairs with Line_00103 to form a self-contained poem (double verse, double line).
+Precedes genealogical shift and prepares ground for contrast with Sethite line in Genesis 4:25.

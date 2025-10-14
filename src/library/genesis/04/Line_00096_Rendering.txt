@@ -1,0 +1,45 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00096
+[BOOK]: Genesis
+[CHAPTER]: 4
+[VERSE]: 16
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And Cain went out from before YHWH and settled in the land of Nod, east of Eden.
+
+[RENDERING NOTES]
+
+“And Cain went out” = וַיֵּצֵא קַיִן — sequential narrative verb with subject.
+“From before YHWH” (מִלִּפְנֵי יְהוָה) = spatial and relational distancing; a departure from presence.
+“Settled” (וַיֵּשֶׁב) retains primary meaning “he dwelled” but connotes longer-term presence than “sat.”
+“In the land of Nod” (בְּאֶרֶץ־נוֹד) — place-name with wordplay on “wandering” (נוד).
+“East of Eden” (קִדְמַת־עֵדֶן) = directional geography that continues Eden as central orienting feature.
+
+[INSERTION / HELPER WORD TRACKING]
+
+“From before” inserted for idiomatic clarity; supports prepositional nuance.
+“And” and “in the” added to preserve vav-consecutive and English naturalism.
+No smoothing or interpretation added beyond what is directly indicated in structure.
+
+[CONTEXTUAL PLACEMENT]
+
+Marks the narrative conclusion of Cain’s presence in divine space.
+Follows the sign-of-protection episode in v.15 — now action follows decree.
+Continues the theme of exile eastward, echoing Genesis 3:24.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Double vav-consecutive (“he went out… he settled”) reinforces narrative finality.
+Eden remains the gravitational center — its eastward departure reflects increasing distance from the primordial sacred.
+“Nod” thematically and linguistically echoes Cain’s judgment as “na va-nad” (wanderer and fugitive) — now spatialized.

@@ -1,0 +1,285 @@
+=== LINE SOURCE FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00094
+[BOOK]: Genesis
+[CHAPTER]: 4
+[VERSE]: 14
+[FILE TYPE]: Line Source
+
+[INTRO]
+This file shows what the earliest Hebrew/Greek manuscripts say, word by word, before any interpretation.
+
+[PREFACE]
+This file presents the earliest traceable form of this line, drawn primarily from manuscript sources like the Leningrad Codex.
+Where other manuscript witnesses differ or offer meaningful variation (such as the Dead Sea Scrolls or the Samaritan Pentateuch), we remain watchful and will note those cases transparently when identified.
+Every word is shown with its full lexical range — without smoothing, interpretation, or insertion.
+This is not a translation or conclusion. It is a transparent starting point, open to personal encounter and divine resonance.
+We do not treat any human source as final — only as visible reference points for deeper unfolding.
+While we strive for care and clarity, any oversight or omission is unintentional, and all work remains open to refinement as understanding grows.
+
+[1. ORIGINAL LINE TEXT]
+Language: Hebrew
+Manuscript Source: Leningrad Codex
+Line Reference: Genesis 4:14
+
+הֵן גֵּרַשְׁתָּ אֹתִי הַיּוֹם מֵעַל פְּנֵי הָאֲדָמָה וּמִפָּנֶיךָ אֶסָּתֵר וְהָיִיתִי נָע וָנָד בָּאָרֶץ וְהָיָה כָל־מֹצְאִי יַהַרְגֵנִי
+
+[2. DIRECT TRANSLITERATION]
+
+hen gerashta oti hayom me’al penei ha’adamah u-mippanekha essater ve-hayiti na va-nad ba’aretz ve-hayah kol-motze’i yahargeni
+
+[3. WORD-BY-WORD LEXICAL BREAKDOWN]
+
+[WORD 1]
+Original: הֵן
+Transliteration: hen
+Lexical Root: הן (hen)
+Part of Speech: Interjection
+Grammatical Info: —
+Lexical Range:
+
+behold
+
+surely
+
+indeed
+
+lo
+
+[WORD 2]
+Original: גֵּרַשְׁתָּ
+Transliteration: gerashta
+Lexical Root: גרשׁ (garash)
+Part of Speech: Verb
+Grammatical Info: Piel perfect 2nd person masculine singular
+Lexical Range:
+
+you drove out
+
+you expelled
+
+you banished
+
+you cast out
+
+[WORD 3]
+Original: אֹתִי
+Transliteration: oti
+Lexical Root: את (et)
+Part of Speech: Direct object marker + pronoun
+Grammatical Info: 1st person singular suffix
+Lexical Range:
+
+me (as direct object)
+
+[WORD 4]
+Original: הַיּוֹם
+Transliteration: hayom
+Lexical Root: יום (yom)
+Part of Speech: Noun with definite article
+Grammatical Info: Masculine singular
+Lexical Range:
+
+today
+
+this day
+
+the current day
+
+[WORD 5]
+Original: מֵעַל
+Transliteration: me’al
+Lexical Root: מן (min) + על (al)
+Part of Speech: Compound preposition
+Grammatical Info: —
+Lexical Range:
+
+from upon
+
+from above
+
+away from
+
+[WORD 6]
+Original: פְּנֵי
+Transliteration: penei
+Lexical Root: פנים (panim)
+Part of Speech: Noun (construct plural)
+Grammatical Info: Masculine plural construct
+Lexical Range:
+
+face of
+
+presence of
+
+surface of
+
+[WORD 7]
+Original: הָאֲדָמָה
+Transliteration: ha’adamah
+Lexical Root: אדמה (adamah)
+Part of Speech: Noun with definite article
+Grammatical Info: Feminine singular
+Lexical Range:
+
+the ground
+
+the soil
+
+the land
+
+[WORD 8]
+Original: וּמִפָּנֶיךָ
+Transliteration: u-mippanekha
+Lexical Root: מן (min) + פנים (panim)
+Part of Speech: Conjunction + preposition + noun + suffix
+Grammatical Info: Masculine plural with 2nd person masculine singular suffix
+Lexical Range:
+
+and from your presence
+
+and from before your face
+
+[WORD 9]
+Original: אֶסָּתֵר
+Transliteration: essater
+Lexical Root: סתר (satar)
+Part of Speech: Verb
+Grammatical Info: Niphal imperfect 1st person singular
+Lexical Range:
+
+I will be hidden
+
+I will hide myself
+
+I shall be concealed
+Notable Observations:
+
+Reflexive or passive sense common to Niphal stem
+
+[WORD 10]
+Original: וְהָיִיתִי
+Transliteration: ve-hayiti
+Lexical Root: היה (hayah)
+Part of Speech: Verb
+Grammatical Info: Qal perfect 1st person singular with vav-consecutive
+Lexical Range:
+
+and I became
+
+and I was
+
+and I came to be
+
+[WORD 11]
+Original: נָע
+Transliteration: na
+Lexical Root: נוע (nua)
+Part of Speech: Adjective/participle
+Grammatical Info: Masculine singular
+Lexical Range:
+
+wanderer
+
+one who shakes
+
+restless mover
+
+[WORD 12]
+Original: וָנָד
+Transliteration: va-nad
+Lexical Root: נדד (nadad)
+Part of Speech: Conjunction + adjective/participle
+Grammatical Info: Masculine singular
+Lexical Range:
+
+and a fugitive
+
+and a wanderer
+
+one who flees
+
+[WORD 13]
+Original: בָּאָרֶץ
+Transliteration: ba’aretz
+Lexical Root: ארץ (eretz)
+Part of Speech: Noun with prefixed preposition and definite article
+Grammatical Info: Feminine singular
+Lexical Range:
+
+in the land
+
+upon the earth
+
+throughout the ground
+
+[WORD 14]
+Original: וְהָיָה
+Transliteration: ve-hayah
+Lexical Root: היה (hayah)
+Part of Speech: Verb
+Grammatical Info: Qal perfect 3rd person masculine singular with vav-consecutive
+Lexical Range:
+
+and it will happen
+
+and it will come to pass
+
+and it shall be
+
+[WORD 15]
+Original: כָל־מֹצְאִי
+Transliteration: kol-motze’i
+Lexical Root: כל (kol) + מצא (matza)
+Part of Speech: Noun + participle construct
+Grammatical Info: Masculine singular construct + masculine plural participle
+Lexical Range:
+
+everyone who finds me
+
+all finders of me
+
+any who come upon me
+
+[WORD 16]
+Original: יַהַרְגֵנִי
+Transliteration: yahargeni
+Lexical Root: הרג (harag)
+Part of Speech: Verb + pronominal suffix
+Grammatical Info: Qal imperfect 3rd person masculine singular + 1st person singular object
+Lexical Range:
+
+he will kill me
+
+he will slay me
+
+he will strike me down
+
+[4. STRUCTURAL NOTES]
+
+Structured as a full lamentation by Cain: declaration, consequence, fear.
+"Hen gerashta oti hayom" establishes temporal immediacy and expulsion.
+“U-mippanekha essater” adds relational exile — loss of divine presence.
+Doublet “na va-nad” repeats motif of instability and displacement.
+Final clause “kol motze’i yahargeni” expresses fear of retaliation, again using participial construction for generality.
+
+[5. VARIANT MANUSCRIPT NOTES]
+
+LXX adds slight interpretive expansion in “whoever finds me will kill me.”
+Samaritan Pentateuch agrees with MT on major structural elements.
+No extant DSS fragments of this specific line identified.
+
+[6. STRUCTURAL CONNECTION TO OTHER LINES]
+
+Follows directly from Line_00093 (Genesis 4:13) as continuation of Cain’s speech.
+Expands emotional and existential fallout of divine judgment.
+“Na va-nad” repeats from Genesis 4:12 (Line_00092), emphasizing curse's embodiment.
+
+[7. CAUTIONARY REMINDER]
+The content above does not represent a translation.
+No conclusions, smoothing, or interpretive decisions have been made.
+This file serves only to display the original structure and lexical range as transparently as possible.

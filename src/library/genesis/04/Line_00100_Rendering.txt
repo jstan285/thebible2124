@@ -1,0 +1,47 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00100
+[BOOK]: Genesis
+[CHAPTER]: 4
+[VERSE]: 20
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And Adah bore Jabal. He was the father of those who dwell in tents and with livestock.
+
+[RENDERING NOTES]
+
+“Vatteled” = “she bore” or “she gave birth” — standard Qal imperfect with vav-consecutive.
+“Et-Yaval” = “Jabal” (personal name) marked by direct object marker; Hebrew spelling יָבָל.
+“Hu hayah avi…” = appositional clause; “he was the father of…” defines identity via function.
+“Yoshev ohel u-miqneh” = participial phrase meaning “one who dwells in tent and livestock” — a compound occupational identity.
+Construct form “avi yoshev” indicates vocational descent — not literal biological exclusivity.
+
+[INSERTION / HELPER WORD TRACKING]
+
+“Was” added for English rendering of past-tense Qal perfect “hayah.”
+“Those who” added to express participial group implied by construct “avi yoshev.”
+“With” supplied to reflect linkage between tent and livestock (u-miqneh) without assuming dual professions.
+Definite article not inserted; specificity implied but not stated in Hebrew.
+
+[CONTEXTUAL PLACEMENT]
+
+First of three vocational offspring attributed to Lamech’s wives.
+This child (Jabal) becomes associated with nomadic-herding culture.
+Cain’s lineage now linked to early social specialization — a shift from mere reproduction to civilization.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Mirrors upcoming lines introducing Jubal (music) and Tubal-cain (metalwork).
+Each child is tied to a human domain — this one: mobility + economy.
+Jabal is presented not only as an individual, but as a vocational progenitor — “father of dwellers.”
+Opens a triptych of societal archetypes passed through maternal lineages.

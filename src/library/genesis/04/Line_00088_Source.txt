@@ -1,0 +1,221 @@
+=== LINE SOURCE FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00088
+[BOOK]: Genesis
+[CHAPTER]: 4
+[VERSE]: 8
+[FILE TYPE]: Line Source
+
+[INTRO]
+This file shows what the earliest Hebrew/Greek manuscripts say, word by word, before any interpretation.
+
+[PREFACE]
+This file presents the earliest traceable form of this line, drawn primarily from manuscript sources like the Leningrad Codex.
+Where other manuscript witnesses differ or offer meaningful variation (such as the Dead Sea Scrolls or the Samaritan Pentateuch), we remain watchful and will note those cases transparently when identified.
+Every word is shown with its full lexical range — without smoothing, interpretation, or insertion.
+This is not a translation or conclusion. It is a transparent starting point, open to personal encounter and divine resonance.
+We do not treat any human source as final — only as visible reference points for deeper unfolding.
+While we strive for care and clarity, any oversight or omission is unintentional, and all work remains open to refinement as understanding grows.
+
+[1. ORIGINAL LINE TEXT]
+Language: Hebrew
+Manuscript Source: Leningrad Codex
+Line Reference: Genesis 4:8
+
+וַיֹּאמֶר קַיִן אֶל־הֶבֶל אָחִיו וַיְהִי בִּהְיוֹתָם בַּשָּׂדֶה וַיָּקָם קַיִן אֶל־הֶבֶל אָחִיו וַיַּהַרְגֵהוּ
+
+[2. DIRECT TRANSLITERATION]
+
+vayomer qayin el-hevel achiv vayhi bihyotam basadeh vayaqam qayin el-hevel achiv vayahargehu
+
+[3. WORD-BY-WORD LEXICAL BREAKDOWN]
+
+[WORD 1]
+Original: וַיֹּאמֶר
+Transliteration: vayomer
+Lexical Root: אמר (amar)
+Part of Speech: Verb
+Grammatical Info: Qal imperfect 3rd person masculine singular with vav-consecutive
+Lexical Range:
+
+to say
+
+to speak
+
+to declare
+
+[WORD 2]
+Original: קַיִן
+Transliteration: qayin
+Lexical Root: קין (qayin)
+Part of Speech: Proper noun
+Grammatical Info: Masculine proper noun
+Lexical Range:
+
+personal name “Qayin” (Cain)
+
+[WORD 3]
+Original: אֶל־הֶבֶל
+Transliteration: el-hevel
+Lexical Root: אל (el) + הבל (hevel)
+Part of Speech: Preposition + proper noun
+Grammatical Info: Directional construction
+Lexical Range:
+
+to Hevel
+
+toward Hevel
+
+[WORD 4]
+Original: אָחִיו
+Transliteration: achiv
+Lexical Root: אח (ach)
+Part of Speech: Noun + pronominal suffix
+Grammatical Info: Masculine singular + 3rd person masculine singular suffix
+Lexical Range:
+
+his brother
+
+his kin
+
+his sibling
+
+[WORD 5]
+Original: וַיְהִי
+Transliteration: vayhi
+Lexical Root: היה (hayah)
+Part of Speech: Verb
+Grammatical Info: Qal imperfect 3rd person masculine singular with vav-consecutive
+Lexical Range:
+
+it happened
+
+it came to be
+
+it was
+
+[WORD 6]
+Original: בִּהְיוֹתָם
+Transliteration: bihyotam
+Lexical Root: היה (hayah)
+Part of Speech: Infinitive construct + pronominal suffix
+Grammatical Info: Infinitive construct with 3rd person masculine plural suffix
+Lexical Range:
+
+in their being
+
+when they were
+
+during their presence
+Notable Observations:
+
+Temporal clause indicator
+
+[WORD 7]
+Original: בַּשָּׂדֶה
+Transliteration: basadeh
+Lexical Root: שדה (sadeh)
+Part of Speech: Noun with preposition + definite article
+Grammatical Info: Masculine singular with ב + ה
+Lexical Range:
+
+in the field
+
+in the open area
+
+in the countryside
+
+[WORD 8]
+Original: וַיָּקָם
+Transliteration: vayaqam
+Lexical Root: קום (qum)
+Part of Speech: Verb
+Grammatical Info: Qal imperfect 3rd person masculine singular with vav-consecutive
+Lexical Range:
+
+he rose
+
+he stood up
+
+he arose
+
+he took action
+
+[WORD 9]
+Original: קַיִן
+Transliteration: qayin
+Lexical Root: קין (qayin)
+Part of Speech: Proper noun
+Grammatical Info: Masculine proper noun
+Lexical Range:
+
+personal name “Qayin” (Cain)
+
+[WORD 10]
+Original: אֶל־הֶבֶל
+Transliteration: el-hevel
+Lexical Root: אל (el) + הבל (hevel)
+Part of Speech: Preposition + proper noun
+Grammatical Info: Directional phrase
+Lexical Range:
+
+to Hevel
+
+toward Hevel
+
+[WORD 11]
+Original: אָחִיו
+Transliteration: achiv
+Lexical Root: אח (ach)
+Part of Speech: Noun + pronominal suffix
+Grammatical Info: Masculine singular + 3rd person masculine singular suffix
+Lexical Range:
+
+his brother
+
+his kin
+
+[WORD 12]
+Original: וַיַּהַרְגֵהוּ
+Transliteration: vayahargehu
+Lexical Root: הרג (harag)
+Part of Speech: Verb + pronominal suffix
+Grammatical Info: Qal imperfect 3rd person masculine singular with vav-consecutive + 3rd person masculine singular object suffix
+Lexical Range:
+
+he killed him
+
+he slew him
+
+he struck him down
+Notable Observations:
+
+Direct narrative completion of Cain’s action
+
+[4. STRUCTURAL NOTES]
+
+The verse features a two-part narrative structure: initial dialogue setup (“vayomer...”) followed by situational event (“vayhi bihyotam...”) and culminating action (“vayaqam... vayahargehu”).
+Repetition of “el-hevel achiv” emphasizes relational identity and intent.
+The use of “vayahargehu” with the suffix directly identifies the victim (his brother), preserving clarity in minimal words.
+No dialogue is preserved in the Masoretic text after “vayomer”; the phrase stands without a recorded statement.
+
+[5. VARIANT MANUSCRIPT NOTES]
+
+Samaritan Pentateuch and some Septuagint manuscripts include an extended version of Cain’s speech (e.g., “Let us go out to the field”), which is not preserved in the Masoretic Text.
+Dead Sea Scroll fragment 4QGenb includes similar expansion.
+The MT reflects a shorter reading, with “vayomer Qayin el-Hevel achiv” not followed by direct quotation.
+
+[6. STRUCTURAL CONNECTION TO OTHER LINES]
+
+Culmination of the rising narrative tension from Lines 00083–00087.
+“Vayahargehu” establishes the first human-to-human killing in biblical record.
+The verbal pairing of “vayaqam” and “vayahargehu” parallels hostile action scenes elsewhere (e.g., Exodus 2:12).
+
+[7. CAUTIONARY REMINDER]
+The content above does not represent a translation.
+No conclusions, smoothing, or interpretive decisions have been made.
+This file serves only to display the original structure and lexical range as transparently as possible.

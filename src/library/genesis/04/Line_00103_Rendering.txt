@@ -1,0 +1,47 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00103
+[BOOK]: Genesis
+[CHAPTER]: 4
+[VERSE]: 23
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And Lamech said to his wives: Adah and Zillah, listen to my voice — wives of Lamech, give ear to my word: For I have killed a man for my wound, and a youth for my bruise.
+
+[RENDERING NOTES]
+
+“Vayomer Lamech lenashav” = formal speech opening, marks shift to poetic address.
+Double imperative (“shma’an … ha’zenah”) — both feminine plural, invoking ritual or formal tone.
+“Ish … haragti” = “I killed a man,” direct and personal declaration.
+“Lefitzi … lechabburati” = “for my wound … for my bruise” — possessive, possibly justifying action.
+“Yeled” can mean “child,” “youth,” or simply “young one” — ambiguity retained.
+
+[INSERTION / HELPER WORD TRACKING]
+
+“To” inserted before “his wives” for syntactical clarity.
+Colon added after “wives” for spoken-text formatting.
+Em dashes used to clarify poetic structure between parallel commands.
+“For” added before “I have killed” to preserve Hebrew causal construction (“ki”).
+
+[CONTEXTUAL PLACEMENT]
+
+First biblical poetic speech by a human character.
+Spoken by Lamech, seventh in Cain’s line, following triad of cultural founders.
+Immediately precedes Line_00104, which continues the poem.
+Reflects deepening of Cainite themes: violence, pride, self-justification.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Builds directly from Line_00102 — closes genealogical arc with personal speech.
+Sets up poetic dyad: Line_00103 (action) and Line_00104 (comparison/boast).
+Echoes earlier fratricidal language (Cain and Abel), refracted through poetic boast.

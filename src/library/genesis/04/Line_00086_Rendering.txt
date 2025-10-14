@@ -1,0 +1,51 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00086
+[BOOK]: Genesis
+[CHAPTER]: 4
+[VERSE]: 6
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And YHWH said to Cain, “Why did you burn? And why have your face-facings fallen?”
+
+[RENDERING NOTES]
+
+“And YHWH said” renders וַיֹּאמֶר יְהוָה — recurring divine speech formula.
+“To Cain” preserves אֶל־קַיִן as directional phrase.
+“Why did you burn?” preserves לָמָה חָרָה לָךְ, using the emotional verb “charah” literally as “burn.”
+“Why have your face-facings fallen?” reflects וְלָמָה נָפְלוּ פָנֶיךָ, preserving plural “panim” with pronominal suffix.
+Maintains the poetic parallelism and emotional immediacy of the Hebrew.
+
+[INSERTION / HELPER WORD TRACKING]
+
+No interpretive helper words added.
+Retained literal phrasing for “burn” and “face-facings” to echo wordplay and idiom structure.
+Quotation marks used to frame direct speech.
+Tense choices based on perfect verb forms; subject and action preserved.
+
+[CONTEXTUAL PLACEMENT]
+
+This line initiates divine speech in response to Cain’s emotional state.
+It shifts the narrative into dialogic mode, introducing the divine voice as reflective and interrogative.
+The questions are rhetorical — inviting self-awareness rather than condemnation.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+The dual “lamah” structure frames the line symmetrically.
+Mirrors divine inquiry patterns seen in Genesis 3:9 (“Where are you?”) and 4:9 (“Where is your brother?”).
+The use of bodily and emotional language reflects holistic engagement — inner fire and outer collapse.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

@@ -1,0 +1,51 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00090
+[BOOK]: Genesis
+[CHAPTER]: 4
+[VERSE]: 10
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And He said, “What have you done? The voice of your brother’s bloods is crying out to Me from the ground.”
+
+[RENDERING NOTES]
+
+“And He said” translates וַיֹּאמֶר — divine speech continuation.
+“What have you done?” reflects מֶה עָשִׂיתָ — direct moral inquiry; identical to the question to Eve (Gen 3:13).
+“The voice of your brother’s bloods” keeps plural “demei” for intensity — indicating full life or multiplied impact.
+“Is crying out to Me” reflects participial צֹעֲקִים — continuous present, “crying” or “calling.”
+“From the ground” (מִן־הָאֲדָמָה) reintroduces “adamah” as witness medium; ties to Genesis 3:17 and 4:2.
+
+[INSERTION / HELPER WORD TRACKING]
+
+“Is” added to bridge English participial form.
+“To Me” maintained as direct prepositional translation of אֵלַי.
+All structure follows Hebrew sequence; minimal interpretive additions.
+
+[CONTEXTUAL PLACEMENT]
+
+Immediate divine response to Cain’s denial (v.9).
+Combines interrogation and revelation: what Cain has concealed is already known to the ground.
+Marks the first explicit moral link between human action and the voice of the earth.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Parallel to Genesis 3:13 (“What is this you have done?”).
+“Voice” (qol) paired with “bloods” (demei) creates multi-sensory synesthesia: sound rising from substance.
+The plural “bloods” anticipates the generational and communal consequences of the act.
+Earth as moral sensor: the ground records human action.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

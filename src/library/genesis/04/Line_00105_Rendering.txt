@@ -1,0 +1,50 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00105
+[BOOK]: Genesis
+[CHAPTER]: 4
+[VERSE]: 25
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And Adam knew his wife again, and she bore a son and called his name Seth, for God appointed for me another seed in place of Abel, because Cain killed him.
+
+[RENDERING NOTES]
+
+“Vayyéda‘” = “and he knew” — idiomatically denotes sexual union.
+“‘Od” = “again” — emphasizes continuity or renewal.
+“Ishto” = “his wife” — direct reference to Eve.
+“Vatteled ben” = “and she bore a son” — typical birth formula.
+“Vattiqra et-shemo” = “and she called his name” — naming action by the mother.
+“Shet” = Seth — phonetic and semantic wordplay with “shat-li” (“he appointed for me”).
+“Ki shat-li elohim” = “for God appointed for me” — attribution of divine intervention.
+“Zera acher” = “another seed” — continuation of lineage despite loss.
+“Tachat hevel” = “in place of Abel” — overt replacement language.
+“Ki harago qayin” = “because Cain killed him” — cause for Abel’s absence.
+
+[INSERTION / HELPER WORD TRACKING]
+
+“Again” drawn directly from “‘od.”
+“Because” (second instance of “ki”) added to distinguish causal clause.
+No smoothing or extrapolation introduced.
+
+[CONTEXTUAL PLACEMENT]
+
+Marks a re-centering of the human story after the Cain and Abel crisis.
+Introduces Seth as both a restoration and a transition toward a new genealogical line.
+Frames divine appointment as the source of ongoing lineage.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Mirrors Genesis 4:1 (Line_00080) structurally and thematically: birth, naming, attribution to God.
+Bridges Cain’s line (Genesis 4) and the Sethite genealogy (Genesis 5).
+Final narrative act in the Cain cycle — shifts focus to divine continuity.

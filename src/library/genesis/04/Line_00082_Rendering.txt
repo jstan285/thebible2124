@@ -1,0 +1,47 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00082
+[BOOK]: Genesis
+[CHAPTER]: 4
+[VERSE]: 2
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And she continued to bear his brother, Abel. And Abel became a shepherd of flocks, and Cain was a worker of the ground.
+
+[RENDERING NOTES]
+
+“She continued to bear” translates וַתֹּסֶף לָלֶדֶת (vattosef laledet), a causative form indicating repeated birth.
+“His brother, Abel” reflects אֶת־אָחִיו אֶת־הָבֶל, with doubled direct object markers emphasizing identification.
+“Abel became a shepherd of flocks” renders וַיְהִי הֶבֶל רֹעֵה צֹאן, where participle רֹעֵה (ro’eh) denotes occupational identity.
+“Cain was a worker of the ground” follows וְקַיִן הָיָה עֹבֵד אֲדָמָה, with participle עֹבֵד (oved) similarly expressing habitual action.
+
+[INSERTION / HELPER WORD TRACKING]
+
+Inserted “to” in “to bear” from infinitive construction לָלֶדֶת.
+Added “became” and “was” to preserve English readability for participle forms with “vayhi” and “hayah.”
+“Of” inserted in “shepherd of flocks” and “worker of the ground” for semantic linkage — not interpretive.
+
+[CONTEXTUAL PLACEMENT]
+
+Follows the birth of Cain and Eve’s declaration (v.1). Introduces the sibling, Abel, and sets early conditions for the coming narrative conflict.
+This line shifts the narrative from birth to identity — using occupation to foreshadow diverging paths.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+The mirrored participle structure (ro’eh / oved) establishes poetic parallelism.
+The use of “ground” (אֲדָמָה) echoes Adam’s origin and the earlier curse of the soil (Gen 3:17–19), suggesting deeper thematic layers for Cain’s role.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

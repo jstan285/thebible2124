@@ -1,0 +1,48 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00098
+[BOOK]: Genesis
+[CHAPTER]: 4
+[VERSE]: 18
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And to Enoch was born Irad. And Irad fathered Mehujael, and Mehujael fathered Methushael, and Methushael fathered Lamech.
+
+[RENDERING NOTES]
+
+“And to Enoch was born Irad” = וַיִּוָּלֵד לַחֲנוֹךְ אִירָד — passive verbal form, subject (“Irad”) receives action.
+“Yalad” (יָלַד) = standard verb for fathering or begetting; used three times here in perfect form.
+Use of direct object marker “et” (אֶת) before each name following “yalad” reinforces syntactic consistency.
+No verbs of movement or speech — strictly genealogical function.
+All four names are masculine proper nouns.
+
+[INSERTION / HELPER WORD TRACKING]
+
+“Was born” inserted to render Niphal passive appropriately in English.
+“Fathered” used consistently for “yalad” rather than “begot” or “gave birth to,” to match male lineage framing.
+“And” retains rhythm of vav-consecutive.
+No interpretive smoothing added.
+
+[CONTEXTUAL PLACEMENT]
+
+Continues Cain’s lineage after the city-building of Enoch.
+Forms a generational chain leading to Lamech — who receives extended attention in upcoming lines.
+No events described — purely generative progression.
+Establishes names without narrative traits — archetypal anonymity.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Four-generation sequence: Enoch → Irad → Mehujael → Methushael → Lamech.
+Symmetrical repetition of “yalad” creates genealogical rhythm.
+Opening passive form separates Enoch from the active fathering pattern — transition moment.
+Reinforces Cain’s descent as parallel but distinct from Seth’s later genealogy.

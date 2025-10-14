@@ -1,0 +1,191 @@
+=== LINE SOURCE FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00086
+[BOOK]: Genesis
+[CHAPTER]: 4
+[VERSE]: 6
+[FILE TYPE]: Line Source
+
+[INTRO]
+This file shows what the earliest Hebrew/Greek manuscripts say, word by word, before any interpretation.
+
+[PREFACE]
+This file presents the earliest traceable form of this line, drawn primarily from manuscript sources like the Leningrad Codex.
+Where other manuscript witnesses differ or offer meaningful variation (such as the Dead Sea Scrolls or the Samaritan Pentateuch), we remain watchful and will note those cases transparently when identified.
+Every word is shown with its full lexical range — without smoothing, interpretation, or insertion.
+This is not a translation or conclusion. It is a transparent starting point, open to personal encounter and divine resonance.
+We do not treat any human source as final — only as visible reference points for deeper unfolding.
+While we strive for care and clarity, any oversight or omission is unintentional, and all work remains open to refinement as understanding grows.
+
+[1. ORIGINAL LINE TEXT]
+Language: Hebrew
+Manuscript Source: Leningrad Codex
+Line Reference: Genesis 4:6
+
+וַיֹּאמֶר יְהוָה אֶל־קַיִן לָמָה חָרָה לָךְ וְלָמָה נָפְלוּ פָנֶיךָ
+
+[2. DIRECT TRANSLITERATION]
+
+vayomer YHWH el-qayin lamah charah lakh ve-lamah naflu faneikha
+
+[3. WORD-BY-WORD LEXICAL BREAKDOWN]
+
+[WORD 1]
+Original: וַיֹּאמֶר
+Transliteration: vayomer
+Lexical Root: אמר (amar)
+Part of Speech: Verb
+Grammatical Info: Qal imperfect 3rd person masculine singular with vav-consecutive
+Lexical Range:
+
+to say
+
+to speak
+
+to declare
+
+to utter
+
+[WORD 2]
+Original: יְהוָה
+Transliteration: YHWH
+Lexical Root: —
+Part of Speech: Proper noun
+Grammatical Info: Tetragrammaton
+Lexical Range:
+
+YHWH (divine name)
+
+the LORD (in traditional rendering)
+
+[WORD 3]
+Original: אֶל־קַיִן
+Transliteration: el-qayin
+Lexical Root: אל (el) + קין (qayin)
+Part of Speech: Preposition + proper noun
+Grammatical Info: Directional phrase
+Lexical Range:
+
+to Qayin
+
+toward Qayin
+
+in reference to Qayin
+
+[WORD 4]
+Original: לָמָה
+Transliteration: lamah
+Lexical Root: למה (lamah)
+Part of Speech: Interrogative
+Grammatical Info: —
+Lexical Range:
+
+why
+
+for what reason
+
+to what end
+
+[WORD 5]
+Original: חָרָה
+Transliteration: charah
+Lexical Root: חרה (charah)
+Part of Speech: Verb
+Grammatical Info: Qal perfect 3rd person masculine singular
+Lexical Range:
+
+to burn
+
+to become hot
+
+to be angry
+
+to be kindled (emotionally)
+
+[WORD 6]
+Original: לָךְ
+Transliteration: lakh
+Lexical Root: ל (le) + אתה (atah)
+Part of Speech: Preposition + pronoun
+Grammatical Info: Second person masculine singular
+Lexical Range:
+
+to you
+
+for you
+
+concerning you
+
+[WORD 7]
+Original: וְלָמָה
+Transliteration: ve-lamah
+Lexical Root: ו (ve) + למה (lamah)
+Part of Speech: Conjunction + Interrogative
+Grammatical Info: —
+Lexical Range:
+
+and why
+
+and for what reason
+
+and to what end
+
+[WORD 8]
+Original: נָפְלוּ
+Transliteration: naflu
+Lexical Root: נפל (naphal)
+Part of Speech: Verb
+Grammatical Info: Qal perfect 3rd person plural
+Lexical Range:
+
+they fell
+
+they collapsed
+
+they descended
+
+they slumped
+
+[WORD 9]
+Original: פָנֶיךָ
+Transliteration: faneikha
+Lexical Root: פנים (panim)
+Part of Speech: Noun + pronominal suffix
+Grammatical Info: Plural noun with 2nd person masculine singular suffix
+Lexical Range:
+
+your face
+
+your appearance
+
+your countenance
+Notable Observations:
+
+“Panim” is morphologically plural but functionally singular in idiomatic use
+
+[4. STRUCTURAL NOTES]
+
+The line is composed of a divine question formed in two parallel interrogatives, both beginning with “lamah.”
+The first clause “lamah charah lakh” reflects emotional state; the second, “ve-lamah naflu faneikha,” physical expression of that state.
+The verbs “charah” and “naflu” are both perfect forms, indicating completed condition or current result.
+Pronoun suffixes ("lakh", "faneikha") personalize the address toward Qayin.
+
+[5. VARIANT MANUSCRIPT NOTES]
+
+No significant textual variants noted in Masoretic manuscripts.
+Septuagint rendering reflects similar structure but paraphrases “why are you pained” in place of “burned.”
+
+[6. STRUCTURAL CONNECTION TO OTHER LINES]
+
+Direct continuation of Line_00085 (Genesis 4:5), with "charah" echoing Cain’s emotional state.
+The motif of divine inquiry (“vayomer YHWH el...”) recurs in Genesis 3:9 and 4:9.
+The rhetorical dual-question structure anticipates themes of personal accountability and inner posture.
+
+[7. CAUTIONARY REMINDER]
+The content above does not represent a translation.
+No conclusions, smoothing, or interpretive decisions have been made.
+This file serves only to display the original structure and lexical range as transparently as possible.

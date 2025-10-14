@@ -1,0 +1,52 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00088
+[BOOK]: Genesis
+[CHAPTER]: 4
+[VERSE]: 8
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And Cain said to Abel his brother. And it happened, when they were in the field—Cain rose up against Abel his brother, and he killed him.
+
+[RENDERING NOTES]
+
+“And Cain said to Abel his brother” reflects וַיֹּאמֶר קַיִן אֶל־הֶבֶל אָחִיו — a typical speech-introduction formula, though no words are preserved in MT.
+“And it happened, when they were in the field” preserves וַיְהִי בִּהְיוֹתָם בַּשָּׂדֶה as temporal setting.
+“Cain rose up against Abel his brother” renders וַיָּקָם קַיִן אֶל־הֶבֶל אָחִיו with explicit directional intent.
+“And he killed him” renders וַיַּהַרְגֵהוּ — retaining suffix clarity (“he killed him”).
+Repetition of “Abel his brother” mirrors Hebrew and emphasizes relationship.
+
+[INSERTION / HELPER WORD TRACKING]
+
+Sentence-ending punctuation added for clarity.
+No interpretive smoothing — retained abrupt transition from speech intro to action.
+No quotation inserted despite missing speech in MT; preserved textual silence.
+“When” added for temporal linkage (“bihyotam”).
+
+[CONTEXTUAL PLACEMENT]
+
+Narrative apex of Cain-Abel arc.
+First recorded act of interpersonal violence — human-originated death.
+Follows unheeded divine warning and threshold temptation.
+Textual silence after “he said” invites interpretive space.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+“Vayomer… vayhi… vayaqam… vayahargehu” — cascading verbal sequence.
+Parallel of “el-Hevel achiv” at start and midpoint frames the fraternal relationship.
+Suddenness reflects moral rupture — no explanation, no delay.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

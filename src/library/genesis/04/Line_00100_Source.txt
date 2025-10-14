@@ -1,0 +1,178 @@
+=== LINE SOURCE FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00100
+[BOOK]: Genesis
+[CHAPTER]: 4
+[VERSE]: 20
+[FILE TYPE]: Line Source
+
+[INTRO]
+This file shows what the earliest Hebrew/Greek manuscripts say, word by word, before any interpretation.
+
+[PREFACE]
+This file presents the earliest traceable form of this line, drawn primarily from manuscript sources like the Leningrad Codex.
+Where other manuscript witnesses differ or offer meaningful variation (such as the Dead Sea Scrolls or the Samaritan Pentateuch), we remain watchful and will note those cases transparently when identified.
+Every word is shown with its full lexical range — without smoothing, interpretation, or insertion.
+This is not a translation or conclusion. It is a transparent starting point, open to personal encounter and divine resonance.
+We do not treat any human source as final — only as visible reference points for deeper unfolding.
+While we strive for care and clarity, any oversight or omission is unintentional, and all work remains open to refinement as understanding grows.
+
+[1. ORIGINAL LINE TEXT]
+Language: Hebrew
+Manuscript Source: Leningrad Codex
+Line Reference: Genesis 4:20
+
+וַתֵּלֶד עָדָה אֶת־יָבָל הוּא הָיָה אֲבִי יֹשֵׁב אֹהֶל וּמִקְנֶה
+
+[2. DIRECT TRANSLITERATION]
+
+vatteled adah et-yaval hu hayah avi yoshev ohel u-miqneh
+
+[3. WORD-BY-WORD LEXICAL BREAKDOWN]
+
+[WORD 1]
+Original: וַתֵּלֶד
+Transliteration: vatteled
+Lexical Root: ילד (yalad)
+Part of Speech: Verb
+Grammatical Info: Qal imperfect 3rd person feminine singular with vav-consecutive
+Lexical Range:
+
+she bore
+
+she gave birth
+
+she brought forth
+
+[WORD 2]
+Original: עָדָה
+Transliteration: adah
+Lexical Root: עדה (adah)
+Part of Speech: Proper noun
+Grammatical Info: Feminine singular
+Lexical Range:
+
+Adah (personal name)
+
+[WORD 3]
+Original: אֶת־יָבָל
+Transliteration: et-yaval
+Lexical Root: יבל (yaval)
+Part of Speech: Direct object marker + proper noun
+Grammatical Info: Masculine singular
+Lexical Range:
+
+Jabal (personal name)
+
+[WORD 4]
+Original: הוּא
+Transliteration: hu
+Lexical Root: הוא (hu)
+Part of Speech: Pronoun
+Grammatical Info: 3rd person masculine singular
+Lexical Range:
+
+he
+
+it (masc.)
+
+[WORD 5]
+Original: הָיָה
+Transliteration: hayah
+Lexical Root: היה (hayah)
+Part of Speech: Verb
+Grammatical Info: Qal perfect 3rd person masculine singular
+Lexical Range:
+
+he was
+
+he became
+
+he existed
+
+[WORD 6]
+Original: אֲבִי
+Transliteration: avi
+Lexical Root: אב (av)
+Part of Speech: Noun with pronominal suffix (construct form)
+Grammatical Info: Masculine singular construct with 3rd person masculine singular suffix
+Lexical Range:
+
+father of
+
+ancestor of
+
+founder of
+
+[WORD 7]
+Original: יֹשֵׁב
+Transliteration: yoshev
+Lexical Root: ישב (yashav)
+Part of Speech: Participle
+Grammatical Info: Masculine singular active
+Lexical Range:
+
+dweller
+
+inhabitant
+
+one who sits
+
+settler
+
+[WORD 8]
+Original: אֹהֶל
+Transliteration: ohel
+Lexical Root: אהל (ohel)
+Part of Speech: Noun
+Grammatical Info: Masculine singular
+Lexical Range:
+
+tent
+
+dwelling
+
+shelter
+
+[WORD 9]
+Original: וּמִקְנֶה
+Transliteration: u-miqneh
+Lexical Root: מקנה (miqneh)
+Part of Speech: Conjunction + noun
+Grammatical Info: Masculine singular
+Lexical Range:
+
+and livestock
+
+and cattle
+
+and property (movable, usually herds)
+
+[4. STRUCTURAL NOTES]
+
+Sentence divides into two parts: birth declaration and role identification.
+“Vatteled Adah et-Yaval” is a direct genealogical clause.
+“Hu hayah avi …” forms an explanatory apposition—identifying the child’s vocational lineage.
+Construct form “avi yoshev” links fatherhood with occupational designation.
+Dual spheres: “tent” (dwelling) and “livestock” (economic role).
+
+[5. VARIANT MANUSCRIPT NOTES]
+
+LXX renders name as “Jabal” and keeps basic clause structure.
+Samaritan Pentateuch conforms to MT.
+No DSS variant known for this verse.
+
+[6. STRUCTURAL CONNECTION TO OTHER LINES]
+
+Continues the line of Lamech’s descendants (Line_00099).
+Begins vocational identity motif in Cainite genealogy, echoed in Jubal (music) and Tubal-cain (metalwork).
+Sets thematic contrast with later agricultural and nomadic developments.
+
+[7. CAUTIONARY REMINDER]
+The content above does not represent a translation.
+No conclusions, smoothing, or interpretive decisions have been made.
+This file serves only to display the original structure and lexical range as transparently as possible.

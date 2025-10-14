@@ -1,0 +1,45 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00102
+[BOOK]: Genesis
+[CHAPTER]: 4
+[VERSE]: 22
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And Zillah — she also bore Tubal-cain, a forger of all tools of bronze and iron. And the sister of Tubal-cain was Naamah.
+
+[RENDERING NOTES]
+
+“Ve-tsillah gam-hi yaldah” = “and Zillah, she also bore” — structural echo of prior genealogical formula.
+“Et-Tuwval Qayin” = Tubal-cain; compound name retaining Cain lineage explicitly.
+“Lotesh kol-choresh” = participial construction, meaning “forger/sharpener of all craftsmen” or “of all tool-workers.”
+“Nechoshet u-varzel” = “bronze and iron” — two distinct but significant ancient metals.
+Final clause introduces Naamah with no action verb; syntactically independent, possibly for emphasis.
+
+[INSERTION / HELPER WORD TRACKING]
+
+“A” added before “forger” to accommodate English readability.
+“Tools of” inserted to clarify what is being forged — implied by “choresh” but not lexically explicit.
+“Was” and “the” added before “sister” to preserve flow and match construction.
+
+[CONTEXTUAL PLACEMENT]
+
+Final figure in triadic presentation of Lamech’s sons — completing vocational lineage.
+Introduces metallurgy as a major human domain, alongside livestock (Line_00100) and music (Line_00101).
+Naamah’s presence introduces first named sister in Hebrew scripture.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Repeats birthing formula; ends triad of cultural founders (Jabal, Jubal, Tubal-cain).
+Only this line includes a sibling without a functional domain — Naamah stands apart.
+Aligns with Genesis’s larger arc of cultural emergence post-Eden, pre-Flood.

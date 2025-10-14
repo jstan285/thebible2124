@@ -1,0 +1,160 @@
+=== LINE SOURCE FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00096
+[BOOK]: Genesis
+[CHAPTER]: 4
+[VERSE]: 16
+[FILE TYPE]: Line Source
+
+[INTRO]
+This file shows what the earliest Hebrew/Greek manuscripts say, word by word, before any interpretation.
+
+[PREFACE]
+This file presents the earliest traceable form of this line, drawn primarily from manuscript sources like the Leningrad Codex.
+Where other manuscript witnesses differ or offer meaningful variation (such as the Dead Sea Scrolls or the Samaritan Pentateuch), we remain watchful and will note those cases transparently when identified.
+Every word is shown with its full lexical range — without smoothing, interpretation, or insertion.
+This is not a translation or conclusion. It is a transparent starting point, open to personal encounter and divine resonance.
+We do not treat any human source as final — only as visible reference points for deeper unfolding.
+While we strive for care and clarity, any oversight or omission is unintentional, and all work remains open to refinement as understanding grows.
+
+[1. ORIGINAL LINE TEXT]
+Language: Hebrew
+Manuscript Source: Leningrad Codex
+Line Reference: Genesis 4:16
+
+וַיֵּצֵא קַיִן מִלִּפְנֵי יְהוָה וַיֵּשֶׁב בְּאֶרֶץ־נוֹד קִדְמַת־עֵדֶן
+
+[2. DIRECT TRANSLITERATION]
+
+vayetze qayin milifnei YHWH vayyéshev be’eretz-nod kidmat-eden
+
+[3. WORD-BY-WORD LEXICAL BREAKDOWN]
+
+[WORD 1]
+Original: וַיֵּצֵא
+Transliteration: vayetze
+Lexical Root: יצא (yatsa)
+Part of Speech: Verb
+Grammatical Info: Qal imperfect 3rd person masculine singular with vav-consecutive
+Lexical Range:
+
+he went out
+
+he departed
+
+he exited
+
+[WORD 2]
+Original: קַיִן
+Transliteration: qayin
+Lexical Root: קין (qayin)
+Part of Speech: Proper noun
+Grammatical Info: Masculine singular
+Lexical Range:
+
+Cain (personal name)
+
+[WORD 3]
+Original: מִלִּפְנֵי
+Transliteration: milifnei
+Lexical Root: מן (min) + לפני (lifnei)
+Part of Speech: Preposition + construct noun
+Grammatical Info: Construct with prefixed preposition
+Lexical Range:
+
+from before
+
+from the presence of
+
+away from facing
+
+[WORD 4]
+Original: יְהוָה
+Transliteration: YHWH
+Lexical Root: —
+Part of Speech: Proper noun
+Grammatical Info: Tetragrammaton
+Lexical Range:
+
+the LORD
+
+YHWH (divine name)
+
+[WORD 5]
+Original: וַיֵּשֶׁב
+Transliteration: vayyeshev
+Lexical Root: ישב (yashav)
+Part of Speech: Verb
+Grammatical Info: Qal imperfect 3rd person masculine singular with vav-consecutive
+Lexical Range:
+
+he dwelled
+
+he settled
+
+he inhabited
+
+he sat
+
+[WORD 6]
+Original: בְּאֶרֶץ־נוֹד
+Transliteration: be’eretz-nod
+Lexical Root: ארץ (eretz) + נוד (nod)
+Part of Speech: Preposition + noun (construct)
+Grammatical Info: Feminine singular
+Lexical Range:
+
+in the land of Nod
+
+within the territory of wandering
+Notable Observations:
+
+“Nod” shares root with “na va-nad” from previous verses (wander/flee)
+
+[WORD 7]
+Original: קִדְמַת־עֵדֶן
+Transliteration: kidmat-eden
+Lexical Root: קדם (qedem) + עדן (eden)
+Part of Speech: Noun in construct
+Grammatical Info: Feminine singular construct + proper noun
+Lexical Range:
+
+east of Eden
+
+toward the front of Eden
+
+facing Eden
+Notable Observations:
+
+“Qedem” can imply directional (east) or temporal (ancient) significance
+
+“Eden” is previously introduced in Genesis 2:8
+
+[4. STRUCTURAL NOTES]
+
+Double vav-consecutive verbs (“vayetze … vayyeshev”) create sequential narrative flow.
+“Milifnei YHWH” expresses relational departure — presence being left.
+“Be’eretz-nod” combines physical geography with thematic exile.
+Construct “kidmat-eden” forms directional positioning — Eden remains a fixed point of reference.
+
+[5. VARIANT MANUSCRIPT NOTES]
+
+LXX (Septuagint) aligns closely: “Cain went out from the presence of God and dwelt in the land of Nod, east of Eden.”
+Samaritan Pentateuch supports MT text with no significant variation noted.
+No known Dead Sea Scrolls fragments for this line.
+
+[6. STRUCTURAL CONNECTION TO OTHER LINES]
+
+Concludes the Cain narrative arc that began in Genesis 4:1 (Line_00081).
+Continues and finalizes the exile theme initiated in Genesis 3:24 and 4:11–14.
+“Nod” reflects Cain’s earlier judgment to become a “na va-nad” (wanderer and fugitive).
+Eden as orienting point remains consistent with Genesis 2–3 framework.
+
+[7. CAUTIONARY REMINDER]
+The content above does not represent a translation.
+No conclusions, smoothing, or interpretive decisions have been made.
+This file serves only to display the original structure and lexical range as transparently as possible.

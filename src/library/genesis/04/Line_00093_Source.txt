@@ -1,0 +1,158 @@
+=== LINE SOURCE FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00093
+[BOOK]: Genesis
+[CHAPTER]: 4
+[VERSE]: 13
+[FILE TYPE]: Line Source
+
+[INTRO]
+This file shows what the earliest Hebrew/Greek manuscripts say, word by word, before any interpretation.
+
+[PREFACE]
+This file presents the earliest traceable form of this line, drawn primarily from manuscript sources like the Leningrad Codex.
+Where other manuscript witnesses differ or offer meaningful variation (such as the Dead Sea Scrolls or the Samaritan Pentateuch), we remain watchful and will note those cases transparently when identified.
+Every word is shown with its full lexical range — without smoothing, interpretation, or insertion.
+This is not a translation or conclusion. It is a transparent starting point, open to personal encounter and divine resonance.
+We do not treat any human source as final — only as visible reference points for deeper unfolding.
+While we strive for care and clarity, any oversight or omission is unintentional, and all work remains open to refinement as understanding grows.
+
+[1. ORIGINAL LINE TEXT]
+Language: Hebrew
+Manuscript Source: Leningrad Codex
+Line Reference: Genesis 4:13
+
+וַיֹּאמֶר קַיִן אֶל־יְהוָה גָּדוֹל עֲוֺנִי מִנְּשֹׂא
+
+[2. DIRECT TRANSLITERATION]
+
+vayomer qayin el-YHWH gadol avoni min-neso
+
+[3. WORD-BY-WORD LEXICAL BREAKDOWN]
+
+[WORD 1]
+Original: וַיֹּאמֶר
+Transliteration: vayomer
+Lexical Root: אמר (amar)
+Part of Speech: Verb
+Grammatical Info: Qal imperfect 3rd person masculine singular with vav-consecutive
+Lexical Range:
+
+to say
+
+to speak
+
+to declare
+
+to respond
+
+[WORD 2]
+Original: קַיִן
+Transliteration: qayin
+Lexical Root: קין (qayin)
+Part of Speech: Proper noun
+Grammatical Info: Masculine singular proper name
+Lexical Range:
+
+Cain
+
+personal name meaning “acquired” or “forged”
+
+[WORD 3]
+Original: אֶל־יְהוָה
+Transliteration: el-YHWH
+Lexical Root: אל (el) + יהוה (YHWH)
+Part of Speech: Preposition + proper noun
+Grammatical Info: —
+Lexical Range:
+
+to YHWH
+
+toward the LORD
+
+[WORD 4]
+Original: גָּדוֹל
+Transliteration: gadol
+Lexical Root: גדל (gadal)
+Part of Speech: Adjective
+Grammatical Info: Masculine singular absolute
+Lexical Range:
+
+great
+
+large
+
+immense
+
+powerful
+
+severe
+
+important
+
+[WORD 5]
+Original: עֲוֺנִי
+Transliteration: avoni
+Lexical Root: עון (avon)
+Part of Speech: Noun + pronominal suffix
+Grammatical Info: Masculine singular with 1st person singular suffix
+Lexical Range:
+
+my guilt
+
+my iniquity
+
+my wrongdoing
+
+my punishment
+Notable Observations:
+
+The root “avon” can refer both to the wrongdoing and its consequence
+
+[WORD 6]
+Original: מִנְּשֹׂא
+Transliteration: min-neso
+Lexical Root: נשׂא (nasa)
+Part of Speech: Preposition + infinitive construct
+Grammatical Info: —
+Lexical Range:
+
+from bearing
+
+from lifting
+
+from carrying
+
+too much to endure
+Notable Observations:
+
+Construct phrase used idiomatically to express unbearable burden
+
+[4. STRUCTURAL NOTES]
+
+A short but intense lament, structured as a declaration from Cain to YHWH.
+The predicate “gadol” precedes the subject “avoni,” emphasizing severity.
+The phrase “min-neso” functions idiomatically — “greater than can be borne.”
+No explicit verb is used between subject and predicate, a common biblical structure for emphatic declarations.
+This is Cain’s only direct response to the judgment sequence.
+
+[5. VARIANT MANUSCRIPT NOTES]
+
+LXX (Septuagint) renders: “My crime is too great for me to be forgiven,” adding interpretive weight not present in the MT.
+Samaritan Pentateuch mirrors MT closely, preserving compact form.
+No known DSS variants extant for this verse.
+
+[6. STRUCTURAL CONNECTION TO OTHER LINES]
+
+Immediate response to Genesis 4:12 (Line_00092), forming a reaction-judgment pattern.
+The use of “avon” anticipates its reappearance in legal and sacrificial contexts throughout Torah (e.g., Leviticus 16).
+Connects structurally to other burden-bearing phrases (e.g., Exodus 18:18; Numbers 11:14).
+
+[7. CAUTIONARY REMINDER]
+The content above does not represent a translation.
+No conclusions, smoothing, or interpretive decisions have been made.
+This file serves only to display the original structure and lexical range as transparently as possible.

@@ -1,0 +1,204 @@
+=== LINE SOURCE FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00099
+[BOOK]: Genesis
+[CHAPTER]: 4
+[VERSE]: 19
+[FILE TYPE]: Line Source
+
+[INTRO]
+This file shows what the earliest Hebrew/Greek manuscripts say, word by word, before any interpretation.
+
+[PREFACE]
+This file presents the earliest traceable form of this line, drawn primarily from manuscript sources like the Leningrad Codex.
+Where other manuscript witnesses differ or offer meaningful variation (such as the Dead Sea Scrolls or the Samaritan Pentateuch), we remain watchful and will note those cases transparently when identified.
+Every word is shown with its full lexical range — without smoothing, interpretation, or insertion.
+This is not a translation or conclusion. It is a transparent starting point, open to personal encounter and divine resonance.
+We do not treat any human source as final — only as visible reference points for deeper unfolding.
+While we strive for care and clarity, any oversight or omission is unintentional, and all work remains open to refinement as understanding grows.
+
+[1. ORIGINAL LINE TEXT]
+Language: Hebrew
+Manuscript Source: Leningrad Codex
+Line Reference: Genesis 4:19
+
+וַיִּקַּח לוֹ לֶמֶךְ שְׁתֵּי נָשִׁים שֵׁם הָאַחַת עָדָה וְשֵׁם הַשֵּׁנִית צִלָּה
+
+[2. DIRECT TRANSLITERATION]
+
+vayyiqqach lo lemekh shtei nashim shem ha’akhat adah ve-shem hashenit tsillah
+
+[3. WORD-BY-WORD LEXICAL BREAKDOWN]
+
+[WORD 1]
+Original: וַיִּקַּח
+Transliteration: vayyiqqach
+Lexical Root: לקח (laqach)
+Part of Speech: Verb
+Grammatical Info: Qal imperfect 3rd person masculine singular with vav-consecutive
+Lexical Range:
+
+he took
+
+he seized
+
+he acquired
+
+he selected
+
+[WORD 2]
+Original: לוֹ
+Transliteration: lo
+Lexical Root: ל (le) + הוא (hu)
+Part of Speech: Preposition + pronoun
+Grammatical Info: 3rd person masculine singular
+Lexical Range:
+
+for himself
+
+to himself
+
+for him
+
+[WORD 3]
+Original: לֶמֶךְ
+Transliteration: lemekh
+Lexical Root: למך (lamekh)
+Part of Speech: Proper noun
+Grammatical Info: Masculine singular
+Lexical Range:
+
+Lamech (personal name)
+
+[WORD 4]
+Original: שְׁתֵּי
+Transliteration: shtei
+Lexical Root: שתים (shtayim)
+Part of Speech: Numeral (dual)
+Grammatical Info: Construct feminine dual
+Lexical Range:
+
+two (of)
+
+pair (of)
+
+[WORD 5]
+Original: נָשִׁים
+Transliteration: nashim
+Lexical Root: אשה (ishah)
+Part of Speech: Noun
+Grammatical Info: Feminine plural irregular
+Lexical Range:
+
+women
+
+wives
+
+females
+
+[WORD 6]
+Original: שֵׁם
+Transliteration: shem
+Lexical Root: שם (shem)
+Part of Speech: Noun
+Grammatical Info: Masculine singular
+Lexical Range:
+
+name
+
+designation
+
+title
+
+[WORD 7]
+Original: הָאַחַת
+Transliteration: ha’akhat
+Lexical Root: אחד (echad)
+Part of Speech: Numeral
+Grammatical Info: Feminine singular with definite article
+Lexical Range:
+
+the one
+
+the first
+
+one (female)
+
+[WORD 8]
+Original: עָדָה
+Transliteration: adah
+Lexical Root: עדה (adah)
+Part of Speech: Proper noun
+Grammatical Info: Feminine singular
+Lexical Range:
+
+Adah (personal name)
+Notable Observations:
+
+Derived possibly from “adorn” or “assembly” roots
+
+[WORD 9]
+Original: וְשֵׁם
+Transliteration: ve-shem
+Lexical Root: ו (vav) + שם (shem)
+Part of Speech: Conjunction + noun
+Grammatical Info: —
+Lexical Range:
+
+and name
+
+and the designation
+
+[WORD 10]
+Original: הַשֵּׁנִית
+Transliteration: hashenit
+Lexical Root: שני (sheni)
+Part of Speech: Ordinal numeral (feminine)
+Grammatical Info: Feminine singular with definite article
+Lexical Range:
+
+the second (feminine)
+
+second one
+
+[WORD 11]
+Original: צִלָּה
+Transliteration: tsillah
+Lexical Root: צלה (tsillah)
+Part of Speech: Proper noun
+Grammatical Info: Feminine singular
+Lexical Range:
+
+Zillah (personal name)
+Notable Observations:
+
+Possibly related to “shade” or “protection”
+
+[4. STRUCTURAL NOTES]
+
+Narrative structure: introductory verb + personal action + relational context.
+“Vayyiqqach lo” construction common for marriage-taking or covenant-initiated unions.
+First recorded instance of polygamy in biblical text.
+Parallel clauses: “shem ha’akhat … ve-shem hashenit” provide symmetrical naming.
+Placement of names at the end of each clause emphasizes identity and continuity.
+
+[5. VARIANT MANUSCRIPT NOTES]
+
+LXX reflects same structure, though names are rendered in Greek (e.g., Ada, Sella).
+Samaritan Pentateuch agrees with MT in content and order.
+No extant DSS fragments for this verse identified.
+
+[6. STRUCTURAL CONNECTION TO OTHER LINES]
+
+Begins Lamech’s household record, leading to significant descendants (Genesis 4:20–22).
+Continues genealogical sequence from Line_00098 (Genesis 4:18).
+Introduction of multiple wives mirrors later patriarchal practices (e.g., Abraham, Jacob), though this is first appearance.
+
+[7. CAUTIONARY REMINDER]
+The content above does not represent a translation.
+No conclusions, smoothing, or interpretive decisions have been made.
+This file serves only to display the original structure and lexical range as transparently as possible.

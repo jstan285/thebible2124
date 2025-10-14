@@ -1,0 +1,283 @@
+=== LINE SOURCE FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00103
+[BOOK]: Genesis
+[CHAPTER]: 4
+[VERSE]: 23
+[FILE TYPE]: Line Source
+
+[INTRO]
+This file shows what the earliest Hebrew/Greek manuscripts say, word by word, before any interpretation.
+
+[PREFACE]
+This file presents the earliest traceable form of this line, drawn primarily from manuscript sources like the Leningrad Codex.
+Where other manuscript witnesses differ or offer meaningful variation (such as the Dead Sea Scrolls or the Samaritan Pentateuch), we remain watchful and will note those cases transparently when identified.
+Every word is shown with its full lexical range — without smoothing, interpretation, or insertion.
+This is not a translation or conclusion. It is a transparent starting point, open to personal encounter and divine resonance.
+We do not treat any human source as final — only as visible reference points for deeper unfolding.
+While we strive for care and clarity, any oversight or omission is unintentional, and all work remains open to refinement as understanding grows.
+
+[1. ORIGINAL LINE TEXT]
+Language: Hebrew
+Manuscript Source: Leningrad Codex
+Line Reference: Genesis 4:23
+
+וַיֹּאמֶר לֶמֶךְ לְנָשָׁיו עָדָה וְצִלָּה שְׁמַעַן קוֹלִי נְשֵׁי לֶמֶךְ הַאְזֵנָּה אִמְרָתִי כִּי־אִישׁ הָרַגְתִּי לְפִצְעִי וְיֶלֶד לְחַבֻּרָתִי
+
+[2. DIRECT TRANSLITERATION]
+
+vayomer lemekh lenashav adah ve-tsillah shma’an qoli n’shei lemekh ha’zenah imrati ki-ish haragti lefitzi vayeled lechabburati
+
+[3. WORD-BY-WORD LEXICAL BREAKDOWN]
+
+[WORD 1]
+Original: וַיֹּאמֶר
+Transliteration: vayomer
+Lexical Root: אמר (amar)
+Part of Speech: Verb
+Grammatical Info: Qal imperfect 3rd person masculine singular with vav-consecutive
+Lexical Range:
+
+and he said
+
+and he spoke
+
+and he declared
+
+[WORD 2]
+Original: לֶמֶךְ
+Transliteration: lemekh
+Lexical Root: למך (lemekh)
+Part of Speech: Proper noun
+Grammatical Info: Masculine singular
+Lexical Range:
+
+Lamech (personal name)
+
+[WORD 3]
+Original: לְנָשָׁיו
+Transliteration: lenashav
+Lexical Root: ל (le) + נשים (nashim)
+Part of Speech: Preposition + noun with pronominal suffix
+Grammatical Info: Feminine plural with 3rd person masculine singular suffix
+Lexical Range:
+
+to his wives
+
+for his women
+
+[WORD 4]
+Original: עָדָה
+Transliteration: adah
+Lexical Root: עדה (adah)
+Part of Speech: Proper noun
+Grammatical Info: Feminine singular
+Lexical Range:
+
+Adah (personal name)
+
+[WORD 5]
+Original: וְצִלָּה
+Transliteration: ve-tsillah
+Lexical Root: ו (vav) + צלה (tsillah)
+Part of Speech: Conjunction + proper noun
+Grammatical Info: Feminine singular
+Lexical Range:
+
+and Zillah (personal name)
+
+[WORD 6]
+Original: שְׁמַעַן
+Transliteration: shma’an
+Lexical Root: שמע (shama)
+Part of Speech: Verb (imperative)
+Grammatical Info: Qal imperative 2nd person feminine plural
+Lexical Range:
+
+hear
+
+listen
+
+pay attention
+
+[WORD 7]
+Original: קוֹלִי
+Transliteration: qoli
+Lexical Root: קול (qol)
+Part of Speech: Noun with pronominal suffix
+Grammatical Info: Masculine singular + 1st person singular suffix
+Lexical Range:
+
+my voice
+
+my sound
+
+my cry
+
+[WORD 8]
+Original: נְשֵׁי
+Transliteration: n’shei
+Lexical Root: נשים (nashim)
+Part of Speech: Noun (construct)
+Grammatical Info: Feminine plural
+Lexical Range:
+
+wives of
+
+women of
+
+[WORD 9]
+Original: לֶמֶךְ
+Transliteration: lemekh
+Lexical Root: למך (lemekh)
+Part of Speech: Proper noun
+Grammatical Info: Masculine singular
+Lexical Range:
+
+Lamech (repetition)
+
+[WORD 10]
+Original: הַאְזֵנָּה
+Transliteration: ha’zenah
+Lexical Root: אזן (azan)
+Part of Speech: Verb (imperative)
+Grammatical Info: Hiphil imperative 2nd person feminine plural
+Lexical Range:
+
+give ear
+
+listen attentively
+
+incline the ear
+
+[WORD 11]
+Original: אִמְרָתִי
+Transliteration: imrati
+Lexical Root: אמר (amar)
+Part of Speech: Noun with pronominal suffix
+Grammatical Info: Feminine singular + 1st person singular suffix
+Lexical Range:
+
+my utterance
+
+my saying
+
+my word
+
+[WORD 12]
+Original: כִּי
+Transliteration: ki
+Lexical Root: כי (ki)
+Part of Speech: Conjunction
+Lexical Range:
+
+for
+
+because
+
+that
+
+indeed
+
+[WORD 13]
+Original: אִישׁ
+Transliteration: ish
+Lexical Root: איש (ish)
+Part of Speech: Noun
+Grammatical Info: Masculine singular
+Lexical Range:
+
+man
+
+individual
+
+person
+
+male
+
+[WORD 14]
+Original: הָרַגְתִּי
+Transliteration: haragti
+Lexical Root: הרג (harag)
+Part of Speech: Verb
+Grammatical Info: Qal perfect 1st person singular
+Lexical Range:
+
+I killed
+
+I slew
+
+I struck down
+
+[WORD 15]
+Original: לְפִצְעִי
+Transliteration: lefitzi
+Lexical Root: פצע (petza)
+Part of Speech: Noun with pronominal suffix
+Grammatical Info: Masculine singular + 1st person singular suffix
+Lexical Range:
+
+for my wound
+
+to my injury
+
+because of my blow
+
+[WORD 16]
+Original: וְיֶלֶד
+Transliteration: vayeled
+Lexical Root: ילד (yeled)
+Part of Speech: Noun
+Grammatical Info: Masculine singular
+Lexical Range:
+
+and a child
+
+and a youth
+
+and a boy
+
+[WORD 17]
+Original: לְחַבֻּרָתִי
+Transliteration: lechabburati
+Lexical Root: חבורה (chabburah)
+Part of Speech: Noun with pronominal suffix
+Grammatical Info: Feminine singular + 1st person singular suffix
+Lexical Range:
+
+for my bruise
+
+because of my wound
+
+from my stripe
+
+[4. STRUCTURAL NOTES]
+
+Formal poetic speech: double imperative followed by declarative clauses.
+Feminine plural commands addressed directly to Lamech’s wives—unusual grammatical pattern.
+Internal parallelism between “shma’an qoli” and “ha’zenah imrati.”
+“Ki … haragti” clause is assertive; structure implies causality or justification.
+Use of singular “ish” and “yeled” introduces ambiguity in referents.
+Lexical repetition reinforces emotional and rhythmic cadence.
+
+[5. VARIANT MANUSCRIPT NOTES]
+
+LXX follows structure closely but varies in intensity of terms (e.g., translates “yeled” as “young man”).
+No major variant from Samaritan Pentateuch.
+DSS fragments do not preserve this portion.
+
+[6. STRUCTURAL CONNECTION TO OTHER LINES]
+
+Begins poetic speech concluded in Genesis 4:24 (Line_00104).
+Reflects culmination of Lamech lineage section (Lines_00099–00102).
+Thematic resonance with violence motifs from earlier Cain narrative (Lines_00081–00096).
+Anticipates ethical and narrative contrasts with the Sethite line in Genesis 5.
+
+[7. CAUTIONARY REMINDER]
+The content above does not represent a translation.
+No conclusions, smoothing, or interpretive decisions have been made.
+This file serves only to display the original structure and lexical range as transparently as possible.

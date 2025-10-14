@@ -1,0 +1,47 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00097
+[BOOK]: Genesis
+[CHAPTER]: 4
+[VERSE]: 17
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And Cain knew his wife, and she conceived and gave birth to Enoch. And he was building a city, and he called the name of the city like the name of his son — Enoch.
+
+[RENDERING NOTES]
+
+“Knew his wife” (וַיֵּדַע ... אֶת־אִשְׁתּוֹ) preserves biblical euphemism for sexual relations.
+“She conceived and gave birth” = vav-consecutive pair (וַתַּהַר וַתֵּלֶד), narrative flow from conception to birth.
+“He was building” = participial form (בֹנֶה) signals ongoing or habitual action, rather than a completed event.
+“A city” (עִיר) is indefinite; article appears only later when naming it.
+“Like the name of his son” (כְּשֵׁם בְּנוֹ) is comparative structure — not exact replication but modeled after.
+Proper name “Enoch” occurs twice — both son and city.
+
+[INSERTION / HELPER WORD TRACKING]
+
+“And” used to preserve sequential rhythm of vav-consecutives.
+“Was” added to render participle “building” clearly in English.
+Long dash used to convey appositional clause cleanly in English.
+
+[CONTEXTUAL PLACEMENT]
+
+Begins Cain’s lineage and introduces the first urban structure.
+Marks narrative shift from personal to generational — Cain now father and founder.
+Introduces tension between wandering punishment and settled civilization.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Four-part flow: union → birth → building → naming.
+Balances domestic continuity with urban innovation.
+Use of participle (“building”) contrasts with prior narrative perfects — implies progressive activity.
+Naming functions as legacy — city as extension of son.

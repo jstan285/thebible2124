@@ -1,0 +1,204 @@
+=== LINE SOURCE FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00098
+[BOOK]: Genesis
+[CHAPTER]: 4
+[VERSE]: 18
+[FILE TYPE]: Line Source
+
+[INTRO]
+This file shows what the earliest Hebrew/Greek manuscripts say, word by word, before any interpretation.
+
+[PREFACE]
+This file presents the earliest traceable form of this line, drawn primarily from manuscript sources like the Leningrad Codex.
+Where other manuscript witnesses differ or offer meaningful variation (such as the Dead Sea Scrolls or the Samaritan Pentateuch), we remain watchful and will note those cases transparently when identified.
+Every word is shown with its full lexical range — without smoothing, interpretation, or insertion.
+This is not a translation or conclusion. It is a transparent starting point, open to personal encounter and divine resonance.
+We do not treat any human source as final — only as visible reference points for deeper unfolding.
+While we strive for care and clarity, any oversight or omission is unintentional, and all work remains open to refinement as understanding grows.
+
+[1. ORIGINAL LINE TEXT]
+Language: Hebrew
+Manuscript Source: Leningrad Codex
+Line Reference: Genesis 4:18
+
+וַיִּוָּלֵד לַחֲנוֹךְ אִירָד וְעִירָד יָלַד אֶת־מְחוּיָאֵל וּמְחוּיָאֵל יָלַד אֶת־מְתוּשָׁאֵל וּמְתוּשָׁאֵל יָלַד אֶת־לָמֶךְ
+
+[2. DIRECT TRANSLITERATION]
+
+vayyiwaled lachanokh irad ve’irad yalad et-mechuya’el u-mechuya’el yalad et-metusha’el u-metusha’el yalad et-lamekh
+
+[3. WORD-BY-WORD LEXICAL BREAKDOWN]
+
+[WORD 1]
+Original: וַיִּוָּלֵד
+Transliteration: vayyiwaled
+Lexical Root: ילד (yalad)
+Part of Speech: Verb
+Grammatical Info: Niphal imperfect 3rd person masculine singular with vav-consecutive
+Lexical Range:
+
+was born
+
+came into being
+
+was brought forth
+Notable Observations:
+
+Passive/reflexive form: subject receives action (a child was born)
+
+[WORD 2]
+Original: לַחֲנוֹךְ
+Transliteration: lachanokh
+Lexical Root: ל (le) + חנוך (chanokh)
+Part of Speech: Preposition + proper noun
+Grammatical Info: Masculine singular
+Lexical Range:
+
+to Enoch
+
+for Enoch
+
+[WORD 3]
+Original: אִירָד
+Transliteration: irad
+Lexical Root: אירד (irad)
+Part of Speech: Proper noun
+Grammatical Info: Masculine singular
+Lexical Range:
+
+Irad (personal name)
+
+[WORD 4]
+Original: וְעִירָד
+Transliteration: ve’irad
+Lexical Root: עירד (irad)
+Part of Speech: Conjunction + proper noun
+Grammatical Info: Masculine singular
+Lexical Range:
+
+and Irad
+
+[WORD 5]
+Original: יָלַד
+Transliteration: yalad
+Lexical Root: ילד (yalad)
+Part of Speech: Verb
+Grammatical Info: Qal perfect 3rd person masculine singular
+Lexical Range:
+
+begot
+
+gave birth to
+
+fathered
+
+produced
+
+[WORD 6]
+Original: אֶת־מְחוּיָאֵל
+Transliteration: et-mechuya’el
+Lexical Root: מחויאל (mechuya’el)
+Part of Speech: Direct object marker + proper noun
+Grammatical Info: Masculine singular
+Lexical Range:
+
+Mehujael (personal name)
+
+[WORD 7]
+Original: וּמְחוּיָאֵל
+Transliteration: u-mechuya’el
+Lexical Root: מחויאל (mechuya’el)
+Part of Speech: Conjunction + proper noun
+Grammatical Info: Masculine singular
+Lexical Range:
+
+and Mehujael
+
+[WORD 8]
+Original: יָלַד
+Transliteration: yalad
+Lexical Root: ילד (yalad)
+Part of Speech: Verb
+Grammatical Info: Qal perfect 3rd person masculine singular
+Lexical Range:
+
+begot
+
+gave birth to
+
+fathered
+
+[WORD 9]
+Original: אֶת־מְתוּשָׁאֵל
+Transliteration: et-metusha’el
+Lexical Root: מתושאל (metusha’el)
+Part of Speech: Direct object marker + proper noun
+Grammatical Info: Masculine singular
+Lexical Range:
+
+Methushael (personal name)
+
+[WORD 10]
+Original: וּמְתוּשָׁאֵל
+Transliteration: u-metusha’el
+Lexical Root: מתושאל (metusha’el)
+Part of Speech: Conjunction + proper noun
+Grammatical Info: Masculine singular
+Lexical Range:
+
+and Methushael
+
+[WORD 11]
+Original: יָלַד
+Transliteration: yalad
+Lexical Root: ילד (yalad)
+Part of Speech: Verb
+Grammatical Info: Qal perfect 3rd person masculine singular
+Lexical Range:
+
+begot
+
+gave birth to
+
+fathered
+
+[WORD 12]
+Original: אֶת־לָמֶךְ
+Transliteration: et-lamekh
+Lexical Root: למך (lamekh)
+Part of Speech: Direct object marker + proper noun
+Grammatical Info: Masculine singular
+Lexical Range:
+
+Lamech (personal name)
+
+[4. STRUCTURAL NOTES]
+
+Highly structured genealogy line — consistent use of “yalad” in Qal perfect for male lineage transmission.
+Alternating conjunctions (“ve”, “u”) used to advance lineage chain.
+“Vayyiwaled” in Niphal initiates the passive generation formula.
+All names are proper nouns; no modifiers or descriptions given.
+Typical early Genesis genealogical compression — names only, no contextual elaboration.
+
+[5. VARIANT MANUSCRIPT NOTES]
+
+LXX preserves names but includes some transliteration variations (e.g., Gaidad for Irad).
+No DSS fragments confirmed for this verse.
+Samaritan Pentateuch generally aligns, but orthographic forms may vary slightly.
+
+[6. STRUCTURAL CONNECTION TO OTHER LINES]
+
+Continuation of Cainite lineage following Genesis 4:17 (Line_00097).
+Anticipates culmination in Lamech’s household (Genesis 4:19–24).
+Structurally parallels later genealogical records (e.g., Genesis 5; 10).
+Repetition of “yalad” forms rhythmic pattern of descent.
+
+[7. CAUTIONARY REMINDER]
+The content above does not represent a translation.
+No conclusions, smoothing, or interpretive decisions have been made.
+This file serves only to display the original structure and lexical range as transparently as possible.

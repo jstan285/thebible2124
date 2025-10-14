@@ -1,0 +1,221 @@
+=== LINE SOURCE FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00089
+[BOOK]: Genesis
+[CHAPTER]: 4
+[VERSE]: 9
+[FILE TYPE]: Line Source
+
+[INTRO]
+This file shows what the earliest Hebrew/Greek manuscripts say, word by word, before any interpretation.
+
+[PREFACE]
+This file presents the earliest traceable form of this line, drawn primarily from manuscript sources like the Leningrad Codex.
+Where other manuscript witnesses differ or offer meaningful variation (such as the Dead Sea Scrolls or the Samaritan Pentateuch), we remain watchful and will note those cases transparently when identified.
+Every word is shown with its full lexical range — without smoothing, interpretation, or insertion.
+This is not a translation or conclusion. It is a transparent starting point, open to personal encounter and divine resonance.
+We do not treat any human source as final — only as visible reference points for deeper unfolding.
+While we strive for care and clarity, any oversight or omission is unintentional, and all work remains open to refinement as understanding grows.
+
+[1. ORIGINAL LINE TEXT]
+Language: Hebrew
+Manuscript Source: Leningrad Codex
+Line Reference: Genesis 4:9
+
+וַיֹּאמֶר יְהוָה אֶל־קַיִן אֵי הֶבֶל אָחִיךָ וַיֹּאמֶר לֹא יָדַעְתִּי הֲשֹׁמֵר אָחִי אָנֹכִי
+
+[2. DIRECT TRANSLITERATION]
+
+vayomer YHWH el-qayin ei hevel achikha vayomer lo yadati ha-shomer achi anokhi
+
+[3. WORD-BY-WORD LEXICAL BREAKDOWN]
+
+[WORD 1]
+Original: וַיֹּאמֶר
+Transliteration: vayomer
+Lexical Root: אמר (amar)
+Part of Speech: Verb
+Grammatical Info: Qal imperfect 3rd person masculine singular with vav-consecutive
+Lexical Range:
+
+to say
+
+to speak
+
+to declare
+
+to express
+
+[WORD 2]
+Original: יְהוָה
+Transliteration: YHWH
+Lexical Root: —
+Part of Speech: Proper noun (Tetragrammaton)
+Grammatical Info: Divine name
+Lexical Range:
+
+YHWH
+
+the LORD
+
+self-existent one
+
+[WORD 3]
+Original: אֶל־קַיִן
+Transliteration: el-qayin
+Lexical Root: אל (el) + קין (qayin)
+Part of Speech: Preposition + proper noun
+Grammatical Info: Directional phrase
+Lexical Range:
+
+to Qayin
+
+toward Qayin
+
+[WORD 4]
+Original: אֵי
+Transliteration: ei
+Lexical Root: אֵי (ei)
+Part of Speech: Interrogative particle
+Grammatical Info: —
+Lexical Range:
+
+where
+
+where is...?
+
+interrogative locator
+
+[WORD 5]
+Original: הֶבֶל
+Transliteration: hevel
+Lexical Root: הבל (hevel)
+Part of Speech: Proper noun
+Grammatical Info: Masculine singular
+Lexical Range:
+
+Hevel (Abel)
+
+vapor, breath (in abstract usage)
+
+[WORD 6]
+Original: אָחִיךָ
+Transliteration: achikha
+Lexical Root: אח (ach)
+Part of Speech: Noun + pronominal suffix
+Grammatical Info: Masculine singular with 2nd person masculine singular suffix
+Lexical Range:
+
+your brother
+
+your kin
+
+[WORD 7]
+Original: וַיֹּאמֶר
+Transliteration: vayomer
+Lexical Root: אמר (amar)
+Part of Speech: Verb
+Grammatical Info: Qal imperfect 3rd person masculine singular with vav-consecutive
+Lexical Range:
+
+and he said
+
+and he replied
+
+[WORD 8]
+Original: לֹא
+Transliteration: lo
+Lexical Root: לא (lo)
+Part of Speech: Negative particle
+Grammatical Info: —
+Lexical Range:
+
+not
+
+no
+
+[WORD 9]
+Original: יָדַעְתִּי
+Transliteration: yadati
+Lexical Root: ידע (yada)
+Part of Speech: Verb
+Grammatical Info: Qal perfect 1st person common singular
+Lexical Range:
+
+I knew
+
+I was aware
+
+I experienced
+
+I understood
+
+[WORD 10]
+Original: הֲשֹׁמֵר
+Transliteration: ha-shomer
+Lexical Root: שׁמר (shamar)
+Part of Speech: Noun/participle
+Grammatical Info: Masculine singular with interrogative prefix
+Lexical Range:
+
+the keeper?
+
+the guard?
+
+the watcher?
+
+one who preserves
+
+[WORD 11]
+Original: אָחִי
+Transliteration: achi
+Lexical Root: אח (ach)
+Part of Speech: Noun + pronominal suffix
+Grammatical Info: Masculine singular with 1st person singular suffix
+Lexical Range:
+
+my brother
+
+my kin
+
+[WORD 12]
+Original: אָנֹכִי
+Transliteration: anokhi
+Lexical Root: אנכי (anokhi)
+Part of Speech: Pronoun
+Grammatical Info: 1st person singular (emphatic form)
+Lexical Range:
+
+I
+
+I myself
+
+emphatic first person singular
+
+[4. STRUCTURAL NOTES]
+
+The verse contains a divine inquiry (“ei Hevel achikha”) and human denial/deflection (“lo yadati… ha-shomer achi anokhi”).
+Cain’s reply is composed of two statements: a direct negation of knowledge and a rhetorical question using participial form (“ha-shomer”).
+The pronoun “anokhi” serves as an emphatic conclusion, stressing subjectivity.
+Parallel to earlier divine interrogatives in Genesis 3:9, 3:11, and 4:6.
+
+[5. VARIANT MANUSCRIPT NOTES]
+
+No major textual variants are found in Masoretic tradition for this verse.
+Septuagint and Samaritan Pentateuch agree closely in structure and phrasing.
+Dead Sea Scrolls fragments for this line are not extant or identified to date.
+
+[6. STRUCTURAL CONNECTION TO OTHER LINES]
+
+Continues direct narrative sequence from Genesis 4:8 (Line_00088).
+Lexical echo of “yada” (to know) links back to Genesis 4:1 and anticipates moral accountability themes throughout the Torah.
+“Shomer” as a role appears again in Psalm 121 and other protection-based contexts.
+
+[7. CAUTIONARY REMINDER]
+The content above does not represent a translation.
+No conclusions, smoothing, or interpretive decisions have been made.
+This file serves only to display the original structure and lexical range as transparently as possible.

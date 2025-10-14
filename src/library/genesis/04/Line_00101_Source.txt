@@ -1,0 +1,184 @@
+=== LINE SOURCE FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00101
+[BOOK]: Genesis
+[CHAPTER]: 4
+[VERSE]: 21
+[FILE TYPE]: Line Source
+
+[INTRO]
+This file shows what the earliest Hebrew/Greek manuscripts say, word by word, before any interpretation.
+
+[PREFACE]
+This file presents the earliest traceable form of this line, drawn primarily from manuscript sources like the Leningrad Codex.
+Where other manuscript witnesses differ or offer meaningful variation (such as the Dead Sea Scrolls or the Samaritan Pentateuch), we remain watchful and will note those cases transparently when identified.
+Every word is shown with its full lexical range — without smoothing, interpretation, or insertion.
+This is not a translation or conclusion. It is a transparent starting point, open to personal encounter and divine resonance.
+We do not treat any human source as final — only as visible reference points for deeper unfolding.
+While we strive for care and clarity, any oversight or omission is unintentional, and all work remains open to refinement as understanding grows.
+
+[1. ORIGINAL LINE TEXT]
+Language: Hebrew
+Manuscript Source: Leningrad Codex
+Line Reference: Genesis 4:21
+
+וְשֵׁם אָחִיו יוּבַל הוּא הָיָה אֲבִי כָּל־תֹּפֵשׂ כִּנּוֹר וְעוּגָב
+
+[2. DIRECT TRANSLITERATION]
+
+ve-shem achiv yuval hu hayah avi kol-tofesh kinnor ve-ugav
+
+[3. WORD-BY-WORD LEXICAL BREAKDOWN]
+
+[WORD 1]
+Original: וְשֵׁם
+Transliteration: ve-shem
+Lexical Root: ו (vav) + שם (shem)
+Part of Speech: Conjunction + noun
+Grammatical Info: Masculine singular
+Lexical Range:
+
+and name
+
+and designation
+
+and title
+
+[WORD 2]
+Original: אָחִיו
+Transliteration: achiv
+Lexical Root: אח (ach)
+Part of Speech: Noun with pronominal suffix
+Grammatical Info: Masculine singular with 3rd person masculine singular suffix
+Lexical Range:
+
+his brother
+
+[WORD 3]
+Original: יוּבַל
+Transliteration: yuval
+Lexical Root: יבל (yuval)
+Part of Speech: Proper noun
+Grammatical Info: Masculine singular
+Lexical Range:
+
+Jubal (personal name)
+Notable Observations:
+
+Possibly related to “stream” or “bring forth”
+
+[WORD 4]
+Original: הוּא
+Transliteration: hu
+Lexical Root: הוא (hu)
+Part of Speech: Pronoun
+Grammatical Info: 3rd person masculine singular
+Lexical Range:
+
+he
+
+it (masc.)
+
+[WORD 5]
+Original: הָיָה
+Transliteration: hayah
+Lexical Root: היה (hayah)
+Part of Speech: Verb
+Grammatical Info: Qal perfect 3rd person masculine singular
+Lexical Range:
+
+he was
+
+he became
+
+he existed
+
+[WORD 6]
+Original: אֲבִי
+Transliteration: avi
+Lexical Root: אב (av)
+Part of Speech: Noun with pronominal suffix (construct)
+Grammatical Info: Masculine singular with 3rd person masculine singular suffix
+Lexical Range:
+
+father of
+
+ancestor of
+
+originator of
+
+founder of
+
+[WORD 7]
+Original: כָּל־תֹּפֵשׂ
+Transliteration: kol-tofesh
+Lexical Root: כל (kol) + תפש (tafash)
+Part of Speech: Noun (construct) + participle
+Grammatical Info: Masculine singular construct + masculine singular active participle
+Lexical Range:
+
+all who handle
+
+everyone wielding
+
+each grasping
+
+[WORD 8]
+Original: כִּנּוֹר
+Transliteration: kinnor
+Lexical Root: כנור (kinnor)
+Part of Speech: Noun
+Grammatical Info: Masculine singular
+Lexical Range:
+
+lyre
+
+stringed instrument
+
+harp
+
+[WORD 9]
+Original: וְעוּגָב
+Transliteration: ve-ugav
+Lexical Root: עוגב (ugav)
+Part of Speech: Conjunction + noun
+Grammatical Info: Masculine singular
+Lexical Range:
+
+and pipe
+
+and reed instrument
+
+and wind instrument
+Notable Observations:
+
+Lexically associated with breath-driven music, possibly flute or panpipe
+
+[4. STRUCTURAL NOTES]
+
+The line mirrors Genesis 4:20 in both form and flow: name declaration + occupational identity.
+“Avi kol-tofesh …” construct parallels “avi yoshev …” in previous line, linking genealogical and vocational foundations.
+Double instrument pairing (string + wind) introduces first mention of musical craftsmanship in Hebrew scripture.
+Phrase “kol-tofesh” emphasizes practice or skill through participial form.
+
+[5. VARIANT MANUSCRIPT NOTES]
+
+LXX reflects similar structure, transliterating names and instrument types (e.g., kinnor as kinura).
+No significant deviation in Samaritan Pentateuch.
+DSS fragments do not cover this verse.
+
+[6. STRUCTURAL CONNECTION TO OTHER LINES]
+
+Continuation of Lamech’s lineage (Line_00099, Line_00100).
+Establishes Jubal as cultural archetype — “father of all who play.”
+Joins Cainite pattern of vocational innovation: tent/livestock (Jabal), music (Jubal), metallurgy (Tubal-cain, next line).
+Builds triadic arc in cultural origins narrative.
+
+[7. CAUTIONARY REMINDER]
+The content above does not represent a translation.
+No conclusions, smoothing, or interpretive decisions have been made.
+This file serves only to display the original structure and lexical range as transparently as possible.

@@ -1,0 +1,51 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00083
+[BOOK]: Genesis
+[CHAPTER]: 4
+[VERSE]: 3
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And it happened at the end of days that Cain brought from the fruit of the ground an offering to YHWH.
+
+[RENDERING NOTES]
+
+“And it happened” renders וַיְהִי (vayhi), a narrative transition marker.
+“At the end of days” follows מִקֵּץ יָמִים (miqqets yamim), indicating a passage of time without specifying a fixed interval.
+“Brought” reflects causative וַיָּבֵא (vayave), implying intentional action.
+“From the fruit of the ground” translates מִפְּרִי הָאֲדָמָה (mip’ri ha’adamah), with “from” indicating source.
+“An offering” renders מִנְחָה (minchah), without assuming ritual connotation.
+“To YHWH” reflects לַיהוָה (la-YHWH), indicating the recipient of the offering.
+
+[INSERTION / HELPER WORD TRACKING]
+
+“It happened” inserted for English readability of וַיְהִי.
+“At the end of” rendered to capture construct phrase “miqqets yamim.”
+“That” inserted to connect temporal phrase with narrative event.
+No smoothing or theological interpretation introduced.
+
+[CONTEXTUAL PLACEMENT]
+
+This line marks Cain’s first recorded initiative and begins the narrative of offerings.
+It introduces the motif of bringing gifts to the divine — a pivotal thematic shift post-Eden.
+Serves as the first recorded instance of human-to-divine offering in the text.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+The structure of “time passed → action → offering to deity” parallels sacrificial narratives elsewhere (e.g., Leviticus).
+Opens narrative symmetry with the following verse (Abel’s offering), inviting implicit comparison.
+
+[CAUTIONARY REMINDER]
+This rendering is provided for orientation only.
+It draws from the Line Source File and reflects the structure of the original text as faithfully as possible, while adapting to minimal English phrasing.
+Interpretive meaning is not asserted. For lexical and grammatical details, consult the Line Source File.

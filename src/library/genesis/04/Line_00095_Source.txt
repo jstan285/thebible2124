@@ -1,0 +1,256 @@
+=== LINE SOURCE FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00095
+[BOOK]: Genesis
+[CHAPTER]: 4
+[VERSE]: 15
+[FILE TYPE]: Line Source
+
+[INTRO]
+This file shows what the earliest Hebrew/Greek manuscripts say, word by word, before any interpretation.
+
+[PREFACE]
+This file presents the earliest traceable form of this line, drawn primarily from manuscript sources like the Leningrad Codex.
+Where other manuscript witnesses differ or offer meaningful variation (such as the Dead Sea Scrolls or the Samaritan Pentateuch), we remain watchful and will note those cases transparently when identified.
+Every word is shown with its full lexical range — without smoothing, interpretation, or insertion.
+This is not a translation or conclusion. It is a transparent starting point, open to personal encounter and divine resonance.
+We do not treat any human source as final — only as visible reference points for deeper unfolding.
+While we strive for care and clarity, any oversight or omission is unintentional, and all work remains open to refinement as understanding grows.
+
+[1. ORIGINAL LINE TEXT]
+Language: Hebrew
+Manuscript Source: Leningrad Codex
+Line Reference: Genesis 4:15
+
+וַיֹּאמֶר יְהוָה לֹא־כֵן כָּל־הֹרֵג קַיִן שִׁבְעָתַיִם יֻקָּם וַיָּשֶׂם יְהוָה לְקַיִן אוֹת לְבִלְתִּי הַכּוֹת־אֹתוֹ כָּל־מֹצְאוֹ
+
+[2. DIRECT TRANSLITERATION]
+
+vayomer YHWH lo-khen kol-horeg qayin shiv’atayim yuqqam vayyasem YHWH le-qayin ot le-vilti hakkot-oto kol-motze’o
+
+[3. WORD-BY-WORD LEXICAL BREAKDOWN]
+
+[WORD 1]
+Original: וַיֹּאמֶר
+Transliteration: vayomer
+Lexical Root: אמר (amar)
+Part of Speech: Verb
+Grammatical Info: Qal imperfect 3rd person masculine singular with vav-consecutive
+Lexical Range:
+
+said
+
+declared
+
+uttered
+
+spoke
+
+[WORD 2]
+Original: יְהוָה
+Transliteration: YHWH
+Lexical Root: —
+Part of Speech: Proper noun
+Grammatical Info: Tetragrammaton
+Lexical Range:
+
+the LORD
+
+YHWH (divine name)
+
+[WORD 3]
+Original: לֹא־כֵן
+Transliteration: lo-khen
+Lexical Root: לא (lo) + כן (ken)
+Part of Speech: Negative particle + adverb
+Grammatical Info: —
+Lexical Range:
+
+not so
+
+it shall not be so
+
+no indeed
+
+[WORD 4]
+Original: כָּל־הֹרֵג
+Transliteration: kol-horeg
+Lexical Root: כל (kol) + הרג (harag)
+Part of Speech: Noun + participle
+Grammatical Info: Masculine singular
+Lexical Range:
+
+everyone who kills
+
+all killers
+
+whoever kills
+
+[WORD 5]
+Original: קַיִן
+Transliteration: qayin
+Lexical Root: קין (qayin)
+Part of Speech: Proper noun
+Grammatical Info: Masculine singular
+Lexical Range:
+
+Cain (personal name)
+
+[WORD 6]
+Original: שִׁבְעָתַיִם
+Transliteration: shiv’atayim
+Lexical Root: שבע (sheva)
+Part of Speech: Numeral (dual form)
+Grammatical Info: Dual
+Lexical Range:
+
+sevenfold
+
+seven times
+
+in a sevenfold manner
+
+[WORD 7]
+Original: יֻקָּם
+Transliteration: yuqqam
+Lexical Root: קום (qum)
+Part of Speech: Verb
+Grammatical Info: Hophal imperfect 3rd person masculine singular
+Lexical Range:
+
+shall be avenged
+
+shall be raised up
+
+shall be established
+Notable Observations:
+
+Passive causative (Hophal): the vengeance is enacted upon another
+
+[WORD 8]
+Original: וַיָּשֶׂם
+Transliteration: vayyasem
+Lexical Root: שׂים (sim)
+Part of Speech: Verb
+Grammatical Info: Qal imperfect 3rd person masculine singular with vav-consecutive
+Lexical Range:
+
+and he put
+
+and he placed
+
+and he set
+
+[WORD 9]
+Original: יְהוָה
+Transliteration: YHWH
+Lexical Root: —
+Part of Speech: Proper noun
+Grammatical Info: Tetragrammaton
+Lexical Range:
+
+the LORD
+
+YHWH (divine name)
+
+[WORD 10]
+Original: לְקַיִן
+Transliteration: le-qayin
+Lexical Root: ל (le) + קין (qayin)
+Part of Speech: Preposition + proper noun
+Grammatical Info: —
+Lexical Range:
+
+for Cain
+
+to Cain
+
+upon Cain
+
+[WORD 11]
+Original: אוֹת
+Transliteration: ot
+Lexical Root: אות (ot)
+Part of Speech: Noun
+Grammatical Info: Feminine singular
+Lexical Range:
+
+sign
+
+mark
+
+signal
+
+token
+
+[WORD 12]
+Original: לְבִלְתִּי
+Transliteration: le-vilti
+Lexical Root: ל (le) + בלתי (bilti)
+Part of Speech: Preposition + negation
+Grammatical Info: —
+Lexical Range:
+
+in order not to
+
+so that not
+
+to prevent
+
+[WORD 13]
+Original: הַכּוֹת־אֹתוֹ
+Transliteration: hakkot-oto
+Lexical Root: נכה (nakah)
+Part of Speech: Infinitive construct + pronoun suffix
+Grammatical Info: Masculine singular object suffix
+Lexical Range:
+
+to strike him
+
+to smite him
+
+to hit him
+
+to kill him
+
+[WORD 14]
+Original: כָּל־מֹצְאוֹ
+Transliteration: kol-motze’o
+Lexical Root: כל (kol) + מצא (matza)
+Part of Speech: Noun + participle with suffix
+Grammatical Info: Masculine singular participle with 3rd person masculine singular suffix
+Lexical Range:
+
+everyone who finds him
+
+all who encounter him
+
+[4. STRUCTURAL NOTES]
+
+Divine response structured in three actions: decree, protection, sign.
+“Lo-khen” negates Cain’s fear from Genesis 4:14.
+Passive verb “yuqqam” signals divine enforcement of justice.
+“Ot” (sign) remains undefined, emphasizing mystery and function over form.
+Use of “le-vilti hakkot-oto” clarifies protective intent.
+Final participial phrase “kol-motze’o” generalizes threat.
+
+[5. VARIANT MANUSCRIPT NOTES]
+
+LXX adds interpretive phrases (“the Lord set a sign for Cain, that no one who found him should slay him”), consistent with MT.
+Samaritan Pentateuch agrees closely.
+No major DSS variants noted for this line.
+
+[6. STRUCTURAL CONNECTION TO OTHER LINES]
+
+Resolves Cain’s protest in Genesis 4:14 (Line_00094).
+Introduces motif of divine marking — reappears with Exodus 12, Ezekiel 9.
+“Shiv’atayim” anticipates future vengeance language (e.g., Genesis 4:24).
+
+[7. CAUTIONARY REMINDER]
+The content above does not represent a translation.
+No conclusions, smoothing, or interpretive decisions have been made.
+This file serves only to display the original structure and lexical range as transparently as possible.

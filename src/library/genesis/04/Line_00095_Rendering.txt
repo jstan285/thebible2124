@@ -1,0 +1,47 @@
+=== LINE RENDERING FILE ===
+
+[YOU ARE WELCOME HERE]
+This isn’t a lesson. It’s a space. Come as you are. Let the line speak to you.
+
+[FILE TAGS]
+[LINE ID]: 00095
+[BOOK]: Genesis
+[CHAPTER]: 4
+[VERSE]: 15
+[FILE TYPE]: Line Rendering
+
+[INTRO]
+This file gives a minimal English phrasing of the original line, built directly from the Line Source File.
+It’s readable, but not smoothed. Nothing is added beyond what’s traceable.
+
+[RENDERED LINE]
+
+And YHWH said to him, “Not so—whoever kills Cain will be avenged sevenfold.” And YHWH set a sign for Cain, to prevent anyone who found him from striking him.
+
+[RENDERING NOTES]
+
+“Not so” renders לֹא־כֵן (lo-khen), a firm divine rebuttal to Cain’s fear in v.14.
+“Whoever kills Cain” (כָּל־הֹרֵג קַיִן) = general participial structure; any potential attacker.
+“Will be avenged sevenfold” translates שִׁבְעָתַיִם יֻקָּם — future passive causative.
+“Set a sign” = וַיָּשֶׂם ... אוֹת — active divine intervention, though nature of sign remains ambiguous.
+“To prevent striking him” = לְבִלְתִּי הַכּוֹת־אֹתוֹ — infinitive construct with negative intent; protective clause.
+“Anyone who found him” (כָּל־מֹצְאוֹ) = broad potentiality, matching Cain’s own fear.
+
+[INSERTION / HELPER WORD TRACKING]
+
+“To him” and “will be” added for clarity of direct speech and tense.
+“From” in “from striking him” inserted to preserve English idiomatic protection clause.
+Quotation marks used for clarity in reported speech.
+
+[CONTEXTUAL PLACEMENT]
+
+Immediate response to Cain’s fear (v.14); divine mitigation without reversal of exile.
+Marks first divine declaration of protective justice post-crime.
+Establishes precedent for divine mark as signifier of belonging and restraint.
+
+[STRUCTURAL ALIGNMENT NOTES]
+
+Responds structurally and thematically to vv.13–14 — builds from lament to protection.
+The “sign” motif forms an echo pattern with later sealing/marking narratives (e.g., Passover blood, Ezekiel 9).
+Literary sequence: judgment → protest → reassurance.
+Rhythm of threat followed by mysterious restraint anticipates later covenantal tones.

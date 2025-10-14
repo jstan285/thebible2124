@@ -20,9 +20,27 @@ layout: layout.njk
   {% endfor %}
 </div>
 
+{# Prev / Next across chapters within same book #}
+<div class="prev-next" style="display:flex; gap:.75rem; justify-content:space-between; width:100%; max-width:460px; margin:.25rem auto 0;">
+  <div>
+    {% if group.prevId and group.prevChapter %}
+      <a class="back-button" href="/library/{{ group.book }}/{{ group.prevChapter }}/Line_{{ group.prevId }}/" aria-label="Previous line group">
+        ← Line {{ group.prevId }}
+      </a>
+    {% endif %}
+  </div>
+  <div>
+    {% if group.nextId and group.nextChapter %}
+      <a class="back-button" href="/library/{{ group.book }}/{{ group.nextChapter }}/Line_{{ group.nextId }}/" aria-label="Next line group">
+        Line {{ group.nextId }} →
+      </a>
+    {% endif %}
+  </div>
+</div>
 
 <a href="/library/{{ group.book }}/{{ group.chapter }}/" class="back-button">
   ← Back to Chapter {{ group.chapter }}
 </a>
+
 
 

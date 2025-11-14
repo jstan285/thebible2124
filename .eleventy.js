@@ -8,7 +8,7 @@ const formatLineText = (text) => {
   
   // 🔹 Normalize " — " (space + em dash + space) → "; "
   // \u2014 is the Unicode em dash
-  text = String(text).replace(/ \u2014 /g, '; ');
+  text = String(text).replace(/\s[\u2012\u2013\u2014\u2015-]\s/g, '; ');
   
   const lines = String(text).replace(/\r\n/g, "\n").split("\n");
 
@@ -149,7 +149,7 @@ const formatLineText = (text) => {
 const formatTranslationText = (text) => {
 
   // 🔹 Same normalization for translation files
-  text = String(text).replace(/ \u2014 /g, '; ');
+  text = String(text).replace(/\s[\u2012\u2013\u2014\u2015-]\s/g, '; ');
   
   return text
     .split("\n")

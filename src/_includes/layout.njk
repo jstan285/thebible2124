@@ -15,5 +15,26 @@
     {{ content | safe }}
   </main>
   {% include "footer.njk" %}
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const root = document.querySelector('main') || document.body;
+
+    // space + (any common dash) + space → space + ; + space
+    const dashPattern = /(\s)[\u2012\u2013\u2014\u2015-](\s)/g;
+
+    const walk = (node) => {
+      if (node.nodeType === Node.TEXT_NODE) {
+        node.textContent = node.textContent.replace(dashPattern, '$1;$2');
+      } else {
+        node.childNodes.forEach(walk);
+      }
+    };
+
+    if (root) walk(root);
+  });
+</script>
+
+
 </body>
 </html>

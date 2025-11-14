@@ -5,7 +5,11 @@ const formatLineText = (text) => {
   const esc = s => String(s)
     .replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;")
     .replace(/"/g,"&quot;").replace(/'/g,"&#39;");
-
+  
+  // 🔹 Normalize " — " (space + em dash + space) → "; "
+  // \u2014 is the Unicode em dash
+  text = String(text).replace(/ \u2014 /g, '; ');
+  
   const lines = String(text).replace(/\r\n/g, "\n").split("\n");
 
   let out = [];
@@ -143,6 +147,10 @@ const formatLineText = (text) => {
 };
 
 const formatTranslationText = (text) => {
+
+  // 🔹 Same normalization for translation files
+  text = String(text).replace(/ \u2014 /g, '; ');
+  
   return text
     .split("\n")
     .map(line => `<p>${line.trim()}</p>`)

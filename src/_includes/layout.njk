@@ -20,12 +20,12 @@
   document.addEventListener('DOMContentLoaded', () => {
     const root = document.querySelector('main') || document.body;
 
-    // space + (any common dash) + space → space + ; + space
-    const dashPattern = /(\s)[\u2012\u2013\u2014\u2015-](\s)/g;
+    // Any amount of whitespace + dash + whitespace → "; "
+    const dashPattern = /\s+[\u2012\u2013\u2014\u2015-]\s+/g;
 
     const walk = (node) => {
       if (node.nodeType === Node.TEXT_NODE) {
-        node.textContent = node.textContent.replace(dashPattern, '$1;$2');
+        node.textContent = node.textContent.replace(dashPattern, '; ');
       } else {
         node.childNodes.forEach(walk);
       }
@@ -34,7 +34,6 @@
     if (root) walk(root);
   });
 </script>
-
 
 </body>
 </html>
